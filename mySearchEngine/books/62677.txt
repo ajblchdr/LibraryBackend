@@ -1,0 +1,3068 @@
+﻿The Project Gutenberg EBook of USDA Bulletin No. 816, by F. L. Mulford
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: USDA Bulletin No. 816
+       Street Trees
+
+Author: F. L. Mulford
+
+Release Date: July 16, 2020 [EBook #62677]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK USDA BULLETIN NO. 816 ***
+
+
+
+
+Produced by Tom Cosmas
+
+
+
+
+
+
+
+
+Transcriber Note
+
+  Whole and fractional parts are shown as 2-1/2.
+  Emphasis shown as _Italics_ and =Bold=.
+
+
+
+
+          UNITED STATES DEPARTMENT OF AGRICULTURE
+
+                   =BULLETIN No. 816=
+
+      Contribution from the Bureau of Plant Industry
+
+               Wm. A. Taylor, Chief
+
+
+  -------------------------------------------------------
+  Washington, D. C.    [Illustration]    January 19, 1920
+  -------------------------------------------------------
+
+
+
+                     =STREET TREES=
+
+
+                            By
+
+
+             =F. L. MULFORD, Horticulturist=
+
+
+                Office of Horticultural and
+                Pomological Investigations
+
+  -------------------------------------------------------
+
+
+
+                         CONTENTS
+
+
+                                                    Page
+
+        Importance of Shade Trees                      1
+
+        Public Control of Street Trees                 6
+
+        Planning for Trees on City Streets             8
+
+        Spacing Trees                                  9
+
+        Conditions for Tree Growth                    10
+
+        Kinds of Trees Suitable for City Streets      14
+          Qualities Necessary                         14
+          Trees for Different Regions                 16
+          Trees for Special Purposes                  20
+
+        Descriptions of Street Trees                  20
+
+        Culture of Street Trees                       43
+          Selection of Individual Trees               43
+          Preparation of Holes                        44
+          Planting                                    45
+          Pruning                                     50
+          Stakes and Guards                           51
+          Later Care                                  52
+
+        Care of Mature Trees                          53
+          Pruning                                     53
+          Feeding                                     55
+          Spraying                                    55
+
+
+                      [Illustration]
+
+
+                        WASHINGTON
+                GOVERNMENT PRINTING OFFICE
+
+                           1920
+
+
+=BUREAU OF PLANT INDUSTRY.=
+
+  William A. Taylor, _Chief_.
+  K. F. Kellerman, _Associate Chief_.
+  James E. Jones, _Assistant to Chief_.
+  J. E. Rockwell, _Officer in Charge of Publications_.
+
+
+Office of Horticultural and Pomological Investigations.
+
+SCIENTIFIC STAFF.
+
+  L. C. Corbett, _Horticulturist in Charge_.
+
+
+Truck Crop Production Investigations:
+
+  J. H. Beattie.
+  F. E. Miller.
+  C. J. Hunn.
+  B. J. McGervey.
+
+Irish Potato Production Investigations:
+
+  William Stuart.
+  C. F. Clark.
+  W. C. Edmundson.
+  P. M. Lombard.
+  J. W. Wellington.
+  L. L. Corbett.
+
+Truck Crop Improvement Investigations:
+
+  W. W. Tracy.
+  D. N. Shoemaker.
+
+Landscape Gardening and Floriculture Investigations:
+
+  F. L. Mulford.
+  W. Van Fleet.
+
+Bulb Culture Investigations:
+
+  David Griffiths.
+
+Fruit and Vegetable Utilization Investigations:
+
+  J. S. Caldwell.
+  C. A. Magoon.
+  C. W. Culpepper.
+
+Fruit Production Investigations:
+
+  H. P. Gould.
+  L. B. Scott.
+  C. F. Kinman.
+  George M. Darrow.
+  E. D. Vosbury.
+
+Grape Production Investigations:
+
+  George C. Husmann.
+  Charles Dearing.
+  F. L. Husmann.
+  Elmer Snyder.
+  G. L. Yerkes.
+
+Fruit Breeding and Systematic Investigations in Pomology:
+
+  W. F. Wight.
+  Magdalene R. Newman.
+
+Fruit Improvement through Bud Selection:
+
+  A. D. Shamel.
+
+Nut Investigations:
+
+  C. A. Reed.
+  E. R. Lake.
+
+Fruit and Vegetable Storage Physiology:
+
+  L. A. Hawkins.
+  R. C. Wright.
+  J. R. Magness.
+  J. F. Fernald.
+
+Extension Work (in cooperation with States Relations Service):
+
+  W. R. Beattie.
+  C. P. Close.
+
+
+
+
+                 UNITED STATES DEPARTMENT OF AGRICULTURE
+
+  [Illustration]          BULLETIN No. 816                 [Illustration]
+
+               Contribution from the Bureau of Plant Industry
+
+                          WM. A. TAYLOR, Chief
+
+  Washington, D. C.       [Illustration]                 January 19, 1920
+
+
+
+
+                              =STREET TREES.=
+
+
+        By F. L. Mulford, _Horticulturist, Office of Horticultural
+                     and Pomological Investigations_.
+
+                                  -----
+
+                                 CONTENTS
+
+                                                      Page
+
+          Importance of Shade Trees                      1
+
+          Public Control of Street Trees                 6
+
+          Planning for Trees on City Streets             8
+
+          Spacing Trees                                  9
+
+          Conditions for Tree Growth                    10
+
+          Kinds of Trees Suitable for City Streets      14
+
+            Qualities Necessary                         14
+
+            Trees for Different Regions                 16
+
+            Trees for Special Purposes                  20
+
+          Descriptions of Street Trees                  20
+
+          Culture of Street Trees                       43
+
+            Selection of Individual Trees               43
+
+            Preparation of Holes                        44
+
+            Planting                                    45
+
+            Pruning                                     50
+
+            Stakes and Guards                           51
+
+            Later Care                                  52
+
+          Care of Mature Trees                          53
+
+            Pruning                                     53
+
+            Feeding                                     55
+
+            Spraying                                    55
+
+                                  -----
+
+
+
+
+IMPORTANCE OF SHADE TREES.
+
+
+The comfort to be derived from shade trees has long been recognized. The
+early settlers of this country saved fine trees about their homes, on the
+village greens, along the country roads, and in the fields. Later, as
+villages grew, the householders planted trees adjoining their properties,
+and the result has been the beautiful elm-shaded villages of New England,
+the maple-shaded towns of New York and the Ohio Valley, and the oak-shaded
+streets of the Southeastern States. (Fig. 1.)
+
+With time, the villages and towns became cities, and the woodlands were
+largely destroyed. Conditions for tree growth were less favorable in the
+cities, and nurseries had to be depended upon for planting material. With
+these changed conditions the native trees of a region became less dominant
+in the city planting and were largely replaced by those trees listed in
+nursery catalogues which took the fancy of each property owner along the
+street. (Fig. 2.) The quickest growing trees were considered first, and
+as some of these made a big showing the first few years and were easily
+transplanted, they have become the dominating trees in street planting
+from the Atlantic to the Pacific and from the Great Lakes to the Gulf of
+Mexico. (Figs. 2, 10, and 13.) A few have planted better and more lasting
+trees (figs. 1, 3, and 4); but the tree growth on the streets of the
+average town or city is ragged and unkempt in appearance, while that of
+the suburb or small village is not much better unless the planting has
+been done under municipal control and the plantings on a street have been
+confined to a single kind of tree.
+
+[Illustration: P15311HP
+
+Fig. 1.--An oak-shaded street in the South. Willow oaks in Birmingham,
+Ala., in late summer.]
+
+[Illustration: P18826HP
+
+Fig. 2.--A street with mixed plantings. The trees are of different
+kinds, some unsuited for the purpose, planted at varying distances
+apart, according to the inclination of the property holders. A street in
+Stockton, Calif., photographed in early summer.]
+
+[Illustration: P12515HP
+
+Fig. 3.--American elms on a city street in midsummer. All these trees were
+planted at one time at uniform distances apart by the Commissioners of
+Washington, D. C.]
+
+The advent of such civilizing agencies as the telegraph, the telephone,
+the electric light, and the trolley car have added each its share toward
+the mutilation or destruction of the good trees that were in existence
+at the time of their coming. Faulty methods of pruning also have caused
+much disfigurement and ruin. (Figs. 5 and 21.) To this mutilation has been
+added the unnecessary destruction of many trees in centers of business
+(fig. 6), because they excluded a little daylight, or made a store
+less prominent, or were somewhat in the way of using the sidewalk for
+merchandise.
+
+In spite of all these troubles tree planting has continued because people
+love trees, enjoy well-shaded streets, and are willing to make efforts to
+get them. The trees on well-shaded streets are not only pleasing, but also
+contribute toward the health of the community by transpiring moisture into
+the atmosphere and by producing a restful effect on eyes and nerves. Red,
+especially, is known to have an exciting effect on human beings, and where
+city streets are well-shaded it makes less prominent those colors that
+might otherwise prevail and offend.
+
+[Illustration: Fig. 4.--Trees 18 years old on adjacent streets: _A_, Pin
+oaks; _B_, ginkgos; _C_, Norway maples. Note the differences in size.]
+
+Good shade is so appreciated that its presence adds a value to adjoining
+properties. Real-estate men recognize this factor and plant shade trees
+as early as practicable on land which they develop. That the beauty of a
+city is improved by good street trees is becoming recognized more and more
+and is finding expression in the desire of garden clubs, civic improvement
+associations, and boards of trade for information on this subject.
+
+Success in planting street trees can be attained only by planning and
+controlling the planting as a whole, by selecting the most suitable
+varieties, by securing trees in the best condition and planting them
+properly, and by giving the necessary later care.
+
+While towns were small, conditions for tree growth favorable, and
+woodlands plenty, so that native trees were easily obtained and started,
+the practice of each householder planting his own trees as he saw fit gave
+good results. As towns became larger and impervious pavements took the
+place of earth roads, the conditions for tree growth became more severe
+and the results from the individual planting of trees less uniform. In
+large cities the conditions to be met are so extreme that it has become
+practically impossible for the average householder to grow street trees
+successfully, or to do so only at excessive cost. Then, too, a lineman
+in a few minutes often undoes what the individual has achieved with care
+and years of patient waiting (see fig. 5). The trees and the lines are
+both needed by the public, but when provided by individual initiative
+at private expense, but trimmed for the benefit of electric lines by
+employees of corporations intent on maintaining service at the least cost,
+the trees suffer unduly.
+
+[Illustration: P16692HP
+
+Fig. 5.--A tree mutilated by linemen. An otherwise beautiful red oak in
+Louisville, Ky., as it appeared in midsummer.]
+
+In order to have good shade trees at a reasonable cost which receive
+timely and efficient attention, with the effective control of wire lines,
+the care of the trees needs to be vested in some adequate authority.
+
+
+
+
+PUBLIC CONTROL OF STREET TREES.
+
+
+Providing shade on city streets is as much a municipal function as
+providing lights or sidewalks and should, therefore, be cared for by
+public officials. All street trees should be directly under the care of
+duly appointed officers, who should be responsible for their planting
+and care, as well as for their pruning or removal. Negative control by
+requiring permits for planting, pruning, and removal is little better than
+no control.
+
+[Illustration: P16986HP
+
+Fig. 6.--A desert of asphalt in the business center of a city having less
+than 100,000 population.]
+
+The officials in charge should have the necessary authority and should be
+required to initiate and carry forward planting and all other needed work
+connected with the establishment and maintenance of street trees. Probably
+the most satisfactory way of securing supervision is through an unpaid
+commission of three or five members, which in turn employs an executive
+officer. In a small place a commission of three persons may be best, one
+being appointed every 2 years for a 6-year term. In large places five
+members may be better, and the ideal term would be 10 years. A compromise
+would be a 5-year term, a new member being appointed each year. The great
+need of long-term appointees is that it takes two or three years for a
+member of such a board or commission to see and realize the things needed
+to be done and the policies that should be carried out. Because it takes a
+long time to get results in growing street trees, the policies should be
+as nearly continuous as possible and the terms of the members long enough
+to insure a majority of experienced persons on the board at all times.
+
+The method of appointing the commissioners is not so important as that
+each shall be selected from the territory as a whole rather than from a
+part of it. In some places where the term of service is 10 years, each
+one's successor is appointed by the remaining commissioners, subject to
+confirmation by the court. Where this is done a member is not permitted to
+succeed himself. In other places the commission is appointed by the court;
+in others, it is elected by the city legislative body or is appointed by
+the mayor subject to the approval of the legislative body. The important
+point is to keep the administration as nearly as possible on a purely
+business basis.
+
+A good board can accomplish nothing without liberal funds. There are two
+methods of providing these: (1) By an appropriation from the general tax
+levy and (2) by direct assessment against the properties, collectible
+with the other taxes. If the funds are provided by appropriation, a
+fixed minimum, expressed in millage of the tax rate, should be provided
+in the organization of the commission. This minimum should be such that
+a fair amount of maintenance work can be done when no other funds are
+available. Councils that appropriate money sometimes hamper boards by
+withholding appropriations. Work of the nature of tree planting should
+not be permitted to suffer or be lost by a year's neglect. The fund
+provided by this minimum amount should not be so large that regular
+additional appropriations will not be needed to carry on the work
+properly, as this will give a desirable point of contact of the commission
+or board with the ordinary channels of expressing public sentiment in
+the district interested. The minimum appropriation mandatory should be
+sufficient to prevent injury from lack of care of work already begun.
+A period of minimum care and attention while a board and the people or
+their representatives are coming to a new understanding of one another's
+position is not necessarily a detriment, provided a reasonable maintenance
+has been possible in the interim, but without such care the results are
+ruinous and work would better not be started than be undertaken with the
+possibility of such a period of neglect occurring.
+
+It is probably desirable to assess the cost of tree planting against
+the adjacent property owners at a proportional cost per front foot and
+to provide for maintenance out of a general fund. Boulevards and other
+unusual developments are sometimes maintained with satisfactory results by
+regular assessments against the abutting properties.
+
+After a proper governing board is provided, the securing of a competent
+executive is a matter of ordinary business procedure. It is usually
+desirable that he shall be not only a good executive but also a man with
+a knowledge of trees and trained in their care, so that he may be a
+competent adviser of the board as well as its executive.
+
+[Illustration: P18857HP
+
+Fig. 7.--Increased attractiveness due to trees on a city street, as shown
+by contrasting the two sides of the thoroughfare. If trees like red oaks,
+American elms, or the Eucalyptus in the distance had been used, the effect
+on this wide street would have been comparable to figure 3. The trees in
+the left foreground are umbrella trees. Merced, Calif.; midsummer.]
+
+
+
+
+PLANNING FOR TREES ON CITY STREETS.
+
+
+With the help of one who knows trees and the local conditions to be
+met, the town should be studied and a suitable kind of tree selected
+for each street or for a large portion of a street (figs. 1 and 3),
+and as conditions warrant the plan should be carried out as outlined.
+Mixed plantings of different sorts of trees (figs. 2 and 7) are not as
+pleasing and effective as the use of a single species for considerable
+distances. The use of only one or two kinds for a whole town is likely to
+be monotonous, and it is also undesirable because the variety most used
+may become subject to serious disease or insect attacks. The species and
+varieties of trees suitable for city planting are few enough, if all are
+used, so an endeavor should be made to include as many different kinds as
+practicable, assigning one variety for a long stretch of street unless
+there is a marked change in its character, in which case a change of trees
+would be warranted.
+
+Where trees are already on a street, the problem of planning for the
+future is frequently much complicated, especially if there are several
+kinds in good condition. Where there is but one good kind, gaps can be
+replanted with young trees of that sort. If there are poor trees of a good
+variety or trees of a poor or short-lived variety it would be advisable
+to remove these and do all the replanting at one time, so as to have the
+trees on the street as nearly uniform as possible. Where there are several
+good varieties in good condition the sensible thing is to care for the
+trees that are there and then, after careful study, decide on one variety
+for all future plantings on that street.
+
+[Illustration: P14631HP
+
+Fig. 8.--Trees 20 feet apart that should be at least 60 feet apart.
+Sycamores in Washington, D. C., as they appear in late winter.]
+
+
+
+
+SPACING TREES.
+
+
+A common fault in all street planting is to put the trees too near
+together. (Fig. 8.) This is more evident where the work has been done by
+the abutting property owners than by municipalities.
+
+After trees are started and have attained some size it is extremely
+difficult to get them removed, even where the good of the remaining trees
+demands it. The removal of a fairly good tree merely because it is short
+lived in order to make room for a good one that will be permanent does not
+appeal to the average citizen. Where trees which have been planted by the
+property holder come under city control a strong feeling of proprietorship
+still remains, which is outraged by the suggestion of the removal of even
+poor trees. Where all the work is under city control good work is often
+hampered by a strong public sentiment against the removal of trees, even
+though they are poor or crowding.
+
+Because of this difficulty it is extremely important that young trees be
+planted farther apart than at that time seems reasonable. If they are
+planted as far apart as is proper for mature trees the distance will be
+so great as to make planting seem a joke. If they are planted half the
+distance apart they should be when mature, good results would follow if
+the intermediate trees were removed when they nearly touch those to be
+left. As the intermediate trees would probably not be removed, or not
+until too late for the good of the remaining ones, planting had better
+be sufficiently far apart in the beginning to avoid the necessity of
+later removals. In the beginning the trees will be too far apart and when
+mature too close together, but it seems to be the alternative imposed by a
+misguided public opinion.
+
+There is scarcely a community that would permit the removal of
+interplanted trees from a street of fine elms, oaks, or other worthy
+varieties without a protest that would be the almost sure political
+death of the administrative authorities responsible, no matter how great
+the need or how much expert support they might have. If short-lived
+intermediate trees were used they would not be likely to be taken out
+before they died, and they probably would not die before they had
+irreparably injured the permanent trees. The removal of surplus or
+interplanted trees can be made with least shock to the community by
+gradually narrowing the tree tops by severe pruning from year to year on
+the sides next the permanent trees until finally they are so narrow they
+may be removed and leave only small openings between the permanent trees.
+Even this method will not materially lessen the public protest at the
+final removal.
+
+A common practice is to set street trees 35 feet apart. If it were
+practicable to remove one-half the trees at the proper time this would be
+a good distance, but in the eastern half of the United States and on the
+Pacific slope 50 feet apart is close enough for most varieties, and for
+the larger growing trees 60 to 70 feet would be better.
+
+
+
+
+CONDITIONS FOR TREE GROWTH.
+
+
+In order to grow, trees must have a soil of suitable texture, in proper
+mechanical condition, that contains sufficient available mineral elements
+and plenty of organic matter, and, last but not least, a constant supply
+of moisture and air. In addition to these there must be in active growth
+in the soil many forms of organic life that are in various ways preparing
+the material in the soil for the use of the larger plants. Not only must
+these things be present, but others that are deleterious must be absent,
+whether the substance is hurtful in itself or whether it is an excess of
+one that is otherwise beneficial.
+
+Above the soil three things must be present--air, sunlight, and
+moisture--and, as in the soil, harmful things must be absent in order to
+have success. Among the deleterious substances are sulphur and other fumes
+and soot and other products from incomplete combustion.
+
+[Illustration: P14633HP
+
+Fig. 9.--The irregularity in the size of the trees shown is due to a
+part of the first planting having been killed by illuminating gas from
+defective pipes. Norway maples as seen in Washington, D. C., in late
+winter.]
+
+Some of the more obvious things with which a city tree has to contend are:
+Water-tight pavements, both on the sidewalk and street, that prevent the
+admission of air and water; the removal of the topsoil in street grading,
+thus forcing the tree to exist on the good soil provided in the hole;
+careless digging near the tree for gas, water, and electric service, and
+especially for the placing of curb-stones; the saturation of the soil with
+illuminating or sewer gas from defective pipes (fig. 9); the pouring of
+salt water from ice-cream freezers into gutters, where it may find its way
+into the soil near tree roots; the gnawing of the trunks by horses; and
+the cutting of the tops by linemen and tree trimmers.
+
+Because of the uncongenial conditions for the growth of trees on city
+streets comparatively few kinds are satisfactory for such use. Among
+those available are some that will grow under extremely trying conditions.
+Kinds can be found that will thrive wherever it is suitable for human
+beings to live. If it is impossible to grow trees on a street, as a health
+measure that street should be closed for human use until conditions are so
+improved that it will support trees.
+
+[Illustration: P15298HP
+
+Fig. 10.--A business center relieved by a parking with Carolina poplars.
+Macon, Ga.; late summer.]
+
+More kinds will thrive under suburban conditions where only a small
+portion of the roadway is covered by an impervious coating, where the
+parking spaces are liberal, and where the street is lined with open lawns
+than under the conditions in a city, where the street is covered with a
+water and air proof coating and the sidewalks with an impervious material,
+where parking spaces are limited, and where adjoining lawn areas are small
+or lacking. By a careful selection of kinds, all conditions in a city can
+be met. In some places bad conditions could have been improved greatly by
+a little forethought; in others, such conditions can be bettered. These
+details, like many other matters connected with city planning, have been
+ignored, but should be considered immediately, especially by villages and
+small cities. Figure 6 shows how an opportunity for creating a beauty spot
+has been lost sight of, while figure 10 shows how a city has utilized less
+ground to increase the comfort and attractiveness of its business center.
+
+[Illustration: P15278HP
+
+Fig. 11.--A street well proportioned in width of roadway, sidewalk, and
+parkings, with willow oaks on the left, American elms on the right, and
+young Carolina poplars near the roadway that should be removed. Columbus,
+Ga.; midsummer.]
+
+[Illustration: P14359HP
+
+Fig. 12.--A street with too much pavement and too little parking space.
+Carolina poplars in Baltimore, Md., in midautumn.]
+
+A common mistake in ambitious young cities and many old ones is to pave
+more of the width of the street for traffic purposes than, is likely ever
+to be needed. By reducing the roadway and throwing the remainder into
+liberal parking spaces much is added to the attractiveness and comfort
+of a city. A contrast in the two methods of treatment is illustrated
+in figures 11 and 12. The recommendation that the roadway prepared for
+travel be made narrow is not to be interpreted as a reason for lessening
+the area dedicated to the public use; in fact, in most cities, especially
+in the northeastern quarter of the United States, too little space has
+been reserved from houseline to houseline (fig. 13). By reserving more
+room between the houses and the street for use as lawns and gardens the
+conditions would be made more livable, opportunity would be offered for
+widening the public way without prohibitive expense if traffic or business
+demanded it, and the growing of street trees would cease to be a serious
+problem.
+
+[Illustration: P16842HP
+
+Fig. 13.--A street with too little room from houseline to houseline. Note
+the more attractive appearance of the side with trees. Norway and silver
+maples in Frederick, Md., in midsummer.]
+
+
+
+
+KINDS OF TREES SUITABLE FOR CITY STREETS.
+
+
+QUALITIES NECESSARY.
+
+Compared with the whole number of trees used for ornamental planting, the
+number of kinds suitable for street planting is very small. For use under
+city conditions a tree must be adapted to the climate and to the soil upon
+which it is to be grown. It must have healthy foliage that withstands
+dust and smoke and a root system not easily affected by unusual soil
+conditions, by restricted feeding areas, or by root pruning when street
+improvements are made. The top should be in proportion to the width of
+the street upon which it is used, and it should be rather high headed or
+easily trained to that form and of open growth without being too spreading
+or sprawling.
+
+Of minor consideration is the character of the foliage masses, whether
+dark or light, heavy and somber or open and airy, and also whether they
+have vivid autumn colorings. Only in the most southern parts of the
+country and in western California should evergreen trees be considered
+for street planting, and then only the broad-leaved evergreens, such as
+magnolias and live oaks. In the North the lack of sunshine during the
+short cloudy days of winter makes it desirable to admit all the light
+possible. Even in the South the question of sunshine should be considered
+when selecting varieties.
+
+[Illustration: P12536HP
+
+Fig. 14.--Narrow upright trees (Lombardy poplars) on a Barrow Conditions,
+it is better street. Washington, D. C.; midsummer.]
+
+Narrow streets should be planted with columnar trees (fig. 14) or
+sometimes with small trees. Broad streets may be planted with spreading
+trees (figs. 3 and 16), or, if provided with a central parking space, with
+moderate-sized trees in the center and on the sides, or with trees on the
+sides suited to the space and formal trees in the center. (Fig. 15.)
+
+[Illustration: P18856HP
+
+Fig. 15.--Formal trees in a central parking, but appropriate trees wanting
+on the sides of the street. Canary Island date palms in Merced, Calif.;
+midsummer.]
+
+As a rule, trees native to the locality that have been successfully grown
+in other cities should be given the preference. When a choice must be made
+between untried native trees and those tested in a city or town under
+different soil or climatic to give the native trees the first trial. There
+are many native trees that are promising which have not been planted on a
+sufficient scale or under sufficiently varied conditions to demonstrate
+their real value for street planting over any considerable area. Many of
+the trees mentioned in this bulletin may prove valuable far beyond the
+areas for which they are suggested. The burr oak, the swamp white oak, the
+scarlet oak, the chestnut oak, the white oak, the sour gum, and others may
+be found on further trial to be as valuable as those already demonstrated
+to be valuable over large areas. Those mentioned have all been tested in a
+small way.
+
+Caution should be used in selecting trees with conspicuous flowers and
+those with edible fruits or nuts, as in many parts of the country such
+trees are badly mutilated by the public. Even horse-chestnuts, although
+the nuts are not edible, are often broken by boys clubbing the trees.
+That public opinion can prevent such vandalism is in evidence all along
+the Pacific coast and at a few places in the East. Every effort should be
+made to create a sentiment that will protect these attractive additions to
+street adornment, but where the sentiment does not exist it is better to
+avoid the planting of such trees except in a limited way.
+
+[Illustration: P15394HP
+
+Fig. 16.--Live oaks, the handsomest southern street tree for broad street:
+Biloxi, Miss.; late summer.]
+
+Besides the native trees there are many introduced trees that have proved
+valuable and many more that are worthy of trial.[1] A fair trial of
+promising introduced trees should be made, and the native kinds should be
+thoroughly tested.
+
+[1] As examples of this are a number of new elms such as _Ulmus
+pumila_ and _Ulmus densa_, besides lindens, poplars, and _Koelreuteria
+paniculata_, while _Pistacia chinensis_ is suitable for warm regions.
+The Office of Foreign Seed and Plant Introduction of the United States
+Department of Agriculture will be glad at any time to suggest new trees
+that are promising for any region.
+
+
+TREES FOR DIFFERENT REGIONS.
+
+To simplify the discussion of kinds of street trees likely to prove
+satisfactory, the United States has been arbitrarily divided into the
+regions shown in figure 17. An endeavor has been made to make each
+division cover an area having similar growing conditions, so that the
+trees suggested will be likely to thrive in all its parts. A discussion
+of the strong and weak points of the different kinds will be found with
+the description of the kinds farther on in this bulletin.
+
+  _Region 1._--Region 1 comprises the mild humid portion of the northern
+  Pacific coast east to the Cascade Mountains, including the western
+  third of Washington and Oregon and a portion of northern California.
+  The trees native to western Europe are adapted to this region, as the
+  climatic conditions are quite comparable. Most of our American trees
+  also succeed here.
+
+  Some of the desirable varieties for street planting in region 1 are
+  the Oregon, Norway, sycamore, and sugar maples; California walnut;
+  tulip; European linden; basswood; sycamore; London plane; white and
+  European ashes; English and American elms; English, red, and pin oaks;
+  ginkgo; and the black locust.
+
+[Illustration: Fig. 17.--Outline map of the United States, showing the
+regions within which essentially similar conditions for tree growth exist.]
+
+  _Region 2._--Region 2 is that portion of California lying between
+  the Sacramento and San Joaquin Valleys and the Pacific Ocean. Many
+  varieties of trees will succeed here if given water. Because of the
+  lack of water, unless specially irrigated the more drought-resistant
+  species should be used.
+
+  Among the deciduous trees useful for this region are the London plane;
+  the California and common sycamore; English, Huntingdon, and American
+  elms; Oregon, Norway, sycamore, and English maples; white, green, and
+  European ashes; red, English, and pin oaks; European linden; basswood;
+  California walnut; honey and black locusts; horse-chestnut; Albizzia;
+  and the Japanese varnish tree, or Sterculia.
+
+  Evergreen trees which will probably be successful in region 2 are the
+  Eucalyptus[2] in variety, acacias, rubber, magnolia, California live
+  oak, Victorian and poplar-leaved bottle trees, and in the southern
+  portions the California pepper, silk oak, and jacaranda. Palms are
+  much planted, but they do not make good street trees except where a
+  formal effect instead of shade is desired.
+
+[2] Some cities have ordinances against the planting of certain trees
+because their roots sometimes obstruct sewers. Among these trees are the
+Eucalyptus in California and some of the poplars in several of the States.
+
+
+  _Region 3._--Region 3 comprises the Sacramento and San Joaquin Valleys.
+
+  The deciduous trees for this region are the California walnut; London
+  plane; California and common sycamores; Oregon, Norway, and sycamore
+  maples; white, European, and green ashes; red, English, valley, and
+  pin oaks; European linden; basswood; English and Huntingdon elms;
+  honey locust; and horse-chestnut. Chinaberries and Texas umbrellas are
+  much planted in these valleys, but are not good street trees. Olives
+  and palms are suitable only for formal effects, while eucalypti are
+  satisfactory but are liable to make trouble with defective sewers.
+  Acacias grow especially well in this region except in the extreme
+  north.
+
+  _Region 4._--Region 4 includes the country from the Sacramento and San
+  Joaquin Valleys to the crest of the Sierra Nevada Mountains. It varies
+  in elevation and correspondingly in temperature and the amount of
+  available moisture.
+
+  Where there is sufficient moisture, the deciduous trees recommended
+  for region 3, except the valley oak and possibly the California
+  sycamore, may be used. Where there is less moisture the thornless
+  honey locust, black locust, green ash, hackberry, poplars, ash-leaved
+  maple, and the American elm if it can be watered the first few years
+  may be planted. In the warmer sections the chinaberry and Texas
+  umbrella may be used.
+
+  _Region 5._--Region 5 comprises the hot semiarid country of southern
+  California and southwestern Arizona which is dependent on irrigation.
+
+  The best deciduous trees for this region are those suggested for the
+  drier portions of region 4. With ample irrigation the deciduous trees
+  recommended for region 3 might grow.
+
+  Among the evergreens the Texas palmetto, Parkinsonia, and the
+  Washingtonia and some other palms can be used where other trees do
+  not succeed. The red and desert gums may be used also in the drier
+  regions. With ample irrigation the evergreens suggested for region 2
+  should succeed.
+
+  _Region 6._--Region 6 comprises the intermountain section and extends
+  from the crest of the Cascade and Sierra Nevada Mountains eastward to
+  the eastern base of the Rocky Mountains. The region includes great
+  variations in growing conditions, often in very short distances. As a
+  whole it is semiarid, and in most places trees can hardly be expected
+  to thrive without more or less irrigation, although in some of the
+  mountain valleys and on some of the mountain slopes almost ideal
+  conditions for tree growth exist.
+
+  In the drier parts of the region only those deciduous trees that are
+  weeds under more congenial conditions can be grown. Those that can
+  be planted with the greatest hope of success are the thornless honey
+  locust, black locust, green ash, hackberry, and where the others do
+  not succeed, the poplars and ash-leaved maple. If it can be watered
+  for a few years the American elm usually can be grown, and in the
+  southern half of the region the Mississippi hackberry will probably
+  succeed. Near the southern border, on lower elevations, the chinaberry
+  and Texas umbrella can also be planted. In the locations most favored
+  naturally or where irrigation is possible, the trees suggested for
+  region 9 can be used.
+
+  Evergreens that may be used for the drier portions of the southern
+  part of region 6 are the Parkinsonia and the Texas palmetto.
+
+  Native trees may be found that will prove of greater value for limited
+  areas than any suggested. Cities and towns contemplating street tree
+  planting would do well to consult the nearest State agricultural
+  experiment station or the United States Department of Agriculture if
+  it is thought possible that something better has been found than the
+  trees suggested.
+
+  _Region 7._--Region 7 is the northern part of the Great Plains area
+  from the foot of the Rocky Mountains at about the 5,000-foot contour
+  line east to the ninety-eighth meridian. It is rather uniform in
+  general conditions, the character of soil having no wide divergence
+  and the elevation increasing gradually from south to north and east
+  to west. The rainfall gradually increases from west to east until at
+  about the ninety-eighth meridian the conditions are more favorable for
+  tree growth.
+
+  The trees to be relied on are the thornless honey locust, common
+  hackberry, black locust, green ash, ash-leaved maple, the poplars,
+  the Chinese elm, and the American elm if it can be watered the first
+  few years after transplanting. The mossy-cup oak is another tree
+  worth testing in a small way, as it is native a little east of the
+  ninety-eighth meridian. The basswood and Norway maple would probably
+  succeed if supplied with plenty of water.
+
+  _Region 8._--Region 8 is the southern part of the Great Plains.
+
+  In addition to the deciduous trees recommended for the northern Great
+  Plains (region 7) the Mississippi hackberry, Texas umbrella, and
+  chinaberry may be successfully grown.
+
+  Evergreen trees that may be used in region 8 are the Texas palmetto
+  and Parkinsonia.
+
+  _Region 9._--Region 9 is the upper Mississippi Valley, including
+  the area from that already considered to Lake Michigan and south to
+  southern Kansas. It is more favorable to tree growth than regions 6
+  and 7.
+
+  Trees which will succeed here are the American elm; red, pin,
+  mossy-cup, and other native oaks; white ash; sycamore; basswood; and
+  Norway and sugar maples.
+
+  _Region 10._--Region 10 includes the northeastern part of the country
+  from eastern Illinois to the Atlantic Ocean, and extends southward
+  through the Appalachian Mountains. It is most favorable for tree
+  growth.
+
+  The best trees for street planting in region 10 are the red and pin
+  oaks, London plane, sycamore, the staminate form of the ginkgo,
+  basswood, tulip, Norway maple, white ash, thornless honey locust,
+  American elm, and in the southern portion of the region on light land
+  the sweet gum. The red and sugar maples are among the best trees for
+  suburban conditions. The hackberry will grow, but should be discarded
+  in favor of better varieties. The mossy-cup and chestnut oaks are
+  worthy of trial on gravelly soils in the suburbs.
+
+  _Region 11._--Region 11 includes the lower Mississippi Valley and the
+  country east of the southern Appalachian Mountains, extending from the
+  light lands near the South Atlantic and Gulf coasts to the northern
+  limits of the distinctively southern flora.
+
+  The typical street trees of this region are the willow oaks (fig. 1)
+  and water oaks, the former a valuable street tree, the latter good
+  when young but comparatively short lived, with no advantages over the
+  willow oak. Other good trees are the red, Spanish, laurel, Darlington,
+  and pin oaks, tulip, sweet gum, American elm, red and Norway maples,
+  and the ginkgo.
+
+  _Region 12._--Region 12 is the land near the coast from Wilmington, N.
+  C., to the Mexican border, exclusive of the southern part of Florida.
+
+  Good deciduous trees for this region are the willow, laurel,
+  Darlington, and Spanish oaks, tulip, sweet gum, sycamore, London
+  plane, American elm, and the staminate form of the ginkgo. The honey
+  locust, red or scarlet maple, Norway maple, and the hackberries are
+  not so good.
+
+  The live oak is the characteristic tree of region 12 (fig. 16) and is
+  the pride of the cities that have used it. Even though an evergreen,
+  it is an excellent street tree, as it is large, spreading, and open.
+  The palmetto and palms thrive and may be used for producing formal
+  effects. The evergreen magnolia is a good broad-leaved evergreen.
+
+  _Region 13._--Region 13 consists of the southern part of Florida. The
+  deciduous trees suitable for this section are the willow, Spanish, and
+  southern red oaks; American elm; Mississippi hackberry; and in the
+  southern half of the region the Poinciana.
+
+  Evergreen trees are better suited to region 13 than to, any other
+  portion of the United States except possibly southern California.
+  Among the best are the live and laurel oaks, evergreen magnolia,
+  camphor, rubber, silk oak, or grevillea, and casuarina. Eucalypti are
+  planted to some extent in Florida, but the climate is such that only
+  on the drier grounds of the interior are they likely to succeed, and
+  even there they are not to be compared with other excellent species of
+  trees that may be cultivated successfully.
+
+
+TREES FOR SPECIAL PURPOSES.
+
+In the heart of a city, where the greatest difficulty is experienced in
+getting trees to grow, the ailanthus will probably thrive when nearly all
+other kinds fail. The sycamore and the London plane are also good for such
+places. The Carolina poplar will frequently grow under these conditions,
+and its use may sometimes be warranted.
+
+For very narrow streets the Lombardy poplar is the best tree. (Fig. 14.)
+Trees suitable for use within the reach of ocean spray or on sandy lands
+near the coast are the red oak and the red or scarlet maple south to
+Charleston, S. C., while the sweet gum and the live oak are equally good
+from Norfolk southward and along the Gulf of Mexico. The red oak, sweet
+gum, red maple, and eastern live oak are all grown successfully along
+the Pacific Ocean, while the California live oak can be used from San
+Francisco southward. The trees that endure the most alkali appear to be
+the bladder-nut tree,[3] London plane, peppermint gum,[4] blue gum,[5]
+the Washingtonia and other hardy fan palms, Canary Island date palm, the
+camphor tree, and _Acacia cyclops_ and _Acacia retinodes_. Only the first
+two withstand severe freezing weather. The red oak and the red maple are
+worth testing for these conditions.
+
+[3] _Koelreuteria paniculata_.
+
+[4] _Eucalyptus amygdalina_ Labill.
+
+[5] _Eucalyptus amygdalina angustifolia_.
+
+
+
+
+DESCRIPTIONS OF STREET TREES.
+
+
+ACACIA.
+
+The acacias, or wattles, are a large group mostly of small trees with
+showy yellow flowers. Although much used in California, many of them are
+too small to make satisfactory shade trees, and because of shallow rooting
+they are injurious to sidewalks. They also stump-sprout badly. They thrive
+in regions 2 and 3 and in restricted portions of regions 1 and 5.
+
+The Australian blackwood,[6] blackwood acacia, or wattle, is a strong,
+upright tree, growing to a height of 75 feet and forming a well-shaped
+head. It is badly affected by citrus scale, and on this account its
+planting is sometimes prohibited.
+
+[6] _Acacia melanoxylon_ R. Br.
+
+The black wattle[7] is a strong-growing round-headed tree that reaches a
+height of 40 feet and has dark-green leaves.
+
+[7] _Acacia decurrens mollis_ Lindl.
+
+The green wattle[8] is a rapid-growing tree, reaching a height of 60 feet
+and forming a round head with finely cut leaves.
+
+[8] _Acacia decurrens_ Willd.
+
+The silver wattle[9] is much like the black wattle except that its leaves
+and young branches are covered with a whitish down.
+
+[9] _Acacia decurrens dealbata_ F. Muell.
+
+
+AILANTHUS.
+
+The ailanthus,[10] or tree of heaven, is a tall, broad, handsome tree that
+is especially valuable in the heart of closely built or smoky cities.
+The staminate and pistillate flowers are borne on separate trees. Only
+the pistillate trees should be used, as the odor of the blossoms of the
+staminate ones is very objectionable for about 10 days in late spring.
+These may be produced by grafting from pistillate trees or by propagating
+from suckers or root cuttings from such trees if they have not been
+grafted. The ailanthus may not succeed in regions 5 and 13.
+
+[10] _Ailanthus altissima_ (Mill.) Swingle (_A. glandulosa_ Desf.).
+
+
+ASH.
+
+There are three kinds of ash trees that are useful for street planting.
+
+The white ash[11] is a large oval-headed tree, reasonably satisfactory
+on rich lands in regions 1, 2, 3, 4, 9, 10, 11, and 12, but it is better
+adapted to suburban than urban conditions.
+
+[11] _Fraxinus americana_ L.
+
+The green ash[12] is one of the few successful trees in regions 6, 7, and
+8 and may succeed in region 5. It grows well throughout the remainder of
+the United States, but is of less value than other trees there. It is much
+smaller than the white ash, with a broad round top.
+
+[12] _Fraxinus lanceolata_ Borck.
+
+The European ash[13] is a large, handsome, round-headed tree suited to
+regions 1, 2, 3, and 4.
+
+[13] _Fraxinus excelsior_ L.
+
+
+CAMPHOR.
+
+The camphor tree[14] is a large, handsome, oval-headed evergreen that will
+succeed in the southern half of region 2, in regions 3, 5, and 13, and in
+the warmer parts of region 12. It will endure more frost than the orange,
+and where it is successfully grown it is deservedly popular.
+
+[14] _Cinnamomum camphora_ (L.) Nees and Eberm.
+
+
+CHINABERRY.
+
+The chinaberry,[15] sometimes known as the China tree, is a small,
+round-headed, short-lived tree that will grow in regions 2, 3, 5, 8, 11,
+12, and 13 and near the southern edge of region 6. It is too short lived
+to be considered for planting where other trees will grow.
+
+[15] _Melia azedarach_ L .
+
+The umbrella tree,[16] or Texas umbrella, is a small, compact form of the
+chinaberry with an umbrella-shaped top. It is useful for formal effects,
+as in the parking on a wide street where taller trees are used on the
+side. It will grow in regions 2, 3, 5, 8, 11, 12, and 13 and in the
+southern parts of region 6.
+
+[16] _Melia azedarach umbraculiformis_ Berckmans and Bailey.
+
+
+ELM.
+
+The elms are large, handsome shade trees suitable for use over a wide
+range of territory.
+
+[Illustration: P12460HP
+
+Fig. 18.--An American elm with crotches liable to be split by heavy winds.
+Note the supporting chains.]
+
+The American elm[17] sometimes called the white elm and water elm, is
+one of the handsomest American shade trees. (Fig. 3.) It has been the
+standard street tree of New England, giving to the roadsides and village
+streets the characteristic appearance which is so attractive to summer
+visitors.
+
+[17] _Ulmus americana_
+
+The American elm is tall and spreading, and where planted as near together
+as is customary on streets and country roads the effect of the mature
+trees is that of an arch formed by the growing together of their spreading
+tops. It is of rapid growth and long lived.
+
+This elm drops its leaves very early in the fall, but it comes into leaf
+early in the spring. Because of its manner of branching it is especially
+liable to be split by heavy winds. This trouble may be lessened by
+selecting and planting specimens with a close, compact habit of growth or
+possibly also by great care in training young trees. Two limbs separating
+from one another by a very small angle, that is, when they start to grow
+in nearly the same direction, make a crotch that is liable to split. (Fig.
+18.) Where two limbs separate at nearly a right angle or where three or
+more limbs of about equal size grow from a common point or very nearly so,
+the crotch is likely to be much stronger. Careful pruning and training to
+provide a proper system of branches may be especially helpful with this
+elm.
+
+Because of the attacks of the elm leaf-beetle[18] and the European elm
+bark louse,[19] many handsome trees have been severely damaged or killed
+before communities were properly equipped for fighting them, for with
+careful spraying these insects may be kept in check. However, on account
+of the existence of these pests and because they are gradually spreading
+to new territory, tree planters should consider carefully whether it
+is advisable to plant the elm in their localities. Where there is no
+danger from these insects, this elm is one of the best of street trees.
+Consultation with the nearest State agricultural experiment station or
+with the Entomologist of the United States Department of Agriculture would
+be advisable in order to determine this point.
+
+[18] _Galcrucella luteola_ Mull.
+
+[19] _Gossyparia spuria_ Mod. (Data regarding both insects furnished by
+the Bureau of Entomology.)
+
+The best specimens are to be found in the northern part of region 10,
+although the elm is being grown all over the United States and is proving
+a valuable street tree even in towns and villages of regions where the
+rainfall is as low as 15 inches. It is not recommended for planting in
+regions 3 and 5.
+
+The English elm[20] is a tall, oval-headed, compact, handsome tree with
+leaves smaller than the American elm and which stay on much later in the
+fall. In regions 1 and 2 it is at its best, in the former equaling the
+American elm and in the latter excelling it. It also thrives in regions 3
+and 10 and in the eastern part of region 11.
+
+[20] _Ulmus campestris_ L.
+
+The Huntingdon elm[21] is a comparatively round-headed European variety.
+
+[21] _Ulmus hollandica vegeta_ (Lindl.) Rend.
+
+It is a large, handsome tree with good foliage and is more compact in
+growth than the American elm. It succeeds well in regions 1, 2, 3, and 4.
+
+The wahoo, or winged elm,[22] is native to the South Atlantic and Gulf
+States near the ocean. It has larger leaves than the American elm and is
+not as spreading in its growth, but it succeeds well on city streets in
+regions 11, 12, and 13.
+
+[22] _Ulmus alata_ Michx.
+
+
+EUCALYPTUS.
+
+There are a large number of species of Eucalyptus, many of which can be
+used for street planting in regions 2, 3, and 5. Some cities prohibit
+their planting because their roots are liable to penetrate defective
+sewers, and in other cities they must be kept at least 70 feet from a
+sewer, though even this distance may not prove permanently effective.
+
+The roots of any tree are liable to find their way into a defective
+sewer, but the trees mentioned are especially noticeable because of their
+vigorous root growth. It may be questioned whether a tree should be
+condemned for this growth, as it may be better to have a defective sewer
+thus revealed than to continue a menace to public health.
+
+Eucalypti are also being planted in southern Florida, but on account of
+the moist climate there it is not to be expected that they will succeed
+as well as in the other regions mentioned. They are tall, handsome,
+quick-growing trees, usually bearing two kinds of leaves at some time in
+their development.
+
+The blue gum[23] is one of the best eucalypti and the one most commonly
+used in California. It is tall, globular headed, handsome, and will
+survive several degrees of frost, but it will not withstand the heat of
+the deserts in region 5. Its roots are especially liable to invade sewers.
+
+[23] _Eucalyptus globulus_ Labill.
+
+The desert gum[24] is one of the trees most resistant to heat and cold,
+and it makes a handsome avenue tree. It has pendent branches that have a
+tendency to severe splitting with age, but with early attention this may
+be overcome largely. It may prove especially valuable for region 5.
+
+[24] _Eucalyptus rudis_ Endl.
+
+The manna gum[25] is another Eucalyptus which withstands several degrees
+of frost and makes an excellent roadside tree. Some forms shed their bark
+in long bands that leave the trunks almost white. Many people consider it
+a dirty tree on this account.
+
+[25] _Eucalyptus viminalis_ Labill.
+
+The red gum[26] grows with a broad head, is one of the most resistant of
+the eucalypti to frost, drought, and heat, and succeeds wherever any of
+these trees can be grown in regions 2, 3, or 5, but is most useful in
+region 5.
+
+[26] _Eucalyptus longirostris_ F. Muell.
+
+The sugar gum[27] is a drought-resistant variety, but it does not
+withstand cold. It is a common roadside tree in southern California, but
+becomes straggling with age.
+
+[27] _Eucalyptus corynocalyx_ F. Muell.
+
+
+GINKGO.
+
+The ginkgo,[28] or maidenhair tree (fig. 4, _B_), is a native of Japan
+that thrives in a cool climate or a hot, moist one and succeeds in regions
+1, 9, 10, 11, 12, and 13. It is extremely erratic in its behavior,
+sometimes growing well, sometimes practically not growing at all, but
+where it succeeds it is very disease resistant, and it withstands severe
+windstorms remarkably well. The leaf is peculiar in appearance, resembling
+in outline a much enlarged leaflet of maidenhair fern with a corrugated
+surface. The tree is conical when young, but as it reaches maturity its
+top usually fills out, making a broad, almost flat-topped, handsome tree.
+Only the staminate form should be used, because the pistillate form bears
+fruits the flesh of which is slippery and dangerous when it drops to the
+pavement, and to some people it is somewhat poisonous to the touch. Ginkgo
+trees, therefore, would need to be secured by budding or grafting from the
+mature staminate form.
+
+[28] _Ginkgo biloba_ L.
+
+
+HACKBERRIES.
+
+The hackberry,[29] or sugarberry, is especially valuable in regions 6, 7,
+8, and 9, as it grows satisfactorily where there is comparatively slight
+rainfall. It is also much used in region 11, but should be superseded
+there by other varieties that are better. It is of moderate size with an
+oblong head and of rather open growth. It is comparatively short lived.
+Its leaves are much like those of the elm.
+
+[29] _Celtis occidentalis_ L.
+
+The name sugarberry comes from the sweet black berries that are borne
+in the early fall. The tree is sometimes affected by a fungous trouble
+known as witches'-broom. This trouble causes large numbers of small
+sprouts to start from the affected portion, which gives the infected tree
+an unsightly appearance. The hackberry should not be planted where this
+trouble is prevalent.
+
+The Mississippi hackberry[30] is a large, open, oblong-headed tree with
+smoother leaves than the common hackberry. It is useful in the southern
+part of region 6, in region 8, and to some extent in regions 11 and
+12. It thrives well under the same adverse moisture conditions as the
+common hackberry. The trunk and the large branches have little wartlike
+projections of the bark scattered irregularly over them. The small twigs
+are sometimes more or less spotted or winged in the same way. The tree is
+rather larger than the common hackberry and apparently is less subject to
+witches'-broom.
+
+[30] _Celtis mississippiensis_ Bosc.
+
+
+HONEY LOCUST.
+
+The honey locust[31] is a large, open, round-headed, fine-foliaged tree,
+admitting much light through its top. (Fig. 19.) The common form has stiff
+spines 2 to 6 inches long, or even longer. There is also a form without
+spines, which is the one that should be used for street planting. It is a
+useful tree in regions 1, 2, 3, 9, 10, and 11, but is especially valuable
+for planting in regions 6, 7, and 8, and may prove useful in region 5.
+
+[31] _Gleditsia triacanthos_ L.
+
+[Illustration: Fig. 19.--A street shaded with honey locusts, as seen in
+late summer. Washington, D. C.]
+
+
+HORSE-CHESTNUT.
+
+The horse-chestnut[32] has handsome blossoms that are very showy, and
+when in bloom an avenue of these trees commands attention. It is a close
+relative of the buckeye, or Ohio buckeye, which is also a handsome tree,
+though less desirable. It is objectionable because it is likely to be
+broken by boys clubbing it for its nuts, which are inedible, or where
+its leaves are affected with a midsummer blight which makes it unsightly
+during the remainder of the season. It is a medium-sized round-headed
+tree that does much better under suburban than under city conditions. It
+thrives in regions 1, 2, 3, and 10.
+
+[32] _Aesculus hippocastanum_ L.
+
+
+LINDEN.
+
+The basswood,[33] or linden, is a large round-headed tree that is
+excellent for roadsides in suburban locations and does well on city
+streets if the conditions are not too severe. On account of the dark upper
+surface and the lighter under surface of the leaves and the sweet-scented
+blossoms in early summer it is much admired. It is not as reliable as
+some of the other shade trees, as when young it is sometimes attacked at
+the base of the trunk by a fungous growth that kills the tree. When once
+established it forms handsome avenues. It is suited to regions 1, 2, 3, 4,
+7, 9, 10, and 11.
+
+[33] _Tilia americana_ L.
+
+The linden,[34] or European linden, has much smaller leaves than the
+American linden, or basswood, with more contrast between their upper and
+lower surfaces. It is not much different in size, but is a little more
+compact in growth and holds its leaves longer in the fall. It is a useful
+tree for street planting in regions 1, 2, 3, 4, 9, 10, and 11.
+
+[34] _Tilia platyphyllos_ Scop.
+
+
+LOCUST.
+
+The locust,[35] or black locust, is one of the desirable street trees
+in regions 6, 7, 8, and probably in region 5, as it thrives with
+comparatively little moisture. It makes a moderate-sized oval head that
+bears sweet-scented white flowers in late spring or early summer. Its
+greatest drawback is its liability to serious injury and disfigurement
+by the locust borer,[36] but with proper care this injury can be
+prevented.[37] In some parts of the East it is also subject to a leaf
+miner[38] that gives its foliage a burned appearance. In region 3 it holds
+its seed pods for several years and thus becomes very unsightly.
+
+[35] _Robinia pseudacacia_ L.
+
+[36] _Cylene robiniae_ Forst. (Data furnished by the Bureau of Entomology).
+
+[37] See U. S. Dept. of Agriculture Bulletin 787, entitled "Protection
+from the Locust Borer."
+
+[38] _Chalepis dorsalis_ Thunb.
+
+
+MAGNOLIA.
+
+The evergreen magnolia[39] is one of the few good evergreen trees for
+street planting, but it is adapted only to regions 1, 2, 3, 11, 12, and
+13. There are but few conditions that warrant the planting of a tree
+having foliage as thick as this, because of the dense shade, which is
+especially undesirable in winter. It grows to be a large oval-headed tree
+and bears beautiful large white blossoms in late spring or early summer.
+
+[39] _Magnolia grandifolia_ L.
+
+
+MAPLE.
+
+Among the maples are some undesirable trees much used for street planting
+and some that are valuable only in restricted areas or under special
+conditions. The maples are not as satisfactory for street planting as
+usually has been supposed, few of the species being suitable for this
+purpose and these only in a limited way. The ash-leaved maple, or box
+elder,[40] is native to all of the country east of the Rocky Mountains
+except the regions near the South Atlantic and Gulf coasts. It is a small,
+quick-growing tree that will thrive almost anywhere, but it reaches
+maturity early. Because of its early decay and of its being subject to
+destruction by wind, it should not be used for street planting where other
+trees succeed. It would be a good tree for interplanting were it safe
+to risk taking out some of the trees at the right time. The objection
+to using these trees is that they would be so likely to look larger
+and better than the permanent trees at the time they should be removed
+that public opinion would probably resent their removal. There may be
+conditions requiring the use of this tree in regions 6, 7, and 8, but it
+should be grown only when the other trees suggested for these regions will
+not succeed.
+
+[40] _Acer negundo_ L.
+
+The English maple[41] is small, round-headed, with small dark-green
+leaves, useful in regions 1, 2, 3, and 4.
+
+[41] _Acer campestre_ L.
+
+[Illustration: P20042HP
+
+Fig. 20.--A Norway maple, as seen in late winter, showing its poor shape
+when trimmed to a high head.]
+
+The Norway maple[42] is round-headed and eventually reaches large size,
+but, as compared with most of the other maples, it is slow growing (fig.
+4, _C_). The persistence of its tendency to form a low head makes it
+difficult to give it a high head of desirable shape (fig. 20). It is
+also very thickly branched, and its foliage, being heavy and dark-green,
+permits but little light to pass through. On this account it is rather
+undesirable for street planting. By severe pruning of the interior of
+the head this defect may be somewhat overcome. The tree is practically
+disease and insect free, with the exception of a liability to infestation
+by a leaf aphis[43] which produces yellow spots on the leaves and causes
+them to drop prematurely; also, the honeydew which they produce is so
+abundant at times as to cover the leaves and wet the sidewalk beneath the
+tree, the leaves under certain weather conditions becoming blackened with
+dust accumulating and a fungus growing in the secretion, thereby giving
+the tree an unsightly appearance. This aphis, however, is not always
+present and does not seriously injure the tree. The Norway maple comes
+into leaf later than most of the other maples, but holds its leaves later
+in the fall. They usually assume a bright yellow hue before they drop. The
+leaves are preceded by an abundance of yellow-green blossoms. On account
+of its dense shade and masses of fine fibrous roots it is difficult to
+grow grass under this tree. Its good shape and attractive dark-green
+foliage make it popular for street planting in spite of its dense, low
+head. It will succeed in regions 1, 2, 3, 4, 9, 10, 11, and 12.
+
+[42] _Acer platanoides_ L.
+
+[43] _Periphyllus lyropictus_ Kess. (Data furnished by the Bureau of
+Entomology.)
+
+The Oregon maple[44] is the large-leaved maple of the northern Pacific
+slope. It forms a large round head, and with its unusually large
+dark-green leaves makes a very attractive street tree that succeeds well
+in regions 1, 2, 3, and 4. It is valuable and worthy of more extended
+cultivation on the Pacific coast.
+
+[44] _Acer macrophyllum_ Pursh.
+
+The red maple,[45] scarlet maple, or swamp maple is one of the most widely
+distributed of American trees. It is found from Canada to the Gulf of
+Mexico and west to the Rocky Mountains. Its leaves are the smallest of any
+of the eastern native maples, but it grows large and the trees are usually
+of rather upright outline. It is better adapted to suburban conditions
+than to city streets and is one of the few trees that succeed well near
+the ocean. It has bright-red blossoms before the leaves appear. The young
+leaves and fruits are also red. The mature leaves begin to color early,
+some branches coloring as early as the middle of July, assuming brilliant
+reds and yellows and staying on later than those of the sugar maple. It is
+a handsome tree that is not as much used as it deserves to be in regions
+1, 9, 10, 11, 12, and 13.
+
+[45] _Acer rubrum_ L.
+
+[Illustration: P12542HP
+
+Fig. 21.--Silver maples severely headed back, an improper way to treat
+trees, especially silver maples, except under very unusual conditions.
+Washington, D. C.; midsummer.]
+
+The silver maple,[46] also called the soft maple, white maple, and swamp
+maple, is probably more used for street planting through the whole
+United States than any other tree, and with one exception it is the
+least desirable. It is usually planted because it is a quick-growing
+tree, but it is not more rapid in growth than several other much better
+trees. There are three serious objections to its use as a street tree.
+The first is its brittle wood, which at an early age is easily broken
+by ordinary windstorms and causes it when a comparatively young tree to
+become unsightly. The second is its shallow rooting, which has a tendency
+to destroy pavements and also makes it difficult to grow grass near the
+trees. The roots also will grow into sewers. The third is the tendency to
+decay; the tips of the limbs frequently die, leaving the whole top of the
+tree bare of leaves, and the wood decays quickly, especially if the bark
+is broken. For this reason it does not stand pruning as well as most other
+street trees, and it probably has been pruned more ruthlessly than any
+other tree, unless it is the Carolina poplar. It should never be severely
+deheaded or, as it is popularly called, "dehorned" (fig. 21), as the stubs
+will practically never heal over, and from these cuts decay will start,
+which in a very few years will rot the center of the limbs and trunk and
+thus destroy the tree. Although it forms a large round head with an open
+top and its foliage is pale green above and almost white beneath, making
+a very delightful shade, on account of its weaknesses it should never be
+used for street planting where other trees can be made to grow.
+
+[46] _Acer saccharinum_ L.
+
+The sugar maple,[47] or hard maple, is especially adapted to gravelly
+soils in regions 1, 10, and 11, the northern parts of regions 2 and 3, and
+the eastern and southern parts of region 9. It is oval-headed, large, and
+handsome, having red blossoms which individually are inconspicuous but
+which in mass are showy early in the spring before the leaves appear. The
+leaves come early, but in late summer they begin to turn brilliant yellow
+and red and drop before most other leaves. The sugar maple does not thrive
+under city conditions, but is admirably adapted to suburban conditions.
+
+[47] _Acer saccharum_ Marsh.
+
+Although the sycamore maple[48] is similar in appearance to the Norway
+maple, it is not a satisfactory street tree in the eastern United States.
+It succeeds, however, in regions 1, 2, 3, and 4.
+
+[48] _Acer pseudoplatanus_ L.
+
+[Illustration: P15662HP
+
+Fig. 22.--A sugar maple (on the left) and a white oak (on the right), each
+32 years old and nearly the same size.]
+
+
+OAK.
+
+Of the trees used for street planting the oaks are best. They probably
+have not been more widely planted because of the prevalent belief that
+they are slow growers and because in the North they are rather difficult
+to transplant. Although some of the handsomest species, like the white oak
+and live oak, are slow growers, those suitable for street planting are
+comparatively rapid-growing. The white oak and sugar maple shown in figure
+22 are each 32 years old and although differing in shape are practically
+the same size, yet the sugar maple is considered a sufficiently
+rapid-growing tree to be planted frequently as a street tree, while
+the white oak is seldom so used. The oaks are hardy, most of them are
+long lived, and for the most part they are free from disease and insect
+attacks. Some of the southern species are subject to attacks of mistletoe.
+
+The California live oak[49] is an evergreen suitable for use in region 2
+and succeeds adjacent to the ocean. It is also useful in region 3 and in
+the western part of region 5. It is easily transplanted if handled young,
+and especially so when planted from pots.
+
+[49] _Quercus agrifolia_ Nee.
+
+The chestnut oak[50] is a native of gravelly soils on eastern mountains
+and is suitable for gravelly soils in suburban locations in regions 9, 10,
+and 11. It is a large, handsome tree.
+
+[50] _Quercus montana_ Willd. (formerly _Q. prinus_).
+
+The Darlington oak[51] is a form of laurel oak especially desirable for
+street planting. It is large, round-headed; the leaves are a trifle
+smaller and not quite so nearly evergreen as the laurel oak. It is
+found wild about Darlington, S. C., where a good form of the laurel oak
+appears to have been introduced as a shade tree in the early part of the
+nineteenth century. (Fig. 23.) Its range of usefulness lies in regions 11
+and 12.
+
+[51] _Quercus laurifolia_ Michx.
+
+The laurel oak[52] is a large, oval-headed tree that is not as rugged and
+irregular as the live oak, but is suitable for street planting in regions
+11, 12, and 13. It has large, thick, glossy leaves, and in the warmer
+regions it is almost evergreen. It is readily transplanted, but as it is
+not so common in the woods as the willow oak and the water oak, it has not
+been so much used as a street tree.
+
+[52] _Quercus laurifolia_ Michx.
+
+[Illustration: P15461HP
+
+Fig. 23.--A Darlington oak as seen in late summer, Darlington. S. C.]
+
+The live oak[53] (fig. 16) is probably the noblest and most majestic of
+the oaks of regions 12 and 13. It is evergreen and of slow growth, but
+wherever it is found, whether on streets or in public parks, it is the
+pride of the people. Although an evergreen it is sufficiently open-headed
+to make a good street tree. When it becomes old it is spreading and as
+a rule does not form as high a head as the willow oak and the laurel
+oak. Compared with other southern oaks it is difficult to transplant.
+It is of sufficient merit to be used on broad streets, and especially
+on boulevards, where the good of the future as well as the present is
+considered.
+
+[53] _Quercus virginiana_ Mill.
+
+[Illustration: P14413HP
+
+Fig. 24.--A street shaded with red oaks, Washington, D. C.; midsummer.]
+
+The burr oak,[54] or mossy-cup oak, is native in the northeastern United
+States and west of the Mississippi River on the hills lying between the
+river bottoms and the prairies west to the western parts of the Dakotas
+and Nebraska and central Kansas and Texas. It is a large; handsome tree
+that should prove satisfactory under suburban conditions in regions 7, 8,
+9, 10, and 11 and on fertile well-watered soils.
+
+[54] _Quercus macrocarpa_ Michx.
+
+The pin oak,[55] sometimes called the swamp oak, is a tall tree, conical
+when young, oval at maturity, with a drooping habit of the lower branches.
+The leaves are quite finely divided and are of a bright glossy green.
+The tree comes into leaf late in the spring and holds its foliage late
+in the fall. One objection to the pin oak for street planting is that on
+many specimens the dead leaves hang on through the winter. It is adapted
+to narrower streets than the red oak, as its habit of growth is not so
+spreading. On account of the tendency of the limbs to droop, particularly
+as they get older, it is desirable that a good strong leader should be
+developed, so that the lower limbs may be removed from time to time as
+conditions require. The pin oak thrives on wet and on heavy clay soils, as
+well as on a wide range of other soils. Figure 4 shows pin oaks, Norway
+maples, and ginkgos 18 years old on adjacent streets, and illustrates the
+rapid growth of this oak. At the time of planting these trees the pin oaks
+were thought to have the poorest location. This tree is adapted to regions
+1, 2, 3, 4, 9, 10, and 11.
+
+[55] _Quercus palustris_ L.
+
+The red oak[56] (fig. 24) is probably the best tree for street planting
+in regions 1, 9, 10, and 11 and is satisfactory in regions 6, 7, 8, and
+12. It is a large, oval, open-headed tree of rapid growth. Under good
+conditions a young red oak will grow 4 feet in a single season. Like the
+other oaks it is slow in coming into leaf in the spring, but holds its
+foliage late in the fall. The leaves usually turn a brilliant red before
+they drop. It is comparatively free from insect and fungous attacks, and
+it is one of the few trees really suitable for planting close to the
+ocean, as it thrives on sandy lands only a few feet above high tide or
+within the reach of ocean spray.
+
+[56] _Quercus maxima_ (March.) Ashe (formerly _Q. rubra_).
+
+The scarlet oak[57] is a large, open, round-headed tree. Its leaves are
+more deeply divided than those of the red oak. As its name indicates, the
+leaves turn a brilliant scarlet in autumn, being even more gorgeous than
+the red oak. This tree is adapted for street planting and is especially
+desirable for suburban conditions in regions 1, 9, and 10.
+
+[57] _Quercus coccinea_ Muench.
+
+The swamp Spanish oak[58] is adapted to regions 11, 12, and 13. It belongs
+to the red oak group, but is larger than the other oaks suggested for
+street planting. It is well adapted to suburban locations, but apparently
+it has not been tested under severe city conditions.
+
+[58] _Quercus rubra_ L. (formerly _Q. falcata_, and certain forms
+separated by some botanists as _Q. pagodaefolia_ Ashe).
+
+The valley oak[59] is a beautiful tree for regions 2 and 3 and the more
+favorable parts of region 5. When transplanted young, especially if taken
+from a pot, it is easily established where there is opportunity to water
+it for a few years.
+
+[59] _Quercus lobata_ Nee.
+
+The water oak[60] is frequently confused with the willow oak and the
+laurel oak, as these three oaks are not distinguished from one another
+except by close observers of trees. It is probably more used than any
+other tree in the cities of region 12 and the adjoining portions of region
+11. It is the weed of the southern oaks and one of the weeds of the street
+trees of the Southern States. It is comparatively short lived and seems
+to be more subject to attacks of mistletoe and more easily affected by
+windstorms than the willow oak, the Darlington oak, and the laurel oak.
+The planting of this tree should be avoided, because it is less desirable
+than the other oaks mentioned.
+
+[60] _Quercus nigra_ L.
+
+[Illustration: Fig. 25.--Leaves of some of the southern oaks; _A_, Live
+oak; _B_, willow oak; _C_, laurel oak; and _D_, water oak.]
+
+The willow oak[61] (fig. 1), sometimes erroneously called the water oak,
+is one of the best of the quick-growing oaks for use in regions 11 and
+12. It is frequently used with the water oak for street planting and in
+the mind of the average planter is confused with it. It is, however, a
+distinct tree, which can be distinguished readily from the water oak. It
+is longer lived and is its equal in every other respect. Trees of this
+variety which apparently have been planted about 80 years are found in
+excellent condition, while water oaks planted at the same time have either
+entirely disappeared or are showing marked evidences of decline. Figure
+25 shows the characteristic appearance of the leaves of these nearly
+related species of oaks. That the willow oak is readily transplanted in
+the South when of comparatively large size is proved by the success with
+which trees 12 feet high are dug from the woods and planted on the street
+(fig. 26). In the extreme South this tree is nearly half evergreen. Its
+foliage does not assume the bright colors of the trees of the red oak
+class.
+
+[61] _Quercus phellos_ L.
+
+[Illustration: P15321HP
+
+Fig. 26.--Recently transplanted willow oaks, showing trees taken from the
+woods as they appeared near the end of the second summer. Montgomery, Ala.]
+
+
+PALM.[62]
+
+[62] The palms are treated on the basis of notes furnished by Dr. O. F.
+Cook, of the Bureau of Plant Industry.
+
+Several varieties of palms are used more or less for street planting in
+regions 2, 3, 5, 12, and 13. Though sometimes effective as a formal street
+decoration (fig. 27), they can hardly be considered shade trees.
+
+
+PALMETTO.
+
+Palmettos, or sabals, abound in region 12 near the coast; succeed
+in regions 3, 5, and 13; live in region 2; but are seldom grown
+satisfactorily close to the Pacific coast. They can be used effectively
+for formal plantings along some streets, park drives, or in liberal
+central parking spaces in boulevards, but they are not useful as a
+substitute for shade trees. They should have then leaves and damaged roots
+cut off in transplanting and should be set about 3 feet deep in their new
+location.
+
+The Carolina palmetto[63] is a native of and useful in regions 12 and 13,
+where it sometimes attains a height of 60 or 80 feet. It will thrive in
+regions 3 and 5, but is used less there.
+
+[63] _Inodes palmetto_ (Walt.) Cook.
+
+The Texas palmetto[64] is especially valuable for southern Texas, where it
+is indigenous, and it is likely to succeed generally in regions 3, 5, and
+12. It grows to a height of 40 feet and in appearance is quite distinct
+from the Carolina palmetto, the leaf segments being much broader and less
+drooping.[65]
+
+[64] _Inodes texana_ Cook.
+
+[65] The Texas palmetto. _In_ Jour. Heredity, v. 8, no. 3, p. 123, pl.
+1917.
+
+[Illustration: P18989HP
+
+Fig. 27.--A formal planting on a city street. Palms with interplantings.
+Redlands, Calif., in midsummer.]
+
+The Victoria palmetto[66] is another hardy species, probably a native of
+Mexico, but grown for many years at Victoria, Tex. It is similar to the
+native Texas species and worthy of general planting in the same region.
+A feature of this species is that the persistent leaf bases remain alive
+and green for many years instead of turning yellow or brown, as in the
+Carolina palmetto.
+
+[66] Cook, O. F. A new ornamental palmetto in southern Texas. _In_ U. S.
+Dept. Agr., Bur. Plant Indus. Cir. 113, p. 11-14. 1913.
+
+
+WASHINGTONIA PALM.
+
+Washingtonia palms are a very conspicuous feature of street and
+ornamental planting in southern California. Two species are represented,
+_Washingtonia filifera_ Wendland and _W. robusta_ Wendland. The first is
+a native of the canyons and barren slopes that surround the Coachella
+Valley of southern California, while the other species probably was
+brought by way of the Isthmus of Panama from the region of San Jose del
+Cabo, the extremity of Lower California, in the early days of travel.
+The name _robusta_ alludes to the fact that this species grows much more
+rapidly in height than _W. filifera_, though the trunk is more slender.
+Both species are hardy and thrive well through regions 2, 3, and 5, and
+also in regions 12 and 13. _Washingtonia robusta_ requires less heat than
+_W. filifera_, but both will endure several degrees of frost. Even in
+California _Washingtonia robusta_ is distinctly preferable for localities
+near the coast. In the vicinity of San Diego the leaves of _Washingtonia
+filifera_ become badly infested with a parasitic fungus that does not
+attack _Washingtonia robusta_.
+
+
+OTHER HARDY FAN PALMS.
+
+The species most commonly used for street and ornamental planting in the
+California coast districts is the Chinese or windmill palm.[67] This palm
+has a slender trunk clothed with brown fibers, flat fan-shaped leaves,
+and rather straight radiating segments. The same species is hardy at New
+Orleans and Charleston, and even at Laurens, S. C., at an altitude of 600
+feet, but it does not thrive in the sandy soil of Florida.
+
+[67] _Trachycarpus excelsa_ (Thunb.) Wendl.
+
+The vegetable hair palm,[68] a native of Spain, Sicily, and North Africa,
+is similar to the Chinese palm but smaller and more compact and with
+large, sharp spines on the petioles of the leaves. When young it suckers
+from the base, like the date palm, so that clusters of it may be formed.
+
+[68] _Chamaerops humilis_ L.
+
+The Guadeloupe Island palm[69] is one of the most popular species in
+southern California in the region of Santa Barbara, Los Angeles, and San
+Diego. This palm is a native of Guadeloupe Island, of! the coast of lower
+California, and is not known to occur elsewhere in the wild state. It
+is well adapted to the cool coast climate of California, but not to the
+interior valleys. It is smaller than the Washingtonia palms, with a rather
+short trunk, 15 to 20 feet high, and a dense crown of fresh green leaves.
+
+[69] _Erythea edulis_ (H. Wendl.) S. Wats.
+
+The California blue palm,[70] formerly placed in the same genus with
+the Guadeloupe Island species, is very distinct in habits as well as
+in general appearance, having bluish or grayish green leaves, strongly
+toothed petioles, and long, slender inflorescences. The trunk is very
+robust, often 2 to 3 feet in diameter, and is said to attain a height
+of 30 to 40 feet in Mexico. Several of these features are shared with
+the Washingtonia palms. It also has the ability to grow in the dry, hot
+interior valleys (regions 3 and 5). In Texas the blue palm has proved
+hardy at San Antonio, and even as far north as Austin.
+
+[70] _Glaucothea armata_ (formerly known as _Erythea armata_). See Cook,
+O. F., Glaucothea, a new genus of palms from Lower California. _In_ Jour.
+Washington Acad. Sci., v. 5, p. 236-241. 1915.
+
+
+DATE PALM.
+
+The Canary Island date palm[71] is the most popular palm for park or
+street planting, being more hardy than the true date palm, larger and more
+vigorous in growth, and producing no suckers from the base of the trunk.
+Well-grown specimens in the California coast districts (region 2) with
+trunks from 2 to 3 feet thick and immense crowns of spreading deep-green
+leaves are among the most imposing forms of plant life. Though less robust
+in other regions, the species is very hardy and adapted for planting
+anywhere in the palm belt (regions 3, 5, 12, and 13).
+
+[71] _Phoenix canariensis_ Hort.
+
+The true date palm[72] is adapted to the warmer parts of regions 3 and 5,
+but it is much inferior to the Canary Island species for ornamental use
+because the foliage is less attractive, due to its habit of sending out
+suckers from the base of the trunk.
+
+[72] _Phoenix dactylifera_ L.
+
+
+THE COCONUT AND ITS RELATIVES.
+
+The true coconut palm is confined to a narrow belt along the coast of
+southern Florida, but other species of cocos are planted in the coast
+districts of California. The species that is most prominent in park and
+street plantings around San Diego, Los Angeles, and Santa Barbara is
+usually known as _Cocos plumosa_ or _Cocos romanzoffiana_, and is a rather
+tall, slender palm with a long-jointed trunk about 1 foot in diameter
+and long, spreading, feathery, deep-green leaves. Another series is
+represented by _Cocos yatay_ and several similar species, often called
+_Cocos australis_ in nursery catalogues. They have short, thick trunks,
+very glaucous grayish or bluish foliage, and fleshy edible fruits, highly
+flavored, somewhat like pineapples. These gray-leaved species are very
+hardy. Another coconut relative is the Chilean molasses palm,[73] which
+has a massive trunk 3 or 4 feet in diameter, specimens of which are
+growing at a few places in California.
+
+[73] _Jubaea chilensis_ Baill.
+
+
+OTHER PINNATE PALMS.
+
+The amethyst palm, a native of Australia, is commonly planted in
+California. It usually appears in lists and nursery catalogues as
+_Seaforthia elegans_ or _Archontophoenix alexandrae_, but it is now
+recognized as distinct from both of these species and has received a new
+name, _Loroma amethystina_. It is the only pinnate-leaved palm, except
+certain species of Phoenix and Cocos, that grows freely in the open air
+in the coast districts of California, from Santa Barbara to San Diego.
+In habit and general appearance Loroma is more like the royal palm,
+though with a smaller trunk and fewer leaves. The pinkish purple drooping
+inflorescence is very attractive and develops into a large cluster of
+scarlet berries.
+
+
+The royal palms, species of Roystonea, are perhaps the most striking
+ornamental members of the whole group. They can be grown in southern
+Florida and even exist in the wild state in some of the hammocks below
+Miami.
+
+
+PEPPER TREE.
+
+The California pepper tree[74] is much used in regions 2 and 3 and in the
+western part of region 5. It is a moderate-sized broad-headed tree with
+fine foliage, which gives it a light, airy appearance. During the fall
+and winter it is covered with scarlet berries, which in contrast with the
+persistent foliage produce a pleasing effect.
+
+[74] _Schinus molle_ L.
+
+[Illustration: Fig. 28.--A pavement heaved by the roots of poplar trees.]
+
+
+POPLAR.
+
+Poplars are not desirable for street planting. Their wood is brittle and
+easily broken by ordinary windstorms, and their roots run near the surface
+and are likely to interfere with pavements, as shown in figure 28, while
+those of some varieties are especially liable to make trouble in sewers
+by filling them with a mass of fibrous roots if access is once gained.
+Vigorous root growth is encouraged by the moisture from a leak, and the
+roots ultimately find their way inside.
+
+The southern cottonwood,[75] Carolina poplar, and the northern
+cottonwood[76] are so similar in their adaptability for street planting
+purposes that they will be discussed together. They are easily propagated,
+easily transplanted, are quick-growing, and where they reach maturity
+under normal conditions form very large oval-headed handsome trees, but
+under the artificial conditions existing in cities it is necessary to
+prune them quite severely when young to remove the long vigorous growths
+and make the heads more compact. This pruning stimulates more vigorous
+growth, which must be removed or they will form long branches with heavy
+tops, that are especially liable to be injured by windstorms. The more
+they are pruned the greater the tendency to an undesirable form of growth.
+They begin dropping their leaves early in the summer and lose them very
+early in the autumn. Their root growth is especially vigorous, so that
+they are liable to make trouble in sewers in the manner already mentioned.
+It is largely on this account that many cities prohibit the planting of
+these trees. Except in regions 6, 7, or 8 or in locations where smoke and
+fumes in the air prevent the growing of other trees, they should not be
+planted.
+
+[75] _Populus deltoides_ Marsh.
+
+[76] _Populus virginiana_ Fouger.
+
+The Lombardy poplar[77] is a tall columnar tree adapted for use on very
+narrow streets (fig. 14). It is short lived in many places, due largely to
+the European poplar canker, but otherwise is a satisfactory tree for these
+conditions in all parts of the United States. The trees may be planted as
+close together as 30 feet.
+
+[77] _Populus italica_ (Du Roi) Moench.
+
+None of the other poplars have much to recommend them for street planting.
+
+
+RUBBER TREE.
+
+The rubber tree[78] is a large-headed handsome evergreen, suitable for
+regions 3 and 5 and the southern parts of regions 2 and 13 when the use of
+an evergreen tree is warranted.
+
+[78] _Ficus elastica_ Roxb.
+
+
+SILK OAK.
+
+The silk oak,[79] or Australian fern, is a large, handsome tree that
+succeeds well in regions 2, 3, and 13; also in region 5 if provided with a
+reasonable amount of moisture, as it stands drought remarkably well. It is
+covered in early summer with orange-colored flowers.
+
+[79] _Grevillea robusta_ A. Cunn.
+
+
+SWEET GUM.
+
+The sweet gum[80] is adapted to regions 11, 12, and 13, especially on
+sandy lands. It forms an oval-headed, handsome tree with star-shaped
+leaves that assume a particularly brilliant hue in the autumn. It is
+better adapted to suburban conditions than to the heart of a city. Toward
+the northern limits of its successful cultivation it is difficult to
+transplant, while in the warmer sections of the country it can be moved
+with comparative ease. It should be transplanted only in the spring.
+
+[80] _Liquidambar styraciflua_ L.
+
+
+SYCAMORE.
+
+The sycamore[81] also called the buttonwood and buttonball tree, is a
+large, open, spreading, quick-growing tree native along water-courses.
+It is adapted to regions 1, 2, 3, 4, 9, 10, 11, 12, and 13 and is worth
+testing in regions 5, 6, 7, and 8. Its habit of shedding its outer bark
+in large flakes, leaving the white new bark showing in large patches,
+makes it a conspicuous tree wherever grown. The fruits are balls 1 inch
+or more in diameter and are sometimes objected to because they make dirt
+when falling; also the shed bark is considered objectionable. It is such
+a strong-growing handsome tree and succeeds so well under city conditions
+that it is being planted more and more frequently. It will stand more
+pruning and shaping than any other street tree. Without pruning it is
+too large for ordinary streets unless spaced at almost double the usual
+planting distance, with the trees staggered along the street instead
+of being planted opposite. Its high head and open habit of growth are
+distinct advantages for street planting. Its foliage, too, is a light
+green, which gives an impression of airiness with the shade. It is subject
+to attack by a fungus that kills the leaves while still small or partially
+mutilates them, giving them an unsightly appearance. In some places this
+trouble is quite serious.
+
+[81] _Platanus occidentalis_ L.
+
+The California sycamore[82] is a native of California adapted to regions
+1, 2, 3, and 4 and portions of region 5. It is similar in general
+characteristics to the sycamore.
+
+[82] _Platanus racemosa_ Nutt.
+
+The London plane tree[83] is one of the Old World forms of sycamore.
+According to Alfred Render,[84] "the true oriental plane is rare in
+cultivation, the tree usually planted under this name being _Platanus
+acerifolia_" It it more compact in habit of growth and has the other good
+qualities of the sycamore. It is being more and more used on city streets
+and is proving satisfactory in regions 1, 2, 3, 4, 9, 10, 11, and 12. It
+will probably succeed in the warmer parts of regions 6 and 7 and also in
+regions 5 and 8. It is a more desirable tree for ordinary use than the
+sycamore, on account of its more compact habit and comparative freedom
+from disease, though it is tender in the northernmost sections.
+
+[83] _Platanus acerifolia_ (Ait.) Willd.
+
+[84] Bailey, L. H., ed. New York, 1916. Standard Cyclopedia of
+Horticulture, v. 5, p. 2707.
+
+
+TULIP TREE.
+
+The tulip tree[85] is also sometimes called the tulip poplar or yellow
+poplar, though the latter names are unfortunate, as the tree is not
+a poplar or even closely related to the poplars. It is a large,
+rapid-growing tree suitable for suburban conditions in regions 1, 2, 10,
+11, and 12. The leaves are of unusual form, the upper half appearing to
+have been cut away, leaving a notch about where it would seem the middle
+of the leaf should be. The color is a light green. The roots are unusually
+soft and tender, and therefore the tree needs to be transplanted quickly
+and with great care. Small sizes should be planted, especially near the
+northern limits of growth. It should be transplanted only in the spring.
+If after transplanting it the top should die and a new vigorous shoot
+should put out from the root, it would be desirable to form a new top from
+this shoot rather than to transplant another tree.
+
+[85] _Liriodendron tulipifera_ L.
+
+
+
+
+CULTURE OF STREET TREES.
+
+
+SELECTION OF INDIVIDUAL TREES.
+
+Nursery-grown trees should be used for street planting, and they should
+have been transplanted at least every two years while in the nursery.
+This is to insure a thorough root pruning and the production of numerous
+fibrous roots close to the trunk. Trees not frequently transplanted form
+a few long roots that are largely cut off when the tree is dug. Trees
+growing in the woods form a few very long roots, and when an attempt is
+made to dig them only a little of the root next the trunk is obtained,
+while most of the roots, including the fibrous ones, are left in the
+ground. If woodland trees are wanted for street purposes, most kinds
+should be grown for a few years in a nursery in order to form a good root
+system before being planted on the streets.
+
+In addition to a good root system, the tree should have a straight
+trunk for the variety, with a good set of branches, called the head,
+the bottom branches being from 7 to 9 feet from the ground. Trees which
+naturally head low should be started with a higher head than those
+varieties that have a tendency to an upright growth. A good head for a
+shade tree is a leader or upright branch with three or more side branches
+about equally spaced around the tree. The trees should be healthy, free
+from scars, and also free from evidences of insects or diseases. In the
+presence of insects, trees should be thoroughly fumigated along approved
+methods before leaving nurseries, to insure against the introduction and
+distribution of pests. Weakened vitality resulting from transplanting and
+subsequent neglect will frequently invite attack by bark-boring insects
+which seriously damage or kill the trees. Mulching and watering will often
+prevent this damage.
+
+Opinion as to the size to plant differs somewhat, but for average
+conditions trees from 10 to 12 feet high and with trunks or stems from 2
+to 2-1/2 inches in diameter[86] are very satisfactory in most varieties
+used for street purposes. With such varieties as elms sycamores, and some
+southern oaks, somewhat larger trees can be used equally well, while
+smaller trees would be better in the regions of limited rainfall both
+east and west of the Rocky Mountains and for tulip trees and sweet gums,
+especially in the northern portion of their range of usefulness.
+
+[86] Designated by nurserymen as "caliper."
+
+
+PREPARATION OF HOLES.
+
+Next to the selection of a proper variety, the preparation of the hole
+is the most important detail of street tree planting. Because of the
+restricted area available for the spread of the tree roots, and owing to
+the artificial conditions imposed by the improvement of city streets, the
+soil provided for the feeding ground of the roots of the young tree must
+be liberal in quantity and of the best quality. From 2 to 3 cubic yards of
+soil should be provided for each tree. It is desirable to have at least 18
+square feet of opening in the sidewalk, especially if it is of concrete or
+other impervious material. Trees will grow with smaller sidewalk openings,
+but they are not likely to thrive so well, and it is impossible properly
+to prepare a hole for planting a tree without disturbing at least this
+much surface soil. The proper depth of soil is from 2-1/2 to 3 feet. A
+hole 3 feet deep large enough to hold 2 cubic yards of soil has a surface
+area of 18 square feet. A hole 6 feet long, 3 feet wide, and 3 feet deep
+will hold 2 cubic yards of soil, will have the smallest desirable surface
+area, and will be of such dimensions as will best conform to the usual
+sidewalk and roadway widths and thus not interfere with traffic.
+
+The tree hole must be so drained that water will not stand in it. If the
+soil is so impervious as to hold water some artificial drainage must be
+provided. That portion of the depth of a hole that acts as a cistern for
+holding water is valueless as a feeding ground for roots. For every cubic
+foot of soil in the bottom of a hole that might thus be made valueless by
+standing water, 1-1/2 cubic feet of soil should be added by increasing the
+length or width of it. Under no circumstances, however, should the depth
+of available feeding ground be less than 2 feet. The deeper the roots may
+be encouraged to grow, the less injury is likely to be experienced from
+drought.
+
+The soil used should be topsoil from land that has been producing good
+crops. This should be well enriched with rotted manure, one part of manure
+to four of soil. The addition of such fertilizers as ground bone, tankage,
+fish scrap, or cottonseed meal at the rate of 1 pound to the cubic yard of
+soil is also helpful. Commercial fertilizers containing mostly phosphoric
+acid obtained from other substances than ground bone are not to be
+recommended for use in the soil about the roots at planting time. When
+used they should form a surface application, worked into the soil after
+planting.
+
+
+PLANTING.
+
+If trees are shipped from a distance they should be taken at once on
+arrival to some point where the roots may be carefully covered with soil;
+there they should be unpacked and plenty of loose moist earth worked
+thoroughly around and over the roots as fast as they are taken from
+the box. This temporary covering of the roots is called "heeling in."
+(Fig. 29.) The tops may be either erect or laid almost on the ground in
+successive rows, the tops of one row lying over the roots of the previous
+rows, the object being to cover the roots thoroughly and keep them moist
+until the tree is wanted for permanent setting. Not a moment of exposure
+should be permitted between the box and the soil. If the roots appear dry,
+they may be dipped for a few minutes before "heeling in" in a tub of water
+or in thin mud.
+
+[Illustration: P20370HP
+
+Fig. 29.--Trees properly "heeled in."]
+
+[Illustration: P20000HP
+
+Fig. 30.--Trees handled in a careless manner. The roots should have been
+covered with wet canvas.]
+
+Trees in large quantities are often packed directly in cars with a small
+quantity of straw about the roots. When shipped in this way extra care
+(compare figs. 30 and 31) must be exercised in taking the trees to the
+point where they are to be heeled in. The wagon in which they are to be
+hauled should have a tight box, and wet canvas should be tied tightly over
+the load. The last is important, so that there may be no chance for the
+roots to dry.
+
+When taking trees from the ground where they have been heeled in to the
+place for planting, great care must also be exercised to see that the
+roots are not exposed to sun or wind, but are kept closely covered with
+moss, wet burlap, or canvas until planted. Lack of care in this matter
+is a greater cause of loss in tree planting than carelessness in any
+other particular. One city that has its own nursery and uses largely
+trees that are supposed to be difficult to move, but is careful about not
+exposing the roots for a moment (fig. 31), has a loss of less than 1 per
+cent. If the roots once dry the trees will die, and it takes but a short
+exposure to dry the roots. The holes should be prepared well in advance
+of planting, so that no time will be lost when conditions are right for
+putting the trees in the ground.
+
+[Illustration: P20350HP
+
+Fig. 31.--A load of trees and tree boxes. The roots are packed in wet moss
+and a tree is not taken from the wagon until the planter and two shovelers
+are at the hole where it is to be planted.]
+
+In regions 1, 10, 11, 12, and 13 (fig. 17) the best time for planting
+deciduous street trees is the month or six weeks just preceding freezing
+weather in the fall. The other desirable time for planting is as soon
+after freezing weather is over in the spring as the ground is dry enough
+for the mechanical operations. This should be as early as possible, as the
+more opportunity there is for root growth before warm weather forces the
+top into growth, the better the results are likely to be. In regions 6, 8,
+and 9, where the ground freezes to a considerable depth, spring planting
+is to be preferred to fall planting unless it is possible to drench the
+soil thoroughly for a considerable distance around the trees at planting
+time and after that to mulch the soil thoroughly and also to protect the
+top from the effect of drying winter winds. Where mice abound they may be
+harbored in the mulch and may girdle the tree. This may be prevented by
+a collar of wire netting about the base of the trunk or by banking the
+earth about it. The death of trees at the time of transplanting is due to
+the drying out of either roots or tops before opportunity is given them
+to become reestablished in their new locations. This drying may be due to
+improper exposure at the time of digging or before packing (fig. 30), poor
+packing, prolonged delay in delivery, improper handling between unpacking
+and planting, or the existence of conditions conducive to excessive drying
+out of the plant after setting.
+
+[Illustration: P14340HP
+
+Fig. 32.--A city nursery.]
+
+The atmosphere is continually claiming a tribute of moisture from all
+living plants, whether the plant is in leaf and growing or is dormant.
+Growing plants, and dormant plants under normal conditions, are able to
+replace this moisture by absorption through the roots. In climates where
+newly planted trees may obtain sufficient soil water to replace these
+losses by drying, fall planting is best. Where the plants are unable to
+get sufficient winter moisture, planting would better be done only in the
+spring. Where the soil freezes to a depth greater than that to which the
+plant roots extend, the supply of water is cut off from the roots and the
+tree will be killed by drying out through evaporation from the top. Where
+winter winds are very drying and the soil moisture is limited, evaporation
+from the top is likely to be in excess of that supplied by the roots and
+the tree is killed in the same way.
+
+[Illustration: Fig. 33.--Setting a tree: _A_, Measuring from the curb to
+get the tree in line; _B_, filling the hole: _C_, placing the box; _D_,
+fastening the box.]
+
+In regions normally adapted to fall planting, newly set trees may be
+killed by a dry autumn followed by a dry winter with, high winds or by a
+cold winter with so little snow that the ground freezes below the roots.
+On the other hand, trees may often be successfully planted in the fall
+where such practice is not usually successful by thoroughly mulching the
+soil if freezing is the sole cause of the difficulty, or by drenching the
+soil thoroughly and then mulching well if lack of moisture and high winds
+are the causes of the trouble. Protection from the wind by wrapping the
+trunk and large limbs with burlap or some other protecting material is
+also desirable.
+
+After a liberal opening has been made in the specially prepared soil the
+tree should be brought, preferably from the city's own nursery (fig. 32),
+but if such a nursery has not been provided, then from among the newly
+received trees that have been "heeled in" as already described.
+
+If the tree has been well handled and the roots carefully protected it is
+ready for setting. It is desirable to immerse the roots in a thin mixture
+of clay and water just before putting it in the hole if there is suspicion
+that the roots have been exposed. This can be done before leaving the
+nursery or "heeling in" ground, but the roots must be properly protected.
+Any mutilated ends of roots should be removed, the top should be severely
+pruned, as described later, and the tree should be placed in the hole in
+line with the other trees (fig. 33, _A_) and at such a height that after
+the filling is completed it will be about an inch deeper in the ground
+than it was before transplanting. The roots should be spread out in as
+near their original position as practicable, and soil should be carefully
+worked in about them with the fingers, so that each rootlet may come in
+contact with soil and not be crowded against other rootlets. When all the
+roots have been placed and covered the soil should be thoroughly trampled
+or tamped to bring the roots into as close contact as possible with it.
+Then more soil should be put in and the ground again tamped. Of course, in
+order to get satisfactory results the soil used for planting must not be
+too wet or too dry. If the soil is in such a state as to hold together in
+soggy masses and not spring apart again when squeezed in the hand, it is
+too wet for planting. If the soil is too dry, it will not stay in contact
+with the roots during the planting operations. A soil that is too dry may
+be well-watered a day or two in advance of the planting, or if excessive
+dryness does not make it difficult to handle, the tree may be planted and
+then be thoroughly watered. After the watering 3 or 4 inches of loose
+soil should be spread over the wet ground in order to prevent undue
+evaporation. It should not be trampled or pounded in any way after the
+water is applied. If trees planted in moist retentive soils are watered
+after planting they should be provided with a mulch of similar earth. East
+of the Missouri River trees planted in soil that is in good condition
+usually do not need watering at the time of planting.
+
+Trees planted from pots, cans, or boxes should have the ball of earth
+taken from the receptacle handled with care, so as not to break it further
+than to loosen some of the roots on the outside of the ball; then the soil
+should be as carefully placed about this ball and the loosened roots as
+about the roots of trees without balls. Trees planted with balls need no
+root pruning and little top pruning.
+
+[Illustration: P20367HP
+
+Fig. 34.--A pin oak trimmed for planting. Note the bad stubs (_A, A_) on
+the left-hand side of the tree.]
+
+[Illustration: P20368HP
+
+Fig. 35.--A sycamore trimmed for planting. Well primed, without bad stubs.]
+
+
+PRUNING.
+
+At planting time the trees should be so pruned as to remove from one-half
+to three-fourths of the leaf buds. The head should be formed in the
+nursery, so that at planting time the only problem is how to reduce the
+amount of prospective growth the first season without destroying the form
+of the head. Specific directions are difficult, because different species
+of trees are so different in their character of growth. A species that
+is naturally compact in growth (fig. 34) should be pruned by removing
+whole branches rather than by having the ends of branches removed. One
+that is open and spreading (fig. 35) will probably need the shortening
+of the longer limbs as well as the removal of interior branches. The
+first pruning should be the removal of such branches as can be spared.
+If enough buds can not be removed in this way without leaving the head
+too open, then the shortening of the branches must follow. It is usually
+necessary to remove three-fourths of the limbs to accomplish this. An
+expert can do this pruning or most of it more easily before the tree is
+planted than afterwards. Some additional pruning may be necessary after
+the tree is set.
+
+In addition to the pruning of the top the roots may need some cutting.
+Any broken pieces or ends should be removed, making a clean cut with a
+sharp knife, as new rootlets put out more readily from a cleanly cut fresh
+surface than from ragged breaks. If the roots are very long, without
+branches or rootlets, it sometimes makes planting easier to cut off some
+of the ends. As roots are the braces by which a tree is supported in the
+ground, it is undesirable to reduce their length unless some positive good
+is to be gained by it.
+
+[Illustration: P20372HP
+
+Fig. 36.--Types of tree guards.]
+
+The best implement for cutting small limbs is a sharp knife, and for
+larger limbs a fine-toothed saw. Pruning shears are sometimes used, but
+they are likely to bruise the wood. If used at all, the blade should
+always be turned toward the tree so that the bruise made by the supporting
+bar will be on the portion cut off. Where branches are taken off, the cut
+should be close to the remaining limb, so that no suggestion of a stub
+will remain. (Figs. 34 and 35.) Where ends are cut from branches the cut
+should be just above a bud, and the remaining bud should point in the
+direction that it is desired the limb should grow.
+
+
+STAKES AND GUARDS.
+
+Under city conditions young trees need the support of a strong stake as
+well as protection for the trunk. Boys like to swing around small trees
+or see the tops fly up if bent to the ground. Men find them convenient
+hitching posts for their horses, and horses frequently like the taste of
+the bark or tear it off for the sake of having something to do.
+
+Guards are of many forms (fig. 36), from stakes 2-1/2 inches square set 3
+feet in the ground and extending 6 feet above, with heavy-netting placed
+about the tree and stapled to the stake, to heavy wooden cribs of four
+stakes and intermediate slats and wrought-iron patterns of many forms.
+
+The trees should be firmly secured to the tops of the guards so that they
+will not swing against them in the wind and be rubbed. This is best done
+by securing the tree in place in the guard by two loops of pieces of old
+garden hose, soft leather, or rope, in such a way as not to bind the tree
+too tightly while keeping it from swinging much or rubbing. The essentials
+are a firm support for the tree while young with reasonable protection of
+the trunk from careless depredations until the tree has reached a diameter
+of 6 inches or more.
+
+
+LATER CARE.
+
+If after planting, the season is dry and it becomes necessary to apply
+water, the ground should be soaked thoroughly, and as soon as it has dried
+sufficiently to work up loosely it should be hoed or raked to make a good
+earth mulch. A mulch of strawy manure or litter may be used in place of
+the earth mulch if desired. The watering should not require repeating for
+a week or more.
+
+If the weather becomes warm soon after planting and the trees come into
+leaf, wither, and droop, further pruning may save them. The reason for the
+difficulty is probably that the growth of the top has been greater than
+the newly formed roots can support; therefore the additional pruning is
+likely to restore the balance between the top growth and root growth. At
+least three-fourths of the remaining young wood should be removed. This
+may leave the tree looking almost like a bean pole, but if it induces a
+vigorous root growth the top can easily be re-formed.
+
+Young trees should have an annual inspection, and all crossing branches
+and any that are not well placed to form a good head should be removed.
+Attention should be given also to all forks, and where two branches start
+almost parallel to one another or at a small angle, making a fork liable
+to split apart as the tree grows, one branch should be removed. Where
+three branches start from almost the same point there is little likelihood
+of their splitting apart, but with only two growing at a less angle than
+30° there is liable to be trouble in the case of most kinds of trees. On
+trees on which few but long shoots form, it may be well to remove the ends
+of such shoots. As a rule, it is undesirable to use for street planting
+trees with this kind of growth. Young trees should be trained into a
+desirable shape by the use of a pruning knife each year, so that a saw
+will not be necessary later. Some trees have a tendency to form too dense
+a head. The interior branches of these should be removed and the head made
+as open as possible while the work can be done with a knife. No attempt
+should be made to alter the natural form of a tree but only to insure its
+best development. A skillfully pruned young tree will show no evidences of
+the pruning after three or four years.
+
+
+
+
+CARE OF MATURE TREES.
+
+
+PRUNING.
+
+It is very little trouble to train a tree into a good shape by using the
+pruning knife while the limbs are small, but it is usually difficult
+to re-form a tree after it has grown to maturity. One who understands
+tree growth, however, can often reshape the top of a neglected tree to
+advantage, though many who make a business of tree trimming know so little
+about it that they do more harm than good. More mature trees have been
+hurt by severe pruning than have been helped. Of course, dead or dying
+wood should be removed whenever it is found, no matter what the age of
+the tree. This should be done by cutting off the limb back to the nearest
+healthy crotch. A limb should not be cut off square across (fig. 21)
+unless the tree is apparently in a dying condition and the whole top is
+treated thus in an attempt to save its life. In such a case, a second
+pruning should follow within two years, at which time the stubs left at
+the first trimming should be cut off in a proper manner near the newly
+started limbs. Healthy silver maples and willows are frequently cut in
+this way, but the maples in particular would better be cut down at once
+than to subject the public to the dangers of the insidious decay that
+almost always follows such an operation on these trees and completes their
+destruction promptly.
+
+Trees that have been neglected a long time frequently have interfering
+or crossing branches, or are too low headed or too densely headed for
+the place where they are growing. Defects of this kind may be at least
+partially remedied. The removal of limbs by cutting them off at a crotch
+in such a manner that the wound is parallel with the remaining branch
+(fig. 37) inflicts the least possible damage. Such a wound in a healthy
+tree will soon heal over if the cut is made through the slight collar or
+ring that is nearly always present at the base of a branch. The closer
+this cut can be made to the trunk the better the appearance when the cut
+is healed. The closer the cut the larger the wound, but the difference
+is unimportant if the wood is well protected until it is healed. These
+operations are entirely different in purpose and result from the "heading
+in" or "heading back" so often practiced under the guise of tree pruning,
+either from a false notion of forming a top or for the passage of wires.
+
+Changing the form of a tree by pruning should not be attempted. Each
+species has its own form or forms, and no attempt should be made to
+change or distort a tree from its normal habit of growth. Successful
+pruning will accentuate rather than disguise a tree's characteristics.
+
+[Illustration: P20371HP
+
+Fig. 37.--Part of a tree trunk showing proper and improper methods of
+removing old limbs. Although healing has started on the stub (at the
+right) it is likely to proceed very slowly. The nearer the cut is to the
+tree the larger the wound but the less conspicuous the stub will be when
+healed.]
+
+All cuts should be made so that no stubs or protuberances are left to
+prevent quick healing. Small wounds need no after treatment if the cut
+is well made. Large wounds should have the wood of the center of the
+cut well protected to prevent decay until the new growth has had an
+opportunity to heal over the cut. An application made to the center of the
+cut to preserve the wood should not be permitted to come near the cambium
+layer or inner bark, especially of soft-wooded trees like the tulip and
+magnolia, as the oil or other substances contained in the paint, tar, or
+other covering may spread to the cambium layer and kill it. It is well not
+to make any application within half an inch of the outside of the wound
+unless the coating has been thoroughly tested.
+
+Dead wood should be entirely removed, the cut being made through good live
+tissue. Removing such wood frequently exposes decayed cavities, usually
+from bad stubs or injuries which have started decay that has followed back
+to the main limbs or the trunk. The treatment of such cavities is the
+province of tree surgery and is discussed in another publication.[87]
+
+[87] Collins, J. F. Practical tree surgery. _In_ U. S. Dept. Agr.
+Yearbook, 1913, pp. 163-190, pl. 16-22. Published as Yearbook Separate
+622, obtainable from the Superintendent of Documents for 10 cents in coin.
+
+One source of trouble with a large tree that has developed with two trunks
+or branches instead of three or more is the liability of their splitting
+apart in the crotch. This is especially characteristic of the elm. Careful
+attention to the early pruning of trees may eliminate this defect, but
+when it exists in mature trees it is frequently advisable to connect the
+branches by a strong chain (fig. 18) in order to prevent the limbs from
+being torn apart.
+
+
+FEEDING.
+
+It is difficult to do anything to stimulate the growth of street trees
+after they are once started, because usually the only uncovered area over
+the roots is the small opening immediately about the tree; hence, the
+importance of supplying the best of soil well enriched at the time of
+planting. Sometimes a stimulation is desirable, which can be accomplished
+by dissolving one-half to 1 pound of nitrate of soda in 50 gallons of
+water and applying from 1 to 25 gallons of the liquid, depending on the
+size of the tree. Unless the soil is damp at the time of application water
+will be needed immediately afterward. This material should be applied only
+when the tree is in full leaf and growing. If applied when the tree is
+dormant it is likely to be leached from the soil before it is absorbed.
+If applied late in the season, that is, within three months of freezing
+weather, it would likely stimulate a late growth that would be liable
+to be killed the following winter and might make the whole tree more
+susceptible to injury from cold.
+
+Water is one of the great needs of city trees, as the ground surface is
+often almost completely roofed over with water-tight coverings. It is
+usually a help for the pavement washings to drain into the parking space
+where the tree is planted. If a curb is placed about the parking space,
+frequent, regular watering is necessary where the ground is thoroughly
+covered with water-tight pavements.
+
+Where growing under suburban conditions, that is, with streets partially
+pervious to water, liberal parking spaces, and adjoining lawns, street
+trees will respond to all extra care given the near-by open spaces,
+whether parkings, lawns, or gardens. If these are well cared for the trees
+should have ample sustenance from them without any direct applications.
+
+In order to prevent the soil about a tree from being packed too hard by
+trampling it is frequently desirable on business streets to cover the soil
+about it with an iron grating.
+
+
+SPRAYING.
+
+Street trees, like all other forms of vegetation, are subject to attacks
+of insects and diseases. Because of the unfavorable conditions under which
+they grow, spraying for biting and sucking insects and suitable treatment
+for borers or other burrowing insects require especially careful attention.
+
+In addition to a number of troubles common to street trees in general,
+each species is liable to troubles of its own; hence, the need of
+competent supervision by a trained man with an efficient outfit rather
+than leaving; the work to individual initiative.
+
+Because of the height which many street trees attain a powerful outfit is
+required to spray them properly. One capable of maintaining a pressure
+of 200 pounds per square inch is desirable. The type of spray required
+for tall trees is different from that used on fruit trees and other
+low plants. For low trees the ideal spray is a mist within a few feet
+of the nozzle, application being accomplished by having the nozzles
+near the foliage to be treated. For tall trees it is desirable that the
+liquid should leave the nozzle in a solid stream, which is broken into
+spray as it passes through the air. The material has to be projected
+with sufficient force to reach the highest trees before being entirely
+converted into mist, as it is impracticable to extend the nozzles into
+the trees to reach the farthest portions, as is done with fruit and other
+low trees. The spray can not be applied as uniformly as a mist, but it
+is impracticable to climb into the tops of shade trees to cover every
+part with a cloudlike spray. On the other hand, the mist spray is better
+for small trees, as much injury may be done to low trees or to the lower
+branches of high trees by the force of the stream from high-pressure
+outfits.
+
+It is estimated that in practice up to 95 per cent of the attacking
+insects can be killed with insecticides carefully applied by the stream
+method under high pressure.
+
+In addition to the mechanical problem of satisfactorily covering high
+trees with insecticides or fungicides there is the problem of selecting
+materials that will be effective against the insects and diseases and
+at the same time will not disfigure the paint or stone work of adjacent
+buildings with which the materials must inevitably come in contact in
+street tree spraying. It frequently happens that the most effective
+remedies must be rejected because of the damage they would do to buildings
+and that less efficient materials must be used.
+
+Whitewashing the trunks of trees is a useless and unsightly
+practice--useless, as it does not prevent the attacks of insects, and
+unsightly, because it makes the trunks of the trees obtrusive when they
+should be inconspicuous.
+
+Banding with cotton or proprietary preparations may occasionally be
+useful, but because such applications are so seldom helpful and because
+some of the preparations result in injury due to constriction of the
+trunks, it should not be resorted to except upon special recommendation of
+an entomologist familiar with the existing conditions.
+
+Details as to enemies to be expected, methods of treatment, and materials
+to be used may be found in other publications[88] or may be obtained by
+correspondence with the nearest State agricultural experiment station or
+with the United States Department of Agriculture.
+
+[88] See list on following pages.
+
+                    *       *       *       *       *
+
+        PUBLICATIONS OF THE UNITED STATES DEPARTMENT OF AGRICULTURE
+  RELATING TO DISEASES AND INSECTS AFFECTING SHADE AND ORNAMENTAL TREES.
+
+                     =AVAILABLE FOR FREE DISTRIBUTION.=
+
+    Control of Root-Knot. (Farmers' Bulletin 648.)
+
+    The San Jose Scale and Its Control. (Farmers' Bulletin 650.)
+
+    The Bagworm, an Injurious Shade-Tree Insect. (Farmers' Bulletin 701.)
+
+    The Catalpa Sphinx. (Farmers' Bulletin 705.)
+
+    The Leopard Moth: A Dangerous Imported Enemy of Shade Trees.
+       (Farmers' Bulletin 708.)
+
+    The Oyster-Shell Scale and the Scurfy Scale. (Farmers' Bulletin 723.)
+
+    The White-Pine Blister Rust. (Farmers' Bulletin 742.)
+
+    Carbon Disulphid as an Insecticide. (Farmers' Bulletin 799.)
+
+    The Gipsy Moth and the Brown-Tail Moth and Their Control. (Farmers'
+       Bulletin 845.)
+
+    Common White Grubs. (Farmers' Bulletin 940.)
+
+    The Blights of Coniferous Nursery Stock. (Department Bulletin 44.)
+
+    Forest Disease Surveys. (Department Bulletin 658.)
+
+  =FOR SALE BY THE SUPERINTENDENT OF DOCUMENTS,
+           GOVERNMENT PRINTING OFFICE,
+                WASHINGTON, D. C.=
+
+    The Mistletoe Pest in the Southwest. (Bureau of Plant Industry
+       Bulletin 166.) Price, 10 cents.
+
+    The Death of Chestnuts and Oaks Due to Armillaria mellea.
+       (Department Bulletin 89.) Price, 5 cents.
+
+    New Facts Concerning the White-Pine Blister Rust. (Department
+       Bulletin 116.) Price, 5 cents.
+
+    The Huisache Girdler. (Department Bulletin 184.) Price, 5 cents.
+
+    Report on the Gipsy Moth Work in New England. (Department Bulletin
+       204.) Price, 30 cents.
+
+    A Disease of Pines Caused by Cronartium pyriforme. (Department
+       Bulletin 247.) Price, 5 cents.
+
+    Food Plants of the Gipsy Moth in America. (Department Bulletin 250.)
+       Price, 10 cents.
+
+    Dispersion of Gipsy Moth Larvæ by the Wind. (Department Bulletin
+       273.) Price, 15 cents.
+
+    The Cottonwood Borer. (Department Bulletin 424.) Price, 5 cents.
+
+    Solid-Stream Spraying against the Gipsy Moth and the Brown-Tail Moth
+       in New England. (Department Bulletin 4.80.) Price, 15 cents.
+
+    Protection from the Locust Borer. (Department Bulletin 787.) Price,
+       5 cents.
+
+    Principal Insects Liable to be Distributed on Nursery Stock.
+       (Entomology Bulletin 34, n. s.) Price, 5 cents.
+
+    The Locust Borer. (Entomology Bulletin 58, part 1.) Price, 5 cents.
+
+    Additional Data on the Locust Borer. (Entomology Bulletin 58, part
+       3.) Price, 5 cents.
+
+    The San Jose or Chinese Scale. (Entomology Bulletin 62.) Price, 25
+       cents.
+
+    Report on Field Work against the Gipsy Moth and the Brown-Tail Moth.
+       (Entomology Bulletin 87.) Price, 35 cents.
+
+    The Importation into the United States of the Parasites of the Gipsy
+       Moth and the Brown-Tail Moth. (Entomology Bulletin 91.) Price, 65
+       cents.
+
+    The Dispersion of the Gipsy Moth. (Entomology Bulletin 119.) Price,
+       20 cents.
+
+    The Green-Striped Maple Worm. (Entomology Circular 110.) Price, 5
+       cents.
+
+    The Oak Pruner. (Entomology Circular 130.) Price, 5 cents.
+
+    The Dying Hickory Trees: Cause and Remedy. (Entomology Circular
+       144.) Price, 5 cents.
+
+    Flour Paste as a Control for Red Spiders and as a Spreader for
+       Contact Insecticides. (Entomology Circular 166.) Price, 5 cents.
+
+    Three Undescribed Heart-Rots of Hardwood Trees, Especially of Oak.
+       (Journal of Agricultural Research, vol. 1, No. 2.) Price, 25
+       cents.
+
+    A Serious Disease in Forest Nurseries Caused by Peridermium
+       filamentosum. (Journal of Agricultural Research, vol. v, No. 17.)
+       Price, 10 cents.
+
+    The Chestnut Bark Disease. (Separate 598, from Yearbook of the
+       Department of Agriculture for 1918.) Price, 10 cents.
+
+    Practical Tree Surgery. (Separate 622, from Yearbook of the
+       Department of Agriculture for 1913.) Price, 10 cents.
+
+    Forest Tree Diseases Common in California and Nevada. (Forest
+       Service Unnumbered Publication.) Price, 25 cents.
+
+
+                            ADDITIONAL COPIES
+
+                 OF THIS PUBLICATION MAY BE PROCURED FROM
+
+                     THE SUPERINTENDENT OF DOCUMENTS
+
+                        GOVERNMENT PRINTING OFFICE
+
+                            WASHINGTON, D. C.
+
+                                    AT
+
+                            15 CENTS PER COPY
+
+
+
+                    *       *       *       *       *
+
+
+
+Transcriber Notes
+
+
+Illustrations were moved so as to not split paragraphs.
+
+
+
+
+
+End of the Project Gutenberg EBook of USDA Bulletin No. 816, by F. L. Mulford
+
+*** END OF THIS PROJECT GUTENBERG EBOOK USDA BULLETIN NO. 816 ***
+
+***** This file should be named 62677-8.txt or 62677-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/6/7/62677/
+
+Produced by Tom Cosmas
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

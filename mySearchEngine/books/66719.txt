@@ -1,0 +1,2050 @@
+﻿The Project Gutenberg eBook of Historical Record of the Seventieth, or, The
+Surrey Regiment of Foot :  containing an account of the formation of the
+regiment in 1758, and of its  subsequent services to 1848, by Richard
+Cannon
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Historical Record of the Seventieth, or, The Surrey Regiment of
+       Foot :  containing an account of the formation of the regiment in
+       1758, and of its  subsequent services to 1848
+
+Author: Richard Cannon
+
+Release Date: November 12, 2021 [eBook #66719]
+
+Language: English
+
+
+Produced by: Brian Coe, John Campbell and the Online Distributed
+             Proofreading Team at https://www.pgdp.net (This book was
+             produced from images made available by the HathiTrust Digital
+             Library.)
+
+*** START OF THE PROJECT GUTENBERG EBOOK HISTORICAL RECORD OF THE
+SEVENTIETH, OR, THE SURREY REGIMENT OF FOOT :  CONTAINING AN ACCOUNT OF THE
+FORMATION OF THE REGIMENT IN 1758, AND OF ITS  SUBSEQUENT SERVICES TO
+1848 ***
+
+
+
+
+  TRANSCRIBER’S NOTE
+
+  Italic text is denoted by _underscores_.
+
+  Footnote anchors are denoted by [number], and the footnotes have been
+  placed at the end of the ‘Introduction’ section.
+
+  Some minor changes to the text are noted at the end of the book.
+
+
+
+
+  HISTORICAL RECORD
+
+  OF
+
+  THE SEVENTIETH,
+
+  OR
+
+  THE SURREY REGIMENT OF FOOT.
+
+  CONTAINING
+
+  AN ACCOUNT OF THE FORMATION OF THE REGIMENT
+  IN 1758,
+
+  AND OF ITS SUBSEQUENT SERVICES
+  TO 1848.
+
+
+  COMPILED BY
+
+  RICHARD CANNON, ESQ.,
+  ADJUTANT-GENERAL’S OFFICE, HORSE GUARDS.
+
+  LONDON:
+  PARKER, FURNIVALL, & PARKER,
+  30, CHARING-CROSS.
+
+  MDCCCXLIX.
+
+
+
+
+  LONDON: PRINTED BY W. CLOWES AND SONS, STAMFORD STREET,
+  FOR HER MAJESTY’S STATIONERY OFFICE.
+
+
+
+
+GENERAL ORDERS.
+
+
+  _HORSE-GUARDS_,
+  _1st January, 1836_.
+
+His Majesty has been pleased to command that, with the view of
+doing the fullest justice to Regiments, as well as to Individuals
+who have distinguished themselves by their Bravery in Action with
+the Enemy, an Account of the Services of every Regiment in the
+British Army shall be published under the superintendence and
+direction of the Adjutant-General; and that this Account shall
+contain the following particulars, viz.:--
+
+  ---- The Period and Circumstances of the Original Formation of
+  the Regiment; The Stations at which it has been from time to time
+  employed; The Battles, Sieges, and other Military Operations
+  in which it has been engaged, particularly specifying any
+  Achievement it may have performed, and the Colours, Trophies,
+  &c., it may have captured from the Enemy.
+
+  ---- The Names of the Officers, and the number of
+  Non-Commissioned Officers and Privates Killed or Wounded by the
+  Enemy, specifying the place and Date of the Action.
+
+  ---- The Names of those Officers who, in consideration of their
+  Gallant Services and Meritorious Conduct in Engagements with the
+  Enemy, have been distinguished with Titles, Medals, or other
+  Marks of His Majesty’s gracious favour.
+
+  ---- The Names of all such Officers, Non-Commissioned Officers,
+  and Privates, as may have specially signalized themselves in
+  Action.
+
+  And,
+
+  ---- The Badges and Devices which the Regiment may have been
+  permitted to bear, and the Causes on account of which such Badges
+  or Devices, or any other Marks of Distinction, have been granted.
+
+  By Command of the Right Honorable
+
+  GENERAL LORD HILL,
+  _Commanding-in-Chief_.
+
+  JOHN MACDONALD,
+  _Adjutant-General_.
+
+
+
+
+PREFACE.
+
+
+The character and credit of the British Army must chiefly depend
+upon the zeal and ardour by which all who enter into its service
+are animated, and consequently it is of the highest importance that
+any measure calculated to excite the spirit of emulation, by which
+alone great and gallant actions are achieved, should be adopted.
+
+Nothing can more fully tend to the accomplishment of this desirable
+object than a full display of the noble deeds with which the
+Military History of our country abounds. To hold forth these bright
+examples to the imitation of the youthful soldier, and thus to
+incite him to emulate the meritorious conduct of those who have
+preceded him in their honorable career, are among the motives that
+have given rise to the present publication.
+
+The operations of the British Troops are, indeed, announced in the
+“London Gazette,” from whence they are transferred into the public
+prints: the achievements of our armies are thus made known at the
+time of their occurrence, and receive the tribute of praise and
+admiration to which they are entitled. On extraordinary occasions,
+the Houses of Parliament have been in the habit of conferring on
+the Commanders, and the Officers and Troops acting under their
+orders, expressions of approbation and of thanks for their skill
+and bravery; and these testimonials, confirmed by the high honour
+of their Sovereign’s approbation, constitute the reward which the
+soldier most highly prizes.
+
+It has not, however, until late years, been the practice (which
+appears to have long prevailed in some of the Continental armies)
+for British Regiments to keep regular records of their services
+and achievements. Hence some difficulty has been experienced in
+obtaining, particularly from the old Regiments, an authentic
+account of their origin and subsequent services.
+
+This defect will now be remedied, in consequence of His Majesty
+having been pleased to command that every Regiment shall, in
+future, keep a full and ample record of its services at home and
+abroad.
+
+From the materials thus collected, the country will henceforth
+derive information as to the difficulties and privations which
+chequer the career of those who embrace the military profession. In
+Great Britain, where so large a number of persons are devoted to
+the active concerns of agriculture, manufactures, and commerce, and
+where these pursuits have, for so long a period, being undisturbed
+by the _presence of war_, which few other countries have escaped,
+comparatively little is known of the vicissitudes of active service
+and of the casualties of climate, to which, even during peace, the
+British Troops are exposed in every part of the globe, with little
+or no interval of repose.
+
+In their tranquil enjoyment of the blessings which the country
+derives from the industry and the enterprise of the agriculturist
+and the trader, its happy inhabitants may be supposed not often to
+reflect on the perilous duties of the soldier and the sailor,--on
+their sufferings,--and on the sacrifice of valuable life, by which
+so many national benefits are obtained and preserved.
+
+The conduct of the British Troops, their valour, and endurance,
+have shone conspicuously under great and trying difficulties; and
+their character has been established in Continental warfare by the
+irresistible spirit with which they have effected debarkations in
+spite of the most formidable opposition, and by the gallantry and
+steadiness with which they have maintained their advantages against
+superior numbers.
+
+In the official Reports made by the respective Commanders, ample
+justice has generally been done to the gallant exertions of the
+Corps employed; but the details of their services and of acts of
+individual bravery can only be fully given in the Annals of the
+various Regiments.
+
+These Records are now preparing for publication, under his
+Majesty’s special authority, by Mr. RICHARD CANNON, Principal Clerk
+of the Adjutant General’s Office; and while the perusal of them
+cannot fail to be useful and interesting to military men of every
+rank, it is considered that they will also afford entertainment and
+information to the general reader, particularly to those who may
+have served in the Army, or who have relatives in the Service.
+
+There exists in the breasts of most of those who have served, or
+are serving, in the Army, an _Esprit de Corps_--an attachment
+to everything belonging to their Regiment; to such persons a
+narrative of the services of their own Corps cannot fail to prove
+interesting. Authentic accounts of the actions of the great, the
+valiant, the loyal, have always been of paramount interest with
+a brave and civilized people. Great Britain has produced a race
+of heroes who, in moments of danger and terror, have stood “firm
+as the rocks of their native shore:” and when half the world has
+been arrayed against them, they have fought the battles of their
+Country with unshaken fortitude. It is presumed that a record of
+achievements in war,--victories so complete and surprising, gained
+by our countrymen, our brothers, our fellow citizens in arms,--a
+record which revives the memory of the brave, and brings their
+gallant deeds before us,--will certainly prove acceptable to the
+public.
+
+Biographical Memoirs of the Colonels and other distinguished
+Officers will be introduced in the Records of their respective
+Regiments, and the Honorary Distinctions which have, from time to
+time, been conferred upon each Regiment, as testifying the value
+and importance of its services, will be faithfully set forth.
+
+As a convenient mode of Publication, the Record of each Regiment
+will be printed in a distinct number, so that when the whole shall
+be completed, the Parts may be bound up in numerical succession.
+
+
+
+
+INTRODUCTION
+
+TO
+
+THE INFANTRY.
+
+
+The natives of Britain have, at all periods, been celebrated for
+innate courage and unshaken firmness, and the national superiority
+of the British troops over those of other countries has been
+evinced in the midst of the most imminent perils. History contains
+so many proofs of extraordinary acts of bravery, that no doubts can
+be raised upon the facts which are recorded. It must therefore be
+admitted, that the distinguishing feature of the British soldier is
+INTREPIDITY. This quality was evinced by the inhabitants of England
+when their country was invaded by Julius Cæsar with a Roman army,
+on which occasion the undaunted Britons rushed into the sea to
+attack the Roman soldiers as they descended from their ships; and,
+although their discipline and arms were inferior to those of their
+adversaries, yet their fierce and dauntless bearing intimidated
+the flower of the Roman troops, including Cæsar’s favourite tenth
+legion. Their arms consisted of spears, short swords, and other
+weapons of rude construction. They had chariots, to the axles of
+which were fastened sharp pieces of iron resembling scythe-blades,
+and infantry in long chariots resembling waggons, who alighted
+and fought on foot, and for change of ground, pursuit or retreat,
+sprang into the chariot and drove off with the speed of cavalry.
+These inventions were, however, unavailing against Cæsar’s
+legions: in the course of time a military system, with discipline
+and subordination, was introduced, and British courage, being
+thus regulated, was exerted to the greatest advantage; a full
+development of the national character followed, and it shone forth
+in all its native brilliancy.
+
+The military force of the Anglo-Saxons consisted principally of
+infantry: Thanes, and other men of property, however, fought on
+horseback. The infantry were of two classes, heavy and light. The
+former carried large shields armed with spikes, long broad swords
+and spears; and the latter were armed with swords or spears only.
+They had also men armed with clubs, others with battle-axes and
+javelins.
+
+The feudal troops established by William the Conqueror consisted
+(as already stated in the Introduction to the Cavalry) almost
+entirely of horse; but when the warlike barons and knights, with
+their trains of tenants and vassals, took the field, a proportion
+of men appeared on foot, and, although these were of inferior
+degree, they proved stout-hearted Britons of stanch fidelity. When
+stipendiary troops were employed, infantry always constituted a
+considerable portion of the military force; and this _arme_ has
+since acquired, in every quarter of the globe, a celebrity never
+exceeded by the armies of any nation at any period.
+
+The weapons carried by the infantry, during the several reigns
+succeeding the Conquest, were bows and arrows, half-pikes, lances,
+halberds, various kinds of battle-axes, swords, and daggers. Armour
+was worn on the head and body, and in course of time the practice
+became general for military men to be so completely cased in steel,
+that it was almost impossible to slay them.
+
+The introduction of the use of gunpowder in the destructive
+purposes of war, in the early part of the fourteenth
+century, produced a change in the arms and equipment of the
+infantry-soldier. Bows and arrows gave place to various kinds of
+fire-arms, but British archers continued formidable adversaries;
+and, owing to the inconvenient construction and imperfect bore of
+the fire-arms when first introduced, a body of men, well trained
+in the use of the bow from their youth, was considered a valuable
+acquisition to every army, even as late as the sixteenth century.
+
+During a great part of the reign of Queen Elizabeth each company
+of infantry usually consisted of men armed five different ways; in
+every hundred men forty were “_men-at-arms_,” and sixty “_shot_;”
+the “men-at-arms” were ten halberdiers, or battle-axe men, and
+thirty pikemen; and the “shot” were twenty archers, twenty
+musketeers, and twenty harquebusiers, and each man carried, besides
+his principal weapon, a sword and dagger.
+
+Companies of infantry varied at this period in numbers from 150
+to 300 men; each company had a colour or ensign, and the mode of
+formation recommended by an English military writer (Sir John
+Smithe) in 1590 was:--the colour in the centre of the company
+guarded by the halberdiers; the pikemen in equal proportions, on
+each flank of the halberdiers: half the musketeers on each flank
+of the pikes; half the archers on each flank of the musketeers,
+and the harquebusiers (whose arms were much lighter than the
+muskets then in use) in equal proportions on each flank of the
+company for skirmishing.[1] It was customary to unite a number
+of companies into one body, called a REGIMENT, which frequently
+amounted to three thousand men: but each company continued to carry
+a colour. Numerous improvements were eventually introduced in the
+construction of fire-arms, and, it having been found impossible to
+make armour proof against the muskets then in use (which carried
+a very heavy ball) without its being too weighty for the soldier,
+armour was gradually laid aside by the infantry in the seventeenth
+century: bows and arrows also fell into disuse, and the infantry
+were reduced to two classes, viz.: _musketeers_, armed with
+matchlock muskets, swords, and daggers; and _pikemen_, armed with
+pikes from fourteen to eighteen feet long, and swords.
+
+In the early part of the seventeenth century Gustavus Adolphus,
+King of Sweden, reduced the strength of regiments to 1000 men. He
+caused the gunpowder, which had heretofore been carried in flasks,
+or in small wooden bandoliers, each containing a charge, to be
+made up into cartridges, and carried in pouches; and he formed
+each regiment into two wings of musketeers, and a centre division
+of pikemen. He also adopted the practice of forming four regiments
+into a brigade; and the number of colours was afterwards reduced to
+three in each regiment. He formed his columns so compactly that his
+infantry could resist the charge of the celebrated Polish horsemen
+and Austrian cuirassiers; and his armies became the admiration of
+other nations. His mode of formation was copied by the English,
+French, and other European states; but so great was the prejudice
+in favour of ancient customs, that all his improvements were not
+adopted until near a century afterwards.
+
+In 1664 King Charles II. raised a corps for sea-service, styled
+the Admiral’s regiment. In 1678 each company of 100 men usually
+consisted of 30 pikemen, 60 musketeers, and 10 men armed with light
+firelocks. In this year the King added a company of men armed with
+hand grenades to each of the old British regiments, which was
+designated the “grenadier company.” Daggers were so contrived as to
+fit in the muzzles of the muskets, and bayonets similar to those
+at present in use were adopted about twenty years afterwards.
+
+An Ordnance regiment was raised in 1685, by order of King James
+II., to guard the artillery, and was designated the Royal Fusiliers
+(now 7th Foot). This corps, and the companies of grenadiers, did
+not carry pikes.
+
+King William III. incorporated the Admiral’s regiment in the second
+Foot Guards, and raised two Marine regiments for sea-service.
+During the war in this reign, each company of infantry (excepting
+the fusiliers and grenadiers) consisted of 14 pikemen and 46
+musketeers; the captains carried pikes; lieutenants, partisans;
+ensigns, half-pikes; and serjeants, halberds. After the peace in
+1697 the Marine regiments were disbanded, but were again formed on
+the breaking out of the war in 1702.[2]
+
+During the reign of Queen Anne the pikes were laid aside, and every
+infantry soldier was armed with a musket, bayonet, and sword; the
+grenadiers ceased, about the same period, to carry hand grenades;
+and the regiments were directed to lay aside their third colour:
+the corps of Royal Artillery was first added to the Army in this
+reign.
+
+About the year 1745, the men of the battalion companies of infantry
+ceased to carry swords; during the reign of George II. light
+companies were added to infantry regiments; and in 1764 a Board of
+General Officers recommended that the grenadiers should lay aside
+their swords, as that weapon had never been used during the Seven
+Years’ War. Since that period the arms of the infantry soldier have
+been limited to the musket and bayonet.
+
+The arms and equipment of the British Troops have seldom differed
+materially, since the Conquest, from those of other European
+states; and in some respects the arming has, at certain periods,
+been allowed to be inferior to that of the nations with whom they
+have had to contend; yet, under this disadvantage, the bravery and
+superiority of the British infantry have been evinced on very many
+and most trying occasions, and splendid victories have been gained
+over very superior numbers.
+
+Great Britain has produced a race of lion-like champions who have
+dared to confront a host of foes, and have proved themselves
+valiant with any arms. At _Crecy_, King Edward III., at the head
+of about 30,000 men, defeated, on the 26th of August, 1346, Philip
+King of France, whose army is said to have amounted to 100,000
+men; here British valour encountered veterans of renown:--the
+King of Bohemia, the King of Majorca, and many princes and nobles
+were slain, and the French army was routed and cut to pieces. Ten
+years afterwards, Edward Prince of Wales, who was designated the
+Black Prince, defeated, at _Poictiers_, with 14,000 men, a French
+army of 60,000 horse, besides infantry, and took John I., King of
+France, and his son Philip, prisoners. On the 25th of October,
+1415, King Henry V., with an army of about 13,000 men, although
+greatly exhausted by marches, privations, and sickness, defeated,
+at _Agincourt_, the Constable of France, at the head of the flower
+of the French nobility and an army said to amount to 60,000 men,
+and gained a complete victory.
+
+During the seventy years’ war between the United Provinces of the
+Netherlands and the Spanish monarchy, which commenced in 1578 and
+terminated in 1648, the British infantry in the service of the
+States-General were celebrated for their unconquerable spirit and
+firmness;[3] and in the thirty years’ war between the Protestant
+Princes and the Emperor of Germany, the British Troops in the
+service of Sweden and other states were celebrated for deeds of
+heroism.[4] In the wars of Queen Anne, the fame of the British
+army under the great MARLBOROUGH was spread throughout the world;
+and if we glance at the achievements performed within the memory
+of persons now living, there is abundant proof that the Britons
+of the present age are not inferior to their ancestors in the
+qualities which constitute good soldiers. Witness the deeds of
+the brave men, of whom there are many now surviving, who fought in
+Egypt in 1801, under the brave Abercromby, and compelled the French
+army, which had been vainly styled _Invincible_, to evacuate that
+country; also the services of the gallant Troops during the arduous
+campaigns in the Peninsula, under the immortal WELLINGTON; and
+the determined stand made by the British Army at Waterloo, where
+Napoleon Bonaparte, who had long been the inveterate enemy of Great
+Britain, and had sought and planned her destruction by every means
+he could devise, was compelled to leave his vanquished legions to
+their fate, and to place himself at the disposal of the British
+Government. These achievements, with others of recent dates in the
+distant climes of India, prove that the same valour and constancy
+which glowed in the breasts of the heroes of Crecy, Poictiers,
+Agincourt, Blenheim, and Ramilies, continue to animate the Britons
+of the nineteenth century.
+
+The British Soldier is distinguished for a robust and muscular
+frame,--intrepidity which no danger can appal,--unconquerable
+spirit and resolution,--patience in fatigue and privation, and
+cheerful obedience to his superiors. These qualities, united with
+an excellent system of order and discipline to regulate and give
+a skilful direction to the energies and adventurous spirit of
+the hero, and a wise selection of officers of superior talent to
+command, whose presence inspires confidence,--have been the leading
+causes of the splendid victories gained by the British arms.[5]
+The fame of the deeds of the past and present generations in the
+various battle fields where the robust sons of Albion have fought
+and conquered, surrounds the British arms with a halo of glory;
+these achievements will live in the page of history to the end of
+time.
+
+The records of the several regiments will be found to contain a
+detail of facts of an interesting character, connected with the
+hardships, sufferings, and gallant exploits of British soldiers in
+the various parts of the world, where the calls of their Country
+and the commands of their Sovereign have required them to proceed
+in the execution of their duty, whether in active continental
+operations, or in maintaining colonial territories in distant and
+unfavourable climes.
+
+The superiority of the British infantry has been pre-eminently set
+forth in the wars of six centuries, and admitted by the greatest
+commanders which Europe has produced. The formations and movements
+of this _arme_, as at present practised, while they are adapted
+to every species of warfare, and to all probable situations
+and circumstances of service, are calculated to show forth the
+brilliancy of military tactics calculated upon mathematical and
+scientific principles. Although the movements and evolutions have
+been copied from the continental armies, yet various improvements
+have from time to time been introduced, to insure that simplicity
+and celerity by which the superiority of the national military
+character is maintained. The rank and influence which Great Britain
+has attained among the nations of the world, have in a great
+measure been purchased by the valour of the Army, and to persons
+who have the welfare of their country at heart, the records of the
+several regiments cannot fail to prove interesting.
+
+
+FOOTNOTES:
+
+[1] A company of 200 men would appear thus:--
+
+__| | | |__| | 20 20 20 30 2|0 30 20 20 20 | Harquebuses. Muskets.
+Halberds. Muskets. Harquebuses. Archers. Pikes. Pikes. Archers.
+
+The musket carried a ball which weighed 1/10th of a pound; and the
+harquebus a ball which weighed 1/25th of a pound.
+
+[2] The 30th, 31st, and 32nd Regiments were formed as Marine corps
+in 1702, and were employed as such during the wars in the reign
+of Queen Anne. The Marine corps were embarked in the Fleet under
+Admiral Sir George Rooke, and were at the taking of Gibraltar, and
+in its subsequent defence in 1704; they were afterwards employed at
+the siege of Barcelona in 1705.
+
+[3] The brave Sir Roger Williams, in his Discourse on War, printed
+in 1590, observes:--“I persuade myself ten thousand of our nation
+would beat thirty thousand of theirs (the Spaniards) out of the
+field, let them be chosen where they list.” Yet at this time the
+Spanish infantry was allowed to be the best disciplined in Europe.
+For instances of valour displayed by the British Infantry during
+the Seventy Years’ War, see the Historical Record of the Third
+Foot, or Buffs.
+
+[4] _Vide_ the Historical Record of the First, or Royal Regiment of
+Foot.
+
+[5] “Under the blessing of Divine Providence, His Majesty ascribes
+the successes which have attended the exertions of his troops in
+Egypt to that determined bravery which is inherent in Britons; but
+His Majesty desires it may be most solemnly and forcibly impressed
+on the consideration of every part of the army, that it has been a
+strict observance of order, discipline, and military system, which
+has given the full energy to the native valour of the troops, and
+has enabled them proudly to assert the superiority of the national
+military character, in situations uncommonly arduous, and under
+circumstances of peculiar difficulty.”--_General Orders in 1801._
+
+In the General Orders issued by Lieut.-General Sir John Hope
+(afterwards Lord Hopetoun), congratulating the army upon the
+successful result of the Battle of Corunna, on the 16th of January,
+1809, it is stated:--“On no occasion has the undaunted valour of
+British troops ever been more manifest. At the termination of a
+severe and harassing march, rendered necessary by the superiority
+which the enemy had acquired, and which had materially impaired
+the efficiency of the troops, many disadvantages were to be
+encountered. These have all been surmounted by the conduct of the
+troops themselves; and the enemy has been taught, that whatever
+advantages of position or of numbers he may possess, there is
+inherent in the British officers and soldiers a bravery that knows
+not how to yield,--that no circumstances can appal,--and that will
+ensure victory, when it is to be obtained by the exertion of any
+human means.”
+
+
+
+
+THE SEVENTIETH REGIMENT OF FOOT.
+
+
+
+
+CONTENTS
+
+OF THE
+
+HISTORICAL RECORD.
+
+
+  YEAR                                                          PAGE
+
+        INTRODUCTION.                                             ix
+
+  1758  Formation of the Regiment from the Second Battalion
+          of the Thirty-first regiment                             1
+
+  ----  Stationed in Scotland                                     --
+
+  ----  Faced with _light grey_, and commonly called
+          the _Glasgow Greys_                                     --
+
+  ----  The colonelcy conferred on Lieut.-Colonel John
+          Parslow, from the First Foot Guards                     --
+
+  ----  Officers appointed to Commissions in the regiment          2
+
+  1759  Removed to South Britain                                  --
+
+  1760  Appointment of Lieut.-Colonel Cyrus Trapaud,
+          from the Third regiment, to the colonelcy, in
+          succession to Colonel Parslow, removed to the
+          Fifty-fourth regiment                                   --
+
+  1763  Embarked for Ireland                                      --
+
+  1764  Embarked for the West Indies                              --
+
+  1768  The _Facing_ directed by the Royal Warrant of
+          the 19th of December to be _Black_                       3
+
+  1774  Returned to England from the West Indies                  --
+
+  1776  Proceeded to Scotland                                     --
+
+  1778  Embarked for North America                                 3
+
+  ----  Appointment of Major-General William Tryon
+          to the colonelcy, in succession to Lieut.-General
+          Trapaud, removed to the Fifty-second regiment           --
+
+  1781  Stationed in Nova Scotia                                  --
+
+  1782  Directed to assume the County title of “Surrey”
+          regiment, in addition to its Numerical title            --
+
+  1783  Appointment of Colonel the Earl of Suffolk to
+          the colonelcy, in succession to Lieut.-General
+          Tryon, removed to the Twenty-ninth regiment             --
+
+  1784  Returned to England from North America                     4
+
+  1787  Embarked for Ireland                                      --
+
+  1793  Embarked for the West Indies                              --
+
+  1794  Engaged in the capture of _Martinique_                    --
+
+  1795  Returned to England                                        5
+
+  ----  Embarked for Gibraltar                                     6
+
+  1800  Embarked for the West Indies, where six companies
+          arrived                                                 --
+
+  ----  Four companies prevented from proceeding to the
+          West Indies by the vessel having sprung a
+          leak, and proceeded from Lisbon to Jersey               --
+
+  1801  The six companies returned from the West
+          Indies and joined the four companies at Jersey          --
+
+  ----  The Regiment proceeded from Jersey to Dover               --
+
+  1803  Embarked for the West Indies                              --
+
+  1807  Detachment engaged in the capture of certain
+          Danish West India Islands                               --
+
+  1810  Flank companies formed part of an expedition
+          against Guadaloupe                                       7
+
+  ----  Capture of _Guadaloupe_                                   --
+
+  1812  Returned from the West Indies                              8
+
+  ----  Proceeded to Scotland                                     --
+
+  ----  Received the Royal Authority to assume the title
+          of the _Glasgow Lowland regiment_                       --
+
+  1813  Engaged on duties at Montrose and Perth                    8
+
+  ----  Embarked for Ireland                                      --
+
+  ----  Embarked for Canada                                       --
+
+  1814  Appointment of Lieut.-General Honorable Sir G. Lowry
+          Cole, K.B., to the colonelcy, in succession to
+          General the Earl of Suffolk, removed to the
+          Forty-fourth regiment                                   --
+
+  ----  Employed at Quebec, Montreal, Cornwall, and
+          Kingston in Canada                                      --
+
+  1816  Appointment of Lieut.-General Forbes Champagné
+          to the colonelcy, in succession to Lieut.-General
+          Sir G. Lowry Cole, removed to the Thirty-fourth
+          regiment                                                 9
+
+  ----  Appointment of Major-General Sir Kenneth
+          Alexander Howard, K.C.B., afterwards Earl
+          of Effingham, to the colonelcy, in succession
+          to Lieut.-General Champagné, deceased                   --
+
+  1825  Authorized to resume the County title of the
+          Surrey regiment, and to discontinue the title
+          of the Glasgow Lowland regiment                         --
+
+  1826  Continued on duty at different stations in Canada         --
+
+  1827  Embarked from Canada                                      10
+
+  ----  Proceeded to Ireland                                      --
+
+  1832  Appointment of Lieut.-General G. J. Hall to
+          the colonelcy, in succession to Lieut.-General
+          Lord Howard of Effingham                                --
+
+  1834  Formed into six Service, and four Depôt companies,
+          preparatory to embarkation for a foreign station        --
+
+  ----  Service companies embarked from Cork for Gibraltar        --
+
+  1835  Depôt companies embarked from Ireland for Guernsey        --
+
+  1836  Service companies embarked from Gibraltar for Malta       --
+
+  1838  Service companies embarked from Malta for the West
+          Indies                                                  10
+
+  ----  Depôt companies embarked from Guernsey for Ireland        --
+
+  ----  The Royal Court of Guernsey passed an Act in
+          order to record in a permanent manner their
+          testimony of the good conduct and discipline
+          of the officers, non-commissioned officers, and
+          privates of the Seventieth regiment                     --
+
+  1841  The Service companies embarked from the West Indies
+          for Canada                                              12
+
+  ----  Received the thanks of the Lieut.-General commanding
+          in the West Indies                                      --
+
+  1843  Embarked at Quebec for England                            13
+
+  ----  Arrived at Portsmouth, and joined by the Depôt
+          companies from Ireland                                  --
+
+  ----  Proceeded to Manchester                                   --
+
+  1845  Embarked for Ireland                                      --
+
+  1847  Establishment augmented to 1000 rank and file             14
+
+  1848  Ordered to be held in readiness to embark for the
+          East Indies                                             --
+
+        Conclusion                                                14
+
+
+1849.
+
+
+
+
+SUCCESSION OF COLONELS
+
+OF
+
+THE SEVENTIETH REGIMENT OF FOOT.
+
+
+  YEAR       PAGE
+
+  1758  John Parslow                                              15
+
+  1760  Cyrus Trapaud                                             --
+
+  1778  William Tryon                                             16
+
+  1783  John Earl of Suffolk                                      17
+
+  1814  Honorable Sir G. Lowry Cole, K.B.                         --
+
+  1816  Forbes Champagné                                          18
+
+  ----  Sir Kenneth Alexander Howard, G.C.B., afterwards
+          the Earl of Effingham                                   19
+
+  1832  Gage John Hall                                            21
+
+
+
+
+PLATE.
+
+
+  Colours and Costume of the Regiment         _to face Page_      14
+
+
+
+
+HISTORICAL RECORD
+
+OF
+
+THE SEVENTIETH,
+
+OR
+
+THE SURREY REGIMENT OF FOOT.
+
+
+[Sidenote: 1756]
+
+The repose granted to Europe by the treaty of Aix-la-Chapelle
+was interrupted by the aggressions, made by the French, on the
+British territory in America. War between the two kingdoms
+speedily followed; and a considerable augmentation was made to the
+strength of the British army in the winter of 1755, and in the
+spring of 1756. On that occasion a second battalion was added to
+the THIRTY-FIRST regiment, then commanded by Major-General Henry
+Holmes, and stationed in Great Britain.
+
+[Sidenote: 1758]
+
+In 1758 the second battalion of the THIRTY-FIRST foot was
+constituted a regiment, which was numbered the “SEVENTIETH” in the
+British line. It was stationed in North Britain; its facings were
+light grey; it contained in its ranks many men who were natives of
+Scotland, particularly of Glasgow, and they were commonly called
+the “GLASGOW GREYS.”
+
+The colonelcy of the SEVENTIETH regiment was conferred on Colonel
+John Parslow, from captain and lieut.-colonel in the first foot
+guards; the lieut.-colonelcy on Charles Vignoles, from major in
+the thirty-first regiment; and the majority on Robert Pigot,
+senior captain of the thirty-first. The officers appointed to the
+SEVENTIETH regiment were:--
+
+
+_Colonel_ John Parslow.
+
+  _Lieut.-Colonel_ Charles Vignoles.
+  _Major_ Robert Pigot.
+
+
+_Captains._
+
+  William Piers.
+  Hector Munro.
+  Hon. Spencer Compton.
+  D. Hamilton.
+  George Grant.
+  T. Grueber.
+  William Nesbit.
+  _Captain Lieut._ Jno. Fowle.
+
+
+_Lieutenants._
+
+  John Crofton.
+  Rob. Clements.
+  J. Dumarsque.
+  A. Thompson.
+  Anthony Morgan.
+  William Tullock.
+  John Stevens.
+  M. Johnston.
+  A. Lysaght.
+  R. Bristow.
+  H. Norman.
+  Jas. Cusack.
+  William Smith.
+  Edward Hicks.
+  Geo. Whichcot.
+  Cha. Sutherland.
+  U. Pendergrast.
+  W. L. Hooker.
+
+
+_Ensigns._
+
+  Geo. Williamson.
+  Cha. Gordon.
+  Robert Wilson.
+  Geo. Kinlock.
+  Rob. Orrock.
+  J. Rosenhagen.
+  Rob. Jephson.
+  Wm. Talbot.
+
+  _Chaplain_, Tho. Parslow.
+  _Surgeon_, Sam. Bright.
+  _Adjutant_, W. L. Hooker.
+  _Quarter-Master_, Geo. Williamson.
+
+
+[Sidenote: 1759]
+
+[Sidenote: 1760]
+
+From Scotland the regiment was removed to South Britain, in 1759,
+and remained there during the seven years’ war. Colonel Parslow was
+removed to the fifty-fourth regiment, in September, 1760, and the
+colonelcy of the SEVENTIETH was conferred on Lieut.-Colonel Cyrus
+Trapaud, of the Third or Buffs.
+
+[Sidenote: 1763]
+
+Peace having been concluded, the establishment of the regiment was
+reduced in 1763; at the same time it was removed to Ireland.
+
+[Sidenote: 1764]
+
+In 1764 the regiment embarked from Ireland for the West Indies,
+where it was stationed ten years.
+
+[Sidenote: 1768]
+
+By the Royal Warrant of the 19th December, 1768, the facings were
+directed to be _black_.
+
+[Sidenote: 1774]
+
+The regiment sustained severe loss from the climate of the West
+India Islands during the period it was employed there; and in 1774
+it returned to England much reduced in numbers.
+
+[Sidenote: 1775]
+
+[Sidenote: 1776]
+
+During the year 1775 the regiment was employed recruiting its
+numbers in England, and in 1776 it marched to Scotland.
+
+[Sidenote: 1778]
+
+The regiment was stationed in Scotland until the early part of the
+year 1778, when it embarked for North America, and was employed
+in that part of the British dominions during the remainder of the
+American war, which commenced in 1775, and ended in 1782.
+
+Lieut.-General Trapaud was removed in 1778 to the fifty-second
+regiment, and was succeeded in the colonelcy of the SEVENTIETH by
+Major-General William Tryon, from major in the first foot guards.
+
+[Sidenote: 1779]
+
+[Sidenote: 1780]
+
+The battalion companies of the regiment were stationed in the
+northern provinces of America; but the flank companies were
+detached southward.
+
+[Sidenote: 1781]
+
+In 1781 the regiment was stationed in Nova Scotia, and it remained
+in that country during the two following years.
+
+[Sidenote: 1782]
+
+In 1782, the SEVENTIETH was designated the SURREY regiment, county
+titles being adopted at this period in the army, pursuant to His
+Majesty’s command, with a view of promoting the recruiting service
+by cultivating a connexion with distinct parts of the kingdom.
+
+[Sidenote: 1783]
+
+Lieut.-General Tryon was removed, in 1783, to the twenty-ninth
+regiment, and King George III. appointed Colonel the Earl of
+Suffolk, from the ninety-seventh (afterwards disbanded) to the
+colonelcy of the SEVENTIETH regiment.
+
+[Sidenote: 1784]
+
+Having been relieved from duty in North America, the regiment
+returned to England in 1784.
+
+[Sidenote: 1785]
+
+[Sidenote: 1786]
+
+[Sidenote: 1787]
+
+The regiment occupied various quarters in England during the years
+1785 and 1786, and in 1787 it proceeded to Ireland.
+
+[Sidenote: 1793]
+
+While the regiment was stationed in Ireland, the French Revolution
+involved Great Britain in war with France; and in 1793, the
+SEVENTIETH regiment embarked from Ireland, under the command of
+Colonel Eyre Coote, for the West Indies, to take part in an attack
+on the French West India Islands.
+
+[Sidenote: 1794]
+
+An armament was assembled at Barbadoes in the beginning of 1794,
+under the orders of General Sir Charles, afterwards Earl, Grey, for
+the capture of _Martinique_, and the SEVENTIETH regiment had the
+honor to take part in this enterprise. The grenadiers and light
+infantry were formed in flank battalions, and Lieut.-Colonel Coote
+commanded the first battalion of light infantry; the regiment was
+commanded by Lieut.-Colonel Johnston. A landing was effected, at
+three different points, on the island of Martinique on the 5th,
+6th, and 8th of February; and the first light infantry, under
+Lieut.-Colonel Coote of the SEVENTIETH, distinguished themselves
+at the capture of the heights of Morne le Brun. The battalion
+companies had also an opportunity of signalizing themselves. Sir
+Charles Grey stated in his despatch,--“I received intelligence
+of the enemy’s landing troops, and taking post on Morne Pied, to
+cut off the communication between Brigadier-General Whyte and
+head-quarters at Salée, and I ordered the SEVENTIETH regiment,
+with two howitzers, to march on the same night and dislodge them,
+which was executed with great spirit, and the post taken possession
+of early on the morning of the 9th, under the good conduct of
+Adjutant-General, Colonel Dundas, the SEVENTIETH regiment being
+commanded by Lieut.-Colonel Johnston, and the enemy completely
+defeated at the first charge.” The loss of the regiment on this
+occasion was limited to a few private soldiers wounded.
+
+After a series of brilliant successes, possession was gained of
+the greater part of the island; Fort Bourbon and Fort Royal were
+besieged, and the garrisons forced to surrender,--the French troops
+in the former delivering up five stand of colours, and those in
+the latter two. These colours were sent to England, and lodged in
+St. Paul’s Cathedral by a party of life guards and foot guards on
+the 17th of May. Thus the British flag waved a second time over
+Martinique, the island having been captured by the English in
+1762, but restored to France by the peace of Fontainebleau in the
+following year.
+
+In these successes of the British arms, in which the SEVENTIETH
+regiment had the honor to share, the commander of the expedition
+stated--“The spirit, unanimity, and perseverance of the navy and
+army never were more conspicuous; nor has more cordial co-operation
+ever been manifested between His Majesty’s naval and land forces.
+In a word, the general and field officers, and the commanding
+officers of corps, have set such an example of zeal, activity, and
+animation in this service, which has been so laudably imitated by
+all the officers and soldiers of this little army, that they merit
+the greatest praise.”
+
+[Sidenote: 1795]
+
+Having sustained severe loss from the climate of the West Indies,
+the SEVENTIETH regiment returned to Europe in May, 1795; it was
+speedily recruited, and embarked for Gibraltar under the orders of
+Lieut.-Colonel Coote.
+
+[Sidenote: 1796]
+
+[Sidenote: 1800]
+
+The regiment performed garrison duty at Gibraltar until February,
+1800, when it embarked for the West Indies; six companies,
+commanded by Lieut.-Colonel Arthur Wolfe, arrived at their
+destination, and were stationed at Trinidad. The vessel containing
+four companies, under Lieut.-Colonel Nichol, sprung a leak at sea,
+and put into Lisbon harbour, from whence they were ordered to
+proceed to the island of Jersey.
+
+[Sidenote: 1801]
+
+The six companies, which had proceeded to the West Indies, arrived
+at Jersey in May, 1801, and the regiment proceeded to Dover. It was
+one of the regiments forming the army of observation at Shornecliff
+camp under Major-General (afterwards Sir John) Moore.
+
+[Sidenote: 1802]
+
+[Sidenote: 1803]
+
+[Sidenote: 1804]
+
+[Sidenote: 1805]
+
+Peace was concluded with France in 1802; but hostilities were
+resumed in 1803, and in the autumn of the same year the regiment
+again embarked for the West Indies, under Lieut.-Colonel Andrew
+Ross. It arrived at its destination in December, and was stationed
+at the island of Antigua during the years 1804 and 1805.
+
+[Sidenote: 1806]
+
+In June, 1806, the head-quarters were removed to St. Christopher,
+leaving two companies at Antigua, under Lieut.-Colonel Lewis Grant,
+for one month, and they afterwards joined the regiment.
+
+[Sidenote: 1807]
+
+The policy of the Court of Denmark having become favourable to the
+interests of the French, that country became involved in war with
+Great Britain, in 1807, and in December of that year a detachment
+of the SEVENTIETH regiment, under Lieut.-Colonel Ross, embarked
+from St. Christopher with the expedition, under General Henry
+Bowyer, against the Danish islands of _St. Thomas_ and _St. John_,
+which surrendered to the British arms without firing a shot. The
+regiment followed the detachment soon afterwards, and was stationed
+at the island of St. Thomas.
+
+[Sidenote: 1808]
+
+[Sidenote: 1809]
+
+During the years 1808 and 1809 the regiment was stationed at the
+island of St. Thomas and its dependencies.
+
+[Sidenote: 1810]
+
+In 1810 the flank companies of the regiment were selected to form
+part of an expedition, under Lieut.-General Sir George Beckwith,
+K.B., against the island of _Guadaloupe_, which had been restored
+to the French at the peace of Amiens. The expedition arrived before
+the island in January, 1810. The troops employed on this service
+were formed into two divisions of two brigades in each: on the 30th
+of January, Major-General (afterwards Sir Thomas) Hislop reported,
+that the enemy having retained possession of the sea-batteries
+commanding the anchorage in the Grande Aine, from which they
+continued to fire on the British men of war, the Light Company
+of the SEVENTIETH regiment was sent to dislodge them, which was
+instantly effected, the party of the enemy escaping along shore.
+The conquest of this important settlement was accomplished in nine
+days; the Governor, Captain-General Ernouf, surrendering the colony
+and its dependencies to the British arms, by articles dated the 6th
+of February.
+
+In June of the same year, the officers, non-commissioned officers,
+and drummers of four companies proceeded to Europe, in order to
+replace the casualties arising from a long course of colonial
+service, and formed a recruiting depôt, which was established at
+Ayr, in Scotland, under the orders of Colonel Andrew Ross. This
+officer was placed on the Staff of the army in the following year,
+and proceeded to Cadiz, from whence he was removed to Carthagena,
+where he died of an illness brought on by fatigue and service: he
+attained the rank of Major-General before his decease.
+
+[Sidenote: 1811]
+
+From Ayr the depôt was removed, in 1811, to Stirling Castle, under
+Lieut.-Colonel Grant.
+
+[Sidenote: 1812]
+
+The regiment was relieved from duty in the West Indies in the
+early part of 1812, and, returning to Europe, joined the depôt at
+Stirling Castle, in April and June of that year.
+
+On the 22nd of October, 1812, the Prince Regent, in the name and on
+the behalf of His Majesty, was pleased to approve of the SEVENTIETH
+being styled the GLASGOW LOWLAND REGIMENT.
+
+[Sidenote: 1813]
+
+From Stirling Castle the regiment marched in January, 1813, to
+Montrose, to assist the magistrates in suppressing riots: in
+February it proceeded to Perth, and performed duty over French
+prisoners about four months.
+
+In July the regiment proceeded to Ireland, where it only remained
+a few days, before it received orders to embark for Canada, to
+reinforce the British troops in that country in consequence of
+the war between Great Britain and the United States. The regiment
+embarked from Cork, on the 31st of August, under Major MacGregor,
+and, arriving in Lower Canada in November, was stationed at Quebec.
+
+[Sidenote: 1814]
+
+Lieut.-General the Honorable Sir Galbraith Lowry Cole, K.B., was
+appointed Colonel of the SEVENTIETH regiment, from the 103rd foot,
+in January, 1814, in succession to General the Earl of Suffolk, who
+was removed to the forty-fourth regiment.
+
+After performing garrison duty at Quebec eight months, the regiment
+proceeded to Montreal, from whence it was removed to Cornwall
+in Upper Canada, and in August it was brigaded with the ninth,
+sixteenth, and fifty-seventh, under Colonel Grant, on the line of
+communication from Montreal to Kingston in Upper Canada.
+
+[Sidenote: 1815]
+
+Peace was concluded with the United States in 1815, and in June
+of that year the SEVENTIETH regiment was ordered to proceed to
+Kingston.
+
+[Sidenote: 1816]
+
+Lieut.-General Sir G. Lowry Cole was removed to the thirty-fourth
+regiment in May, 1816, and was succeeded in the colonelcy
+of the SEVENTIETH by Lieut.-General Forbes Champagné, from
+colonel-commandant of a battalion of the Rifle Brigade.
+
+During this year the regiment remained at Kingston, and
+Lieut.-Colonel Thomas Evans, C.B., assumed the command in August.
+
+Lieut.-General Champagné died in the autumn of the year 1816,
+and the colonelcy of the regiment was conferred on Major-General
+Sir Kenneth Alexander Howard, K.C.B., afterwards Lord Howard of
+Effingham.
+
+[Sidenote: 1817]
+
+In April, 1817, the regiment was removed, under the command of
+Colonel Grant, to Fort George, Drummond’s Island, Amherstburg, the
+posts on the Niagara frontier, and York, now called Toronto.
+
+[Sidenote: 1819]
+
+[Sidenote: 1820]
+
+The regiment was removed to Kingston, in June, 1819, and was
+stationed at that place, under the command of Lieut.-Colonel
+MacGregor; in November, 1820, Colonel Ottley arrived and assumed
+the command of the regiment.
+
+[Sidenote: 1821]
+
+[Sidenote: 1822]
+
+From Kingston the regiment was removed in May, 1821, to Quebec, and
+in May, 1822, Colonel Ottley proceeded to Europe on leave, when the
+command again devolved on Lieut.-Colonel MacGregor.
+
+[Sidenote: 1823]
+
+[Sidenote: 1824]
+
+The regiment continued to occupy quarters in Canada during the
+years 1823, 1824, 1825, and 1826.
+
+[Sidenote: 1825]
+
+[Sidenote: 1826]
+
+In 1825 the SEVENTIETH was permitted to resume the County title of
+the SURREY regiment, conferred upon it in 1782, and to discontinue
+the title of the Glasgow Lowland regiment.
+
+[Sidenote: 1827]
+
+In the summer of 1827 the regiment was relieved from duty in
+Canada, and returning to Europe, arrived in Ireland in September;
+it was stationed in that country six years.
+
+[Sidenote: 1832]
+
+The Earl of Effingham was removed to the third foot in 1832, and
+the colonelcy of the SEVENTIETH was conferred on Lieut.-General
+Gage John Hall, from the ninety-ninth regiment.
+
+[Sidenote: 1834]
+
+After occupying various stations in Ireland until the spring of
+1834, the regiment was divided into six service, and four depôt
+companies. The service companies embarked at Cork in March and
+April, for Gibraltar, where they were stationed two years.
+
+[Sidenote: 1835]
+
+In 1835, the depôt companies were removed from Ireland to South
+Britain, and were afterwards stationed at the island of Guernsey.
+
+[Sidenote: 1836]
+
+On the 16th of June, 1836, the service companies embarked at
+Gibraltar for Malta, where they landed on the 3rd of July.
+
+[Sidenote: 1838]
+
+The service companies remained at Malta until January, 1838, when
+they embarked for the West Indies, and were stationed at Barbadoes.
+
+In September of the same year the depôt companies returned to
+Ireland. Previously to the depôt companies quitting Guernsey,
+the following testimonial of the Royal Court of the Island was
+presented to Major White, complimentary of that portion of the
+regiment:--
+
+
+        “_Court-house, Guernsey, 24th August, 1838._
+
+  “SIR,--To mark their high sense of the very meritorious conduct
+  of the depôt of the 70th regiment, under your command, the
+  Royal Court have passed, and entered on the public records, an
+  Act, which will convey to the latest posterity the grateful
+  remembrance of the inhabitants, of the honorable bearing of the
+  regiment since its arrival in this island. I have now the honor
+  to enclose a copy of that Act, under the seal of the bailiwick,
+  and to express the pleasure I feel in transmitting such a
+  testimonial of the esteem and consideration of the Court for the
+  regiment, knowing it to be so well merited.
+
+  “It only remains for me, in conformity with that Act, and in the
+  name of the Royal Court, to thank you, Major White, and, through
+  you, the officers, non-commissioned officers, and privates of the
+  70th regiment, for the uniform tenor of your and their conduct,
+  as honorable to the regiment, and as conducive to the peace and
+  harmony of the island. The good wishes of the inhabitants of
+  Guernsey will accompany the 70th at all times and in all places.
+
+        “I have the honor to be, Sir,
+        “Your very obedient humble servant,
+        “DANIEL DE LISLE BROCK,
+        “Bailiff of Guernsey.
+
+  “To Major White, commanding the depôt
+    of the 70th regiment, in Guernsey, &c.”
+
+
+  “_Island of Guernsey. The 23rd of August, 1838, before Daniel De
+  Lisle Brock, esq., Bailiff; present, John Guille, James Cary,
+  John Hubert, esqrs., Sir William Collings, knight, Hillary O.
+  Carré, Peter Bonamy, Dobrée Thomas, William Gosselin, Thomas Le
+  Retilley, and Harry Dobrée, esqrs., Jurats._
+
+  “The Royal Court specially assembled, advised of the approaching
+  departure of the depôt of the 70th regiment, deem it right to
+  express how much they have been flattered and gratified by their
+  honorable conduct during the time they have been in garrison in
+  this island,--conduct so honorable, that a simple letter from
+  the President would be inadequate to render the regiment the
+  justice that is due, were it not accompanied by an authentic
+  Act extracted from the insular archives. In consequence, the
+  Court, after having heard the opinions of the Crown Lawyers, have
+  unanimously framed the present Act, to record publicly their
+  esteem and thanks to Major White, the officers, non-commissioned
+  officers, and soldiers of the regiment, for their discipline,
+  good order, and the manner in which they have contributed
+  to maintain a good understanding between themselves and the
+  inhabitants.
+
+        “CHARLES LEFEBVRE,
+            Her Majesty’s Greffier.”
+
+“In testimony of the above, the seal of the bailiwick of the said
+island of Guernsey is affixed to this present Act.
+
+        “DANIEL DE LISLE BROCK,
+            Bailiff of the island of Guernsey.
+
+        “P. B. DOBRÉE,      }
+        “THOMAS LE RETILLEY }  Jurats.”
+
+
+[Sidenote: 1841]
+
+From Barbadoes the service companies were removed, in May, 1841,
+to Canada, and landed at Montreal in June. On their embarkation
+for North America, Lieutenant-General Maister, commanding in the
+West Indies, issued the following General Order, expressive of his
+approbation of the appearance of the Regiment:--
+
+  “The Lieutenant-General was much gratified with his Inspection of
+  the SEVENTIETH regiment this morning (1st May, 1841) on board Her
+  Majesty’s troop-ship Sapphire.
+
+  “The appearance of the men on board, as well as of the two
+  companies which the Lieutenant-General had an opportunity
+  of seeing on shore previous to their embarkation, reflects
+  much credit upon Major White, the officers, non-commissioned
+  officers, and soldiers of the corps; and although the
+  Lieutenant-General had not the opportunity of making his
+  Inspection so minutely as he could have desired, he is most
+  willing to believe, that, had he done so, it would have added to
+  the satisfaction he has experienced.”
+
+
+[Sidenote: 1842]
+
+[Sidenote: 1843]
+
+The service companies were stationed in Canada during the year
+1842. In May, 1843, they embarked at Quebec for England, under
+the command of Lieut.-Colonel Joseph Kelsall, in Her Majesty’s
+troop-ship Resistance; and, landing at Portsmouth on the 24th of
+June, were afterwards joined by the depôt companies from Ireland.
+Previous to leaving Canada seventy-two men of the SEVENTIETH
+volunteered for permanent service to other regiments stationed in
+North America. The regiment was moved from Portsmouth, in September
+following, to Manchester, from whence it marched to Leeds in
+October, with detached companies to Bradford, Sheffield, Halifax,
+Huddersfield, and Keighley.
+
+[Sidenote: 1844]
+
+Lieutenant-Colonel Joseph Kelsall retired on full pay on the 23rd
+February, 1844, and was succeeded by Major Edward James White, who
+was promoted to the rank of lieutenant-colonel.
+
+In October, 1844, the regiment returned to Manchester, where it
+remained till April following.
+
+[Sidenote: 1845]
+
+In April, 1845, the regiment proceeded to Ireland and was stationed
+at Newry, from whence it marched in September to Dublin. On the
+30th December, 1845, Lieut.-Colonel E. J. White retired on full
+pay, and Major Thomas Reed was promoted to the lieutenant-colonelcy
+of the regiment.
+
+[Sidenote: 1846]
+
+The regiment was removed from Dublin to Templemore in August, 1846.
+
+[Sidenote: 1847]
+
+On the 1st April, 1847, the regiment was augmented to an
+establishment of 57 serjeants, 21 drummers, and one thousand rank
+and file. Major William Matthew Bigge was promoted to the rank of
+lieutenant-colonel on the 23rd April, 1847, on the retirement of
+Lieut.-Colonel Reed.
+
+[Sidenote: 1848]
+
+Events in the East Indies having rendered reinforcements necessary,
+the sixty-fourth, SEVENTIETH, and eighty-third regiments have
+been selected for embarkation for India,--the SEVENTIETH being
+ordered to proceed to the Bengal Presidency, where the regiment may
+probably have an opportunity of distinguishing itself in a more
+signal, though not less useful, manner than a long tour of Colonial
+Service has afforded.
+
+       *       *       *       *       *
+
+The foregoing statement of the services of the SEVENTIETH regiment
+shows the long, and unavoidable, detention of the corps on West
+India service, and that such was the cause of its not having had
+an opportunity of sharing in the splendid victories obtained by
+other regiments which were engaged in the Continental wars:--While
+the regiment was employed in an apparently inactive state on
+Colonial duty, the Government, and the Commander-in-Chief, were
+enabled to send other disposable regiments to combat the enemy in
+the Peninsula, and on various expeditions in Europe; the conquered
+Islands in the West Indies were consequently entrusted to a few
+corps, of which the SEVENTIETH regiment was one, and on which full
+reliance could be placed by the Sovereign, and by the Country.
+
+
+1848.
+
+
+[Illustration: SEVENTIETH REGIMENT (Colours and Costume)]
+
+
+
+
+SUCCESSION OF COLONELS
+
+OF THE
+
+SEVENTIETH,
+
+OR
+
+THE SURREY REGIMENT OF FOOT.
+
+
+JOHN PARSLOW,
+
+_Appointed 28th April, 1758_.
+
+JOHN PARSLOW was many years an officer in the First Regiment of
+Foot Guards, in which corps he rose to the rank of captain and
+lieut.-colonel on the 18th of May, 1747. In 1758 King George II.
+conferred upon him the colonelcy of the SEVENTIETH regiment, from
+which he was removed, in 1760, to the Fifty-fourth regiment. He
+was promoted to the rank of major-general in 1761, to that of
+lieut.-general in 1770, and of general in 1782. He was removed to
+the Thirtieth regiment in April, 1770. He died at Bath on the 15th
+of November, 1786.
+
+
+CYRUS TRAPAUD,
+
+_Appointed 10th July, 1760_.
+
+CYRUS TRAPAUD, descended from a family of distinction in France,
+was related to Marshal Turenne and other noblemen in that country:
+his father was a Protestant, and was forced by persecution to seek
+an asylum in England. Cyrus Trapaud entered the British army, and
+was many years an officer in the Buffs. He accompanied his regiment
+to the Netherlands in 1742, served at the battle of Dettingen
+in 1743, and of Fontenoy in 1745. Returning to Great Britain
+in the same year, he served, in 1746, at the battles of Falkirk
+and Culloden. In 1747 he again proceeded to the Netherlands, and
+served at the battle of Val. On the 3rd of February, 1750, he
+was appointed lieut.-colonel of the Buffs, and commanded that
+regiment in the expedition to the coast of France, in 1757. He
+served at the attack of Martinique, and commanded a brigade at the
+reduction of Guadaloupe in 1759. In 1760 he was rewarded with the
+colonelcy of the SEVENTIETH regiment; he was promoted to the rank
+of major-general in 1762, and to that of lieut.-general in 1772;
+was removed to the Fifty-second regiment in 1778, and promoted
+to the rank of general in 1783. He was conspicuous for courage,
+and for the exact performance of every duty both of public and
+private life, united with a kind and gentlemanly deportment, which
+procured him the esteem of all who knew him. He lived to be the
+senior general in the army, and dying on the 3rd of May, 1801, was
+buried with military honors at Chelsea, many distinguished persons
+attending his funeral.
+
+
+WILLIAM TRYON,
+
+_Appointed 14th May, 1778_.
+
+This Officer served many years in the First Foot Guards, in which
+corps he was promoted to the rank of captain and lieut.-colonel
+in 1758; in May, 1772, he was advanced to the rank of colonel,
+and in 1776 he was nominated major in his regiment. He was
+appointed governor of the state of North Carolina, where he
+evinced great zeal and ability in suppressing the rising seeds of
+insurrection, and he conciliated the loyal British subjects. Being
+afterwards called to the government of New York, his abilities
+were conspicuously displayed there during the American War of
+Independence. He raised a body of Provincials for the King’s
+service, and evinced gallantry in several military services,
+particularly in the expedition to Danbury in the spring of 1777.
+He was promoted to the rank of major-general in the same year, and
+to that of lieut.-general in 1782. In 1778 he was rewarded with
+the colonelcy of the SEVENTIETH regiment, and was removed to the
+Twenty-ninth in 1783. He died in 1788.
+
+
+JOHN, EARL OF SUFFOLK,
+
+_Appointed 16th August, 1783_.
+
+JOHN HOWARD was page to His Royal Highness the Duke of Cumberland,
+and entered the army as ensign in the First Foot Guards, on the
+13th of June, 1756; he was promoted to the rank of captain and
+lieut.-colonel in 1773. In 1782 he was nominated colonel of the
+Ninety-seventh regiment, afterwards disbanded; he succeeded to
+the dignity of EARL OF SUFFOLK in 1783, and was removed to the
+SEVENTIETH regiment in the same year. He was promoted to the rank
+of major-general in 1787, to that of lieut.-general in 1797, and
+of general in 1802. In 1814 he was removed to the Forty-fourth
+regiment. He was many years governor of Londonderry and of Calmore
+fort. His Lordship died in 1820.
+
+
+THE HONORABLE SIR GALBRAITH LOWRY COLE, K.B.,
+
+_Appointed 12th January, 1814_.
+
+THE HONORABLE GALBRAITH LOWRY COLE entered the army in March, 1787,
+and after serving in the subordinate commissions, was advanced
+to the rank of major in 1793, when the struggle between Great
+Britain and the revolutionists of France had commenced; and the
+progress of the eventful contest which followed, afforded him
+opportunities for the display of those professional abilities
+which he possessed. In 1794 he was appointed lieut.-colonel in
+Ward’s regiment, afterwards disbanded; and in 1799 he was nominated
+lieut.-colonel in General Villette’s corps, afterwards disbanded;
+in 1801 he obtained the rank of colonel. He served in the island
+of Sicily, as brigadier-general, and commanded the first brigade
+at the battle of Maida on the 4th of July, 1806; Major-General Sir
+John Stuart, afterwards Count of Maida, bore testimony, in his
+public despatch, to the gallant conduct of Brigadier-General the
+Hon. G. L. Cole on that occasion, which reflected lustre on the
+British arms. In 1808 he was promoted to the rank of major-general.
+His services were afterwards extended to the Peninsula, where
+he commanded a division during the campaigns from 1810 to the
+overthrow of Napoleon, Emperor of France, and the restoration of
+the Bourbon dynasty in 1814. His distinguished services during
+those campaigns are blended with the military annals of the
+Peninsula, and the public despatches of the Duke of Wellington
+bear testimony of his excellent conduct during many difficult
+operations, severely contested battles, and sieges. He received the
+local rank of lieut.-general in Spain and Portugal in 1810; was
+appointed colonel of the 103rd regiment in 1812; and obtained the
+rank of lieut.-general in 1813. He was nominated a Knight of the
+most Honorable Military Order of the Bath, and on the extension of
+that order, in 1815, he received the decorations of Knight Grand
+Cross of the Bath. In commemoration of his distinguished services
+in Sicily, Portugal, Spain, and the South of France, he received
+the distinction of a cross and four clasps, for the battles of
+Maida, Albuhera, Salamanca, Vittoria, Pyrenees, Nivelle, Orthes,
+and Toulouse. In 1814 he was removed to the SEVENTIETH regiment;
+in 1816 to the Thirty-fourth; and in 1826 to the Twenty-seventh
+regiment. He was appointed governor of Gravesend and Tilbury Fort;
+and in 1830 promoted to the rank of general. He died in 1842.
+
+
+FORBES CHAMPAGNÉ,
+
+_Appointed 21st May, 1816_.
+
+This officer was appointed ensign in the Fourth foot in 1773; he
+was stationed at Boston when the American war commenced, and was
+engaged at Lexington on the 19th of April, 1775. He was promoted to
+the rank of lieutenant in the same year, and attached to the first
+light battalion, with which he served in 1776, at the descent on
+Long Island, battle of Brooklyn, capture of New York, action at
+Frog’s Neck, capture of Fort Washington, and capture of New Jersey.
+In 1777 he served in the expedition to Pennsylvania, and was at the
+battles of Brandywine and Germantown: and in the march through the
+Jerseys, in 1778, he was engaged at Freehold. He was promoted to
+captain in the Twenty-third regiment in 1779, and was removed to
+the mounted light infantry in 1780. He served in the expedition to
+South Carolina, was at the siege of Charleston, at the battles of
+Camden, and Guildford Court-house, and in all the actions in which
+the troops under Major-General the Earl Cornwallis were engaged, in
+the two Carolinas and in Virginia, ending with the capitulation of
+York Town. He returned to England at the end of the war. In 1793 he
+was appointed major, and afterwards lieut.-colonel of the Eightieth
+regiment, with which corps he served in the Netherlands at the
+siege of Nimeguen, and during the winter campaign of 1794-5 in
+Holland. In 1795 he was removed to the Twentieth foot, and in 1797
+was promoted to the rank of colonel. He served as brigadier-general
+in Ireland, during the rebellion in 1798, and in 1799 in the
+expedition to Holland. In 1800 he was placed on the staff of the
+south-west district; and was promoted to the rank of major-general
+in 1803. In 1806 he was nominated to the command of the western
+district, and to the colonelcy of the Eighth Garrison Battalion.
+In May, 1807, he was placed on the staff in the East Indies,
+where he served some time. He was appointed colonel-commandant of
+a battalion of the Rifle Brigade in 1809,--promoted to the rank
+of lieut.-general in 1810, and removed to the colonelcy of the
+SEVENTIETH regiment, in May, 1816. He died on the 22nd of October,
+1816.
+
+
+SIR KENNETH ALEXANDER HOWARD, G.C.B.,
+
+afterwards
+
+LORD HOWARD, EARL OF EFFINGHAM,
+
+_Appointed 24th October, 1816_.
+
+This officer entered the army, as ensign in the second (Coldstream)
+foot guards, on the 21st April, 1786, and on the 25th February,
+1793, embarked for Flanders, and served during the campaign in
+that country; on the 25th April, 1793, he obtained a lieutenancy,
+and on the 1st September the adjutancy. He continued to serve with
+his regiment on the Continent till May, 1795, when the troops
+returned to England. He was wounded at the battle of St. Amand;
+and was present at the siege and capture of Valenciennes, action
+of Lincelles, and siege of Dunkirk. On the 30th of December, 1797,
+he was promoted to a captain-lieutenancy; and to a company on the
+25th of July, 1799. On the 13th of June, 1793, he was appointed
+major of brigade to the foot guards sent to Ireland, where he
+served during the whole of the rebellion. In August, 1799, he
+served in the same capacity with the expedition to Holland, and
+was present in all the actions. On the 1st of July, 1801, he
+was deputed to act as inspector-general of foreign corps during
+the absence from England of Colonel W. Clinton; and on that
+officer’s return he was appointed on the 25th of February, 1802,
+deputy inspector-general of foreign corps; on that office being
+abolished, he was nominated commandant of the foreign depôt. On
+the 1st of January, 1805, he was appointed Aide-de-Camp to the
+King, and received the rank of colonel; on the 4th of August,
+1808, second major in his regiment; and on the 25th of July, 1810,
+major-general. He joined the army in the Peninsula on the 9th of
+January, 1811, and was appointed to the command of a brigade in the
+first division, and was present with it at the action at Fuentes
+d’Onor on the 5th of May; he was afterwards transferred with his
+brigade to the second division, the command of which he held, as
+senior officer, from July, 1811, to April, 1812; he commanded the
+right column at the action of Arroyo dos Molinos; stormed and took
+with part of his brigade the forts Napoleon and Ragusa at Almaraz.
+In November, 1812, he was appointed to the command of the first
+brigade of foot guards in the first division, and in June, 1813,
+to the command of the division, which he held until the end of the
+Peninsular war in 1814, being present at the battle of Vittoria,
+attack on Tolosa, passage of the Bidassoa, Nivelle, Nive, and
+Adour; investment of Bayonne, and repulse of the sortie, besides
+various minor actions. Major-General Howard received a medal and
+one clasp for Vittoria and Nive. He was subsequently appointed
+Lieutenant-Governor of Portsmouth,--a Knight Companion of the
+Most Honorable Military Order of the Bath,--and, on the 24th of
+October, 1816, he was appointed by the Prince Regent, in the name,
+and on the behalf, of His Majesty King George III., Colonel of
+the SEVENTIETH regiment. He succeeded Richard, the late Earl of
+Effingham, in the Barony, when the earldom became extinct, on the
+11th of December, 1816. On the 12th of August, 1819, Lord Howard
+of Effingham was advanced to the rank of lieut.-general, and on
+the 17th of March, 1820, was nominated a Knight Grand Cross of
+the Order of the Bath. On the 30th of January, 1832, his Lordship
+was removed from the SEVENTIETH regiment to the Third foot, or
+the Buffs. On the 10th of January, 1837, his Lordship was further
+advanced to the rank of general, and on the 21st of that month was
+created, by His Majesty King William IV., Earl of Effingham.
+
+His Lordship’s decease occurred at Brighton on the 13th February,
+1845.
+
+
+GAGE JOHN HALL,
+
+_Appointed 30th January, 1832_.
+
+
+
+
+  LONDON: PRINTED BY W. CLOWES AND SONS, STAMFORD STREET,
+  FOR HER MAJESTY’S STATIONERY OFFICE.
+
+
+
+
+  TRANSCRIBER’S NOTE
+
+  Obvious typographical errors and punctuation errors have been
+  corrected after careful comparison with other occurrences within
+  the text and consultation of external sources.
+
+  Except for those changes noted below, all misspellings in the text,
+  and inconsistent or archaic usage, have been retained.
+
+  Pg xxiii: (ToC) added page number ‘ix’ to INTRODUCTION entry.
+  Pg 6: ‘Great Britian’ replaced by ‘Great Britain’.
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK HISTORICAL RECORD OF THE SEVENTIETH,
+OR, THE SURREY REGIMENT OF FOOT :  CONTAINING AN ACCOUNT OF THE FORMATION
+OF THE REGIMENT IN 1758, AND OF ITS  SUBSEQUENT SERVICES TO 1848 ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

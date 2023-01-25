@@ -1,0 +1,2009 @@
+﻿The Project Gutenberg eBook of Cholera and the Water Supply, by John Snow
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Cholera and the Water Supply
+       In the south districts of London in 1854
+
+Author: John Snow
+
+Release Date: October 10, 2021 [eBook #66507]
+
+Language: English
+
+
+Produced by: Richard Tonsing and the Online Distributed Proofreading Team
+             at https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK CHOLERA AND THE WATER SUPPLY ***
+
+
+
+
+                                CHOLERA
+                                AND THE
+                              WATER SUPPLY
+                                 IN THE
+                   SOUTH DISTRICTS OF LONDON IN 1854.
+
+
+                                   BY
+                            JOHN SNOW, M.D.
+
+
+   _Reprinted from the_ JOURNAL OF PUBLIC HEALTH _for October 1856_.
+
+
+                                LONDON:
+             PRINTED BY T. RICHARDS, 37, GT. QUEEN STREET.
+
+
+
+
+In the summer of 1849, I published certain conclusions at which I have
+arrived with regard to Asiatic cholera, and the facts and reasonings
+which had led to them. The following is a very brief outline of these
+views. The cholera commences as an affection of the alimentary canal,
+and not with general illness; there is no evidence of poisoning of the
+blood in this disease, except in some cases where secondary fever
+occurs; there is conclusive evidence that cholera may be communicated
+from person to person, and it follows, therefore, that the morbid matter
+which produces the disease is applied to the interior of the alimentary
+canal, where it increases and multiplies during the period of so-called
+incubation, and passes off, during the attack, to cause fresh cases when
+suitable opportunities occur. Various circumstances connected with the
+propagation of cholera seemed in accordance with the above view of its
+pathology. Thus, it was observed to pass frequently from person to
+person in the crowded habitations of the poor, who eat, drink, cook, and
+sleep in the same apartment, and pay little or no regard to cleanliness,
+who live, in fact, under circumstances where the sudden and copious
+evacuations of cholera, soiling the bed and body linen, would not fail
+to contaminate the hands of the patient and his attendants, and be
+thence transferred to any food they might touch. The absence of colour
+and odour in the evacuations could not help to favour this result. The
+social visitor who came to see the poor patient, or attend his funeral,
+frequently suffered, whilst the medical man, and others who partook of
+no food in the apartment, and who washed their hands when requisite,
+escaped. The mining districts of this country have suffered excessively
+from cholera in each epidemic, an event which might be explained by the
+following circumstances when taken in connexion with the above view of
+the cause of the disease. The miners stay eight or nine hours at a time
+in the pits, and take food with them, which they eat invariably with
+unwashed hands, and without knife and fork, whilst the pits are without
+privies, and are generally extremely foul and dirty. The entire absence
+of daylight must also cause the workmen to take much more dirt with
+their food than they are aware of. It occurred to me, as soon as I began
+to entertain the above opinions, that if the cholera excreta could
+reproduce the disease in the way just mentioned, they might also do so
+when diffused in water taken as drink, and that unless this were the
+case, the whole of the phenomena of cholera, as an epidemic, could not
+be explained. I, therefore, sought anxiously, and waited patiently, for
+some confirmation of this part of the subject before I should make my
+views known. Two outbreaks of cholera occurred, however, about the end
+of July 1849, one in Horsleydown, and the other in the Wandsworth Road,
+which I investigated, and which afforded what I considered conclusive
+evidence on the subject. The water drank by the persons attacked in each
+of these outbreaks had received, amongst other impurities, what must
+have come from a patient previously ill of the disease. I was able also
+to point out that the cholera was prevailing most in those districts of
+the metropolis which received their supply of water from certain parts
+of the Thames which contained the sewage of the town, and, consequently,
+whatever proceeded from the cholera patients. Before the end of 1849 I
+was able to show that a very close connexion existed between the
+mortality from cholera and the nature of the water supply, not only in
+London, but throughout the country. This connexion was very evident in
+certain towns, as Exeter and Hull, where the supply of water had been
+changed between the epidemic of 1832 and that of 1849. Where a polluted
+supply was changed for an unpolluted one, the cholera was almost
+prevented; and where a scanty but unpolluted supply had been changed for
+one contaminated with the sewage of the town, the epidemic prevailed to
+a fearful extent. The attention of Dr. Wm. Budd and Dr. Farr was
+directed to this subject, with the result of confirming what I had
+stated.
+
+Between the epidemics of 1849 and that of 1853, one of the water
+companies supplying the south districts of London changed its source of
+supply from the middle of the town, near the foot of the Hungerford
+Suspension Bridge, to Thames Ditton, at a part of the river which is
+beyond the influence of the tide, and, therefore, out of reach of the
+sewage of the metropolis. In the autumn of 1853 it was shown by Dr.
+Farr[1] that the districts partly supplied by this, the Lambeth Water
+Company, with improved water, suffered less than the districts supplied
+entirely by the Southwark and Vauxhall Company with the water from the
+river at Battersea Fields, although in 1849 they had suffered rather
+more than the latter districts. By showing the water supply in
+subdistricts, and thus getting a more correct line of demarcation, I was
+able to point out[2] that the advantage in favour of the population
+partly supplied with the purer water was even greater than Dr. Farr had
+indicated.
+
+I had learnt from the evidence of Mr. Quick in the _Health of Towns
+Reports_, that the division of the houses, between the Lambeth Company
+on the one hand, and the Southwark and Vauxhall Company on the other,
+was not such as obtains in the north districts of London, where a parish
+is often divided between two water companies, but where one company
+always leaves off at the point at which the other begins. Throughout the
+greater part of Lambeth and Southwark, the whole of Newington, and a
+part of Camberwell, however, the supply of the two companies above
+mentioned is actually intermixed, the pipes of both companies going down
+the same streets, in consequence of the active competition which once
+existed between three water companies, two of which have since
+amalgamated and come to an agreement with the other—the Lambeth company.
+Observing, therefore, when the cholera returned in 1854, that there was
+the same advantage in favour of the districts partly supplied with water
+from Thames Ditton, I determined to make an inquiry, the idea of which I
+had previously entertained. It was obvious that, if the diminished
+mortality depended on the improved supply of water, the benefit of the
+whole diminution would be enjoyed by the inhabitants of houses having
+this supply, whilst the population receiving impure water would suffer
+as much as that of the districts which received the same water, and no
+other. This point could be determined by ascertaining the water supply
+of every house in which a fatal attack of cholera might occur. After
+commencing the inquiry I found that the circumstances were calculated
+for affording even more conclusive evidence than I had anticipated. The
+pipes of the two water companies not only passed down all the streets,
+but into nearly all the courts and alleys. A single house often had a
+different supply from that on either side. Each water company supplied
+alike both rich and poor, and thus there was a population of 300,000
+persons, of various conditions and occupations, intimately mixed
+together, and divided into two groups by no other circumstance than the
+difference of water supply. One group supplied with water contaminated,
+to a large extent, with the sewage of London, and the other receiving a
+supply altogether free from such impurity.
+
+I took great care to ascertain the nature of the water supply correctly
+in every instance. I did not rest content with the mere reply of the
+resident, or the appearance of the water, without other evidence, such
+as the production of the receipt for the water rate. I was also assisted
+very much by the application of a chemical test to the water, for
+throughout all the dry weather, which lasted whilst my inquiries were
+being made, a mixture of sea water extended further up the Thames than
+usual, and the water of the Southwark and Vauxhall Company contained
+nearly forty grains of common salt per gallon, whilst that of the
+Lambeth Company contained only ·95 of a grain. These analyses were
+verified in numerous cases where the source of the water could be proved
+clearly by other evidence. For the first four weeks of the epidemic I
+employed the list of deaths from cholera published in the Weekly Returns
+of the Registrar-General, and for the next three weeks, during which my
+inquiry extended, I was kindly permitted to copy the addresses of
+persons dying of cholera at the General Register Office. My personal
+inquiry extended over every subdistrict to which the supply of the
+Lambeth Water Company extended, and it, therefore, included all the area
+in which the supply of the two companies was intermixed in the manner
+explained above.
+
+At the time I was making my inquiry, the entire number of houses
+supplied by each water company was known, from a return made to
+Parliament, but the number of houses supplied in each district and
+subdistrict by each company respectively was not known. In order,
+therefore, to see the exact bearing of my results, I found it desirable
+to extend the inquiry over the districts supplied exclusively by the
+Southwark and Vauxhall Company; for this purpose I obtained the
+assistance of Mr. Whiting, a medical man, who took great pains with his
+part of the inquiry, which was merely to ascertain whether the houses in
+which fatal attacks had taken place were supplied by the Southwark
+Company, or from some other source, as a pump well or tidal ditch. His
+inquiry extended over the first four weeks of the epidemic.
+
+I gave a copy of the first results of my inquiry to Dr. Farr, to whom I
+was indebted for facilities very kindly afforded: and Dr. Farr being
+much struck with these results, instituted a continuance of the inquiry
+through the district registrars, who were requested to make a return of
+the supply of water to each house in which a fatal attack of cholera
+might occur in all the south districts of London. As the registrars
+could not be expected to make a chemical analysis of the water, or to
+seek out the landlord or agent in cases where the tenant was not
+acquainted with the water supply, the question remained unanswered in a
+considerable number of instances, but the return was obtained for more
+than three-fourths of the deaths, and shows, no doubt, the correct
+proportion. Dr. Farr’s inquiry commenced from the 27th of August, and
+extended to the close of the epidemic; and as my inquiry extended to
+August 26th, the water supply was obtained for the whole epidemic of
+1854. It was only necessary to make a computation of the small number of
+attacks occurring in houses supplied by pump wells or some other source,
+in the three weeks—the 5th to the 7th inclusive—of the epidemic, in
+Bermondsey and the other districts which do not receive the Lambeth
+water. This computation was made according to the result ascertained in
+the previous four weeks, and must approach very nearly to the truth.
+
+In treating of the general results of this inquiry, it is desirable to
+divide the epidemic into different periods, as the influence of the
+water supply was found to diminish in relative intensity as the epidemic
+progressed. In the first four weeks of the epidemic of 1854, that is,
+from July 9th to August 5th inclusive, there were 334 deaths from
+cholera in the districts to which the supply of the two water companies
+we are considering extends. The water supply in every one of these
+instances was made a matter of personal inquiry, and the result of each
+case was published by me in detail in the Appendix to a work on Cholera.
+In 286 instances the supply of the house in which the attack took place
+was that of the Southwark and Vauxhall Company; in 14 instances it was
+that of the Lambeth Company; in 4 cases the supply was from a pump well;
+in 26 cases the water was drawn direct from the river, or a canal, or a
+tidal ditch; and in 4 cases the supply could not be ascertained, owing
+to the address of the deceased persons, prior to the fatal attack, not
+being known. The number of houses supplied by the Southwark and Vauxhall
+Company was 40,046, having a population estimated by the
+Registrar-General[3] at 266,516, and the number of houses supplied by
+the Lambeth Company was 26,107, with an estimated population of 173,748;
+the mortality from cholera was, therefore, at the rate of 107 to each
+100,000 inhabitants supplied by the former company, and 8 to each
+100,000 supplied by the latter; in other words, the disease was between
+thirteen and fourteen times as fatal to the population having the impure
+water as to that having the improved supply. It is particularly worthy
+of remark that, during the four weeks of the epidemic we are now
+considering, there were but 563 deaths from cholera in the whole
+metropolis, of which 286, or more than one-half, occurred amongst the
+customers of the Southwark and Vauxhall Company, who comprise a little
+more than one-tenth of London, and a considerable number of the
+remaining deaths took place amongst mariners, and others employed
+amongst the shipping, who almost invariably draw their drinking water
+directly from the river; it is, therefore, evident that at this early
+period of the epidemic the impure water of the Thames was almost the
+exclusive means of the propagation of the malady.
+
+In the next three weeks of the epidemic there were 1,180 deaths from
+cholera in the districts supplied by the two water companies. Of these,
+the fatal attack took place in 977 cases in houses supplied by the
+Southwark and Vauxhall Company; in 84 cases in houses supplied by the
+Lambeth company; in 101 instances the supply was from some other source;
+and in 18 cases it could not be ascertained, for reasons previously
+stated. Taking into account the population supplied respectively by each
+company, the mortality was, at this period of the epidemic, nearly eight
+times as great in that supplied by the Southwark and Vauxhall Company as
+in that supplied by the Lambeth Company.
+
+During the last ten weeks of the epidemic, from August 27th to November
+4th inclusive, 3,564 deaths occurred in the districts to which the
+supply of the two water companies extends, and the returns of the
+district registrars showed that in 2,443 cases the water supply of the
+house in which the fatal attack took place was that of the Southwark and
+Vauxhall Company; in 313 cases it was that of the Lambeth Company; in
+207 instances the supply was from pump wells and other sources
+independent of the two water companies, and in 601 instances the supply
+was not ascertained.[4] These numbers show a mortality of 916 to each
+100,000 inhabitants supplied by the Southwark and Vauxhall Company, and
+180 to each 100,000 supplied by the Lambeth Company; consequently, at
+this period of the epidemic, the mortality was still more than five
+times as great amongst the population supplied by the former company as
+amongst that supplied by the latter.
+
+The results of my inquiry into the supply of water were, of course,
+obtained separately for each district and subdistrict in which the
+inquiry was made, and were so published; but I was unable at the time to
+show the relation between the supply of houses in which fatal attacks
+took place, and the entire supply of each district and subdistrict, on
+account of the latter circumstance not being known. I expressed myself
+as follows in an article which I published soon after my inquiry was
+made: “I hope shortly to learn the number of houses in each subdistrict
+supplied by each of the water companies respectively, when the effect of
+the impure water in propagating cholera will be shown in a very striking
+manner, and with great detail.”[5] This information did not, however,
+come within my reach till recently, and not even then with all the
+accuracy I could desire. In the Report on the Cholera Epidemics of
+London as affected by the Consumption of Impure Water, lately written by
+Mr. Simon, and published by the General Board of Health, there is a
+statement of the number of houses supplied by each of the water
+companies respectively in each district and subdistrict. The line has
+not been very accurately drawn where a street, as often happens, is
+partly in one district and partly in another; and thus, in the recent
+Report, the subdistricts of St. Saviour’s, Southwark, Leather Market,
+Bermondsey, Battersea, and Peckham, have been represented to contain a
+few houses supplied by the Lambeth Company, although they do not contain
+any. With regard to Bermondsey, it is stated in a foot note that some
+ends of streets may have been included which have passed the
+registration boundary, and this has happened in other cases; but the
+errors arising from this cause are limited in amount, and cannot much
+affect the statistical calculations that I have made. There is also a
+further imperfection in the account of the water supply of the
+subdistricts. The numbers which are stated to represent the houses
+supplied by each water company in each subdistrict are found on adding
+up the tables not to do so, but to represent the number of houses, minus
+those situated in streets in which no death occurred; the latter being
+placed all together at the end of each group of subdistricts which
+constitutes a district. Streets vary in size from one or two houses to
+two or three hundred, and the small streets would obviously be the most
+likely to be exempt from mortality; it could, therefore, do little good
+to distinguish such streets; however, if thought desirable, this could
+as well have been done by simply stating the number of the houses,
+without deducting them from the gross number in each subdistrict. The
+number of houses in these exempted streets is about one-ninth of the
+whole. Instead of being able to compare, as I could wish, the mortality
+in the houses supplied by each company with the exact number of houses
+supplied, I have only been able to compare it with the number of houses
+in the streets in which deaths occurred. This will necessarily raise the
+proportion of deaths about one-ninth; but there is every reason to
+believe that the relative proportion of deaths in the population
+supplied by the two companies respectively, which is the real object of
+the inquiry, will remain almost unaltered.
+
+As the first four weeks of the epidemic did not furnish a sufficient
+number of cases in all the subdistricts to serve for a statistical
+inquiry in detail, I have commenced by taking the first seven weeks of
+the epidemic collectively; and the first of the tables which accompanies
+this paper exhibits the results of my personal inquiry, when placed in
+connexion with the number of persons and houses supplied in each
+subdistrict by each water company respectively.[6] The reader will
+observe from the last division of the table that the proportion of
+deaths was, in every subdistrict, very much greater amongst the
+population supplied by the Southwark and Vauxhall Company than amongst
+that supplied by the Lambeth Company, and that the relative mortality is
+nearly the same throughout, except in two or three instances, where
+there were but one or two deaths for the basis of calculation amongst
+the customers of the Lambeth Company. The second table shows the results
+of that part of the inquiry conducted by Mr. Whiting, treated in a
+similar manner. In the subdistricts here enumerated, which were
+supplied, except just on the border of three of them, exclusively by the
+Southwark and Vauxhall Company, the mortality will be observed to be
+nearly the same, only a little higher, than amongst the population
+supplied by the same company, and mixed with that supplied by the
+Lambeth Company, as shown in the previous table. In the third table the
+figures contained in the two first are collected into a more compact
+form, to show the result of the inquiry during the first part of the
+epidemic, arranged in districts. The fourth table contains the results
+of that part of the inquiry made by Dr. Farr, when compared with the
+population supplied by each water company respectively. It is
+necessarily arranged in districts—for the results were so published in
+the Weekly Returns[7]—and not in subdistricts. The mortality during the
+last ten weeks of the epidemic was greater than during the first seven
+weeks, but the reader will observe that a very great disproportion
+continues in every district between the mortality of the population
+supplied by one company and that supplied by the other. There is no
+district to which the supply of both companies extends in which the
+mortality is not more than three times as great amongst the persons
+supplied by the Southwark Company as amongst those supplied by the
+Lambeth Company, and the general result shows a proportion of ninety-one
+to eighteen, or more than five to one, as was stated before.
+
+In the fifth table the numbers in the previous ones are added together,
+and fresh calculations made, so as to show the result of the inquiry for
+the whole epidemic. The instances in which the water supply was not
+specified, or not ascertained, in the returns made by the district
+registrars must evidently nearly all have been cases in which the house
+was supplied by one or other of the water companies, for, if the persons
+received no such supply, and obtained water from a pump well, canal, or
+ditch, there could be no difficulty in knowing the fact. Moreover, as
+the two water companies are guided by precisely the same regulations,
+the difficulty in ascertaining the supply is exactly the same with
+regard to one as the other; I, therefore, concluded that I could not be
+wrong in dividing the non-ascertained cases between the two companies in
+the same proportion as those which were ascertained, and I have done so
+at the foot of table V, in order to obtain a complete view of the
+influence of the water supply during the whole epidemic of 1854. These
+general results I have employed as the basis of some further
+calculations.
+
+In table VI I have copied from the Weekly Returns of the
+Registrar-General the mortality from cholera in every subdistrict to
+which the supply of both, or either, of the water companies extends. I
+have also calculated the number of deaths which would have taken place
+in each subdistrict according to the number of persons supplied with
+water by each company respectively, and in accordance with the mortality
+ascertained for the whole of the population supplied; and it will be
+observed that the calculated mortality bears a very close relation to
+the real mortality in each subdistrict. This relation exists with regard
+both to the gross mortality and to the mortality to each 10,000 living,
+all through the table, and proves the overwhelming influence which the
+nature of the water supply exerted over the mortality, overbearing every
+other circumstance which could be expected to affect the progress of the
+epidemic. Thus, in the crowded, dirty, and very poor subdistricts of
+Lambeth Church, first part, and Waterloo, first part, lying by the river
+side, the mortality was low in consequence of the water supply being
+chiefly that of the Lambeth Company; whilst in the thinly peopled, and
+comparatively genteel subdistricts of Clapham and Battersea the
+mortality was very high, in consequence of the impure water of the
+Southwark and Vauxhall Company. Taking this inquiry altogether, and
+considering that the results which were published two years ago, and
+could only be estimated collectively, are now corroborated in detail
+through upwards of thirty subdistricts, it probably supplies a greater
+amount of statistical evidence than was ever brought to bear on a
+medical subject.
+
+At the latter part of 1854, the General Board of Health procured from
+the two water companies, by order of the Secretary of State, a list of
+all the houses which they supplied, which lists are very valuable, as
+affording the means of ascertaining the exact water supply of each
+district and subdistrict separately. By direction of the Scientific
+Committee of the Board of Health, the lists have been employed in making
+a supplemental inquiry into the effect of the water supply on cholera.
+For this purpose they were compared with the lists of deaths at the
+General Registrar Office, and the results have been embodied in the
+recent Report of Mr. Simon, previously referred to. There are, however,
+certain circumstances, which were probably unknown to the Scientific
+Committee, and which render it impossible that an inquiry, conducted in
+this manner, could do more than approximate to the truth; and show why
+it can bear no comparison in point of accuracy to a personal inquiry,
+made on the spot, at the time of the epidemic. In the first place,
+throughout the greater part of Lambeth, Newington, and the Borough, the
+houses are either without numbers, or numbered very irregularly, and the
+numbers are liable to frequent change, as new houses are built, or older
+ones repainted; there are also frequently repetitions of the same number
+in the same street, and although, in some instances, the companies have
+returned the names of the occupiers, that can be of no assistance in the
+case of the poor, who occupy but one or two rooms, and form the greater
+bulk of the population. In the next place, the poor often furnish,
+unintentionally, a wrong number to the registrar, even when the houses
+are regularly numbered. They know their own homes perfectly, but, having
+no occasion to refer to the number, they partially forget it; and, in
+the greater number of my personal inquiries, I had to call at two or
+three houses before I found the one in which the death occurred. For
+these reasons it follows that, in comparing the lists of the water
+supply with the lists of deaths, many errors must have occurred; and as
+the deaths were six times as numerous in the houses supplied by the
+Southwark and Vauxhall Company as in those supplied by the Lambeth
+Company, the evident result would be that out of every six mistakes five
+would transfer a death from the former company to the latter, and only
+one would transfer a death from the latter company to the former.
+Another source of error, but operating to a less extent, is, that a
+number of persons who were attacked with cholera in houses supplied by
+the Southwark Company died in the workhouses of St. Saviour’s, Lambeth,
+and Newington, which were supplied by the Lambeth Company. It need
+excite no surprise, therefore, that the supplemental inquiry, embodied
+in the recent Report, instead of showing a mortality of 160 and 27 for
+the population supplied by the two water companies, or a difference of 6
+to 1, showed a mortality of 125 and 37 per 10,000, or a difference of
+only 3½ to 1. It must be obvious, however, independently of the above
+facts, that a difference of three and a-half to one would not explain
+the great difference in the mortality of the various districts and
+subdistricts. The epidemic of 1853 is included with that of 1854 in Mr.
+Simon’s Report; but as there were but few deaths in 1853, and those
+chiefly amongst the population supplied by the Southwark Company, this
+circumstance would not much affect his results.
+
+It is probable that, when the facts brought to light by this inquiry are
+sufficiently known, no one will deny the influence of impure water in
+promoting the mortality of cholera; but it must not be supposed that it
+is mere impurity of an ordinary kind that causes the disease, for there
+are innumerable facts to prove that ordinary impurities have no such
+effect, and that it is only when the specific morbid matter of the
+disease gains access to the water that cholera is propagated. Thousands
+of people drank water from their own neglected cisterns, during the late
+epidemic, as impure as that of the Southwark and Vauxhall Company,
+without ill effect. An inquiry made by the vestry of St. James’,
+Westminster,[8] proved that the contents of a cesspool had been
+percolating for months through the three feet of earth which separated
+it from the pump well in Broad Street; but although hundreds of people
+were daily drinking the water, and cholera was extending fearfully in
+many parts of London, only a few scattered cases occurred in the streets
+near the pump till the end of August, when, a case having happened
+amongst the persons using the privy connected with the cesspool above
+mentioned, more than five hundred persons were attacked within two or
+three days.
+
+In the cases in which the cholera poison gains access to a limited
+supply of drinking water, such as a tank or pumpwell, the outbreak it
+occasions is always sudden, violent, and limited; but when a river is
+the medium of the propagation of the disease, its progress is more
+gradual and extended, being diffused amongst the whole population using
+the water.
+
+It is hardly necessary to remark, that every circumstance which proves
+the communication of cholera through the medium of water, corroborates
+the views, explained at the beginning of this paper, regarding its
+propagation in the crowded houses of the poor; for it cannot be supposed
+that a morbid matter, which can produce its specific effects after being
+diffused and distributed through a quantity of water, could fail to act
+in an undiluted state.
+
+It was my intention to make some remarks on the drainage and water
+supply of towns, but this communication has already exceeded the limits
+which I prescribed for it.
+
+
+
+
+                                TABLE I.
+  _Shewing the results of the Author’s personal Inquiry in Twenty-One
+                            Sub-Districts._
+
+
+ ┌────────────┬──────────────┬─────────┬──────────┬──────────╥
+ │            │              │         │          │          ║
+ │            │              │         │          │          ║
+ │            │              │Number of│          │Estimated ║
+ │Registration│ Registration │inhabited│Population│ constant ║
+ │ Districts. │Sub-Districts.│houses in│ in 1851. │population║
+ │            │              │  1851.  │          │per house.║
+ │            │              │         │          │          ║
+ │            │              │         │          │          ║
+ ├────────────┼──────────────┼─────────┼──────────┼──────────╫
+ │            │              │         │          │          ║
+ │            │              │         │          │          ║
+ │            │              │         │          │          ║
+ │            │              │         │          │          ║
+ ├────────────┼──────────────┼─────────┼──────────┼──────────╫
+ │            │              │         │          │          ║
+ │            │              │         │          │          ║
+ ├────────────┼──────────────┼─────────┼──────────┼──────────╫
+ │St. Saviour,│1.            │    1,887│    16,022│       8·5║
+ │  Southw.   │  Christchurch│         │          │          ║
+ │St. George, │1. Kent Road  │    2,558│    18,126│       7·1║
+ │  Southw.   │              │         │          │          ║
+ │            │2. Borough    │    2,069│    15,862│       7·7║
+ │            │  Road        │         │          │          ║
+ │            │3. London Road│    2,365│    17,836│       7·5║
+ │Newington   │1. Trinity    │    3,224│    20,922│       6·5║
+ │            │2. St. Peter, │    4,925│    29,861│       6·1║
+ │            │  Walworth    │         │          │          ║
+ │            │3. St. Mary   │    2,309│    14,033│       6·1║
+ │Lambeth     │1. Waterloo,  │    1,729│    14,088│       8·1║
+ │            │  part 1      │         │          │          ║
+ │            │2. Waterloo,  │    2,191│    18,348│       8·4║
+ │            │  part 2      │         │          │          ║
+ │            │3. Lambeth    │         │          │          ║
+ │            │  church, pt. │    2,451│    18,409│       7·5║
+ │            │  1           │         │          │          ║
+ │            │4. Lambeth    │         │          │          ║
+ │            │  church, pt. │    3,849│    26,784│       7·0║
+ │            │  2           │         │          │          ║
+ │            │5. Kennington,│    3,977│    24,261│       6·1║
+ │            │  part 1      │         │          │          ║
+ │            │6. Kennington,│    3,288│    18,848│       5·7║
+ │            │  part 2      │         │          │          ║
+ │            │7. Brixton    │    2,362│    14,610│       6·1║
+ │            │8. Norwood    │      600│     3,977│       6·6║
+ │Wandsworth  │3. Wandsworth │    1,522│     9,611│       6·3║
+ │            │4. Putney     │      918│     5,280│       5·7║
+ │            │5. Streatham  │    1,419│     9,023│       6·4║
+ │Camberwell  │1. Dulwich    │      259│     1,632│       6·3║
+ │            │4. St. George │    2,845│    15,849│       5·6║
+ │Lewisham    │5. Sydenham   │      801│     4,501│       5·6║
+ ├────────────┴──────────────┼─────────┼──────────┼──────────╫
+ │          Totals           │   47,548│   317,883│       6·6║
+ └───────────────────────────┴─────────┴──────────┴──────────╨
+
+ ┌────────────┬──────────────╥───────────────────────────────────────╥
+ │            │              ║                                       ║
+ │            │              ║                                       ║
+ │            │              ║“Number of houses, and estimated number║
+ │Registration│ Registration ║of persons, supplied in 1854 with water║
+ │ Districts. │Sub-Districts.║              as under.”               ║
+ │            │              ║                                       ║
+ │            │              ║                                       ║
+ │            │              ║                                       ║
+ ├────────────┼──────────────╫───────────────────┬───────────────────╫
+ │            │              ║                   │                   ║
+ │            │              ║ By Southwark and  │  By the Lambeth   ║
+ │            │              ║   Vauxhall Co.    │     Company.      ║
+ │            │              ║                   │                   ║
+ ├────────────┼──────────────╫───────┬───────────┼───────┬───────────╫
+ │            │              ║No. of │  Estim.   │No. of │  Estim.   ║
+ │            │              ║houses.│Population.│houses.│Population.║
+ ├────────────┼──────────────╫───────┼───────────┼───────┼───────────╫
+ │St. Saviour,│1.            ║    343│      2,915│  1,557│     13,234║
+ │  Southw.   │  Christchurch║       │           │       │           ║
+ │St. George, │1. Kent Road  ║  1,779│     12,630│    563│      3,997║
+ │  Southw.   │              ║       │           │       │           ║
+ │            │2. Borough    ║  1,176│      8,937│    878│      6,672║
+ │            │  Road        ║       │           │       │           ║
+ │            │3. London Road║    383│      2,872│  1,533│     11,497║
+ │Newington   │1. Trinity    ║  1,661│     10,132│  1,372│      8,370║
+ │            │2. St. Peter, ║  2,340│     14,274│  1,758│     10,724║
+ │            │  Walworth    ║       │           │       │           ║
+ │            │3. St. Mary   ║    489│      2,983│    899│      5,484║
+ │Lambeth     │1. Waterloo,  ║    438│      3,548│  1,474│     11,939║
+ │            │  part 1      ║       │           │       │           ║
+ │            │2. Waterloo,  ║    864│      7,171│  1,510│     12,533║
+ │            │  part 2      ║       │           │       │           ║
+ │            │3. Lambeth    ║       │           │       │           ║
+ │            │  church, pt. ║    415│      3,113│  2,117│     15,878║
+ │            │  1           ║       │           │       │           ║
+ │            │4. Lambeth    ║       │           │       │           ║
+ │            │  church, pt. ║  1,124│      7,868│  2,289│     16,023║
+ │            │  2           ║       │           │       │           ║
+ │            │5. Kennington,║  2,586│     15,775│    444│      2,708║
+ │            │  part 1      ║       │           │       │           ║
+ │            │6. Kennington,║  1,206│      7,874│    986│      5,620║
+ │            │  part 2      ║       │           │       │           ║
+ │            │7. Brixton    ║    310│      1,922│  1,509│      9,356║
+ │            │8. Norwood    ║      0│          0│    160│      1,066║
+ │Wandsworth  │3. Wandsworth ║    144│        907│     15│         94║
+ │            │4. Putney     ║     13│         74│      0│          0║
+ │            │5. Streatham  ║      0│          0│    515│      3,244║
+ │Camberwell  │1. Dulwich    ║      0│          0│      4│         25║
+ │            │4. St. George ║    767│      4,295│    971│      5,437║
+ │Lewisham    │5. Sydenham   ║      0│          0│ unkno.│     unkno.║
+ ├────────────┴──────────────╫───────┼───────────┼───────┼───────────╫
+ │          Totals           ║ 16,038│    107,290│ 20,554│    143,901║
+ └───────────────────────────╨───────┴───────────┴───────┴───────────╨
+
+ ┌────────────┬──────────────╥──────────────────────────────────────────────────┬
+ │            │              ║                                                  │
+ │            │              ║                                                  │
+ │            │              ║Water supply of the houses in which fatal attacks │
+ │Registration│ Registration ║of cholera took place during first seven weeks of │
+ │ Districts. │Sub-Districts.║                epidemic of 1854.                 │
+ │            │              ║                                                  │
+ │            │              ║                                                  │
+ │            │              ║                                                  │
+ ├────────────┼──────────────╫─────────┬───────┬────────┬──────────┬────────────┼
+ │            │              ║Southwark│       │Thames, │          │            │
+ │            │              ║   and   │Lambeth│canals, │   From   │ Supply not │
+ │            │              ║Vauxhall │  Co.  │   or   │pumpwells.│ascertained.│
+ │            │              ║   Co.   │       │ditches.│          │            │
+ ├────────────┼──────────────╫─────────┼───────┼────────┼──────────┼────────────┼
+ │            │              ║         │       │        │          │            │
+ │            │              ║         │       │        │          │            │
+ ├────────────┼──────────────╫─────────┼───────┼────────┼──────────┼────────────┼
+ │St. Saviour,│1.            ║       11│     13│       0│         0│           1│
+ │  Southw.   │  Christchurch║         │       │        │          │            │
+ │St. George, │1. Kent Road  ║       52│      5│       0│         0│           0│
+ │  Southw.   │              ║         │       │        │          │            │
+ │            │2. Borough    ║       61│      7│       0│         0│           3│
+ │            │  Road        ║         │       │        │          │            │
+ │            │3. London Road║       21│      8│       0│         0│           0│
+ │Newington   │1. Trinity    ║       52│      6│       0│         0│           0│
+ │            │2. St. Peter, ║       84│      4│       0│         0│           2│
+ │            │  Walworth    ║         │       │        │          │            │
+ │            │3. St. Mary   ║       19│      1│       0│         1│           0│
+ │Lambeth     │1. Waterloo,  ║        9│      1│       0│         0│           0│
+ │            │  part 1      ║         │       │        │          │            │
+ │            │2. Waterloo,  ║       25│      8│       2│         1│           0│
+ │            │  part 2      ║         │       │        │          │            │
+ │            │3. Lambeth    ║         │       │        │          │            │
+ │            │  church, pt. ║        6│      9│       1│         0│           2│
+ │            │  1           ║         │       │        │          │            │
+ │            │4. Lambeth    ║         │       │        │          │            │
+ │            │  church, pt. ║       34│     13│       0│         1│           5│
+ │            │  2           ║         │       │        │          │            │
+ │            │5. Kennington,║       63│      5│       0│         3│           0│
+ │            │  part 1      ║         │       │        │          │            │
+ │            │6. Kennington,║       34│      3│       0│         1│           0│
+ │            │  part 2      ║         │       │        │          │            │
+ │            │7. Brixton    ║        5│      2│       0│         0│           2│
+ │            │8. Norwood    ║        0│      2│       5│         1│           0│
+ │Wandsworth  │3. Wandsworth ║        1│      0│       8│         2│           0│
+ │            │4. Putney     ║        0│      0│       0│         1│           0│
+ │            │5. Streatham  ║        0│      1│       0│         5│           0│
+ │Camberwell  │1. Dulwich    ║        0│      0│       0│         0│           0│
+ │            │4. St. George ║       30│      9│       0│         2│           1│
+ │Lewisham    │5. Sydenham   ║        0│      1│       0│         2│           1│
+ ├────────────┴──────────────╫─────────┼───────┼────────┼──────────┼────────────┼
+ │          Totals           ║      507│     98│      16│        20│          17│
+ └───────────────────────────╨─────────┴───────┴────────┴──────────┴────────────┴
+
+ ┌────────────┬──────────────┬────────╥─────────────────┐
+ │            │              │ Deaths ║                 │
+ │            │              │  from  ║                 │
+ │            │              │cholera ║  Mortality per  │
+ │Registration│ Registration │in first║ 10,000 supplied │
+ │ Districts. │Sub-Districts.│7 weeks ║  with water as  │
+ │            │              │   of   ║     under.      │
+ │            │              │epidemic║                 │
+ │            │              │of 1854.║                 │
+ ├────────────┼──────────────┼────────╫─────────┬───────┤
+ │            │              │        ║Southwark│       │
+ │            │              │        ║   and   │Lambeth│
+ │            │              │        ║Vauxhall │  Co.  │
+ │            │              │        ║   Co.   │       │
+ ├────────────┼──────────────┼────────╫─────────┼───────┤
+ │            │              │        ║         │       │
+ │            │              │        ║         │       │
+ ├────────────┼──────────────┼────────╫─────────┼───────┤
+ │St. Saviour,│1.            │      25║     37·7│    9·9│
+ │  Southw.   │  Christchurch│        ║         │       │
+ │St. George, │1. Kent Road  │      57║     41·1│   12·5│
+ │  Southw.   │              │        ║         │       │
+ │            │2. Borough    │      71║     68·2│   10·4│
+ │            │  Road        │        ║         │       │
+ │            │3. London Road│      29║     73·1│    6·9│
+ │Newington   │1. Trinity    │      58║     51·3│    7·1│
+ │            │2. St. Peter, │      90║     58·8│    3·7│
+ │            │  Walworth    │        ║         │       │
+ │            │3. St. Mary   │      21║     64·5│    1·8│
+ │Lambeth     │1. Waterloo,  │      10║     25·6│    0·8│
+ │            │  part 1      │        ║         │       │
+ │            │2. Waterloo,  │      36║     34·8│    6·3│
+ │            │  part 2      │        ║         │       │
+ │            │3. Lambeth    │        ║         │       │
+ │            │  church, pt. │      18║     19·2│    5·6│
+ │            │  1           │        ║         │       │
+ │            │4. Lambeth    │        ║         │       │
+ │            │  church, pt. │      53║     42·9│    8·1│
+ │            │  2           │        ║         │       │
+ │            │5. Kennington,│      71║     39·9│   18·4│
+ │            │  part 1      │        ║         │       │
+ │            │6. Kennington,│      38║     43·2│    5·7│
+ │            │  part 2      │        ║         │       │
+ │            │7. Brixton    │       9║     26·0│    2·1│
+ │            │8. Norwood    │       8║         │   18·7│
+ │Wandsworth  │3. Wandsworth │      11║     11·0│       │
+ │            │4. Putney     │       1║         │       │
+ │            │5. Streatham  │       6║         │    3·0│
+ │Camberwell  │1. Dulwich    │       0║         │       │
+ │            │4. St. George │      42║     69·8│   16·5│
+ │Lewisham    │5. Sydenham   │       4║         │       │
+ ├────────────┴──────────────┼────────╫─────────┼───────┤
+ │          Totals           │     658║     47·2│    6·8│
+ └───────────────────────────┴────────╨─────────┴───────┘
+
+
+
+
+                               TABLE II.
+   _Shewing the results of the Inquiry made by Mr. Whiting in Eleven
+                            Sub-Districts._
+
+
+ ┌────────────┬───────────────┬─────────┬──────────┬──────────╥
+ │            │               │         │          │          ║
+ │            │               │         │          │          ║
+ │            │               │Number of│          │Estimated ║
+ │Registration│ Registration  │inhabited│Population│ constant ║
+ │ Districts. │Sub-Districts. │houses in│ in 1851. │population║
+ │            │               │  1851.  │          │per house.║
+ │            │               │         │          │          ║
+ │            │               │         │          │          ║
+ ├────────────┼───────────────┼─────────┼──────────┼──────────╫
+ │            │               │         │          │          ║
+ │            │               │         │          │          ║
+ │            │               │         │          │          ║
+ │            │               │         │          │          ║
+ ├────────────┼───────────────┼─────────┼──────────┼──────────╫
+ │            │               │         │          │          ║
+ │            │               │         │          │          ║
+ ├────────────┼───────────────┼─────────┼──────────┼──────────╫
+ │St. Saviour,│2. St. Saviour │    2,713│    10,709│       7·3║
+ │  Southw.   │               │         │          │          ║
+ │St. Olave,  │1. St. Olave   │      880│     8,015│       9·1║
+ │  Southwark │               │         │          │          ║
+ │            │2. St. John,   │    1,480│    11,360│       7·7║
+ │            │  Horselydown  │         │          │          ║
+ │Bermondsey  │1. St. James   │    2,863│    18,899│       6·6║
+ │            │2. St. Mary    │    1,865│    13,934│       7·5║
+ │            │  Magdalen     │         │          │          ║
+ │            │3. Leather     │    2,279│    15,295│       6·7║
+ │            │  Market       │         │          │          ║
+ │Wandsworth  │1. Clapham     │    2,657│    16,290│       6·1║
+ │            │2. Battersea   │    1,760│    10,560│       6·0║
+ │Camberwell  │2. Camberwell  │    2,851│    17,742│       6·2║
+ │            │3. Peckham     │    3,457│    19,444│       5·6║
+ │Rotherhithe │Rotherhithe    │    2,792│    17,805│       6·4║
+ ├────────────┼───────────────┼─────────┼──────────┼──────────╫
+ │            │Totals         │   25,597│   169,053│       6·5║
+ │            │Totals of Table│   47,548│   317,883│       6·6║
+ │            │  I.           │         │          │          ║
+ │Houses in streets where no  │         │          │       6·4║
+ │  death occurred            │         │          │          ║
+ │Not identified              │         │          │       6·6║
+ ├────────────┬───────────────┼─────────┼──────────┼──────────╫
+ │            │Totals of      │         │          │          ║
+ │            │  thirty-two   │   73,145│   480,936│       6·0║
+ │            │  Sub-districts│         │          │          ║
+ └────────────┴───────────────┴─────────┴──────────┴──────────╨
+
+ ┌────────────┬───────────────╥───────────────────────────────────────
+ │            │               ║
+ │            │               ║
+ │            │               ║“Number of houses, and estimated number
+ │Registration│ Registration  ║of persons, supplied in 1854 with water
+ │ Districts. │Sub-Districts. ║              as under.”
+ │            │               ║
+ │            │               ║
+ │            │               ║
+ ├────────────┼───────────────╫───────────────────┬───────────────────
+ │            │               ║                   │
+ │            │               ║ By Southwark and  │  By the Lambeth
+ │            │               ║   Vauxhall Co.    │     Company.
+ │            │               ║                   │
+ ├────────────┼───────────────╫───────┬───────────┼───────┬───────────
+ │            │               ║No. of │  Estim.   │No. of │  Estim.
+ │            │               ║houses.│Population.│houses.│Population.
+ ├────────────┼───────────────╫───────┼───────────┼───────┼───────────
+ │St. Saviour,│2. St. Saviour ║  2,238│     16,337│    123│        898
+ │  Southw.   │               ║       │           │       │
+ │St. Olave,  │1. St. Olave   ║    961│      8,745│      0│          0
+ │  Southwark │               ║       │           │       │
+ │            │2. St. John,   ║  1,170│      9,360│      0│          0
+ │            │  Horselydown  ║       │           │       │
+ │Bermondsey  │1. St. James   ║  3,511│     23,173│    105│        693
+ │            │2. St. Mary    ║  2,301│     17,258│      0│          0
+ │            │  Magdalen     ║       │           │       │
+ │            │3. Leather     ║  2,090│     14,003│    163│      1,092
+ │            │  Market       ║       │           │       │
+ │Wandsworth  │1. Clapham     ║  1,106│      6,747│     22│        134
+ │            │2. Battersea   ║  1,046│      6,276│     46│        270
+ │Camberwell  │2. Camberwell  ║  1,474│      9,139│    103│        639
+ │            │3. Peckham     ║    971│      5,438│     70│        392
+ │Rotherhithe │Rotherhithe    ║  1,909│     12,218│      0│          0
+ ├────────────┼───────────────╫───────┼───────────┼───────┼───────────
+ │            │Totals         ║ 18,777│    128,694│    632│      4,124
+ │            │Totals of Table║ 16,038│    107,290│ 20,554│    143,901
+ │            │  I.           ║       │           │       │
+ │Houses in streets where no  ║  4,500│     28,929│  3,643│     23,338
+ │  death occurred            ║       │           │       │
+ │Not identified              ║    411│      2,712│     25│        165
+ ├────────────┬───────────────╫───────┼───────────┼───────┼───────────
+ │            │Totals of      ║       │           │       │
+ │            │  thirty-two   ║ 39,726│    267,625│ 24,854│    171,528
+ │            │  Sub-districts║       │           │       │
+ └────────────┴───────────────╨───────┴───────────┴───────┴───────────
+
+ ┌────────────┬───────────────╥──────────────────────────────────────────────────┬
+ │            │               ║                                                  │
+ │            │               ║                                                  │
+ │            │               ║Water supply of the houses in which fatal attacks │
+ │Registration│ Registration  ║of cholera took place during first seven weeks of │
+ │ Districts. │Sub-Districts. ║                epidemic of 1854.                 │
+ │            │               ║                                                  │
+ │            │               ║                                                  │
+ │            │               ║                                                  │
+ ├────────────┼───────────────╫─────────┬───────┬────────┬──────────┬────────────┼
+ │            │               ║Southwark│       │Thames, │          │            │
+ │            │               ║   and   │Lambeth│canals, │   From   │ Supply not │
+ │            │               ║Vauxhall │  Co.  │   or   │pumpwells.│ascertained.│
+ │            │               ║   Co.   │       │ditches.│          │            │
+ ├────────────┼───────────────╫─────────┼───────┼────────┼──────────┼────────────┼
+ │            │               ║         │       │        │          │            │
+ │            │               ║         │       │        │          │            │
+ ├────────────┼───────────────╫─────────┼───────┼────────┼──────────┼────────────┼
+ │St. Saviour,│2. St. Saviour ║      115│      0│      10│         0│           0│
+ │  Southw.   │               ║         │       │        │          │            │
+ │St. Olave,  │1. St. Olave   ║       43│      0│       5│         0│           5│
+ │  Southwark │               ║         │       │        │          │            │
+ │            │2. St. John,   ║       48│      0│       3│         0│           0│
+ │            │  Horselydown  ║         │       │        │          │            │
+ │Bermondsey  │1. St. James   ║      102│      0│      21│         0│           0│
+ │            │2. St. Mary    ║       83│      0│       4│         0│           0│
+ │            │  Magdalen     ║         │       │        │          │            │
+ │            │3. Leather     ║       81│      0│       0│         0│           0│
+ │            │  Market       ║         │       │        │          │            │
+ │Wandsworth  │1. Clapham     ║       19│      0│       0│         5│           0│
+ │            │2. Battersea   ║       42│      0│       8│         4│           0│
+ │Camberwell  │2. Camberwell  ║       96│      0│       0│         0│           0│
+ │            │3. Peckham     ║       59│      0│       0│         0│           0│
+ │Rotherhithe │Rotherhithe    ║       68│      0│      35│         0│           0│
+ ├────────────┼───────────────╫─────────┼───────┼────────┼──────────┼────────────┼
+ │            │Totals         ║      756│      0│      86│         9│           5│
+ │            │Totals of Table║      507│     98│      16│        20│          17│
+ │            │  I.           ║         │       │        │          │            │
+ │Houses in streets where no  ║        0│      0│       0│         0│           0│
+ │  death occurred            ║         │       │        │          │            │
+ │Not identified              ║         │       │        │          │            │
+ ├────────────┬───────────────╫─────────┼───────┼────────┼──────────┼────────────┼
+ │            │Totals of      ║         │       │        │          │            │
+ │            │  thirty-two   ║     1263│     98│     102│        29│          22│
+ │            │  Sub-districts║         │       │        │          │            │
+ └────────────┴───────────────╨─────────┴───────┴────────┴──────────┴────────────┴
+
+ ┌────────────┬───────────────┬────────╥─────────────────┐
+ │            │               │ Deaths ║                 │
+ │            │               │  from  ║                 │
+ │            │               │cholera ║  Mortality per  │
+ │Registration│ Registration  │in first║ 10,000 supplied │
+ │ Districts. │Sub-Districts. │7 weeks ║  with water as  │
+ │            │               │   of   ║     under.      │
+ │            │               │epidemic║                 │
+ │            │               │of 1854.║                 │
+ ├────────────┼───────────────┼────────╫─────────┬───────┤
+ │            │               │        ║Southwark│       │
+ │            │               │        ║   and   │Lambeth│
+ │            │               │        ║Vauxhall │  Co.  │
+ │            │               │        ║   Co.   │       │
+ ├────────────┼───────────────┼────────╫─────────┼───────┤
+ │            │               │        ║         │       │
+ │            │               │        ║         │       │
+ ├────────────┼───────────────┼────────╫─────────┼───────┤
+ │St. Saviour,│2. St. Saviour │     125║     70·3│       │
+ │  Southw.   │               │        ║         │       │
+ │St. Olave,  │1. St. Olave   │      53║     49·1│       │
+ │  Southwark │               │        ║         │       │
+ │            │2. St. John,   │      51║     50·1│       │
+ │            │  Horselydown  │        ║         │       │
+ │Bermondsey  │1. St. James   │     123║     44·0│       │
+ │            │2. St. Mary    │      87║     48·0│       │
+ │            │  Magdalen     │        ║         │       │
+ │            │3. Leather     │      81║     57·8│       │
+ │            │  Market       │        ║         │       │
+ │Wandsworth  │1. Clapham     │      24║     28·1│       │
+ │            │2. Battersea   │      54║     66·9│       │
+ │Camberwell  │2. Camberwell  │      96║    104·8│       │
+ │            │3. Peckham     │      59║    108·4│       │
+ │Rotherhithe │Rotherhithe    │     103║     55·6│       │
+ ├────────────┼───────────────┼────────╫─────────┼───────┤
+ │            │Totals         │     856║     58·7│       │
+ │            │Totals of Table│     658║     47·2│    6·8│
+ │            │  I.           │        ║         │       │
+ │Houses in streets where no  │       0║         │       │
+ │  death occurred            │        ║         │       │
+ │Not identified              │        ║         │       │
+ ├────────────┬───────────────┼────────╫─────────┼───────┤
+ │            │Totals of      │        ║         │       │
+ │            │  thirty-two   │    1514║     47·2│    5·7│
+ │            │  Sub-districts│        ║         │       │
+ └────────────┴───────────────┴────────╨─────────┴───────┘
+
+
+
+
+                               TABLE III.
+ _Shewing the results of the whole Inquiry during the First Seven Weeks
+                of the Epidemic, arranged in Districts._
+
+
+ ┌────────────┬─────────┬──────────┬──────────╥
+ │            │Number of│          │Estimated ║
+ │Registration│inhabited│Population│ constant ║
+ │ Districts. │houses in│ in 1851. │population║
+ │            │  1851.  │          │per house.║
+ │            │         │          │          ║
+ ├────────────┼─────────┼──────────┼──────────╫
+ │            │         │          │          ║
+ │            │         │          │          ║
+ │            │         │          │          ║
+ │            │         │          │          ║
+ ├────────────┼─────────┼──────────┼──────────╫
+ │            │         │          │          ║
+ │            │         │          │          ║
+ ├────────────┼─────────┼──────────┼──────────╫
+ │St. Saviour,│    4,600│    35,731│       7·8║
+ │  Southwark │         │          │          ║
+ │St. Olave,  │    2,360│    19,375│       8·2║
+ │  Southwark │         │          │          ║
+ │Bermondsey  │    7,007│    48,128│       6·9║
+ │St. George, │    6,992│    51,824│       7·4║
+ │  Southwark │         │          │          ║
+ │Newington   │   10,458│    64,816│       6·2║
+ │Lambeth     │   20,447│   139,325│       6·8║
+ │Wandsworth  │    8,276│    50,764│       6·1║
+ │Camberwell  │    9,412│    54,667│       5·8║
+ │Rotherhithe │    2,792│    17,805│       6·4║
+ │Sub-district│         │          │          ║
+ │  of        │      801│     4,501│       5·6║
+ │  Sydenham  │         │          │          ║
+ │Not         │         │          │       6·6║
+ │  identified│         │          │          ║
+ ├────────────┼─────────┼──────────┼──────────╫
+ │   Totals   │   73,145│   486,936│       6·7║
+ └────────────┴─────────┴──────────┴──────────╨
+
+ ┌────────────╥───────────────────────────────────────╥
+ │            ║                                       ║
+ │Registration║“Number of houses, and estimated number║
+ │ Districts. ║of persons, supplied in 1854 with water║
+ │            ║              as under.”               ║
+ │            ║                                       ║
+ ├────────────╫───────────────────┬───────────────────╫
+ │            ║                   │                   ║
+ │            ║ By the Southwark  │  By the Lambeth   ║
+ │            ║ and Vauxhall Co.  │     Company.      ║
+ │            ║                   │                   ║
+ ├────────────╫───────┬───────────┼───────┬───────────╫
+ │            ║No. of │ Estimated │No. of │ Estimated ║
+ │            ║houses.│population.│houses.│population.║
+ ├────────────╫───────┼───────────┼───────┼───────────╫
+ │St. Saviour,║  2,631│     19,617│  1,689│     14,201║
+ │  Southwark ║       │           │       │           ║
+ │St. Olave,  ║  2,193│     18,638│      0│          0║
+ │  Southwark ║       │           │       │           ║
+ │Bermondsey  ║  8,402│     57,884│    268│      1,785║
+ │St. George, ║  3,419│     25,039│  3,183│     23,712║
+ │  Southwark ║       │           │       │           ║
+ │Newington   ║  5,224│     31,940│  5,473│     33,531║
+ │Lambeth     ║  8,077│     54,982│ 11,763│     83,786║
+ │Wandsworth  ║  3,028│     18,390│    618│      3,870║
+ │Camberwell  ║  4,005│     23,472│  1,835│     10,478║
+ │Rotherhithe ║  2,336│     14,951│      0│          0║
+ │Sub-district║       │           │       │           ║
+ │  of        ║      0│          0│unknow.│    unknow.║
+ │  Sydenham  ║       │           │       │           ║
+ │Not         ║    411│      2,712│     25│        165║
+ │  identified║       │           │       │           ║
+ ├────────────╫───────┼───────────┼───────┼───────────╫
+ │   Totals   ║ 39,726│    267,625│ 24,854│    171,528║
+ └────────────╨───────┴───────────┴───────┴───────────╨
+
+ ┌────────────╥───────────────────────────────────────────────────┬
+ │            ║                                                   │
+ │Registration║ Water supply of the houses in which fatal attacks │
+ │ Districts. ║ of cholera took place during first seven weeks of │
+ │            ║                 epidemic of 1854.                 │
+ │            ║                                                   │
+ ├────────────╫─────────┬───────┬────────┬───────────┬────────────┼
+ │            ║Southwark│       │Thames, │           │            │
+ │            ║   and   │Lambeth│canals, │Pump-wells.│ Supply not │
+ │            ║Vauxhall │  Co.  │   or   │           │ascertained.│
+ │            ║   Co.   │       │ditches.│           │            │
+ ├────────────╫─────────┼───────┼────────┼───────────┼────────────┼
+ │            ║         │       │        │           │            │
+ │            ║         │       │        │           │            │
+ ├────────────╫─────────┼───────┼────────┼───────────┼────────────┼
+ │St. Saviour,║      126│     13│      10│          0│           1│
+ │  Southwark ║         │       │        │           │            │
+ │St. Olave,  ║       91│      0│       8│          0│           5│
+ │  Southwark ║         │       │        │           │            │
+ │Bermondsey  ║      266│      0│      25│          0│           0│
+ │St. George, ║      134│     20│       0│          0│           3│
+ │  Southwark ║         │       │        │           │            │
+ │Newington   ║      155│     11│       0│          1│           2│
+ │Lambeth     ║      176│     43│       8│          7│           9│
+ │Wandsworth  ║       62│      1│      16│         17│           0│
+ │Camberwell  ║      185│      9│       0│          2│           1│
+ │Rotherhithe ║       68│      0│      35│          0│           0│
+ │Sub-district║         │       │        │           │            │
+ │  of        ║        0│      1│       0│          2│           1│
+ │  Sydenham  ║         │       │        │           │            │
+ │Not         ║         │       │        │           │            │
+ │  identified║         │       │        │           │            │
+ ├────────────╫─────────┼───────┼────────┼───────────┼────────────┼
+ │   Totals   ║     1263│     98│     102│         29│          22│
+ └────────────╨─────────┴───────┴────────┴───────────┴────────────┴
+
+ ┌────────────┬─────────╥─────────────────┐
+ │            │Deaths in║  Mortality per  │
+ │Registration│  first  ║ 10,000 supplied │
+ │ Districts. │  seven  ║  with water as  │
+ │            │weeks of ║     under.      │
+ │            │epidemic.║                 │
+ ├────────────┼─────────╫─────────┬───────┤
+ │            │         ║Southwark│       │
+ │            │         ║   and   │Lambeth│
+ │            │         ║Vauxhall │  Co.  │
+ │            │         ║   Co.   │       │
+ ├────────────┼─────────╫─────────┼───────┤
+ │            │         ║         │       │
+ │            │         ║         │       │
+ ├────────────┼─────────╫─────────┼───────┤
+ │St. Saviour,│      150║     64·4│    9·1│
+ │  Southwark │         ║         │       │
+ │St. Olave,  │      104║     48·8│       │
+ │  Southwark │         ║         │       │
+ │Bermondsey  │      291║     45·9│       │
+ │St. George, │      157║     53·5│    8·4│
+ │  Southwark │         ║         │       │
+ │Newington   │      169║     48·5│    3·2│
+ │Lambeth     │      243║     32·8│    4·9│
+ │Wandsworth  │       96║     33·7│    3·3│
+ │Camberwell  │      197║     78·8│    8·5│
+ │Rotherhithe │      103║     45·4│       │
+ │Sub-district│         ║         │       │
+ │  of        │        4║         │       │
+ │  Sydenham  │         ║         │       │
+ │Not         │         ║         │       │
+ │  identified│         ║         │       │
+ ├────────────┼─────────╫─────────┼───────┤
+ │   Totals   │     1514║     47·2│    5·7│
+ └────────────┴─────────╨─────────┴───────┘
+
+
+
+
+                               TABLE IV.
+_The Inquiry of the General Register Office during the Last Ten Weeks of
+                             the Epidemic._
+
+
+ ┌────────────┬─────────┬──────────┬──────────╥
+ │            │         │          │          ║
+ │            │Number of│          │Estimated ║
+ │Registration│inhabited│Population│ constant ║
+ │ District.  │houses in│ in 1851. │population║
+ │            │  1851.  │          │per house.║
+ │            │         │          │          ║
+ │            │         │          │          ║
+ ├────────────┼─────────┼──────────┼──────────╫
+ │            │         │          │          ║
+ │            │         │          │          ║
+ │            │         │          │          ║
+ │            │         │          │          ║
+ ├────────────┼─────────┼──────────┼──────────╫
+ │            │         │          │          ║
+ │            │         │          │          ║
+ ├────────────┼─────────┼──────────┼──────────╫
+ │St. Saviour,│    4,600│    35,721│       7·8║
+ │  Southwark │         │          │          ║
+ │St. Olave,  │    2,360│    19,375│       8·2║
+ │  Southwark │         │          │          ║
+ │Bermondsey  │    7,007│    48,128│       6·9║
+ │St. George, │    6,992│    51,824│       7·4║
+ │  Southwark │         │          │          ║
+ │Newington   │   10,458│    64,816│       6·2║
+ │Lambeth     │   20,447│   139,325│       6·8║
+ │Wandsworth  │    8,276│    50,764│       6·1║
+ │Camberwell  │    9,412│    54,667│       5·8║
+ │Rotherhithe │    2,792│    17,805│       6·4║
+ │Greenwich & │         │          │          ║
+ │  sub-dis.  │         │          │          ║
+ │  Sydenham  │         │          │          ║
+ │Houses not  │         │          │       6·6║
+ │  identified│         │          │          ║
+ ├────────────┼─────────┼──────────┼──────────╫
+ │   Totals   │   72,344│   482,435│       6·7║
+ └────────────┴─────────┴──────────┴──────────╨
+
+ ┌────────────╥───────────────────────────────────────╥
+ │            ║                                       ║
+ │            ║                                       ║
+ │Registration║“Number of houses, and estimated number║
+ │ District.  ║of persons, supplied in 1854 with water║
+ │            ║              as under.”               ║
+ │            ║                                       ║
+ │            ║                                       ║
+ ├────────────╫───────────────────┬───────────────────╫
+ │            ║                   │                   ║
+ │            ║ By Southwark and  │  By the Lambeth   ║
+ │            ║   Vauxhall Co.    │     Company.      ║
+ │            ║                   │                   ║
+ ├────────────╫───────┬───────────┼───────┬───────────╫
+ │            ║ No. of│ Estimated │No. of │ Estimated ║
+ │            ║houses.│Population.│houses.│Population.║
+ ├────────────╫───────┼───────────┼───────┼───────────╫
+ │St. Saviour,║  2,631│     19,617│  1,689│     14,201║
+ │  Southwark ║       │           │       │           ║
+ │St. Olave,  ║  2,193│     18,638│      0│          0║
+ │  Southwark ║       │           │       │           ║
+ │Bermondsey  ║  8,402│     57,884│    268│      1,785║
+ │St. George, ║  3,419│     25,039│  3,183│     23,712║
+ │  Southwark ║       │           │       │           ║
+ │Newington   ║  5,224│     31,940│  5,473│     33,531║
+ │Lambeth     ║  8,077│     54,982│ 11,763│     83,786║
+ │Wandsworth  ║  3,028│     18,390│    618│      3,870║
+ │Camberwell  ║  4,005│     23,472│  1,835│     10,478║
+ │Rotherhithe ║  2,336│     14,951│      0│          0║
+ │Greenwich & ║       │           │       │           ║
+ │  sub-dis.  ║       │           │       │           ║
+ │  Sydenham  ║       │           │       │           ║
+ │Houses not  ║    411│      2,712│     25│        165║
+ │  identified║       │           │       │           ║
+ ├────────────╫───────┼───────────┼───────┼───────────╫
+ │   Totals   ║ 39,726│    267,625│ 24,854│    171,528║
+ └────────────╨───────┴───────────┴───────┴───────────╨
+
+ ┌────────────╥─────────────────────────────────────────┬
+ │            ║                                         │
+ │            ║                                         │
+ │Registration║Water supply of the houses in which fatal│
+ │ District.  ║     attacks of cholera took place.      │
+ │            ║                                         │
+ │            ║                                         │
+ │            ║                                         │
+ ├────────────╫─────────┬───────┬──────────┬────────────┼
+ │            ║Southwark│       │          │            │
+ │            ║   and   │Lambeth│   From   │ Supply not │
+ │            ║Vauxhall │  Co.  │pumpwells.│ascertained.│
+ │            ║   Co.   │       │          │            │
+ ├────────────╫─────────┼───────┼──────────┼────────────┼
+ │            ║         │       │          │            │
+ │            ║         │       │          │            │
+ ├────────────╫─────────┼───────┼──────────┼────────────┼
+ │St. Saviour,║      280│     59│         0│           2│
+ │  Southwark ║         │       │          │            │
+ │St. Olave,  ║      186│      0│         0│          23│
+ │  Southwark ║         │       │          │            │
+ │Bermondsey  ║      555│      0│         0│           0│
+ │St. George, ║      254│     79│         0│          53│
+ │  Southwark ║         │       │          │            │
+ │Newington   ║      303│     47│         1│         174│
+ │Lambeth     ║      349│     95│         9│         231│
+ │Wandsworth  ║      206│      6│        73│          40│
+ │Camberwell  ║      167│     24│       113│          48│
+ │Rotherhithe ║      139│      0│        11│          30│
+ │Greenwich & ║         │       │          │            │
+ │  sub-dis.  ║        4│      3│          │            │
+ │  Sydenham  ║         │       │          │            │
+ │Houses not  ║         │       │          │            │
+ │  identified║         │       │          │            │
+ ├────────────╫─────────┼───────┼──────────┼────────────┼
+ │   Totals   ║    2,443│    313│       207│         601│
+ └────────────╨─────────┴───────┴──────────┴────────────┴
+
+ ┌────────────┬─────────╥─────────────────┐
+ │            │ Deaths  ║                 │
+ │            │  from   ║  Mortality per  │
+ │Registration│ cholera ║ 10,000 supplied │
+ │ District.  │ in last ║  with water as  │
+ │            │ten weeks║     under.      │
+ │            │   of    ║                 │
+ │            │epidemic.║                 │
+ ├────────────┼─────────╫─────────┬───────┤
+ │            │         ║Southwark│       │
+ │            │         ║   and   │Lambeth│
+ │            │         ║Vauxhall │  Co.  │
+ │            │         ║   Co.   │       │
+ ├────────────┼─────────╫─────────┼───────┤
+ │            │         ║         │       │
+ │            │         ║         │       │
+ ├────────────┼─────────╫─────────┼───────┤
+ │St. Saviour,│      341║      143│     41│
+ │  Southwark │         ║         │       │
+ │St. Olave,  │      209║      100│       │
+ │  Southwark │         ║         │       │
+ │Bermondsey  │      555║       96│       │
+ │St. George, │      386║      101│     33│
+ │  Southwark │         ║         │       │
+ │Newington   │      525║       95│     14│
+ │Lambeth     │      684║       63│     11│
+ │Wandsworth  │      325║      112│     15│
+ │Camberwell  │      352║       71│     23│
+ │Rotherhithe │      180║       93│       │
+ │Greenwich & │         ║         │       │
+ │  sub-dis.  │        7║         │       │
+ │  Sydenham  │         ║         │       │
+ │Houses not  │         ║         │       │
+ │  identified│         ║         │       │
+ ├────────────┼─────────╫─────────┼───────┤
+ │   Totals   │    3,564║       91│     18│
+ └────────────┴─────────╨─────────┴───────┘
+
+
+
+
+                                TABLE V.
+  _Shewing the results of the Inquiry for the whole Epidemic of 1854._
+
+
+ ┌─────────────────────┬─────────┬──────────┬──────────╥
+ │                     │         │          │          ║
+ │                     │Number of│          │Estimated ║
+ │    Registration     │inhabited│Population│ constant ║
+ │      District.      │houses in│ in 1851. │population║
+ │                     │  1851.  │          │per house.║
+ │                     │         │          │          ║
+ │                     │         │          │          ║
+ ├─────────────────────┼─────────┼──────────┼──────────╫
+ │                     │         │          │          ║
+ │                     │         │          │          ║
+ │                     │         │          │          ║
+ │                     │         │          │          ║
+ ├─────────────────────┼─────────┼──────────┼──────────╫
+ │                     │         │          │          ║
+ │                     │         │          │          ║
+ ├─────────────────────┼─────────┼──────────┼──────────╫
+ │St. Saviour,         │    4,600│    35,721│       7·8║
+ │  Southwark          │         │          │          ║
+ │St. Olave, Southwark │    2,360│    19,375│       8·2║
+ │Bermondsey           │    7,007│    48,128│       6·9║
+ │St. George, Southwark│    6,992│    51,824│       7·4║
+ │Newington            │   10,458│    64,816│       6·2║
+ │Lambeth              │   20,447│   139,325│       6·8║
+ │Wandsworth           │    8,276│    50,764│       6·1║
+ │Camberwell           │    9,412│    54,667│       5·8║
+ │Rotherhithe          │    2,792│    17,805│       6·4║
+ │Greenwich & sub-dis. │         │          │          ║
+ │  Sydenham           │         │          │          ║
+ │Houses not identified│         │          │       6·6║
+ ├─────────────────────┼─────────┼──────────┼──────────╫
+ │       Totals        │   72,344│   482,435│       6·7║
+ │Non-ascertained cases│         │          │          ║
+ │  distributed in     │         │          │          ║
+ │  proportion of      │         │          │          ║
+ │  others             │         │          │          ║
+ ├─────────────────────┼─────────┼──────────┼──────────╫
+ │Population           │         │          │          ║
+ │  (Registrar-General)│         │          │          ║
+ └─────────────────────┴─────────┴──────────┴──────────╨
+
+ ┌─────────────────────╥───────────────────────────────────────╥
+ │                     ║                                       ║
+ │                     ║                                       ║
+ │    Registration     ║“Number of houses, and estimated number║
+ │      District.      ║of persons, supplied in 1854 with water║
+ │                     ║              as under.”               ║
+ │                     ║                                       ║
+ │                     ║                                       ║
+ ├─────────────────────╫───────────────────┬───────────────────╫
+ │                     ║                   │                   ║
+ │                     ║ By Southwark and  │  By the Lambeth   ║
+ │                     ║   Vauxhall Co.    │     Company.      ║
+ │                     ║                   │                   ║
+ ├─────────────────────╫───────┬───────────┼───────┬───────────╫
+ │                     ║ No. of│ Estimated │No. of │ Estimated ║
+ │                     ║houses.│Population.│houses.│Population.║
+ ├─────────────────────╫───────┼───────────┼───────┼───────────╫
+ │St. Saviour,         ║  2,631│     19,617│  1,689│     14,201║
+ │  Southwark          ║       │           │       │           ║
+ │St. Olave, Southwark ║  2,193│     18,638│      0│          0║
+ │Bermondsey           ║  8,402│     57,884│    268│      1,785║
+ │St. George, Southwark║  3,419│     25,039│  3,183│     23,712║
+ │Newington            ║  5,224│     31,940│  5,473│     33,531║
+ │Lambeth              ║  8,077│     54,982│ 11,763│     83,786║
+ │Wandsworth           ║  3,028│     18,390│    618│      3,870║
+ │Camberwell           ║  4,005│     23,472│  1,835│     10,478║
+ │Rotherhithe          ║  2,336│     14,951│      0│          0║
+ │Greenwich & sub-dis. ║       │           │       │           ║
+ │  Sydenham           ║       │           │       │           ║
+ │Houses not identified║    411│      2,712│     25│        165║
+ ├─────────────────────╫───────┼───────────┼───────┼───────────╫
+ │       Totals        ║ 39,726│    267,625│ 24,854│    171,528║
+ │Non-ascertained cases║       │           │       │           ║
+ │  distributed in     ║       │           │       │           ║
+ │  proportion of      ║       │           │       │           ║
+ │  others             ║       │           │       │           ║
+ ├─────────────────────╫───────┼───────────┼───────┼───────────╫
+ │Population           ║       │    266,516│       │    173,748║
+ │  (Registrar-General)║       │           │       │           ║
+ └─────────────────────╨───────┴───────────┴───────┴───────────╨
+
+ ┌─────────────────────╥─────────────────────────────────────────┬
+ │                     ║                                         │
+ │                     ║                                         │
+ │    Registration     ║Water supply of the houses in which fatal│
+ │      District.      ║     attacks of cholera took place.      │
+ │                     ║                                         │
+ │                     ║                                         │
+ │                     ║                                         │
+ ├─────────────────────╫─────────┬───────┬──────────┬────────────┼
+ │                     ║Southwark│       │          │            │
+ │                     ║   and   │Lambeth│   From   │ Supply not │
+ │                     ║Vauxhall │  Co.  │pumpwells.│ascertained.│
+ │                     ║   Co.   │       │          │            │
+ ├─────────────────────╫─────────┼───────┼──────────┼────────────┼
+ │                     ║         │       │          │            │
+ │                     ║         │       │          │            │
+ ├─────────────────────╫─────────┼───────┼──────────┼────────────┼
+ │St. Saviour,         ║      406│     72│        10│           3│
+ │  Southwark          ║         │       │          │            │
+ │St. Olave, Southwark ║      277│      0│         8│          28│
+ │Bermondsey           ║      821│      0│        25│           0│
+ │St. George, Southwark║      388│     99│         0│          56│
+ │Newington            ║      458│     58│         2│         176│
+ │Lambeth              ║      525│    138│        24│         240│
+ │Wandsworth           ║      268│      7│       106│          40│
+ │Camberwell           ║      352│     33│       115│          49│
+ │Rotherhithe          ║      207│      0│        46│          30│
+ │Greenwich & sub-dis. ║        4│      4│         2│           1│
+ │  Sydenham           ║         │       │          │            │
+ │Houses not identified║         │       │          │            │
+ ├─────────────────────╫─────────┼───────┼──────────┼────────────┼
+ │       Totals        ║    3,706│    411│       338│         623│
+ │Non-ascertained cases║         │       │          │            │
+ │  distributed in     ║      561│     62│          │            │
+ │  proportion of      ║         │       │          │            │
+ │  others             ║         │       │          │            │
+ ├─────────────────────╫─────────┼───────┼──────────┼────────────┼
+ │Population           ║    4,267│    473│       338│            │
+ │  (Registrar-General)║         │       │          │            │
+ └─────────────────────╨─────────┴───────┴──────────┴────────────┴
+
+ ┌─────────────────────┬─────────╥─────────────────┐
+ │                     │ Deaths  ║                 │
+ │                     │  from   ║  Mortality per  │
+ │    Registration     │ cholera ║ 10,000 supplied │
+ │      District.      │ in last ║  with water as  │
+ │                     │ten weeks║     under.      │
+ │                     │   of    ║                 │
+ │                     │epidemic.║                 │
+ ├─────────────────────┼─────────╫─────────┬───────┤
+ │                     │         ║Southwark│       │
+ │                     │         ║   and   │Lambeth│
+ │                     │         ║Vauxhall │  Co.  │
+ │                     │         ║   Co.   │       │
+ ├─────────────────────┼─────────╫─────────┼───────┤
+ │                     │         ║         │       │
+ │                     │         ║         │       │
+ ├─────────────────────┼─────────╫─────────┼───────┤
+ │St. Saviour,         │      491║      207│     50│
+ │  Southwark          │         ║         │       │
+ │St. Olave, Southwark │      313║      148│       │
+ │Bermondsey           │      846║      142│       │
+ │St. George, Southwark│      543║      155│     41│
+ │Newington            │      694║      143│     17│
+ │Lambeth              │      927║       96│     16│
+ │Wandsworth           │      421║      145│     18│
+ │Camberwell           │      549║      150│     31│
+ │Rotherhithe          │      283║      138│       │
+ │Greenwich & sub-dis. │       11║         │       │
+ │  Sydenham           │         ║         │       │
+ │Houses not identified│         ║         │       │
+ ├─────────────────────┼─────────╫─────────┼───────┤
+ │       Totals        │    5,078║      138│     23│
+ │Non-ascertained cases│         ║         │       │
+ │  distributed in     │         ║         │       │
+ │  proportion of      │         ║         │       │
+ │  others             │         ║         │       │
+ ├─────────────────────┼─────────╫─────────┼───────┤
+ │Population           │    5,078║      160│     27│
+ │  (Registrar-General)│         ║         │       │
+ └─────────────────────┴─────────╨─────────┴───────┘
+
+
+
+
+                               TABLE VI.
+  _The Mortality from Cholera in 1854, in Thirty-one Sub-Districts, as
+  compared with Calculations founded on the Results shewn in_ Table V.
+
+
+ ┌────────────┬──────────────┬──────────╥───────────────────────────╥
+ │Registration│ Registration │Population║   Estimated population    ║
+ │ Districts. │Sub-Districts.│ in 1851. ║  supplied with water as   ║
+ │            │              │          ║          under.           ║
+ ├────────────┼──────────────┼──────────╫─────────┬───────┬─────────╫
+ │            │              │          ║         │       │         ║
+ │            │              │          ║Southwark│       │  Both   ║
+ │            │              │          ║   and   │Lambeth│Companies║
+ │            │              │          ║Vauxhall │  Co.  │together.║
+ │            │              │          ║   Co.   │       │         ║
+ │            │              │          ║         │       │         ║
+ ├────────────┼──────────────┼──────────╫─────────┼───────┼─────────╫
+ │St. Saviour,│1.            │    16,022║    2,915│ 13,234│   16,149║
+ │  Southw.   │  Christchurch│          ║         │       │         ║
+ │            │2. St. Saviour│    19,709║   16,337│    898│   17,235║
+ │St. Olave   │1. St. Olave  │     8,015║    8,745│      0│    8,745║
+ │            │2. St. John,  │    11,300║    9,360│      0│    9,360║
+ │            │  Horselydown │          ║         │       │         ║
+ │Bermondsey  │1. St. James  │    18,899║   23,173│    693│   23,866║
+ │            │2. St. Mary   │    13,934║   17,258│      0│   17,258║
+ │            │  Magdalen    │          ║         │       │         ║
+ │            │3. Leather    │    15,295║   14,003│  1,092│   15,095║
+ │            │  Market      │          ║         │       │         ║
+ │St. George, │1. Kent Road  │    18,126║   12,630│  3,997│   16,627║
+ │  Southw.   │              │          ║         │       │         ║
+ │            │2. Borough    │    15,862║    8,937│  6,672│   15,609║
+ │            │  Road        │          ║         │       │         ║
+ │            │3. London Road│    17,836║    2,872│ 11,497│   14,369║
+ │Newington   │1. Trinity    │    20,922║   10,132│  8,370│   18,502║
+ │            │2. St. Peter, │    29,861║   14,274│ 10,724│   24,998║
+ │            │  Walworth    │          ║         │       │         ║
+ │            │3. St. Mary   │    14,033║    2,983│  5,484│    8,467║
+ │Lambeth     │1. Waterloo,  │    14,088║    3,548│ 11,939│   15,487║
+ │            │  part 1      │          ║         │       │         ║
+ │            │2. Waterloo,  │    18,348║    7,171│ 12,533│   19,704║
+ │            │  part 2      │          ║         │       │         ║
+ │            │3. Lambeth    │          ║         │       │         ║
+ │            │  church, pt. │    18,409║    3,113│ 15,878│   18,991║
+ │            │  1           │          ║         │       │         ║
+ │            │4. Lambeth    │          ║         │       │         ║
+ │            │  church, pt. │    26,784║    7,868│ 16,023│   23,891║
+ │            │  2           │          ║         │       │         ║
+ │            │5. Kennington,│    24,261║   15,775│  2,708│   18,483║
+ │            │  part 1      │          ║         │       │         ║
+ │            │6. Kennington,│    18,848║    7,874│  5,620│   13,494║
+ │            │  part 2      │          ║         │       │         ║
+ │            │7. Brixton    │    14,610║    1,922│  9,356│   11,278║
+ │            │8. Norwood    │     3,977║        0│  1,066│    1,066║
+ │Wandsworth  │1. Clapham    │    16,290║    6,747│    134│    6,881║
+ │            │2. Battersea  │    10,560║    6,276│    276│    6,552║
+ │            │3. Wandsworth │     9,611║      907│     94│    1,001║
+ │            │4. Putney     │     5,280║       74│      0│       74║
+ │            │5. Streatham  │     9,023║        0│  3,244│    3,244║
+ │Camberwell  │1. Dulwich    │     1,632║        0│     25│       25║
+ │            │2. Camberwell │    17,742║    9,139│    639│    9,778║
+ │            │3. Peckham    │    19,444║    5,438│    392│    5,830║
+ │            │4. St. George │    15,849║    4,295│  5,437│    9,732║
+ │Rotherhithe │Rotherhithe   │    17,805║   12,218│      0│   12,218║
+ │Houses supplied in streets │          ║   28,929│ 23,338│   52,267║
+ │  where no death occurred  │          ║         │       │         ║
+ │Houses not identified      │          ║    2,712│    165│    2,877║
+ ├───────────────────────────┼──────────╫─────────┼───────┼─────────╫
+ │          Totals           │   482,435║  267,625│171,528│  439,153║
+ │Population as estimated by │          ║  266,516│173,748│  440,264║
+ │  the Registrar-General    │          ║         │       │         ║
+ └───────────────────────────┴──────────╨─────────┴───────┴─────────╨
+
+ ┌────────────┬──────────────╥───────────────┬
+ │Registration│ Registration ║  Deaths from  │
+ │ Districts. │Sub-Districts.║  cholera in   │
+ │            │              ║     1854.     │
+ ├────────────┼──────────────╫───────┬───────┼
+ │            │              ║       │       │
+ │            │              ║       │Deaths │
+ │            │              ║ Total │  per  │
+ │            │              ║deaths.│10,000 │
+ │            │              ║       │living.│
+ │            │              ║       │       │
+ ├────────────┼──────────────╫───────┼───────┼
+ │St. Saviour,│1.            ║    113│     71│
+ │  Southw.   │  Christchurch║       │       │
+ │            │2. St. Saviour║    378│    192│
+ │St. Olave   │1. St. Olave  ║    161│    201│
+ │            │2. St. John,  ║    152│    134│
+ │            │  Horselydown ║       │       │
+ │Bermondsey  │1. St. James  ║    362│    192│
+ │            │2. St. Mary   ║    247│    177│
+ │            │  Magdalen    ║       │       │
+ │            │3. Leather    ║    237│    155│
+ │            │  Market      ║       │       │
+ │St. George, │1. Kent Road  ║    177│     98│
+ │  Southw.   │              ║       │       │
+ │            │2. Borough    ║    271│    171│
+ │            │  Road        ║       │       │
+ │            │3. London Road║     95│     53│
+ │Newington   │1. Trinity    ║    211│    101│
+ │            │2. St. Peter, ║    391│    131│
+ │            │  Walworth    ║       │       │
+ │            │3. St. Mary   ║     92│     66│
+ │Lambeth     │1. Waterloo,  ║     59│     42│
+ │            │  part 1      ║       │       │
+ │            │2. Waterloo,  ║    118│     64│
+ │            │  part 2      ║       │       │
+ │            │3. Lambeth    ║       │       │
+ │            │  church, pt. ║     49│     27│
+ │            │  1           ║       │       │
+ │            │4. Lambeth    ║       │       │
+ │            │  church, pt. ║    195│     73│
+ │            │  2           ║       │       │
+ │            │5. Kennington,║    305│    126│
+ │            │  part 1      ║       │       │
+ │            │6. Kennington,║    143│     75│
+ │            │  part 2      ║       │       │
+ │            │7. Brixton    ║     48│     33│
+ │            │8. Norwood    ║     10│     25│
+ │Wandsworth  │1. Clapham    ║    167│    103│
+ │            │2. Battersea  ║    171│    162│
+ │            │3. Wandsworth ║     59│     61│
+ │            │4. Putney     ║      9│     17│
+ │            │5. Streatham  ║     15│     17│
+ │Camberwell  │1. Dulwich    ║      0│      0│
+ │            │2. Camberwell ║    242│    136│
+ │            │3. Peckham    ║    175│     90│
+ │            │4. St. George ║    132│     83│
+ │Rotherhithe │Rotherhithe   ║    283│    159│
+ │Houses supplied in streets ║       │       │
+ │  where no death occurred  ║       │       │
+ │Houses not identified      ║       │       │
+ ├───────────────────────────╫───────┼───────┼
+ │          Totals           ║  5,067│    105│
+ │Population as estimated by ║       │       │
+ │  the Registrar-General    ║       │       │
+ └───────────────────────────╨───────┴───────┴
+
+ ┌────────────┬──────────────┬───────────────────────────────────────┐
+ │Registration│ Registration │Calculated mortality in the population,│
+ │ Districts. │Sub-Districts.│     supplied with water as under.     │
+ │            │              │                                       │
+ ├────────────┼──────────────┼─────────┬───────┬──────────┬──────────┤
+ │            │              │Southwark│       │          │Calculated│
+ │            │              │   and   │Lambeth│          │deaths per│
+ │            │              │Vauxhall │Co. at │ The two  │  10,000  │
+ │            │              │ Co. at  │27 per │Companies.│ supplied │
+ │            │              │ 160 per │10,000.│          │by the two│
+ │            │              │ 10,000. │       │          │Companies.│
+ ├────────────┼──────────────┼─────────┼───────┼──────────┼──────────┤
+ │St. Saviour,│1.            │       46│     36│        82│        57│
+ │  Southw.   │  Christchurch│         │       │          │          │
+ │            │2. St. Saviour│      261│      2│       263│       153│
+ │St. Olave   │1. St. Olave  │      140│      0│       140│       160│
+ │            │2. St. John,  │      150│      0│       150│       160│
+ │            │  Horselydown │         │       │          │          │
+ │Bermondsey  │1. St. James  │      370│      2│       372│       156│
+ │            │2. St. Mary   │      276│      0│       276│       160│
+ │            │  Magdalen    │         │       │          │          │
+ │            │3. Leather    │      224│      3│       227│       150│
+ │            │  Market      │         │       │          │          │
+ │St. George, │1. Kent Road  │      202│     11│       213│       134│
+ │  Southw.   │              │         │       │          │          │
+ │            │2. Borough    │      143│     18│       161│       104│
+ │            │  Road        │         │       │          │          │
+ │            │3. London Road│       46│     31│        79│        55│
+ │Newington   │1. Trinity    │      162│     22│       184│        99│
+ │            │2. St. Peter, │      228│     29│       257│       103│
+ │            │  Walworth    │         │       │          │          │
+ │            │3. St. Mary   │       48│     15│        63│        74│
+ │Lambeth     │1. Waterloo,  │       57│     31│        86│        55│
+ │            │  part 1      │         │       │          │          │
+ │            │2. Waterloo,  │      115│     34│       149│        76│
+ │            │  part 2      │         │       │          │          │
+ │            │3. Lambeth    │         │       │          │          │
+ │            │  church, pt. │       50│     43│        93│        49│
+ │            │  1           │         │       │          │          │
+ │            │4. Lambeth    │         │       │          │          │
+ │            │  church, pt. │      126│     43│       167│        71│
+ │            │  2           │         │       │          │          │
+ │            │5. Kennington,│      253│      7│       260│       146│
+ │            │  part 1      │         │       │          │          │
+ │            │6. Kennington,│      126│     15│       141│       105│
+ │            │  part 2      │         │       │          │          │
+ │            │7. Brixton    │       31│     25│        56│        49│
+ │            │8. Norwood    │        0│      3│         3│        28│
+ │Wandsworth  │1. Clapham    │      108│      0│       108│       158│
+ │            │2. Battersea  │      100│      1│       101│       152│
+ │            │3. Wandsworth │       15│      0│        15│       149│
+ │            │4. Putney     │        1│      0│         1│       160│
+ │            │5. Streatham  │        0│      9│         9│        27│
+ │Camberwell  │1. Dulwich    │        0│      0│         0│         0│
+ │            │2. Camberwell │      146│      2│       148│       151│
+ │            │3. Peckham    │       87│      1│        88│       151│
+ │            │4. St. George │       69│     15│        84│        86│
+ │Rotherhithe │Rotherhithe   │      196│      0│       196│       160│
+ │Houses supplied in streets │         │       │          │          │
+ │  where no death occurred  │         │       │          │          │
+ │Houses not identified      │         │       │          │          │
+ ├───────────────────────────┼─────────┼───────┼──────────┼──────────┤
+ │          Totals           │    4,282│    462│     4,744│       108│
+ │Population as estimated by │    4,267│    473│     4,740│       108│
+ │  the Registrar-General    │         │       │          │          │
+ └───────────────────────────┴─────────┴───────┴──────────┴──────────┘
+
+-----
+
+Footnote 1:
+
+  Weekly Returns of Deaths, November.
+
+Footnote 2:
+
+  On the Mode of Communication of Cholera, 2nd edit., p. 73.
+
+Footnote 3:
+
+  Weekly Returns for 1854, p. 433.
+
+Footnote 4:
+
+  Weekly Returns for 1854, pp. 514–18.
+
+Footnote 5:
+
+  Medical Times and Gazette, Oct. 7, 1854, p. 365.
+
+Footnote 6:
+
+  The numbers of deaths in the third division of this Table and the
+  next, are copied from page 85 of the work “On the Mode of
+  Communication of Cholera”.
+
+Footnote 7:
+
+  Loc. cit.
+
+Footnote 8:
+
+  Sackville Street.
+
+------------------------------------------------------------------------
+
+
+
+
+                          TRANSCRIBER’S NOTES
+
+
+ 1. P. 1, changed “they aware of” to “they are aware of”.
+ 2. Silently corrected obvious typographical errors and variations in
+      spelling.
+ 3. Retained archaic, non-standard, and uncertain spellings as printed.
+ 4. Enclosed italics font in _underscores_.
+
+*** END OF THE PROJECT GUTENBERG EBOOK CHOLERA AND THE WATER SUPPLY ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,7329 @@
+﻿The Project Gutenberg EBook of Stein unter Steinen, by Hermann Sudermann
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Stein unter Steinen
+
+Author: Hermann Sudermann
+
+Release Date: May 14, 2020 [EBook #62132]
+
+Language: German
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK STEIN UNTER STEINEN ***
+
+
+
+
+Produced by Peter Becker and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+  +------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Gesperrter Text ist als _gesperrt_ dargestellt, Fettschrift als  |
+  | ·fett·, und Antiquaschrift als ~Antiqua~.                        |
+  | Eine Liste der Änderungen befindet sich am Ende des Buchs.       |
+  +------------------------------------------------------------------+
+
+
+Stein unter Steinen
+
+
+    Verlag der J. G. Cotta'schen Buchhandlung Nachfolger
+    Stuttgart und Berlin
+
+
+    Hermann Sudermann:
+
+
+                                                             Geheftet
+
+    ·Im Zwielicht.· Zwanglose Geschichten. 30. Aufl.          M. 2.--
+
+    ·Frau Sorge.· Roman. 83. bis 87. Auflage                  M. 3.50
+
+    ·Geschwister.· Zwei Novellen. 27. Auflage                 M. 3.50
+
+    ·Der Katzensteg.· Roman. 61. bis 65. Auflage              M. 3.50
+
+    ·Jolanthes Hochzeit.· Erzählung. 27. Auflage              M. 2.--
+
+    ·Es war.· Roman. 38. Auflage                              M. 5.--
+
+    ·Die Ehre.· Schauspiel in 4 Akten. 32. Auflage            M. 2.--
+
+    ·Sodoms Ende.· Drama in 5 Akten. 23. Auflage              M. 2.--
+
+    ·Heimat.· Schauspiel in 4 Akten. 34. Auflage              M. 3.--
+
+    ·Die Schmetterlingsschlacht.· Komödie in 4 Akten
+    9. Auflage                                                M. 2.--
+
+    ·Das Glück im Winkel.· Schauspiel in 3 Akten
+    15. und 16. Auflage                                       M. 2.--
+
+    ·Morituri:· Teja. Drama in 1 Akt. -- Fritzchen.
+    Drama in 1 Akt. -- Das Ewig-Männliche.
+    Spiel in 1 Akt. 17. Auflage                               M. 2.--
+
+    ·Johannes.· Tragödie in 5 Akten und 1 Vorspiel.
+    28. Auflage                                               M. 3.--
+
+    ·Die drei Reiherfedern.· Dramatisches Gedicht in
+    5 Akten. 14. Auflage                                      M. 3.--
+
+    ·Johannisfeuer.· Schauspiel in 4 Akten. 20. Aufl.         M. 2.--
+
+    ·Es lebe das Leben.· Drama in 5 Akten. 20. Aufl.          M. 3.--
+
+    ·Der Sturmgeselle Sokrates.· Komödie in 4 Akten.
+    15. Auflage                                               M. 2.--
+
+    Die vorstehend verzeichneten Werke sind auch gebunden zu beziehen
+
+    Preis für den Einband:
+
+    in Leinen 1 Mark, in Halbfranz 1 Mark 50 Pf.
+
+
+
+
+                          Stein unter Steinen
+
+                       Schauspiel in vier Akten
+
+                                  von
+
+                           Hermann Sudermann
+
+                             Elfte Auflage
+
+                            [Illustration]
+
+                       Stuttgart und Berlin 1905
+
+               J. G. Cotta'sche Buchhandlung Nachfolger
+
+
+~Copyright, 1905, by Hermann Sudermann~
+
+Alle Rechte vorbehalten
+
+
+Druck der Union Deutsche Verlagsgesellschaft in Stuttgart
+
+
+
+
+Personen
+
+
+    ·Zarncke·, Steinmetzmeister.
+
+    ·Marie·, seine Tochter.
+
+    ·Frau Homeyer·, Wirtschafterin bei Zarncke.
+
+    ·Jenisch·, Buchhalter.
+
+    ·Eichholz·, Nachtwächter auf dem Werkplatz.
+
+    ·Lore·, seine Tochter.
+
+    ·Lenchen·, deren Kind.
+
+    ·Willig·, Polier.
+
+    ·Göttlingk·, Steinmetz.
+
+    ·Jakob Biegler·.
+
+    ·Reitmaier·, Kriminalkommissar.
+
+    ·Lohmann·,    }
+    ·Sprengel·,   } Arbeiter.
+    ·Struve·,     }
+
+    Bildhauer, Steinmetzen, Arbeiter.
+
+    Mehrere Frauen und Kinder.
+
+    _Ort der Handlung_: Berlin.
+
+    _Zeit der Handlung_: die Gegenwart.
+
+    Zwischen dem ersten und dem zweiten Akt liegen drei Wochen,
+    zwischen den folgenden Akten liegt je ein Tag.
+
+[Illustration]
+
+
+
+
+Erster Akt
+
+    Wohnstube bei Zarncke. In der Mitte des Hintergrundes Tür nach
+    dem Hausflur. Auf der linken Seite Tür nach Wirtschaftsräumen.
+    Auf der rechten Seite ein breites Fenster nach dem Werkplatz
+    führend. Davor, um eine Stufe erhöht, ein Podium mit bequemem
+    Lehnstuhl und Tischchen. Links vorne ein Sofa mit Sofatisch
+    und Sesseln. Im Hintergrunde links von der Tür ein Tischchen
+    mit Wandkonsole darüber, rechts von der Tür ein Bücherschrank.
+    Altväterisch-behagliche Ausstattung. Stahlstiche,
+    Photographien, gestickte Sinnsprüche an den Wänden.
+    Pfeifenständer, Zigarrenschränkchen, Bauer mit Kanarienvogel
+    etc. etc.
+
+
+Erste Szene
+
+    _Zarncke._ _Marie._ _Jenisch_
+
+
+·Zarncke·
+
+    (Sechziger, mittelgroß, stark ergraut. Bartfunzeln auf den
+    Backen. Gutmütig-vergnügte Äuglein. Sprechweise -- mit
+    Anklängen ans Niederdeutsche -- weich, bisweilen harmlos
+    polternd, voll stillen Grüblersinnes)
+
+·Marie·
+
+    (Ende der Zwanzig, klein, bucklig. Fahle Krankheitsfarbe. Zwei
+    schöne Augen voll wehmütig-lachender Güte. Gequetschte Sprache,
+    bisweilen durch schweres Atmen unterbrochen. Bewegungen
+    tastend, unsicher)
+
+·Jenisch·
+
+    (behaglicher, beschränkter Zahlenmensch)
+
+·Zarncke· (mit Jenisch eintretend)
+
+Na, Miezelchen?
+
+·Marie·
+
+    (die im Lehnstuhl sitzt, aufleuchtend)
+
+Vaterchen! (Will aufstehen)
+
+·Zarncke·
+
+Sitzen bleiben! Sitzen bleiben! (Tritt zu ihr hin und küßt sie auf die
+Stirn) Läßte dir die Maisonne in 'n Magen scheinen? Das is recht ...
+Na, Jenisch, was haben Sie da!
+
+·Jenisch·
+
+Die neuen Sandsteinproben aus den Knauerschen Brüchen, Herr Zarncke.
+(Reicht ihm die kleinen Blöcke)
+
+·Zarncke· (kratzt an den Rändern)
+
+Schreiben Sie man den Leuten, mein Kontorbedarf an Streusand sei
+vorläufig noch gedeckt.
+
+·Jenisch· (lacht respektvoll)
+
+·Zarncke·
+
+Zweite Post?
+
+·Jenisch·
+
+Jawohl. (Reicht ihm ein Paket Geschäftsbriefe)
+
+·Zarncke·
+
+    (setzt sich an den Tisch und läßt die Kuverts durch die Hand
+    gleiten)
+
+Nischt -- nischt -- nischt. (Ein Kuvert öffnend) Machen wir. (Ein
+zweites) Machen wir desgleichen. »Verein zur Besserung entlassener
+Strafgefangener«. Möchten sie mir mal wieder einen andeichseln? ... Na,
+wollen mal sehn ... (Legt das Kuvert beiseite und schiebt Jenisch die
+anderen Briefe hin) Zurück zur Beantwortung! ... Und wenn die Leute von
+der Polizei kommen wegen heute nacht -- das sag' ich besser draußen.
+(Zu Marie) Verzeih mal! (Öffnet das Fenster. Das klingende Geräusch
+der Meißelschläge, das Klirren der Flaschenzugketten, das Quietschen
+der Windewagen wird hörbar) Sie da! Willig! Polier! (Lauter) Polier!
+
+·Stimme des Poliers Willig·
+
+Jawohl, Herr Zarncke!
+
+·Zarncke·
+
+Wenn die Leute vom Kriminal kommen, lassen Sie sie gleich aufs Kontor
+führen. Ich will nicht, daß sie mir den Platz rabiat machen mit ihrem
+dummen Gefrage.
+
+·Stimme Willigs·
+
+Jawohl, Herr Zarncke.
+
+·Zarncke· (nachahmend)
+
+Jawohl, Herr Zarncke. (Schließt das Fenster, das Geräusch hört auf)
+
+·Marie·
+
+_Mußtest_ du's denn anzeigen, Vaterchen?
+
+·Zarncke·
+
+Ja, das frag' ich mich auch. Aber ich kann mir doch nicht zu
+nachtschlafender Zeit in meinen Magazinschlössern rumpulen lassen.
+Womöglich noch »Schön Dank« sagen ... Hören Sie mal, Jenisch, euch
+auf'm Kontor geht's ja eigentlich nischt an, aber wie denken Sie über
+den alten Eichholz?
+
+·Jenisch·
+
+Ja, Herr Zarncke, wir meinen, er wird sich nich mehr lange halten
+lassen. Als Wächter.
+
+·Zarncke·
+
+Na, als was denn sonst?
+
+·Jenisch·
+
+Das weiß ich ja nich.
+
+·Zarncke·
+
+Sinekuren gibt's nich bei mir auf'm Platz. Selbst mein Kanarienfritze
+hat sein Geschäft. Wenn der nich singt, dreh' ich ihm den Hals um.
+
+·Marie· (lächelnd)
+
+Na, na.
+
+·Zarncke·
+
+Was ist hier zu na-na-en! (Zärtlich) Du -- hä?
+
+·Marie· (lacht)
+
+·Zarncke·
+
+Der Alte hat seine dreißig Dienstjahre. Hat 's Geschäft groß werden
+sehen ... Wird mir schwer! (Pause) Abends, wenn er elfe gepfiffen hat,
+setzt er sich friedfertig auf einen Block, und dann sägt er los. (Ahmt
+einen Schnarchton nach) Und derweilen pulen mir die Herren Einbrecher
+in den Schlössern rum. Mir schwant so was, min Döchting, diese
+Instituschon is nich das richtige.
+
+·Marie· (lacht)
+
+·Zarncke·
+
+Also, Jenisch, ziehn Sie sich tapfer zurück.
+
+·Jenisch· (lachend)
+
+Adieu, Fräulein Mariechen.
+
+·Marie·
+
+Adieu, Herr Jenisch.
+
+
+Zweite Szene
+
+    _Zarncke. Marie_
+
+·Zarncke·
+
+Dabei weiß ich genau, wer's gewesen is.
+
+·Marie·
+
+Am Ende gar der -- --?
+
+·Zarncke·
+
+Na natürlich.
+
+·Marie· (lachend)
+
+Du weißt ja noch gar nicht, wen ich meine.
+
+·Zarncke·
+
+_Du_ meinst den Struve. Und _ich_ mein' den Struve. Und draußen auf dem
+Platze meinen sie _auch_ den Struve. Aber weil sie mich nich blamieren
+wollen, tun sie, als hätten sie keinen Dunst ... Wozu hab' ich nu
+mal den Besserungspuschel? ... Wenn ich das Luder jetzt nich wieder
+raushaue, kriegt er zehn Jahre.
+
+·Marie·
+
+Um Gottes willen!
+
+·Zarncke·
+
+Fünfmal vorbestraft ... Davon zweimal mit Zuchthaus. Billiger tun
+sie's da nich ... Und so 'ne Seele von Mensch. Als die Steinmetzen
+neulich für den brustkranken Emil sammelten -- wo er doch als Arbeiter
+eigentlich gar nischt mit zu tun hat -- Wochenlohn blank auf den Tisch
+gelegt. Und muß mausen! ... Nämlich die Diamantsplitter in den neuen
+Zahnsägen haben's ihm angetan. Macht er dem Polizeimann dieselbe
+wehmutsvolle Gaunerschnauze, die er mir heute gemacht hat, dann sitzt
+er schon im Kittchen ... Ach, was hat man für'n Kreuz mit diesen Kerls!
+Immer wieder saust man rin.
+
+·Marie·
+
+Na, manchmal auch nicht.
+
+·Zarncke·
+
+Hm! Der Auschwitz war gut. Dem Blankmann hab' ich das Leben gerettet.
+Der Thiele hat sogar Karriere gemacht. Aber -- nee! -- nu Schluß! --
+Ich nehm' nu nich _einen_ mehr, den mir der Verein zuschanzt.
+
+·Marie·
+
+Na, na!
+
+·Zarncke·
+
+Mariechen, ich schwör' es dir. (Das Kuvert aufnehmend) Und wenn dies
+hier -- ein Lämmlein is, mit Zucker bestreut, ich tu's nicht. (Das
+Kuvert aufreißend) Wollen mal gleich sehn!
+
+·Marie·
+
+Weißt du, Vaterchen, dann lies lieber nicht. Nachher ist es ein
+interessanter Fall, und dann --
+
+·Zarncke·
+
+Kann's auch ungelesen zurückschicken. (Unschlüssig) Aber -- -- -- du,
+klingel mal, daß die Homeyer mir das Frühstück bringt.
+
+·Marie· (klingelt)
+
+·Zarncke·
+
+    (die Papiere musternd, die in dem Kuvert stecken)
+
+Da is nu ein ganzes Schicksal drin.
+
+·Marie· (bittend)
+
+Vaterchen, mach dir das Herz nicht schwer. Lies lieber nich.
+
+·Zarncke·
+
+Man soll zwar keinen von seiner Türe weisen. Na, wie du meinst. (Legt
+das Kuvert hin)
+
+
+Dritte Szene
+
+    _Die Vorigen. Frau Homeyer_
+
+    (Frau Homeyer, kraftvolle, hübsche Person, zu Anfang der
+    dreißig. Energische Bewegungen. Haare kokett gelockt, mit einem
+    Stich ins Gemeine)
+
+·Frau Homeyer·
+
+    (die Frühstückstablette mit belegten Brötchen und einer
+    Rotweinflasche hereintragend)
+
+Schönen guten Morgen wünsch' ich.
+
+·Zarncke·
+
+Wir haben uns ja heut schon gesehn, Homeyerchen.
+
+·Frau Homeyer·
+
+Wenn auch. Ich sag' noch mal »Guten Morgen«. Das ziemt sich für mich.
+(Auf die Tablette weisend) Is alles gut so?
+
+·Zarncke·
+
+Hm. Fein.
+
+·Frau Homeyer·
+
+Fräulein Mariechen, was möchten Sie?
+
+·Marie·
+
+Danke. Danke.
+
+·Frau Homeyer·
+
+Is Ihnen heute wieder nich ganz frisch?
+
+·Marie·
+
+Doch. Doch.
+
+·Frau Homeyer·
+
+Nu sagen Sie doch. Ich will doch sorgen für Sie. Ich kann mir gar nich
+genug tun für Sie.
+
+·Zarncke·
+
+Ja, ja, Sie sind eine Perle.
+
+·Frau Homeyer·
+
+Herr Zarncke, ich kümmre mich um keinen Menschen sein Lob. Ich bin eine
+ehrbare Witwe. Wer so viel Leid durchgemacht hat im Leben, wie ich --
+ach ja!
+
+·Zarncke·
+
+Ihr vieles Leid is Ihnen aber ganz gut bekommen, hören Sie mal.
+
+·Frau Homeyer·
+
+Ach ja. Ich hab' mir ganz gut konserviert.
+
+·Zarncke·
+
+Und dann so die ehrbare Lebensweise.
+
+·Frau Homeyer· (seufzend)
+
+Ja, ja.
+
+·Zarncke·
+
+Hören Sie mal, Kindchen, noch eine Frage: Haben Sie vielleicht irgend
+was gehört, heute nacht?
+
+·Frau Homeyer·
+
+Ja. Gehört hätt' ich wohl so einiges. -- Schritte und so.
+
+·Zarncke·
+
+Warum haben Sie denn nichts davon gemeldet?
+
+·Frau Homeyer·
+
+Hat mich ja keiner gefragt. Außerdem: ich geb' keinen an. Ich misch'
+mich nich in fremde Sachen.
+
+·Zarncke·
+
+So -- das sind fremde Sachen für Sie?
+
+·Frau Homeyer·
+
+Gott! Wo hab' ich denn gedacht, daß es gleich Einbrecher sind?
+
+·Zarncke·
+
+Na, was denn sonst?
+
+·Frau Homeyer·
+
+Ich hab' gedacht: es is eben Frühling, -- da werden die Mannsleute
+doll --
+
+·Zarncke·
+
+Und die Weibsleute auch.
+
+·Frau Homeyer·
+
+Von mir können Sie so was nich sagen, Herr Zarncke. Von dem Tage an,
+daß mein armer sel'ger Mann --
+
+·Zarncke·
+
+Scht, scht, scht! _Wenn_, dann würd's auch nichts ausmachen. Na -- und?
+
+·Frau Homeyer·
+
+Und der alte Eichholz schläft natürlich. (Mit Betonung) Und die Tochter
+schläft eben auch. Nu ja.
+
+·Zarncke·
+
+Ach so! Das geht gegen die Lore!
+
+·Frau Homeyer·
+
+Ich hab' nichts gesagt. Ich misch' mich in gar nichts. Laß das Fräulein
+Lore tun, was sie will. Es braucht nich jede so'n Wandel zu haben, wie
+ich. Aber schließlich läuft auf dem Werkplatz 'n kleines Mädchen rum.
+Vater unbekannt.
+
+·Zarncke·
+
+Der Vater ist nicht unbekannt.
+
+·Frau Homeyer·
+
+Ach ja, man nennt ja wohl so gewisse Namen. -- Warum heiratet er sie
+denn nich?
+
+·Zarncke·
+
+Das geht mich nichts an. Und Sie auch nicht ... Was hast du, Mariechen?
+
+·Marie·
+
+    (die mit geschlossenen Augen in den Sessel zurückgesunken ist)
+
+Nichts, Vaterchen. Du weißt ja. Mir wird manchmal so grasgrün.
+
+·Frau Homeyer·
+
+    (die eilig ein Glas Wasser gefüllt hat)
+
+Glas Wasser, Fräulein Mariechen? Glas Wasser?
+
+·Marie· (trinkt -- matt)
+
+Danke schön.
+
+·Frau Homeyer·
+
+Sonst noch Wünsche? ... Nein. (Da niemand antwortet, ab)
+
+
+Vierte Szene
+
+    _Zarncke. Marie._ Später _Lenchen_
+
+·Zarncke·
+
+Miezelchen!
+
+·Marie·
+
+Verzeih schon, Vaterchen. Es ist wohl der Frühling. Der macht einem
+Kopf und Glieder so schwer.
+
+·Zarncke·
+
+Ja, ja, es is der Frühling ... Selbst ich alter Knochen spür' ihn.
+Willst nich was essen? Wart, ich bring' dir. Der Doktor hat gesagt, du
+sollst eine sitzende Lebensweise führen, also führe du eine sitzende
+Lebensweise. (Setzt den Teller vor sie hin und nimmt ein Brötchen) Ganz
+lecker! Magst du das Frauenzimmer eigentlich?
+
+·Marie·
+
+Ach Gott!
+
+·Zarncke·
+
+Ich hab' sie so lieb, weil sie mich so hübsch anschwindelt. Bißchen
+Kuddelmuddel muß sein um einen 'rum, sonst weiß man gar nich, daß
+man lebt ... Jetzt läuft sie auch hinter dem Göttlingk her. Darum
+der Haß auf die Lore ... Ja, der Frühling! ... Und mit dem Arbeiten
+gar da geht's bei allen nich ... Sie pfeifen die Sonne an, und wenn
+sie Mittags auf den zwei Richtscheiten liegen, dann sind sie nich
+hochzukriegen. (Seufzend) Junges Volk! ... Übrigens, du! Zu der Amsel
+auf dem Kantinendach hat sich ein Weibchen gefunden.
+
+·Marie· (freudig)
+
+Ach! Gott sei Dank. Dann wird sie sich nich mehr die Seele aus dem
+Leibe schreien ...
+
+·Zarncke·
+
+Andere Leut' schweigen sich die Seele aus dem Leibe.
+
+·Marie· (betroffen)
+
+Wie meinst du das?
+
+·Zarncke·
+
+Na, is doch so ... Schadt nischt! Sein Geheimfach hat jeder. --
+
+·Marie· (hinaushorchend, ruft)
+
+Lenchen! (Sie öffnet das Fenster, der Lärm des Werkplatzes dringt
+herein, wie vorhin) Lenchen!
+
+·Die Stimme Lenchens· (jubelnd)
+
+Tante Mariechen!
+
+·Marie·
+
+Komm ans Fenster! Komm!
+
+·Zarncke·
+
+Tante nennt sie dich?
+
+·Marie·
+
+Soll sie nicht, Vaterchen?
+
+·Zarncke·
+
+Ja, ja. Kommt auf eins 'raus.
+
+·Marie·
+
+Na, kletter hoch!
+
+·Lenchens·
+
+    (Kopf erscheint in der Fensteröffnung)
+
+Tag, Tante Mariechen.
+
+·Marie·
+
+Klettre, Katz! Klettre!
+
+·Lenchen·
+
+Mußt helfen.
+
+·Zarncke·
+
+    (da Marie eine Bewegung macht, rasch)
+
+Nicht du! Ich, ich! (Zieht das Kind durch das Fenster herein und setzt
+es auf den Boden)
+
+·Lenchen·
+
+    (die Arme um Mariens Knie schlingend)
+
+Tante Mariechen! Tante Mariechen!
+
+·Marie· (sie herzend)
+
+Willst 'n Bonbon oder 'ne Butterstulle?
+
+·Lenchen·
+
+Butterstulle.
+
+·Marie·
+
+    (gibt ihr ein zusammengeklapptes Butterbrot)
+
+·Lenchen·
+
+    (setzt sich ihr zu Füßen auf die Stufe des Podiums und ißt
+    unbekümmert)
+
+·Marie·
+
+Und das soll nun 'ne Schande sein -- so ein Engelskind!
+
+·Zarncke·
+
+Hättst wohl gern so 'n Stückchen Schande an dir?
+
+·Marie· (inbrünstig)
+
+Ach so gerne, Vaterchen, so gerne!
+
+·Zarncke·
+
+Tja! Vielleicht gibt sie's dir!
+
+·Marie·
+
+So was zu fordern, hätt' ich nicht das Herz. (Streichelt die Kleine und
+spricht leise zu ihr)
+
+·Zarncke·
+
+Tja! (Geht an den Tisch, trinkt ein Glas Rotwein, sieht verstohlen nach
+Marie, nimmt das Kuvert, reißt die Papiere heraus und beginnt zu lesen)
+
+·Marie·
+
+    (sieht es, lächelt und macht sich von neuem mit der Kleinen zu
+    schaffen)
+
+·Zarncke· (murmelnd)
+
+Zu mir will der Mensch? Warum will der Mensch gerade zu mir? (Steckt
+die Papiere heimlich ins Kuvert zurück und geht erregt im Zimmer umher)
+Was kann man da machen? Was --
+
+·Marie· (bittend)
+
+Vater!
+
+·Zarncke·
+
+Was denn?
+
+·Marie·
+
+Allen hilfst du! Jeder Verbrecher kann zu deiner Türe kommen. Hilf doch
+auch dem Kinde!
+
+·Zarncke·
+
+Ja, leicht gesagt! ... Wie?
+
+·Marie·
+
+Rede mit Göttlingk wegen Lore.
+
+·Zarncke·
+
+Ich _hab_' mit ihm geredet. Zwingen kann ich ihn nicht.
+
+·Marie·
+
+Erst wollt' er noch auf die Wanderschaft. Fünf Jahre ist er weg
+gewesen. Als Herr ist er wiedergekommen.
+
+·Zarncke·
+
+Herr? ... Künstler! Künstler is er geworden. Dieser wüste Kerl kann
+mehr als ... Seinethalben braucht' ich gar keine Bildhauer mehr. Den
+schwierigsten Auftrag kann ich annehmen, seit er da ist.
+
+·Marie·
+
+Vater, sprich mit ihm. Nun wird sie auch noch den Schmerz erleben mit
+dem Alten. Ich mag das Elend nicht mehr mit ansehn.
+
+·Zarncke·
+
+Er sagt, er kann noch nicht. Er hat noch Höheres vor.
+
+·Marie·
+
+Je Höheres er vorhat, desto schlechter wird sie ihm.
+
+·Zarncke·
+
+Komm' ich ihm grob, dann wirft er mir den Meißel vor die Füße. Na und
+dann? ... Weißt du: Sprich du mit ihm.
+
+·Marie· (erschrocken)
+
+Ich? ... Nein, nein, nein.
+
+·Zarncke·
+
+Warum nicht?
+
+·Marie·
+
+Vaterchen -- das -- kann ich nicht.
+
+·Zarncke·
+
+Siehst du. Man kann manches nicht. (Es klopft) Herein.
+
+
+Fünfte Szene
+
+    _Die Vorigen. Eichholz_
+
+    (Eichholz: Ende der Sechzig, knickbeinig, würdevoll-finster,
+    mit militärischem Anflug, alter Schwadroneur, fast weißes,
+    buschiges Haar, Rundbart mit ausrasierter Oberlippe, Bratenrock
+    mit Ordensschnalle und eisernem Kreuz)
+
+·Zarncke·
+
+Na Eichholz! Ausgeschlafen?
+
+·Lenchen· (ihm entgegen)
+
+Großvaterchen! Großvaterchen!
+
+·Eichholz· (will sie nicht sehen)
+
+·Marie·
+
+Pscht! Lenchen! Komm her! Großvater hat keine Zeit. (Sie beginnt zu
+sticken. Das Kind spielt)
+
+·Eichholz·
+
+Nja.
+
+·Zarncke·
+
+Und so feierlich! Was is denn los?
+
+·Eichholz·
+
+Herr Zarncke -- ich möchte -- freundlichst -- um meine Entlassung
+gebeten haben.
+
+·Zarncke·
+
+    (mit Marie einen erfreuten Blick wechselnd)
+
+Sieh mal an!
+
+·Eichholz·
+
+Denn ich habe nämlich in Erfahrung gebracht -- daß die Steinmetzen
+behaupten -- _wollen_, daß ich gewissermaßen -- meines Amtes nicht mehr
+gewachsen bin.
+
+·Zarncke·
+
+So?
+
+·Eichholz·
+
+Denn im Punkte des Ehrgefühls, da laß ich mir nicht drankommen. Und
+wenn die Steinmetzjungens sich die Schnauze verbrennen, damit, daß sie
+nicht wissen tun, was ein gewissenhafter Mann ist, und was ein sehr
+tauglicher Mann ist --
+
+·Zarncke·
+
+Nu kohlt er wieder.
+
+·Eichholz·
+
+Und was ein königstreuer Mann ist ... Und wo ich mir habe in Ihrem
+Dienste lädiert, daß ich mir habe nämlich die Schulterblattmuskeln
+ausgefallen.
+
+·Zarncke·
+
+Ich weiß, ich weiß, ich weiß.
+
+·Eichholz·
+
+Und wo ich da immer noch ein wollenes Fellchen, wie man so sagt, ein
+Puschemauchen, drum herumtrage, wegen den Reimantismus, wo ich mir auch
+im Dienste geholt habe.
+
+·Zarncke·
+
+Ja -- so Nachts auf dem kalten Stein schl-- (sich rasch verbessernd)
+sitzen -- sitzen, das hält der Kräftigste nicht aus.
+
+·Eichholz·
+
+Ich? Sitzen? ... Sitzen? Ich -- Nachts? Nu sagen Sie bloß noch, Herr
+Zarncke, ich hab' auch die Augen zugemacht, dann kann ich ruhig jehn,
+mir aufhängen.
+
+·Zarncke·
+
+Na, na, na. Sagt ja keiner. (Zu Marie) Was fängste da an?
+
+·Eichholz·
+
+Wo ich doch schon Kummer genug hab' -- mit meine Tochter -- und hier
+mit -- diese -- diese -- Mestize.
+
+·Marie· (hebt erstaunt den Kopf)
+
+·Zarncke·
+
+Wieso Mestize?
+
+·Eichholz·
+
+Nu, was ein ungebührliches Kind is -- 's is ja schlimm, daß man das
+selber sagen muß, -- aber das is doch nich anders, das is doch eine
+Mestize.
+
+·Zarncke·
+
+Ach, Sie haben wohl ein Indianerbuch gelesen?
+
+·Eichholz·
+
+Ja, so Sonntagnachmittag, wenn ich 'n freien Momang habe, dann les' ich
+wohl sehr gerne in de Indianerbiecher.
+
+·Zarncke·
+
+Nu hören Sie mal, lieber Eichholz, alter Kriegskamerad, wie wär's, wenn
+Sie sich mal 'n bißchen mehr Ruhe gönnten?
+
+·Eichholz·
+
+Ja, ich bin aber ausgeschlafen so gegen zehne.
+
+·Zarncke· (leise zu Marie)
+
+Kunststück! ... Nein, nein, ich meine zur Nachtzeit, Eichholz.
+
+·Eichholz·
+
+Ja, wenn man das so ginge, Herr Zarncke. Aber was 'n gewissenhafter
+Wächter is und 'n tauglicher Wächter is, der hat Ohren, sag' ich Ihnen,
+der hört den Maulwurf graben zur nächtlichen Stunde, sag' ich Ihnen.
+
+·Zarncke·
+
+Aber von Einbrechern haben Sie heute nacht nichts gehört -- hä?
+
+·Eichholz·
+
+Hähähähä! Da lach' ick äwwer.
+
+·Zarncke· (ernst)
+
+Heute nacht ist nämlich eingebrochen worden, Eichholz.
+
+·Eichholz· (gekränkt)
+
+Fangen Sie nu auch so an, Herr Zarncke, wie die Steinmetzjungens?
+
+·Zarncke· (ernst)
+
+Ich muß wohl, Eichholz.
+
+·Eichholz· (versteht, fassungslos)
+
+Ach so! (Sein Gesicht verändert sich)
+
+·Zarncke· (bittend)
+
+Nu sehn Se mal, alter Freund. Sie gehn auf die Siebzig. Nu schlafen Sie
+sich doch mal ordentlich aus. Im Bett. Verstehen Sie. Im ordentlichen
+Bett.
+
+·Eichholz· (kläglich)
+
+Ich kann gar nich im Bett schlafen.
+
+·Zarncke·
+
+Dann werd' ich Ihnen einen schönen, harten Granitblock in Ihre
+Schlafkammer schaffen lassen ... damit Sie Ihre Bequemlichkeit haben ...
+
+·Eichholz· (brütend)
+
+Nja.
+
+·Zarncke·
+
+Und Not sollen Sie auch nich leiden. Ich setz' Ihnen 'ne Pension aus
+... Können auch wohnen bleiben ... Bei Tag schustern Sie 'n bißchen
+oder läuten die Pausen ab oder helfen Ihrer Tochter in der Kantine.
+
+·Eichholz·
+
+Und gewöhn' mir das Saufen an.
+
+·Zarncke·
+
+Sie werden doch nich.
+
+·Eichholz·
+
+Herr Zarncke, ich bin ein Mann -- hochgeehrt -- ich hab' anno 70 immer
+mit am Offezierstisch gegessen.
+
+·Zarncke·
+
+Na, na.
+
+·Eichholz·
+
+Ja ... Ich bin nie 'n Fettschmecker gewesen und 'n Saufjee, ich hab'
+noch nich mal 'n Stückschen Käse ins Schnapsglas getunkt.
+
+·Zarncke·
+
+Schmeckt ja auch gar nich.
+
+·Eichholz·
+
+Das is nu Ansichtssache, Herr Zarncke ... Aber wenn man in eine so
+lausige Beschaffenheit versetzt wird, daß das Ehrgefühl im Menschen so
+sehr gekränkt wird, wo man doch von seinem redlichen Schustergewerbe
+nichts mehr übrig hat wie 'n paar Lederabfälle und zehn steifgewordene
+Finger ... und ehe man so'ne Schandpanksjohn annimmt ...
+
+·Zarncke·
+
+Sie sind ja ein ganz beißiges altes Vieh, hören Sie mal ...
+
+·Eichholz·
+
+Ich ... ich ... hab'... ich ... (Würgt)
+
+·Zarncke·
+
+Na, na, Eichholzchen ... Nu si doch man wedder good, min Sähn.
+
+·Eichholz· (befehlshaberisch)
+
+Lenchen!
+
+·Marie· (ängstlich)
+
+Nein, nein, das Kind bleibt hier.
+
+·Eichholz·
+
+Ich und Lenchen -- wir gehn jetzt aus'm Haus.
+
+·Zarncke·
+
+Wenn Sie aus dem Hause gehen wollen, Eichholz, dann kann ich nichts
+dagegen haben -- das heißt, Sie werden sich ja noch anders besinnen --
+
+·Eichholz·
+
+Na, glauben Sie, geehrter Herr, ich werd's mit ansehn, daß irgend
+so ein hergelaufener Sch -- Schlump jetzt sagen kann, ich bin dem
+weggejagten Alten da -- sein Nachfolger. Das -- nee -- nee -- nee!
+Ich hab' noch 'ne kleine Nachrechnung, Herr Zarncke. Wegen ein paar
+reparierte Absätze, die schenk' ich Ihnen, Herr Zarncke. Ich arbeit'
+nich mehr für Sie ... Guten Morgen, Herr Zarncke. (Ab)
+
+
+Sechste Szene
+
+    _Zarncke. Marie. Lenchen. Später Lore_
+
+·Zarncke· (verzweifelt)
+
+Na -- nu is er rabiat. Nu geht er sausen. --
+
+·Marie·
+
+Du warst milde genug, Vaterchen.
+
+·Zarncke·
+
+Ja, wenn's Maschinen wären. Aber jeder is 'n Mensch. Jeder hat sein
+Schicksal.
+
+·Marie·
+
+In sich, Vater.
+
+·Zarncke·
+
+Wenn das wahr wäre, dann wär' ich nicht schon so vielen ihr Schicksal
+gewesen ... In sich! ... Spreu sind wir im Winde. Es kommt nur drauf
+an, von wo er bläst ... Na -- vielleicht kann man's an einem andern
+wieder gutmachen. (Nimmt die Papiere) Da wird heute einer kommen. So
+einen hatten wir noch nicht.
+
+·Marie·
+
+Was hat er denn pekziert?
+
+·Zarncke·
+
+Frag nicht. Nachher drückt's dich.
+
+·Lores Stimme· (draußen rufend)
+
+Lenchen! Lenchen!
+
+·Lenchen· (aufhorchend)
+
+Das is Mama. Ich will zu Mama.
+
+·Marie·
+
+    (das Fenster öffnend, durch das diesmal kein Geräusch
+    hereindringt)
+
+Das Kind is bei mir drin, Lore.
+
+·Zarncke· (nach der Uhr sehend)
+
+Alles still? Is schon Frühstückspause?
+
+·Lores·
+
+    (Kopf erscheint in der Fensteröffnung)
+
+Dank' schön, Fräulein Mariechen. (Zu Lenchen, die die Arme ausstreckt,
+sich vorbeugend) Na, hopp!
+
+·Zarncke·
+
+Du kannst mal 'reinkommen, Lore.
+
+·Lore·
+
+Wenn ich darf, Herr Zarncke. (Verschwindet)
+
+·Marie·
+
+    (schließt das Fenster und beruhigt Lenchen, die weinen will)
+
+·Zarncke·
+
+Und findet sich der Mann hier 'rein -- der Mann von diesem Brief --
+Biegler heißt er -- dann schick ihn nicht ins Komptor, dann laß mich
+lieber rufen. (Es klopft) Herein!
+
+·Lore· (erscheint in der Tür)
+
+·Zarncke·
+
+Du, Lore, ich muß dir was sagen: Vater is von heute ab --
+
+·Lore·
+
+    (Mitte der Zwanzig. Hübsch, vollkräftig mit Spuren
+    seelischen Leidens. Sprechweise bald ohne Grund erregt,
+    bald scheinbar teilnahmslos. Bewegungen müde, schwerfällig,
+    jäh in Leidenschaftlichkeit umschlagend. Helle, schlichte
+    Sommerkleidung des Mädchens aus dem Volke, ein wenig über dem
+    Habitus der Dienerin stehend)
+
+Ich weiß schon, Herr Zarncke. Es ging ja schon lang' nich mehr.
+
+·Zarncke·
+
+Na, Gott sei Dank, daß ich mich bei dir nicht zu entschuldigen brauch'.
+
+·Lore·
+
+Ach, Sie! (Beugt sich rasch nieder, um ihm die Hand zu küssen)
+
+·Zarncke·
+
+Na, na, na! Und wegen Unterhalt, da -- (Beruhigt sie mit einer
+Handbewegung) Aber stell ihm die Kümmelflasche höher. Das rat' ich dir,
+Kind! (Klopft sie auf die Schulter. Ab)
+
+·Lenchen· (die Arme hochhebend)
+
+Mama! Mama!
+
+·Lore·
+
+    (ihr mit dem Schürzenzipfel den Mund putzend)
+
+Ich hab' immer Angst, daß ihr ein Steinsplitter ins Aug' fliegt.
+
+·Marie·
+
+Ach, sie passen schon auf. Sie haben sie ja alle lieb.
+
+·Lore·
+
+Ja ... Die andern ja. -- Bloß der der nächste dazu is --
+
+·Marie·
+
+Er wird's nicht zeigen wollen.
+
+·Lore·
+
+Gestern hat ihr einer 'ne Wippe zurechtgemacht. Und wie er vorbeikommt,
+da ruft sie ihn an, er soll sie schaukeln. Da hat er sie weggeschoben
+-- na wie? 'n jungen Hund schiebt man nich so.
+
+·Marie·
+
+Das hängt anders zusammen, Lore. So schlecht ist kein Mensch. Und er
+sicherlich nicht. Sicherlich nicht.
+
+·Lore·
+
+Wenn Sie alles wüßten, Fräulein Mariechen. --
+
+·Marie·
+
+Kannst ruhig »du« sagen. Es hört uns keiner.
+
+·Lore·
+
+Ach, ich verdien's ja nich ... Warum rührst du mich an? Warum gibst du
+dich ab mit mir? (Verbirgt den Kopf an ihrer Stuhllehne)
+
+·Marie· (sie streichelnd)
+
+Na, na, Lore. Als du so groß warst wie die, da hab' ich dich schon
+gestreichelt. Dabei lassen wir's auch. (Da Lenchen weinerlich
+dazukommt) Du, Lenchen, der weiße Bär ist ein Eisbär. Und den bind
+mal nu an die Leine. (Reicht dem Kinde eine Porzellanfigur und ein
+Garnknäuel)
+
+·Lore·
+
+Ja, Lenchen, tu das.
+
+·Lenchen·
+
+    (fängt beruhigt von neuem zu spielen an)
+
+·Marie·
+
+Und laß uns mal vernünftig reden. Was versteckst du dich? Warum sagst
+du nicht ganz offen, daß er der Vater ist?
+
+·Lore· (verängstigt)
+
+Gott, wie kann ich denn? Er hat's doch verboten.
+
+·Marie·
+
+Warum läßt es dir verbieten?
+
+·Lore·
+
+Als er im Herbst von der Wanderschaft kam, da sagt' er zu mir: »Willst
+du, daß ich wieder eintrete auf dem Platz?« Ich glaub', ich hab' ihm
+noch die Hände geküßt in meinem Glück ... Aber eine Bedingung hatte er
+dabei. »Mund halten,« sagt' er, »daß keiner was erfährt.« ... Die's von
+früher wußten, waren inzwischen weg. Bloß der Polier ... Und das ist
+sein Freund. Vater hat er auch in der Tasche ... Und nun beiß' ich mir
+rein die Zunge ab Tag für Tag und denk': Endlich muß das Schweigen doch
+ein Ende nehmen. Aber es geschieht nichts ... Er kommt in die Kantine.
+Ganz vergnügt. Bloß nicht allein. Da hütet er sich.
+
+·Marie·
+
+Was soll er zu dem allem aber für 'n Grund haben?
+
+·Lore· (achselzuckend)
+
+Ich denk' mir, er hat eine andere im Sinn.
+
+·Marie· (erschreckt, beklommen)
+
+Wen denn?
+
+·Lore·
+
+Vielleicht hat er sich eine aus Mailand mitgebracht, vielleicht -- ach,
+wer kann wissen?
+
+·Marie· (auf Lenchen weisend)
+
+Und du meinst, daß auf'm Platz keiner was ahnt?
+
+·Lore·
+
+Die denken sich schon ihr Teil. Aber er tut ja doch mit allen, was er
+will ... Er ist mehr Herr auf dem Platz als der Polier. Da wagt keiner
+zu mucksen ... Und wenn er ihnen gar was vorsingt, was er da unten von
+den Weibern gelernt hat ... Darauf sind sie _rein_ doll ...
+
+·Marie· (träumerisch)
+
+Ja, schön singt er! ... Ach, Lore, was bist du dumm! (aufschluchzend)
+Da spielt dein Kind! Dein Kind spielt da. Und du jammerst.
+
+·Lore· (erschrocken)
+
+Mariechen!
+
+·Marie· (sich zusammenraffend)
+
+Ach, es ist der Frühling ... Es ist der ... Der macht einen ganz ...
+Und du jammerst.
+
+·Lore· (mit wehem Lächeln)
+
+Ich jammer' ja auch nich.
+
+·Marie·
+
+Aber du schleichst 'rum und quälst dich mit deiner Schande. -- Schande!
+Was ist Schande? ... Unser Leib ist ein Tempel ... Und Gebären ist
+Gottesdienst ... Nur wenn der Tempel im Bau verpfuscht wurde, dann ist
+es schlimm ... dann kommt der Frühling, und das Amselweibchen baut, und
+man selbst ist schon Ruine.
+
+·Lore·
+
+Du kannst auch noch glücklich werden, Mariechen.
+
+·Marie·
+
+Ich möcht' schon ... Aber wer wird vorliebnehmen mit mir? ... Und ich
+bin so mutig da drinnen! ... Ich möcht' was verpflanzen von mir in
+dich. Daß du den Kopf wieder hebst. -- Nicht mehr wie 'n Stein bist in
+deinem Gram.
+
+·Lore· (lacht bitter)
+
+·Marie· (mit sich kämpfend)
+
+Du -- soll ich -- reden mit ihm?
+
+·Lore·
+
+Du -- mit ihm?
+
+·Marie· (nickt)
+
+·Lore· (ohne Hoffnung)
+
+Ja, wenn du das willst. Aber noch nicht ... Wart lieber noch ...
+Vielleicht, daß er _doch_ --
+
+·Marie· (stockend)
+
+Es wird mir -- ja nicht -- leicht fallen ... Ich kenn' ihn ja auch kaum
+mehr -- den großen Herrn ... Aber wenn man was _sehr gerne_ will, dann
+wird man's doch auch -- können. -- Na, freut's dich gar nicht?
+
+·Lore·
+
+    (die Hand mutlos vor die Stirne legend)
+
+Ach! ... (Es klopft)
+
+·Marie·
+
+Herein!
+
+
+Siebente Szene
+
+    _Die Vorigen. Jakob Biegler_
+
+    (Jakob Biegler: Mitte der Dreißig, sehr dürftig, doch nicht
+    schmutzig gekleidet, Hose von grauem Bauernvelvet, vielfach
+    geflickt und zu kurz. Altes, blankgewordenes Jakett,
+    gleichfalls geflickt, darunter braune Strickweste. Defektes
+    Schuhwerk. Wäsche nirgends zu sehn. -- Gelbes, zermürbtes
+    Gesicht mit scheuen Augen und kurzem, wildwachsendem Blondbart.
+    Auftreten gedrückt, verhetzt, bisweilen in verzweifelte Rauheit
+    umschlagend)
+
+·Biegler·
+
+Guten Morgen.
+
+·Marie·
+
+Sie wünschen meinen Vater zu sprechen?
+
+·Biegler·
+
+Herrn Zarncke -- möcht' ich sprechen.
+
+·Marie·
+
+Heißen Sie Biegler?
+
+·Biegler· (betroffen)
+
+Ach so! -- Sie wissen schon. Na -- dann -- (Macht eine halbe Wendung
+zur Tür)
+
+·Lenchen·
+
+    (ist zu ihm gegangen und streckt die Hand empor)
+
+Guten Tag!
+
+·Marie·
+
+    (seinen Seelenzustand erkennend)
+
+Mein Vater hat gesagt, wenn jemand mit Namen Biegler kommt, dann möcht'
+ich ihn rufen.
+
+·Biegler· (erleichtert)
+
+Ja, der bin ich.
+
+·Lenchen·
+
+Nu sag doch: Guten Tag.
+
+·Biegler·
+
+    (sieht das Kind, ein leeres Lächeln geht über sein Gesicht. Er
+    weiß nicht, was tun)
+
+·Lore· (sie leise zurückrufend)
+
+Lenchen!
+
+·Marie·
+
+Nehmen Sie's als gute Vorbedeutung, daß dies Kindchen Sie willkommen
+heißt.
+
+·Biegler·
+
+    (sieht sie groß an, versteht nicht)
+
+Erst -- muß -- ich -- Herrn Zarncke -- sprechen.
+
+·Marie· (aufstehend)
+
+Lore, klopf, bitte, im Vorbeigehn bei Vater an (leiser) und bring dem
+was zu essen. Er hat's nötig.
+
+·Lore· (nickt)
+
+Komm, Lenchen. (Mit dem Kinde ab)
+
+·Marie·
+
+Nehmen Sie so lange Platz, bitte.
+
+·Biegler·
+
+Ich kann auch stehen.
+
+·Marie· (ab)
+
+
+Achte Szene
+
+    _Biegler._ Dann _Zarncke_
+
+·Biegler·
+
+    (alleingeblieben, wagt sich nicht zu rühren, nur seine Augen
+    wandern umher)
+
+·Zarncke·
+
+    (mit Bieglers Papieren in der Hand)
+
+Guten Tag.
+
+·Biegler·
+
+    (in straffer Haltung, wie er's im Zuchthause gewohnt war)
+
+Melde Jakob Biegler.
+
+·Zarncke·
+
+Is gut, is gut. Sie sind hier nicht im Gefängnis. Der Verein zur
+Besserung entlassener Strafgefangener hat Sie mir zugeschickt. Stehen
+Sie unter seiner Fürsorge?
+
+·Biegler·
+
+Jawohl.
+
+·Zarncke·
+
+Wie lange sind Sie 'raus?
+
+·Biegler·
+
+Vier Monate zehn Tage.
+
+·Zarncke·
+
+Fünf Jahre haben Sie abgemacht?
+
+·Biegler·
+
+Jawohl.
+
+·Zarncke·
+
+Wegen was?
+
+·Biegler· (schweigt)
+
+·Zarncke·
+
+Na -- wegen was?
+
+·Biegler· (auf die Papiere weisend)
+
+Steht ja da drin.
+
+·Zarncke·
+
+    (fixiert ihn, um sein Schamgefühl zu prüfen)
+
+Da steht nur der Paragraph. Den kenn' ich nicht auswendig.
+
+·Biegler· (verbissen)
+
+Na, ich sprech's nich aus.
+
+·Zarncke·
+
+Dann werd' ich im Strafgesetzbuch nachsehn.
+
+·Biegler·
+
+Wenn Sie wollen.
+
+·Zarncke·
+
+    (geht zum Bücherschrank, schlägt ein Buch auf und liest)
+
+Hm. Schlimm. Schlimm.
+
+·Biegler·
+
+Schlimm. (Pause)
+
+·Zarncke·
+
+Na, wie is es denn gekommen?
+
+·Biegler·
+
+Wie das so kommt, wenn ein Weib dabei ist.
+
+·Zarncke·
+
+Aha ... Haben Sie's gut gehabt in Sonnenburg?
+
+·Biegler·
+
+Man war ja mit mir zufrieden.
+
+·Zarncke·
+
+Ersparnisse gemacht?
+
+·Biegler·
+
+Jawohl. Fünfundsechzig Mark fünfzig Pfennig.
+
+·Zarncke·
+
+Noch was da?
+
+·Biegler·
+
+Dann säh' ich nich so aus, Herr -- Zarncke.
+
+·Zarncke·
+
+Hat der Verein Ihnen keine Arbeit besorgt?
+
+·Biegler·
+
+Zweimal haben sie mich aufs Land geschickt. Einmal als Hofgänger, das
+zweite Mal als Kuhfutterer.
+
+·Zarncke·
+
+Na -- und?
+
+·Biegler· (schweigt)
+
+·Zarncke·
+
+Ausgerissen?
+
+·Biegler· (in erregter Verteidigung)
+
+Ich hielt nicht aus. Ich -- ich -- ich --
+
+·Zarncke·
+
+Dann werden Sie auch bei mir nich aushalten.
+
+·Biegler·
+
+Ach, Herr Zarncke.
+
+·Zarncke·
+
+Hier steht: auf Ihre besondere Bitte schickt man Sie zu mir. Was wollen
+Sie gerade bei mir?
+
+·Biegler· (schweigt)
+
+·Zarncke·
+
+Ja, wenn Sie nicht antworten ... Was sind Sie?
+
+·Biegler·
+
+    (zaudernd, nach innerem Kampfe)
+
+Steinmetz.
+
+·Zarncke·
+
+Ach so! -- _Darum_! Hier steht doch -- Arbeiter. (Sieht nach)
+
+·Biegler·
+
+Weil ich als Arbeiter gegangen bin.
+
+·Zarncke·
+
+Warum denn?
+
+·Biegler·
+
+Wer wird mich nehmen -- als Steinmetz?
+
+·Zarncke·
+
+Sie hätten doch probieren können!
+
+·Biegler·
+
+Probiert hab' ich genug.
+
+·Zarncke·
+
+Und überall abgewiesen?
+
+·Biegler·
+
+Einmal wurd' ich eingestellt ... Zwei Tag' später kam's 'raus. Da lag
+ich schon auf der Straße.
+
+·Zarncke·
+
+Warum sind Sie denn nicht schon früher zu mir gekommen?
+
+·Biegler· (schweigt)
+
+·Zarncke·
+
+Wußten Sie, daß ich Strafentlassene nehme?
+
+·Biegler·
+
+Ja, die Herren haben's mir gesagt.
+
+·Zarncke·
+
+Wollten Sie nich?
+
+·Biegler· (zögernd)
+
+Nein.
+
+·Zarncke·
+
+Warum nicht?
+
+·Biegler· (erregt)
+
+Nachher wird's doch nichts -- -- --
+
+·Zarncke·
+
+Und jetzt wollen Sie?
+
+·Biegler·
+
+Als Steinmetz will ich auch nicht. Nich als Steinmetz. -- Wenn ich bloß
+'ne Arbeitsstelle hätte, als Schleifer oder beim Flaschenzug, wo keiner
+was fragt.
+
+·Zarncke·
+
+Ich werd' mit dem Polier sprechen. Wenn ich drauf besteh' -- Sie können
+auch als Steinmetz eintreten.
+
+·Biegler· (verängstigt)
+
+Nein, nein, nein ... dann kommt's 'raus ... dann is wieder alles
+... Bloß auf den Werkplatz will ich ... Bloß w--wenn ich den --
+Klippelschlag hören kann. Bloß von weitem.
+
+·Zarncke·
+
+Sie waren wohl ein _guter_ Steinmetz?
+
+·Biegler·
+
+Ach! (Zuckt die Achseln)
+
+·Zarncke· (voll wärmerer Anteilnahme)
+
+Hm. (Es klopft) Herein.
+
+
+Neunte Szene
+
+    _Die Vorigen._ _Lore_ (mit einem Teller, worauf Butterbrot)
+
+·Lore·
+
+Verzeihung, Herr Zarncke, Fräulein Mariechen hat befohlen.
+
+·Zarncke·
+
+Essen Sie.
+
+·Biegler·
+
+    (gierig nach dem Teller sehend)
+
+Danke! Ich hab' -- keinen -- Hunger.
+
+·Lore· (leise, mitleidig)
+
+Essen Sie nur.
+
+·Biegler·
+
+    (blickt sich scheu um, will ein Butterbrot nehmen, sieht
+    Zarncke fragend an)
+
+·Zarncke·
+
+Ja, ja, Sie dürfen.
+
+·Biegler·
+
+    (dreht sich der Wand zu und schlingt das Butterbrot herunter)
+
+·Zarncke·
+
+Du, Lore, hol mal das Wasserglas.
+
+·Lore·
+
+    (holt das Wasserglas vom Nähtisch)
+
+·Zarncke· (Rotwein eingießend)
+
+Bring ihm das. -- Übrigens: wie trägt's denn der Vater?
+
+·Lore·
+
+Gott, Herr Zarncke, er schimpft ... Ja, was ich fragen wollte: darf er
+den Dienst noch tun, bis ein Nachfolger da ist?
+
+·Zarncke·
+
+    (mit einem Blick nach Biegler hin)
+
+Nachfolger hab' ich schon.
+
+·Lore· (dem Blick folgend)
+
+Ach so.
+
+·Zarncke·
+
+Gefällt er dir?
+
+·Lore·
+
+Ach, is 'n armer Mensch!
+
+·Zarncke·
+
+Sag's nicht, wie du ihn hier gefunden hast.
+
+·Lore·
+
+Nein, nein. (Stellt das Glas neben Biegler, ab)
+
+
+Zehnte Szene
+
+    _Biegler._ _Zarncke_
+
+·Biegler·
+
+    (würgt eiligst den letzten Bissen hinunter und stellt sich in
+    Positur)
+
+·Zarncke·
+
+Sie dürfen auch 'n Schluck von dem Wein trinken.
+
+·Biegler·
+
+Ja. (Äugt zweifelnd nach dem Glase)
+
+·Zarncke·
+
+Haben Sie keinen Durst?
+
+·Biegler·
+
+Erst geben Sie mir -- Wein zu trinken, und dann nehmen Sie mich _doch_
+nich. Hä.
+
+·Zarncke·
+
+Erst trinken Sie mal.
+
+·Biegler·
+
+    (dreht sich der Wand zu und trinkt zögernd, verstohlen)
+
+·Zarncke·
+
+Auf den Steinmetzplatz _wollen_ Sie. Aber gewissermaßen im verborgenen.
+So daß keiner was erfährt, daß Sie keinem Rede zu stehen brauchen -- hä?
+
+·Biegler·
+
+So was Schönes gibt's ja nich.
+
+·Zarncke·
+
+Vielleicht _doch_. Wollen Sie Wächter werden bei mir auf'm Platz?
+
+·Biegler·
+
+    (in staunendem Nicht-glauben-wollen)
+
+Herr Zarncke!
+
+·Zarncke·
+
+Na?
+
+·Biegler·
+
+Das is doch 'n Vertrauensposten.
+
+·Zarncke·
+
+Ja, das is es.
+
+·Biegler·
+
+Da müssen manche sogar Kaution stellen.
+
+·Zarncke· (bejahend)
+
+Hm ... Und wenn Sie Mittags ausgeschlafen haben, können Sie unter den
+Arbeitern mithelfen ... da fragt Sie keiner ... Na?
+
+·Biegler·
+
+Wird ja nicht lange dauern --
+
+·Zarncke·
+
+Das wird ganz von Ihnen abhängen.
+
+·Biegler·
+
+Dann kommen die Schutzleute -- und recherchieren ... Und dann is aus.
+
+·Zarncke·
+
+Sie wissen doch, daß solange der Verein die Fürsorge für Sie übernimmt,
+die Polizei sich mit Ihnen nichts zu schaffen macht.
+
+·Biegler· (fatalistisch)
+
+Die Schutzleute -- kommen doch.
+
+·Zarncke·
+
+Zu mir nicht ...
+
+·Biegler·
+
+Die Schutzleute kommen doch.
+
+·Zarncke·
+
+So hören Sie doch. Hierher kommt kein Schutzmann recherchieren. Das
+hab' ich mir ein für allemal verbeten. Und daß die Herren vom Verein,
+wenn _die_ kommen, Sie nicht verraten werden, das können Sie sich doch
+denken. ... Na?
+
+·Biegler·
+
+Das wär' ja ein solches Glück, wie man sich gar nich -- (Es klopft)
+
+·Zarncke·
+
+    (geht zur Tür und öffnet sie)
+
+
+Elfte Szene
+
+    _Die Vorigen._ _Jenisch_
+
+·Zarncke· (ihm den Eintritt versperrend)
+
+Was gibt's?
+
+·Jenisch· (vom Hausflur her)
+
+Verzeihung, Herr Zarncke -- die Polizei is da -- wegen --
+
+·Biegler·
+
+    (zuckt heftig in die Höhe und macht eine unwillkürliche
+    Bewegung, als wolle er sich verstecken)
+
+·Zarncke·
+
+Is gut. Soll 'n Augenblick warten. Komme gleich. (Schlägt die Türe zu)
+
+
+Zwölfte Szene
+
+    _Biegler._ _Zarncke_
+
+·Zarncke·
+
+Na ruhig, ruhig, ruhig!
+
+·Biegler· (sich wild umschauend)
+
+Die Schutzleute kommen überall -- die --
+
+·Zarncke·
+
+Unsinn! Diese Nacht is eingebrochen worden bei mir. Deshalb kommen sie.
+Und eben deshalb sollen Sie auch Nachtwächter werden. Verstanden?
+
+·Biegler· (würgend)
+
+Herr Zarncke -- ich muß -- ich -- dank' Ihnen auch schön fürs Glas Wein
+... ich ... kann nich in Dienst ... ich muß -- wieder weg.
+
+·Zarncke· (schüttelt den Kopf)
+
+Ja, zwingen kann ich Sie nich ... (Nach einem Schweigen) Haben Sie denn
+andere Arbeit in Aussicht?
+
+·Biegler· (verneint)
+
+·Zarncke·
+
+Wer nicht Arbeit hat von euch, wird abgeschoben von der Polizei ...
+Unbarmherzig ... Wissen Sie das?
+
+·Biegler· (bejaht)
+
+·Zarncke·
+
+Na und dann?
+
+·Biegler· (zuckt die Achseln)
+
+·Zarncke·
+
+Schließlich zieht der Verein auch noch seine Hand von Ihnen -- und was
+dann?
+
+·Biegler· (zuckt die Achseln)
+
+·Zarncke·
+
+    (plötzlich seinen Ton ändernd)
+
+Nu komm mal her, min Sähn. Komm, komm, komm, komm. (Zieht ihn nach
+vorne) Bienchen hast du doch keine?
+
+·Biegler· (schüttelt den Kopf)
+
+·Zarncke·
+
+Na dann setz dir mal. (Zieht ihn in einen Stuhl) Du bist nu man büschen
+verbiestert, min Sähn ... Wat dir da im Kopp spukt, das will ich gar
+nich wissen ... Is auch ganz egal. Nu laß man schon büschen sorgen für
+dich. (Strenge) Und jetzt geschieht folgendes: Du kriegst mal zuerst 'n
+Anzug von mir ...
+
+·Biegler·
+
+    (an sich niedersehend, freudig)
+
+Ja, ja, ja, ja.
+
+·Zarncke·
+
+Du, du hast ja gar nich mal 'n Hemde an!
+
+·Biegler· (eifrig, voll Ehrgefühl)
+
+Jawohl -- hab' ich. (Reißt, um das Hemde zu zeigen, die Strickweste
+auf) Da! (Beschämt) Bloß -- Kragen hab' ich nich.
+
+·Zarncke·
+
+Also das kriegste alles auch. Und 'n warmen Mantel. Denn Nachts is
+noch kalt ... Und dann kriegst du 'ne Pfeife und 'ne Schnarre. Und die
+Kontrolluhren, die bis zum Abend ankommen, die erklär' ich dir. Wohnen
+tust du drüben im Sägewerk. Und essen tust du in der Kantine bei der
+Lore, die dir das Butterbrot gebracht hat. Verstehste?
+
+·Biegler· (wie vorhin)
+
+Ja, ja, ja, ja.
+
+·Zarncke·
+
+Und nun kümmerst du dich um Dodt und Deiwel nich mehr. Und so wollen
+wir langsam wieder 'n Menschen aus dir machen. Hä?
+
+·Biegler· (nickt willenlos)
+
+·Zarncke·
+
+Na also.
+
+    (_Der Vorhang fällt_)
+
+
+
+
+Zweiter Akt
+
+    Der Werkplatz. Links das _Wohnhaus_ mit vorspringender
+    _Veranda_ und einem Balkon darüber, zu dem aus dem oberen
+    Stockwerk eine Glastür führt. Zu ebener Erde ein Fenster.
+    Rechts die _Kantine_ mit einer Tür in der Seitenwand und
+    einem nach der Rampe zu gerichteten Fenster, vor dem eine
+    Bank steht. Hinter der Kantine, ein wenig vorspringend, das
+    _Magazin_, mit einer Tür und einer daneben angebrachten Glocke.
+    -- Im Hintergrunde rechtwinklig zum Magazin ein offener,
+    von Holzpfeilern getragener _Schuppen_, der sich mit seiner
+    Hinterwand an die senkrechte Erhöhung lehnt, welche den
+    hinteren Teil des Werkplatzes bildet und zu der in der Mitte
+    des Hintergrundes eine schmale Treppe emporführt. Links von
+    der Treppe mehrere hochaufgestapelte Steinblöcke, welche die
+    Höhe des hinteren Teiles übersteigen. Über einem der Stapel ein
+    _Kran_. Eine schmale _Feldbahn_ zum Transport der Blöcke führt
+    an den Stapeln, der Treppe und dem Schuppen vorüber quer über
+    die Bühne. Blöcke liegen überall verstreut. An den Wänden des
+    Schuppens und der Häuser stehen und hängen, wo nur ein Platz
+    sich findet, Gipsmodelle: Figuren, Reliefs, Ornamentstücke. Die
+    Veranda ist mit Schlingpflanzen bewachsen, ein Baum neigt sich
+    über ihr Dach. Das Kantinenfenster schmücken Blumentöpfe. Den
+    _Prospekt_ bildet eine großstädtische Häuserreihe, die jenseits
+    der am Werkplatz entlangführenden Straße gedacht ist. Ein
+    Kirchturm ragt aus der Ferne herüber
+
+
+Erste Szene
+
+    (Beim Aufgehen des Vorhangs zeigt der Platz ein überaus reiches
+    Arbeitsleben. Vor den Blöcken arbeiten _Steinmetzen_ oder
+    _Bildhauer_, die ersteren mit blauer Schürze, die letzteren mit
+    langem, weißgrauem Kittel und Papier- oder sog. Raffaelmütze
+    bekleidet. Der Kran ist im Gange. Niedrige Wagen transportieren
+    Blöcke vorüber. Hilfeleistende _Arbeiter_ in beliebigem
+    Werktagsanzug. Mittagsstimmung)
+
+    Vorne rechts _Göttlingk_ in Steinmetzentracht vor einem Blocke
+    -- ein Gipsmodell daneben. Der Polier _Willig_ an einem anderen
+    Blocke, messend. Unter den Arbeitern, die sich hinten zu
+    schaffen machen, _Lohmann_, _Sprengel_, _Struve_
+
+·Göttlingk·
+
+    (stämmig, mittelgroß, Stiernacken, blonder, schön geringelter
+    Schnauzbart, Haar in geschniegeltem Bogen in die Stirn
+    heruntergestrichen. Spielt den Kraftmenschen, großsprecherisch,
+    übermütig, brutaler Charmeur. Er arbeitet mit Meißel und
+    Klippel und singt dazu)
+
+Na -- nun kommt auch noch die Sonne angekrochen. He, ihr
+Zitronenschleifer da hinten, hab' ich euch nich gesagt, ihr sollt mir
+den Block in den Schuppen schaffen? -- Lohmann, Sprengel, ihr andern,
+immer 'ran!
+
+·Willig·
+
+Du, Göttlingk, schnauz hier nicht so viel. Sag's lieber mir.
+
+·Göttlingk·
+
+Du hast mir gar nischt zu befehlen, mein Sohn.
+
+·Willig·
+
+Und du hast denen nischt zu befehlen.
+
+·Göttlingk·
+
+Wenn sie so dumm sind und gehorchen. (Lohmann, Sprengel und ein dritter
+Arbeiter sind nach vorn gekommen) Da, wie sie anhampeln! Hab du sie man
+so an der Strippe wie ich. (Befehlshaberisch) Also nu los!
+
+·Lohmann·
+
+Warten Sie man bißchen, hochgeborner Herr. Zehn Finger hat jeder zu
+verlieren. (Stemmt ein Brecheisen ein)
+
+·Göttlingk·
+
+Brecheisen weg! Ihr werd't mir die Kanten abstoßen.
+
+·Sprengel·
+
+Ohne Brecheisen geht's nich.
+
+·Göttlingk·
+
+So? Hä! Wenn ihr man stramme Kerls wärt, ihr Volk ... (Faßt mit an)
+~Uno~ -- ~due~ -- ~tre~! (Der Block rückt weiter) Na, geht's oder nich?
+
+·Lohmann·
+
+Ja, wenn Sie so scheen ausländsch kommandieren! Sagst du zum Hund
+»kusch«, dann kuscht er. Bloß weil er's Franzesch so gern hat.
+
+·Göttlingk·
+
+Noch mal: ~uno~ -- ~due~ -- ~tre~! (Der Block rückt wieder) Ja,
+ja, Kerlchens. Grips im Kopp und Marks in de Knochen. Das ist die
+Hauptsache.
+
+·Lohmann·
+
+Und 's Messer im Sack nich zu vergessen.
+
+·Göttlingk·
+
+Lassen Sie man mein Messer in Ruh, mein alter Sohn. (Zieht ein
+Dolchmesser aus einer Lederhülse, die er am Leibgurt unter dem Kittel
+befestigt hat) Das is dreikantig geschliffen. Das schlupft (schnalzt,
+das Messer vorstoßend, mit den Lippen) wie 'n Küßchen ... Tut gar nich
+weh. Will einer probieren?
+
+·Willig·
+
+    (der mißbilligend zugehört hat)
+
+Du -- Göttlingk!
+
+·Göttlingk· (zu ihm herübertretend)
+
+Hä?
+
+·Lohmann· (hinter ihm her, ingrimmig)
+
+So 'n Paradehengst! (Die andern lachen)
+
+·Willig·
+
+Mach dich nich immer mit den Kerls gemein. Laß sie ihre Arbeit
+verrichten. Und damit gut!
+
+·Göttlingk· (großspurig)
+
+Pöh! Ich bin nu mal so 'ne leutselige Natur.
+
+·Willig·
+
+Mußte immer Bewunderer haben?
+
+·Göttlingk·
+
+    (wendet sich lachend zum Stein zurück und kommandiert weiter)
+
+
+Zweite Szene
+
+    _Die Vorigen._ _Zarncke_ (ist aus der Veranda getreten)
+
+·Zarncke·
+
+Polier!
+
+·Willig· (respektvoll)
+
+Herr Zarncke.
+
+·Zarncke·
+
+Is was zu melden?
+
+·Willig·
+
+Nein, Herr Zarncke.
+
+·Zarncke·
+
+Was tut der Kran da?
+
+·Willig·
+
+Er holt die Quadern fürs Sägewerk.
+
+·Zarncke·
+
+Bis morgen abend muß auch der Oberkirchner Block dort an der Treppe
+'runtergeschafft werden, damit er Montag in Arbeit genommen werden kann.
+
+·Willig·
+
+Sehr wohl, Herr Zarncke.
+
+·Zarncke·
+
+Wie is die Verteilung heute?
+
+·Willig·
+
+Elf Steinmetzen auf'm Platz, fünfzehn draußen auf'm Bau, vier Bildhauer
+auf'm Platz, sechs auf'm Bau.
+
+·Zarncke·
+
+Wo is der Göttlingk heute?
+
+·Willig·
+
+Da is er ja.
+
+·Göttlingk·
+
+    (den Stein betrachtend, dessen senkrechte mit Ornamenten
+    bedeckte Seite jetzt oben liegt)
+
+Donnerschock! ~Per Bacco!~ Den ganzen Dreckplatz soll der Deiwel holen!
+Du, Polier, komm mal her.
+
+·Zarncke·
+
+Was schimpfen Sie denn heute so wild um sich, Göttlingk?
+
+·Göttlingk·
+
+    (lüftet einigermaßen verlegen die Mütze)
+
+Verzeihung, Herr Zarncke, aber das soll wirklich der Deibel holen. Wie
+ich den Block drehen lass', da seh' ich, daß von gestern auf heute eine
+fremde Hand daran 'rumgemurkst hat.
+
+·Zarncke·
+
+    (stutzt, ein Verdacht steigt in ihm auf)
+
+Ach, Sie werden sich täuschen. (Tritt hinzu)
+
+·Göttlingk·
+
+Weil mir das schon einmal passiert war, hab' ich mir zu Feierabend
+immer 'n Zeichen gemacht ... Da, bitte!
+
+·Zarncke· (den Stein betrachtend)
+
+Von dem Blaustrich an?
+
+·Göttlingk·
+
+Jawohl.
+
+·Zarncke· (nachdenklich, lächelnd)
+
+Hm. So! -- Das is aber nich schlecht gemacht. Da ist Schwung drin. Wenn
+sich die Heinzelmännchen extra für Sie bemühen, Göttlingk!
+
+·Göttlingk·
+
+Wenn ich das Heinzelmännchen treff', dann gibt's eins zwischen
+de Rippen ... Was is das für'n Nachtwächter, der Kerl, der jetzt
+Nachmittags hier 'rumschleicht, wenn er so was zulassen kann? ... Das
+ist schlimmer wie Einbruch.
+
+·Zarncke· (der abzulenken sucht)
+
+Was hat denn der Nachtwächter damit zu tun? Wenn's finster is, kann man
+nich arbeiten.
+
+·Willig·
+
+Verzeihung, Herr Zarncke. Um fünfe, da is es schon lang hell.
+
+·Zarncke· (beruhigend)
+
+Ich werd' den Mann hernach mal fragen.
+
+·Göttlingk· (murmelnd)
+
+Das besorg' ich schon selber.
+
+·Zarncke·
+
+    (mit Willig nach vorne kommend)
+
+Sagen Sie mal, Polier, wie macht sich der Nachtwächter im übrigen auf'm
+Platz?
+
+·Willig·
+
+Der Mann ist fügsam und ordentlich und kann sich an Fleiß nicht genug
+tun. Aber -- schwach, Herr Zarncke.
+
+·Zarncke·
+
+Tja!
+
+·Willig·
+
+Und dann -- 'n bißchen sonderbar.
+
+·Zarncke·
+
+Inwiefern? (Ringsum ertönen Mittagssignale)
+
+·Willig·
+
+Er hält sich immer abseits. Gibt kaum Antwort. Manche fangen ihn schon
+zu verulken an.
+
+·Zarncke·
+
+Dulden Sie das nich, Willig!
+
+·Willig·
+
+Ja, da kann ich nich viel machen, Herr Zarncke.
+
+·Zarncke·
+
+Warum läutet denn der Eichholz nich Mittag? Eichholz!
+
+·Willig· (zur Kantinentür laufend)
+
+Eichholz!
+
+
+Dritte Szene
+
+    _Die Vorigen_. _Eichholz_
+
+·Eichholz· (angeheitert)
+
+Haben bloß zu befehlen, Herr Zarncke! Wie der Blitz bin ich da -- ja!
+(Läutet die Glocke, die am Magazin hängt)
+
+·Zarncke· (sieht kopfschüttelnd zu)
+
+·Willig·
+
+Er is jetzt immer im halben Dusel.
+
+·Eichholz· (sich umschauend)
+
+Na -- schläft der -- faule Hund -- noch?
+
+·Zarncke·
+
+Möchten Sie nu mal den Frauen das Tor aufschließen?
+
+·Eichholz· (brummend nach links)
+
+·Willig·
+
+Nu geht er noch in die Destille!
+
+·Zarncke·
+
+Is das ein Elend!
+
+
+Vierte Szene
+
+    _Die Vorigen._ _Mehrere Frauen._ Später _Lore_
+
+    (Sämtliche Arbeiter haben ihre Werkzeuge niedergelegt, einzelne
+    gehen zu den Wasserleitungshähnen, die im Schuppen angebracht
+    sind und waschen sich. Andere holen dicke Butterstullen und
+    Blechkannen hervor und beginnen zu essen. Frauen kommen von
+    links mit Eßkörben und begrüßen ihre Männer. Einzelne haben
+    auch ihre Kinder mitgebracht, die sich mit den Eltern um den
+    Eßkorb gruppieren)
+
+·Zarncke·
+
+    (begrüßt eines und das andere, teilt Bonbons aus, wünscht den
+    Frauen »Guten Tag« und spricht einige Worte zu den Männern)
+
+·Lore·
+
+    (erscheint in der Tür der Kantine und geht zu verschiedenen der
+    Bildhauer und Steinmetzen)
+
+Bitte zu Mittag. -- Bitte zu Tisch. -- Zu Tisch möcht' ich bitten.
+(Lauter) Wem kann ich Bier 'rausschicken?
+
+·Einzelne Stimmen·
+
+Hier. Ich. -- Mir eins.
+
+·Lore· (zählt die Stimmen)
+
+·Göttlingk·
+
+    (betrachtet murrend seinen Block)
+
+·Lore·
+
+    (an ihn herantretend, leise zaghaft)
+
+Kommst nich auch, Eduard?
+
+·Göttlingk· (sich umschauend, unwirsch) Hab' ich dir nicht gesagt, du
+sollst mich nich »du« nennen auf'm Platz?
+
+·Lore· Verzeih! Ich hab' vergessen. (Zur Kantine ab)
+
+    (Verschiedene Bildhauer und Steinmetzen gehn zur Kantine,
+    darunter Göttlingk)
+
+·Zarncke·
+
+Gehn Sie auch zu Tisch, Willig. Übrigens hören Sie mal: Mit dem Struve
+steht's schlecht. Den wird uns das Kriminal bald abholen.
+
+·Willig· (achselzuckend)
+
+Ja.
+
+·Zarncke·
+
+Ach, schicken Sie ihn mir mal, -- ja?
+
+·Willig· (rufend)
+
+Struve!
+
+    (Struve steht von einem hinteren Steine auf, wo er unbemerkt
+    gesessen hat. Willig spricht im Vorbeigehn zu ihm und weist
+    nach vorne, dann geht er in die Kantine ab)
+
+
+Fünfte Szene
+
+    _Die Vorigen_ ohne _Willig_. _Struve_ (nach vorne
+    kommend)
+
+·Struve·
+
+    (Mann in den Vierzigern. Ergrauendes Haar, blank und gelockt.
+    Bartstoppeln. Verschmitzte Äuglein. Ein Zug drolliger Heuchelei
+    um die Mundwinkel. Arbeitskleidung mit wollenem Halstuch
+    und Holzpantinen. Trägt einen Deckelnapf in der einen, eine
+    faustdicke Butterstulle mit Taschenmesser in der andern Hand.
+    Bei dem Versuch, die Mütze abzunehmen, fällt ihm das Butterbrot
+    auf die Erde)
+
+·Zarncke·
+
+Sachte, sachte! Nu is die janze Pastete in den Sand gefallen.
+
+·Struve·
+
+    (das Butterbrot an den Hosen abwischend)
+
+Das macht nichts, Herr Zarncke. »Mit ne Ladung Sand -- schmeckt selbst
+'n alter Strohsack pikant,« sagten wir immer uf de hohe Schule.
+
+·Zarncke·
+
+Na, nu werden Sie ja bald wieder drinsitzen in Ihre hohe Schule.
+
+·Struve·
+
+Ja, Herr Zarncke, was kann man machen?
+
+·Zarncke·
+
+Mensch, wenn's mir nich so leid täte um Sie --
+
+·Struve·
+
+Nu haben Se man guten Mut, Herr Zarncke ... Mir hat's auch mal leid
+getan. Aber nu is schon egal.
+
+·Zarncke· (leise)
+
+Na, sind Sie's nu gewesen oder nich?
+
+·Struve·
+
+Herr Zarncke, wenn ich gleich hier meinen Totenschein in die Hand
+nehm' --
+
+·Zarncke· (lachend)
+
+So 'n Halunke wie Sie! ... Sie wissen doch, die Untersuchung geht
+weiter?
+
+·Struve·
+
+Ja, die Polente schnüffelt ja alle Tage hier 'rum.
+
+·Zarncke·
+
+Sagen Sie mal, können Sie nu wirklich keinen Zeugen dafür beibringen,
+wo Sie in den Stunden des Einbruchs gewesen sind?
+
+·Struve·
+
+Was man so nennt: einen Aal-ibi, Herr Zarncke?
+
+·Zarncke·
+
+Jawohl.
+
+·Struve·
+
+Ja, sehn Sie mal, was 'n wirklich reeller Aal-ibi is -- der kost't nich
+unter fünfzig Mark. Wo soll ich fünfzig Mark hernehmen, Herr Zarncke?
+
+·Zarncke· (lachend)
+
+So?
+
+·Struve·
+
+So 'ne Brieder, die schon wegen Meineid verschütt jejangen sind, die
+tun's auch billiger ... Meechens auch. Aber die kriegen's vor Gerichte
+hernach mit die Heulerei ... Nee, das sind alles keine reelle Sachen.
+
+·Zarncke·
+
+Na, und wenn sie Sie nu gleich mitnehmen?
+
+·Struve·
+
+»Der Gerechte muß viel leiden,« so steht in de Psalmen geschrieben.
+
+·Zarncke·
+
+Hören Se auf mit Ihre dämliche Muckerei. Glaubt Ihnen ja doch keiner
+... Mensch, Mensch, wie hau' ich Sie nu 'raus?
+
+·Struve·
+
+Hätten gar nicht anzeigen müssen. Sehn Se, nu sitzen Se drin, Herr
+Zarncke.
+
+·Zarncke· (lacht)
+
+·Marie· (das Fenster öffnend)
+
+Vaterchen, kommst nich zu Tisch?
+
+·Zarncke·
+
+Gleich, Miezelchen ... Also ich werd' mal nachdenken. Vielleicht fällt
+mir noch was ein.
+
+·Struve·
+
+Ganz wie Sie meinen, Herr Zarncke.
+
+·Zarncke·
+
+Ulkiges Huhn! ... Hier haben Sie 'ne Zigarre. (Ab)
+
+·Struve·
+
+Danke, Herr Zarncke. (Die Zigarre einsteckend) Ja, ja. Sie rüsten sich
+wider die Seele des Gerechten und -- (sieht, daß Zarncke inzwischen
+weggegangen ist) Ach so! (Setzt sich auf den vordersten Block, kratzt
+an seinem Butterbrot und fängt an zu essen)
+
+
+Sechste Szene
+
+    _Struve. Lohmann._ _Sprengel_, _ein dritter Arbeiter_,
+    die essend auf dem Block hinter ihm sitzen
+
+·Lohmann·
+
+Na, wie lange werden sie dich deinen Knast Brot noch 'runterfuttern
+lassen, Struve, ehe sie dich inlochen?
+
+·Struve· (achselzuckend)
+
+Ja.
+
+·Lohmann·
+
+Nachher gibt's zu Mittag wieder »Rumfutsch« und »blauen Heinerich«. Ei
+weh.
+
+·Struve·
+
+Kindersch, babbelt nich von so hohe Sachen. Das versteht ihr nich.
+
+·Sprengel·
+
+Der tut sich noch dicke auf sein Zuchthaus.
+
+·Struve·
+
+Nu ob. Da kommt ihr noch lange nich rin. Da sind bloß _feine_ Leute
+drin. Ja.
+
+·Die Anderen· (lachen)
+
+·Lohmann·
+
+Drum heißt es auch die hohe Schule.
+
+·Struve·
+
+Jawoll. Da lernt man was. Hast du überhaupt 'ne Kleiderbürschte? Die
+hat mir der Staat immer franko geliefert. Aus lauter persönlicher
+Hochachtung ... Oder gar 'ne Zahnbürschte? Aber ich -- siehste! ...
+Kiek dir mal an, wie der Dreck an dir 'rumklebt ... Aber _wir_ machen
+dort zu Mittag immer Toi--lette. Und Handtuch tragen wir immer auf'n
+Arm, da laufen wir den janzen Tag mit 'rum. Vor lauter Feinheit. Ja.
+
+·Die Anderen· (lachen)
+
+·Struve·
+
+Überhaupt, was bist du hier? Und was bin ich hier? Und was sind
+wir alle hier? ... Dreck sind wir. Hoch über dir kommen erst die
+Steinmetzen ... und da hoch drüber die Bildhauer. Und denn _noch_ höher
+der Polier ... Und _denn_ gar erst ... ach! Dort hab' ich immer in
+de erschte Klasse gearbeit't ... Weiße Binde hab' ich tragen dürfen.
+Tischältster bin ich gewesen. Das is mehr wie der Polier. Das is wie 'n
+Jeneral ... Das kannste alles werden, wenn de ins Zuchthaus kommst ...
+Karri--ere kannste machen. Ja.
+
+·Lohmann· (singt spottend)
+
+        Liebes Kind, nu weine nich,
+        Mittags jibt's den blauen Heinerich;
+        Stehst du mit dem Schien auf du und du,
+        Kriegste auch 'n halben Hering zu.
+
+·Struve·
+
+Nu ja. Verdient euch mal erst 'n halben Schwimmling. Ihr geht hier zur
+Lore und schnauzt: Hering -- aber 'n milchernen -- mit Zwiebel -- viel
+Zwiebel ... janzen Berg Zwiebel, und dann schmeckt er noch nich mal ...
+Ich sag' euch: ... wollt ihr 'n wirklichen duften, leckern Schwimmling,
+da müßt ihr in de Anstaltsküche kommen. Die verstehn det Jeheimnis ...
+Da kitzelt euch die Schnauze von -- noch Abends beis Einschlafen. So
+viel scheener ist da alles. Ja.
+
+·Lohmann·
+
+Wenn da alles so viel scheener is, wat machste denn nich wieder hin?
+
+·Sprengel·
+
+Da hast _du_ doch freien Angtree.
+
+·Struve·
+
+Kindersch, ick werd' euch mal was erzählen: Dicht an de große
+Außenmauer in Waldheim -- da steht nämlich 'ne alte Linde ... Und
+von de Fisintation aus, was nämlich der Arbeitssaal is, da siehste
+'n janzes kleines Stückschen von ... Und von'n Spazierhof aus, wo
+du immer sechs Schritt hintern Vordermann herzoddelst, (stolz) bloß
+nicht wir von de erste Klasse, wir jingen natierlich immer zu zweie
+-- wenn du da -- und du huppst in die Höh', dann siehst wieder 'n
+andern Stückschen -- so sechzig bis achtzig Blätter, wodran du immer
+jenau wissen kannst, was für Jahreszeit is ... Und nun hat uns immer
+und ewig der Deibel geplagt, daß wir auch mal den _janzen_ Lindenbaum
+sehen wollten, denn der soll nämlich der scheenste Lindenbaum sein,
+wo's auf de Welt überhaupt jibt. Das soll schon in de Geschichtsbicher
+stehn ... Na, und wo nu endlich der Tag da is von de Entlassung, und wo
+einem das Herz bis in'n Kopp 'raufbummert -- und wo nu das innere Tor
+aufjeschlossen wird -- na, da is er nu -- und da is er 'n janz jemeiner
+oller, ekliger Lindenbaum. Na -- und so war denn hernach alles -- janze
+Freiheit.
+
+·Lohmann·
+
+Nu -- wenn du das nu schon weißt? --
+
+·Struve·
+
+Was hilft da viel -- wissen. Der Mensch is 'n dämliches Vieh. Wie ich
+'s zweite Mal drinsaß, da war der olle, dämliche Lindenbaum noch viel
+scheener geworden.
+
+·Die Anderen· (lachen)
+
+·Sprengel·
+
+Ja, wenn's so is.
+
+·Struve·
+
+Überhaupt -- ihr Schafsköppe mit eure sogenannte Freiheit! --
+Geschunden! hin und her geschmissen! Liegste im Sonnenschein uf
+ne scheene Planke, kriegste den Holzbock in de Waden; haste keene
+Arbeit, kannste jehn den Chausseegraben austapezieren. Willste mal
+geradaus -- jeder Mensch will mal geradaus -- und als dir kommt nu
+'ne verschlossene Tür in de Quere -- und du willst _doch_ geradaus,
+dann stecken sie dir ins Kittchen. Das heißt nu Freiheit. Kindersch,
+ick hust' auf eure Freiheit. Seine Ordnung muß der Mensch haben. Seine
+Ordnung hat der Mensch bloß allein im Zuchthaus.
+
+·Die Anderen· (lachen)
+
+·Struve·
+
+Mir hat überhaupt bloß _eins_ gefehlt. Dann wär' ich auch janz komplett
+jlücklich gewesen.
+
+·Sprengel·
+
+Das war wohl eene Braut?
+
+·Struve·
+
+Ne.
+
+·Lohmann·
+
+_Zwei_ Brauten?
+
+·Struve·
+
+Ne.
+
+·Lohmann·
+
+Na was denn sonst?
+
+·Struve· (träumerisch)
+
+Das war 'n Rasierspiegel ... Wenn ich _den_ noch hätt' gehabt -- --
+
+
+Siebente Szene
+
+    _Die Vorigen._ _Biegler_ (von rechts)
+
+·Biegler·
+
+    (in anständiger Arbeitskleidung. Sein Bart ist gestutzt,
+    sein Aussehen gebessert, aber sein Benehmen noch scheu und
+    unumgänglich, voll immer neu aufflackernden Mißtrauens. Er
+    setzt sich auf die Bank vor das Kantinenfenster)
+
+·Lohmann·
+
+Kiekt mal den da! ... Was _is_ das eigentlich für 'ne Sorte? Reden
+_tut_ er nich, »guten Tag« _sagt_ er nich.
+
+·Biegler·
+
+    (gewahrend, daß man sich mit ihm beschäftigt, unfreundlich,
+    dumpf)
+
+Guten Tag.
+
+·Struve·
+
+Na sagt ja.
+
+·Lohmann·
+
+War auch danach. Guten Tag, hochwohlgeborener Herr Nachtrat! ... Kommen
+der Herr Dunkelmann 'n bißchen de Sonne revindieren?
+
+·Sprengel·
+
+Mensch, nu red doch was!
+
+·Biegler·
+
+Was soll ich reden?
+
+·Sprengel·
+
+Mach doch 'n Witz.
+
+·Biegler·
+
+Ich weiß keinen Witz.
+
+·Lohmann·
+
+Der Kerl is trocken wie Galgenholz.
+
+·Struve·
+
+Nu sag bloß, Mensch, wie amesierste dir nu so die lange Nacht über?
+Putzte de Sterne blank? Ziepste dir an de Barthaare? Wirfste de
+Meechens, wo auf de Straße vorbeigehn, Klamotten auf'n Kopp? ... Irgend
+was muß der Mensch doch zu tun haben de lange Nacht über!
+
+·Biegler·
+
+Ach, ich hab' immer zu tun.
+
+·Lohmann·
+
+Tranig is das Luder.
+
+·Sprengel·
+
+Wat huckste da uf de Banke? Warum jehste nich ze Mittag?
+
+·Biegler·
+
+Jetzt essen doch die -- Steinmetzen. Da kann ich doch nich auch essen.
+
+·Lohmann·
+
+Nu dann komm doch mal her so lang ... Na -- los!
+
+·Biegler· (erhebt sich zögernd)
+
+Was soll ich bei euch?
+
+·Sprengel·
+
+Trink mal aus meine Buddel. Prost.
+
+·Biegler·
+
+Danke. Ich trinke keinen Schnaps.
+
+·Lohmann·
+
+Ach, du bist wohl auch so 'n Pinkelinker? So 'n Pumpengenie?
+
+·Biegler·
+
+Sonst habt ihr nichts zu wollen von mir?
+
+·Sprengel·
+
+Nu huck dir doch mal erst dal. (Zieht ihn auf den Block nieder)
+
+·Lohmann· (weiterrückend)
+
+Setzen Sie sich ruhig in die Sonne, verehrte Schattenpflanze.
+
+    (Lachen)
+
+·Biegler·
+
+Ich tu' dir doch nichts, warum uzt du mir?
+
+·Lohmann·
+
+Ich uz' dir doch gar nich. Ich schmeichel' mir bloß so an dir ran.
+
+·Struve·
+
+Sag mal, Mensch, was biste vorher gewesen? Eh' du hier Nachtwächter
+wurdst?
+
+·Biegler· (erschreckend)
+
+Ich? -- Ich bin Arbeiter.
+
+·Lohmann·
+
+Kirschenpflücker vor de Wintermonate -- hä?
+
+·Struve·
+
+Du kommst mir nämlich so bekannt vor, weißte.
+
+·Biegler· (angstvoll)
+
+Ich -- dir? Nee -- daß ich nich --
+
+·Struve·
+
+Nich, als ob ich dir kennen tu'. Aber du hast so 'ne Art ... Bei uns in
+Waldheim da hatten wir so 'n paar. Wir nennten se immer »de blamierten
+Förschten«. -- Du, wo liegt denn dein Förschtentum?
+
+·Lohmann·
+
+Markgraf von Brandenburg, Fürstbischof von Moabit, Edler Herr von und
+zu Sonnenburg.
+
+·Biegler· (zuckt zusammen)
+
+·Lohmann·
+
+Du plinkst ja immer so mit 'n rechten Vorderarm.
+
+·Sprengel·
+
+Laß ihm man in Ruh. Das is 'n guter Kerl ... der is bloß verschüchtert.
+
+·Lohmann· (gutmütig)
+
+Ich mach' ja auch bloß 'n Witz.
+
+·Struve·
+
+Da -- willste 'ne Zijarre?
+
+·Biegler· (verblüfft)
+
+Wieso -- gibst -- du mir --?
+
+·Struve·
+
+Kannst nehmen ... die is jut ... die hat mir der Alte vorher geschonken.
+
+·Biegler·
+
+    (noch immer verwundert, sein Gesicht erhellt sich)
+
+Na, denn dank' schön ... Ich werd' mir denn auch später --
+revanschieren.
+
+·Lohmann·
+
+    (ihn auf die Schulter klopfend)
+
+Na, meinen wir's denn nu so beese?
+
+·Biegler· (mit glücklichem Gesicht)
+
+Nee! Wahrhaftigen Gott nich!
+
+·Lohmann·
+
+Na siehste! (Nach links weisend, wo Eichholz sichtbar wird) Aber vor
+dem Alten nimm dir in acht. Der is dir nich jrien.
+
+
+Achte Szene
+
+    _Die Vorigen._ _Eichholz_
+
+·Eichholz· (vollends angetrunken)
+
+Ich bin ein Mann -- hochgeehrt, -- ich brauch' nich -- Kartoffelsuppe
+aus'n Steinguttopp -- fressen! Morjen, die Gesellschaft! Morjen, die
+hochgeehrte Gesellschaft! (Biegler bemerkend) Was? -- Was will der
+Hund? Der schmalbauchige Hund? M -- M -- Mantel hat er ihm geschenkt
+-- mit blanke Knöppe -- wie 'n Offezier! Was is der Kerl überhaupt? Wo
+kommt der verhungerte Kerl her?
+
+·Lohmann·
+
+Das geht dir jar nischt an. Wenn er man seine Pflicht tut.
+
+·Eichholz·
+
+Pflicht tut? Hähähä! Der is bloß zum Rausfuttern hier. Der is hier
+auf Eichelmast wie de Nuck-Nuck-Schweinchen. Wann hab' ich mal blanke
+Knöppe gekriegt? Kerl, durch was für Pfiffe und Kniffe bist du auf den
+Posten gekommen? Zieh mal vom Leder, du Hund!
+
+·Biegler·
+
+Lassen Sie mich in Ruh. Ich habe mit Ihnen nichts zu tun.
+
+·Eichholz·
+
+Was krauchste immer bei meine Tochter 'rum? Dir jibt se 'n
+Porzellanteller. Du wirst noch mal -- platzen -- wie 'n Bovist. Und
+dann wird man an dem Gestanke erkennen, wer du bist. Mensch, ich hab'
+'ne Faust wie 'ne Ramme! (Dringt auf ihn ein)
+
+·Biegler· (stößt ihn fort)
+
+·Eichholz· (zurücktaumelnd)
+
+Was -- hauen -- tust du mir alten Mann?
+
+
+Neunte Szene
+
+    _Die Vorigen._ _Göttlingk_ und _andere Bildhauer_ und
+    _Steinmetzen_
+
+·Göttlingk·
+
+Was is hier los?
+
+·Eichholz· (keuchend)
+
+H--h--hauen -- m--m--ir--!
+
+·Göttlingk·
+
+Wer hat den alten Mann gehauen?
+
+·Struve·
+
+Is ja alles Blech!
+
+·Göttlingk·
+
+Werd' ich nu bald Antwort kriegen?
+
+·Lohmann· (kleinlaut)
+
+Hier hat überhaupt keiner gehauen.
+
+·Eichholz· (mit erhobener Faust)
+
+Der Hund! -- der verhungerte -- (Einige der Umstehenden führen ihn nach
+hinten)
+
+·Göttlingk·
+
+Sieh mal an! ... Kommen Sie mal ran, Sie! ... Na?
+
+·Biegler·
+
+Ich tu' hier, was ich zu tun habe. Sie gehn mich nischt an.
+
+·Göttlingk·
+
+Das werd' ich Ihnen mal gleich beweisen. Eins -- zwei -- (pfeift)
+
+·Struve· (leise)
+
+Da geh man schon. -- Jegen den Großschnauz kommste nich auf.
+
+·Lohmann· (leise)
+
+Der sticht mit's dreikant'ge Messer.
+
+·Göttlingk·
+
+Wenn ich »drei« sag' --
+
+·Biegler· (blaß, schwer atmend)
+
+Sie können -- ja auch zu mir kommen.
+
+·Göttlingk· (pfeifend)
+
+Ich warte.
+
+·Biegler· (in Erregung, zitternd)
+
+Da lassen -- sich man -- die Zeit -- nich lang werden.
+
+·Die Anderen· (lachen)
+
+·Göttlingk· (in Wut)
+
+Wer riskiert hier zu lachen? ... Soll ich meine Pfeife mit euch
+stoppen, Kerls? (Das Lederfutteral nach vorne ziehend) Soll ich euch
+mal die Hühneraugen barbieren? (Da Lohmann, Sprengel, Struve sich vor
+Biegler gestellt haben) Aus dem Weg hier!
+
+·Lohmann· (sich umschauend)
+
+Wo is denn der Polier?
+
+·Göttlingk·
+
+Jetzt bin ich hier der Polier. (Wild) Aus dem Weg hier -- oder --
+
+·Biegler· (vortretend)
+
+Laßt man. Wegen mir soll hier keiner Ungelegenheiten haben. --
+
+·Göttlingk· (befriedigt)
+
+Na, da hätten wir ja das Gewächse. (Setzt sich, raucht) Immer parieren,
+Kinderchen.
+
+·Biegler·
+
+Also ich wär' ja nu da.
+
+·Göttlingk·
+
+Das seh' ich. Was den alten Knackstiebel betrifft, den wollen wir mal
+auf sich beruhen lassen. Aber wir haben noch 'n Hühnchen zu pflücken,
+wir beide. Sie sind doch der neue, krumme Kerl von Nachtwächter?
+
+·Biegler·
+
+Neu bin ich hier ... Krumm bin ich wohl auch.
+
+·Göttlingk· (auflachend)
+
+Und Nachtwächter auch?
+
+·Biegler·
+
+Ja.
+
+·Göttlingk·
+
+Dann kieken sich mal hier diesen Block an. Na -- soll ich Sie bei den
+Ohren nehmen?
+
+·Biegler· (stammelnd)
+
+Was -- is -- denn -- mit dem Block?
+
+·Göttlingk·
+
+Sie sind verantwortlich für das, was hier über Nacht geschieht. Ich
+frag' Sie: Wer hat da an meinem Block rumgemurkst?
+
+·Biegler· (sehr bestürzt)
+
+Das --
+
+·Göttlingk·
+
+Na?
+
+·Biegler·
+
+Das -- weiß ich -- doch -- nich.
+
+·Göttlingk·
+
+Seht euch mal das böse Gewissen an.
+
+·Struve· (leise)
+
+Nu sei doch frech! Schmeiß ihm doch Staub ins Gesichte.
+
+
+Zehnte Szene
+
+    _Die Vorigen. Frau Homeyer. Marie_
+
+·Frau Homeyer·
+
+    (geht quer über den Platz zu der Gruppe hin)
+
+·Göttlingk·
+
+    (sich rasch vom Wüterich in den Schwerenöter verwandelnd)
+
+Oi, da kommt ja hoher Besuch, feiner Besuch, pikefeiner Besuch. Nu,
+mein süßes, strammes Frau Homeyerchen, mein --
+
+·Frau Homeyer· (ihn abwehrend)
+
+Man wird schließlich nich mal mehr unbelästigt auf den Platz kommen
+können.
+
+·Göttlingk·
+
+Aber Kindchen, Puppechen! Sie waren doch sonst nich so. Ich hab' Ihnen
+doch manches liebe Mal in Ihren warmen, sanften Oberarm gekniffen.
+
+·Frau Homeyer·
+
+Und haben immer noch von mir auf die Finger gekriegt.
+
+·Göttlingk·
+
+Aber gelächelt haben Sie dazu -- so sieß! (Schmachtend) Ach, wie so
+sieß!
+
+·Frau Homeyer·
+
+Ach, Sie sollten sich was schämen. Dort vor der Tür steht das Fräulein.
+Das will Sie sprechen.
+
+·Göttlingk·
+
+Das Fräulein -- mich? -- Mich -- das --? So! Na! Sie, Nachtwächter, Sie
+können abrutschen. Aber Sie werden mir noch Rede stehn. Verstanden? --
+
+·Lohmann· (leise)
+
+Hab man keine Bange vor dem!
+
+·Struve· (leise)
+
+Und wenn du für irgend was 'n Zeugen brauchst, ick beschwör' alles ...
+Unbesehn.
+
+·Biegler·
+
+Ich dank' euch schön.
+
+·Göttlingk·
+
+    (dreht eitel seinen Schnurrbart)
+
+Na, bin ich nu nobel genug fürs Fräulein? (Geht nach vorne links)
+
+·Frau Homeyer·
+
+    (schaut verliebt hinter ihm her, einer der Steinmetzen umfaßt
+    sie von hinten, sie schlägt nach ihm, die andern lachen, sie
+    geht nach links)
+
+·Biegler· (nach der Kantine ab)
+
+
+Elfte Szene
+
+    _Marie. Göttlingk._ Die anderen im Hintergrund
+
+·Marie·
+
+    (ist bebend die Stufen heruntergestiegen und streicht sich, wie
+    um sich Mut zu machen, mit der Hand übers Gesicht)
+
+·Göttlingk·
+
+    (linkisch, mit durchbrechender Frechheit)
+
+Mahlzeit, Fräulein.
+
+·Marie· (tonlos)
+
+Gesegnete Mahlzeit!
+
+·Göttlingk·
+
+Möchte mir die ergebenste Frage erlauben, womit ich dem Fräulein dienen
+kann?
+
+·Marie·
+
+Herr Göttlingk, Sie sind lange weg gewesen.
+
+·Göttlingk·
+
+Jawohl, bißchen de Welt besehen. Aber nu bin ich schon lange wieder da.
+
+·Marie·
+
+Das freut mich, daß Sie wieder da sind, Herr Göttlingk.
+
+·Göttlingk·
+
+Nu, das is ja höchst schmeichelhaft für mich. Danke schön.
+
+·Marie· (rasch, ängstlich)
+
+Nein, nein, der Lore wegen.
+
+·Göttlingk·
+
+Der Lore wegen. Ach so ... Na, das geht so seinen Weg.
+
+·Marie·
+
+Was für 'n Weg, Herr Göttlingk?
+
+·Göttlingk·
+
+Wissen Sie was, Fräulein Mariechen? Beunruhigen Sie sich darüber nicht.
+Da sind Sie viel zu fein zu. -- Das sind solche Geschichten.
+
+·Marie·
+
+Sie wissen wohl gar nicht, Herr Göttlingk, wie lieb Sie die Lore hat?
+
+·Göttlingk·
+
+Mädchen mit 'n Kind hat einen immer lieb. Dafür sorgt schon der liebe
+Gott.
+
+·Marie· (ihn bestürzt anstarrend)
+
+Herr Göttlingk, so schlecht können Sie doch gar nicht sein. Wenn die
+andern auch sagen, Sie seien gewalttätig und -- Ich habe Sie immer für
+einen guten und edeln Menschen gehalten.
+
+·Göttlingk·
+
+Na, macht sich!
+
+·Marie·
+
+Und ich weiß, aus Ihrem Singen spricht ein weiches Herz. Ich habe Ihnen
+immer mit Freuden zugehört.
+
+·Göttlingk·
+
+So? Na, ich hab' auch sozusagen immer extra für Sie gesungen, Fräulein
+Mariechen.
+
+·Marie· (tödlich erschrocken)
+
+Wieso -- für -- mich?
+
+·Göttlingk·
+
+Nu, weil ich schon weiß, daß Sie dann immer 's Fenster aufmachen. Also
+müssen Sie's doch gerne haben. Ich tu' immer, was Sie gerne haben.
+Jawohl. Mach' ich.
+
+·Marie· (außer Fassung)
+
+Es handelt -- sich hier -- aber gar nicht -- um mich.
+
+·Göttlingk·
+
+    (in trumpfender Männlichkeit)
+
+Warum eigentlich nich, Fräulein Mariechen? Warum soll es sich nich auch
+'n mal um Sie handeln?
+
+·Marie·
+
+    (sprachlos, ratlos, schließt für einen Augenblick die Augen,
+    dann -- da sie Zarnckes Stimme in der Veranda hört, eilt sie
+    hilfesuchend auf ihn zu)
+
+Vaterchen! Vaterchen!
+
+·Göttlingk· (seinen Schnurrbart drehend)
+
+Sieh mal an! Sieh mal an! (Geht nach hinten)
+
+
+Zwölfte Szene
+
+    _Die Vorigen. Zarncke. Kriminalkommissar
+    Reitmaier_
+
+·Zarncke·
+
+Na, was denn, Miezelchen? (Ruft) Frau Homeyer! (Sie hängt in seinem
+Arm, er streichelt ihre Wange und übergibt sie dann Frau Homeyer, die
+für einen Augenblick in der Tür erscheint) Sie werden entschuldigen,
+Herr Kommissar! Sie is 'n bißchen kränklich ...
+
+·Reitmaier·
+
+    (Mann Mitte der Vierzig, rund, breitschultrig, strohblonder
+    Schnauzbart, Pincenez. Gemachte Jovialität, die gelegentlich in
+    brutale Schärfe umschlägt. Ein wenig Bierbruder mit Ausblick
+    zum Offiziertypus)
+
+Ach, es ist mir ja immer höchst fatal, wenn ich so das Privatleben der
+Herrschaften stören muß. Ich werd' Sie auch nicht lange aufhalten.
+Ich bin nur beauftragt worden, mal 'n bißchen nachzuhören, was mein
+Kollege vom Revier da -- -- Haben Sie man keine Bange. Ich bin 'ne
+menschenfreundliche Natur. Ich mach' das alles gemütlich. Die Herren
+Spitzbuben -- die sind mir so wie 'ne große Familie.
+
+·Zarncke· (erfreut, bewundernd)
+
+Ach -- ne -- wirklich?
+
+·Reitmaier· (bieder)
+
+Ja, darf ich wohl sagen: Wie meine Familie! Na, kann man den Onkel mal
+'n bißchen sehn?
+
+·Zarncke· (rufend)
+
+Struve!
+
+·Struve·
+
+    (sich von einer Gruppe im Hintergrunde lösend)
+
+Jawohl, Herr Zarncke. (Leise) Ei weh, Kindersch. Da is der Reitmaier
+vom Präsidium. Das is 'n fauler Junge. (Kommt nach vorn)
+
+·Reitmaier· (die Arme ausbreitend)
+
+Herr Gott, das is ja mein guter, alter Struve.... Na, lieber Freund!
+
+·Struve· (gerührt)
+
+Ach, der Herr Kommissar! Ne, is das 'ne Freude!
+
+·Reitmaier·
+
+Na, Menschenskind, wir haben uns ja so lange nich gesehn.
+
+·Struve·
+
+Ja, Herr Kommissar. Es hat mir auch immer was gefehlt.
+
+·Reitmaier·
+
+Nu sagen Sie mal, alter Sohn, was _haben_ Se denn nu wieder
+ausgefressen?
+
+·Struve·
+
+Herr Kommissar, es tut mir ja leid. Aber ich bin eben scharf in de
+Besserung. Diesmal kann ich wirklich nich -- nich -- dienen.
+
+·Reitmaier· (überzeugt)
+
+Ja, ja, ja. Also, Sie sind's nich gewesen?
+
+·Struve·
+
+Herr Kommissar, und wenn ich hier gleich meinen Totenschein in die Hand
+nehm' --
+
+·Reitmaier·
+
+Nich schon Totenschein! Pfui! -- Mann wie Sie muß leben!
+
+·Struve·
+
+Aber wenn sich's machen läßt, Herr Kommissar, im Zuchthaus. Ja.
+
+·Reitmaier· (zu Zarncke)
+
+Er is bitter gestimmt. (Beruhigend) Na, na, na, es is da bloß noch 'ne
+kleine Formensache. Nichts von Bedeutung! Ne! (Zieht sein Notizbuch)
+Sagen Sie mal, wo waren Sie denn nu in der Nacht?
+
+·Struve·
+
+Ja, Gott, Herr Kommissar. Wo man so is. Uf 'ne Banke. Oder so.
+
+·Reitmaier· (bedauernd)
+
+Warum _waren_ Se nu nich in Ihre Schlafstelle?
+
+·Struve·
+
+Ja, warum _war_ ich nich in meine Schlafstelle? Hätt' ich gewußt, daß
+schlechte Menschen hier bei Herrn Zarncke einbrechen würden, hätt' ich
+mir gleich um halb zehne in de Klappe gelegt. Wegen den Aal--ibi.
+
+·Reitmaier·
+
+Natürlich! (Leise) Das is 'n abgefeimtes Luder! -- Da Sie das aber
+selbstredend nicht wissen konnten, so gingen Sie zu -- in den bekannten
+Lehmannschen Keller, wo wir ja auch schon zusammen gesessen haben. Is
+da 's Bier immer noch so gut?
+
+·Struve·
+
+Danke. Ja. Es jeht.
+
+·Reitmaier·
+
+Da waren Sie bis -- zehn Minuten nach zwölfe. Und dann waren Sie mit
+Ihrem Freund Kuntze -- ja, wo waren Sie da?
+
+·Struve·
+
+Ja, wo war ich da? Ich bin -- spazieren jewesen.
+
+·Reitmaier· (klagend)
+
+Nämlich, denken sich mal, Ihr armer Freund Kuntze sitzt schon wieder
+feste!
+
+·Struve·
+
+Das is dem Kerl recht. Der is zu dumm.
+
+·Reitmaier·
+
+Aber es is doch schade. Na -- und als Sie sich dann getrennt hatten,
+was taten Sie dann?
+
+·Struve·
+
+Ach, Herr Kommissar, ich bin so 'n weiches Jemiete. Ick hab' mir so,
+wie ick schon sagte, in'n Humboldthain bisken uf die Banke jesetzt.
+
+·Reitmaier·
+
+Und gesprochen haben Sie mit niemandem?
+
+·Struve·
+
+I wo wer' ick doch. Dabei kann man so leicht in schlechte Jesellschaft
+kommen. Ne.
+
+·Zarncke· (triumphierend, leise)
+
+Den kriegen Sie nich!
+
+·Reitmaier·
+
+Und dann sind Sie nach Hause gegangen.
+
+·Struve·
+
+Ja, ick wollte eijentlich noch 'n bisken die Vögelchens singen hören.
+Aber ~pee à pee~ bin ick denn zu Hause jejangen.
+
+·Reitmaier· (leise)
+
+Der Kerl hat ein Schwein. Weder die Stunde des Einbruchs noch die Zeit
+seines Heimkommens sind festzustellen. Aber -- -- (laut) Struve!
+
+·Struve·
+
+Herr Kommissar!
+
+·Reitmaier·
+
+Ja, noch eins. (Wieder leise) In dem Magazin -- haben Sie da Sachen von
+Wert?
+
+·Zarncke·
+
+O ja. Da bewahr' ich unter anderm die Zahnsägen auf.
+
+·Reitmaier·
+
+Und die sind wertvoll?
+
+·Zarncke·
+
+Einige davon sind mit Diamantsplittern besetzt.
+
+·Reitmaier·
+
+Ah! Wußte der Struve davon?
+
+·Zarncke· (mit reserviertem Lächeln)
+
+Ja, das weiß ich nicht, Herr Kommissar.
+
+·Reitmaier·
+
+Struve, wo ist hier das Magazin?
+
+·Struve·
+
+Das Magazin? (Nach rechts weisend) Na da is es ja.
+
+·Reitmaier·
+
+Was is denn da so drin?
+
+·Struve·
+
+Was wird denn da so drin sein? Vielleicht überführen Sie sich mal, Herr
+Kommissar.
+
+·Reitmaier· (schärfer)
+
+Wissen Sie, was Zahnsägen sind?
+
+·Struve·
+
+Zahnsägen? Ja. Das sind Zahnsägen.
+
+·Reitmaier·
+
+Wo werden die über Nacht aufbewahrt?
+
+·Struve· (rufend)
+
+Du, Lohmann, wo werden doch die Zahnsägen aufbewahrt?
+
+·Reitmaier· (ärgerlich)
+
+Sie haben hier zu antworten und keine Fragen zu stellen.
+
+·Zarncke·
+
+    (auf die Umstehenden weisend, von denen sich einige allgemach
+    näher herangedrängt haben)
+
+Stören Sie die Leute, Herr Kommissar?
+
+·Reitmaier·
+
+Durchaus nicht. Durchaus nicht. (Leiser) Sie sehn übrigens -- (zu
+Struve streng) treten Sie mal zurück! -- (leiser) daß an das Subjekt
+nicht 'ranzukommen ist.
+
+·Zarncke· (zaghaft, bittend)
+
+Ach, dann lassen Sie ihn doch laufen.
+
+·Reitmaier·
+
+Nu ja, _Sie_ sind ja bekannt dafür, daß es Ihnen Vergnügen macht,
+dergleichen Volk bei sich unterkriechen zu lassen.
+
+·Zarncke·
+
+Vergnügen? Es is wohl mehr eine Abbitte an den lieben Gott.
+
+·Reitmaier· (immer noch leise)
+
+Weitere Verdachtsmomente als seine Bescholtenheit liegen nicht vor. Ich
+könnte jetzt noch die Leute hier vernehmen. Vorher aber möcht' ich mal
+an _Sie_ die Frage richten, ob Sie nach Ihren Beobachtungen den Kerl
+für verdächtig halten oder nicht?
+
+·Zarncke· (verlegen)
+
+Ja, da is schwer --
+
+·Reitmaier·
+
+Trotzdem möcht' ich sehr bitten, der Wahrheit gemäß --
+
+·Zarncke· (in die Enge getrieben)
+
+Ja, ja, ja. Einen Augenblick. Polier! Geben Sie doch mal -- (spricht
+leise weiter)
+
+·Willig·
+
+    (der sich inzwischen unter den Umstehenden eingefunden hat,
+    holt eine Anzahl Schlüssel aus der Hosentasche und reicht ihm
+    einen davon)
+
+·Zarncke·
+
+Struve! ... Sehen Sie mal hier diesen Schlüssel. Kennen Sie den?
+
+·Struve·
+
+Ne.
+
+·Zarncke·
+
+Das ist der Magazinschlüssel. Den übergeb' ich Ihnen hiermit. Verstehn
+Sie?
+
+·Struve·
+
+Ne.
+
+·Zarncke·
+
+Falls der Herr Kommissar Sie hier läßt, werden _Sie_ mir von jetzt ab
+für die Sicherheit der Sachen -- einstehn. Verstanden?
+
+·Struve·
+
+Ne.
+
+·Reitmaier·
+
+Erlauben Sie mal, Herr Zarncke! Was bedeutet denn das?
+
+·Zarncke·
+
+Das ist meine Antwort, Herr Kommissar. Entnehmen Sie daraus, was Sie
+wollen.
+
+·Reitmaier·
+
+Sie -- vertrauen -- _dem_ den --? Hähähä! Erlauben Sie mal. -- Hähähä.
+Pardon, das ist zu spaßhaft. (Immer lachend) Na dann will ich auch
+nicht weiter stören. Das kann dann mein Kollege vom Revier zu Ende
+führen! ... Aber wenn Ihnen man die Passion für solche schweren Jungens
+nich noch mal sauer aufstoßen wird ... denn außerdem haben Sie ja auch
+noch 'n Mörder bei sich. Und weiß Gott, was --
+
+·Zarncke· (sehr erschrocken)
+
+_Mörder?_ (Große Bewegung unter den Zuhörern, die sich während der
+Folgezeit über den ganzen Platz fortpflanzt)
+
+·Reitmaier·
+
+Nu ja -- den --
+
+·Zarncke· (rasch, mit Nachdruck)
+
+Das ist ein Irrtum, Herr Kommissar.
+
+·Reitmaier·
+
+Erlauben Sie mal --
+
+·Zarncke·
+
+    (ihn bei Seite nehmend, erregt)
+
+Erstens ist der Mann nicht wegen Mordes, sondern wegen Totschlags
+verurteilt worden --
+
+·Reitmaier·
+
+Menschenblut is Menschenblut.
+
+·Zarncke·
+
+Menschenblut hat auch so einer in den Adern. Und das braucht ihm nicht
+unnütz vergiftet zu werden. Wissen Sie, daß Sie dem Manne, der sich zu
+mir gerettet hat, wie 'n Stück Vieh von der Schlachtbank, daß Sie _dem_
+das Weiterexistieren auf dem Platze wahrscheinlich unmöglich gemacht
+haben?
+
+·Reitmaier·
+
+Ich? Wieso? Bitte!
+
+·Zarncke·
+
+    (auf die erregten Gruppen weisend)
+
+Da sehn Sie! Die werden's bald 'raushaben, wer der »Mörder« ist.
+Anstatt hier rücksichtsvoll --
+
+·Reitmaier· (brutal)
+
+Ach was! Da müßt' ich viel Zeit haben, auf solchen -- Auswurf --
+Rücksicht zu nehmen.
+
+·Zarncke·
+
+Na, sehr verwandtschaftlich reden Sie nu gerade _nicht_ von Ihrer
+werten Familie.
+
+·Reitmaier·
+
+Was für Familie? ... Ach so! (Scharf) Ich empfehle mich Ihnen, Herr
+Zarncke. (Ab nach links)
+
+
+Dreizehnte Szene
+
+    _Die Vorigen_ ohne _Reitmaier_
+
+·Zarncke·
+
+    (der einen Augenblick kopfschüttelnd dagestanden hat, laut)
+
+Hört mal, Kinder! Das -- mit dem -- Mörder -- das muß 'ne Verwechslung
+sein. Das -- ja --!
+
+·Willig· (vor sich hin)
+
+Na na!
+
+·Andere·
+
+    (geben ebenfalls durch Mienen und Gebärden ihrem Zweifel
+    Ausdruck)
+
+·Zarncke·
+
+Struve!
+
+·Struve·
+
+    (der seinen Schlüssel kopfschüttelnd besehen hat)
+
+Herr Zarncke.
+
+·Zarncke·
+
+Diesmal hab' ich Sie noch 'rausgehauen. Nu benehmen Sie sich auch
+darnach.
+
+·Struve·
+
+Ja w-- w-- w--
+
+·Zarncke·
+
+Na was denn?
+
+·Struve·
+
+Wenn nu gesetzten Falls -- und es is _doch_ nu ein anderer gewesen --
+
+·Zarncke·
+
+Sie, bilden Sie sich keine Schwachheiten ein .... Und?
+
+·Struve·
+
+Und -- nu ja -- und der andere der kommt nu mal wieder -- --
+
+·Zarncke·
+
+Dann werden _Sie_ eingesteckt. Verlassen sich drauf. (Ab)
+
+·Lohmann· (nach der Kantine weisend)
+
+Nu selbstverständlich is er's. Wer denn sonst?
+
+·Sprengel· (nach Struve hin)
+
+An _den_ hat man sich schließlich gewöhnt, -- aber _Mörder_! Ne.
+
+·Lohmann·
+
+Du, Struve, komm mal her. (Struve geht zu ihnen)
+
+·Sprengel·
+
+Scht. Da is er.
+
+
+Vierzehnte Szene
+
+    _Die Vorigen._ _Biegler._ Gleich darauf _Lore_
+
+·Biegler·
+
+    (hat drei Zigarren in der Hand, die er besieht)
+
+·Lore·
+
+    (mit einem kleinen Teller, worauf noch eine Zigarre)
+
+Herr Biegler.
+
+·Biegler· (sich umwendend)
+
+Ja?
+
+·Lore·
+
+Sie haben doch _vier_ Zigarren bezahlt und bloß dreie genommen.
+
+·Biegler·
+
+Ach so. Ja. Danke. (Nimmt die Zigarre) Es war ja auch noch 'n vierter
+dabei. (Mit glücklichem Lächeln) Ich hab' nämlich -- jetzt -- auch --
+_Freunde_ hier.
+
+·Lore· (erfreut)
+
+Ach, sehn Sie!
+
+·Biegler·
+
+Ja. Freunde -- hab' ich. Drei Stück. Ja ... Und da will ich mich doch
+mit Zigarren revanschieren. Ja.
+
+·Lore·
+
+Na sehn Sie. Hab' ich Ihnen nich immer gesagt: Es is nich so schlimm,
+-- sie tun Ihnen nichts?
+
+·Biegler·
+
+Ja, ja, Fräulein! Wenn Sie mir nicht hätten immer Mut gemacht.
+
+·Göttlingk· (herüberrufend)
+
+Sie, Lore, was machen Sie sich da mit dem Kerl zu schaffen? Das ist
+kein Umgang für Sie. -- Lassen Sie den mal hübsch laufen.
+
+·Lore· (zusammenschreckend)
+
+Ja ... ja, ja. (Steht unschlüssig)
+
+·Biegler· (die Zähne zusammenbeißend)
+
+Der kann mich nich leiden. Gehn Sie man schon ... Ich hab' ja auch noch
+-- _Freunde_. (Lore ab) (Er breitet seine Zigarren fächerförmig in
+der Linken aus und tritt zu Lohmann, der zuerst mit Struve gesprochen
+und dessen Gruppe sich dann aufgelöst hat) Du -- willste nich -- eine
+Zigarre von mir -- rauchen?
+
+·Lohmann· (verächtlich)
+
+Nee. (Tritt von ihm fort)
+
+·Biegler·
+
+    (steht einen Augenblick wie erstarrt, dann geht er zu Sprengel,
+    sehr zaghaft)
+
+Ach -- bitte -- ich hätt' -- ne Zigarre -- für --
+
+·Sprengel·
+
+Du kannst deine Zigarren für dich behalten. (Tritt gleichfalls von ihm
+fort)
+
+·Biegler·
+
+    (reibt sich fassungslos die Stirn; eine verzweifelte Wildheit
+    kommt über ihn; er geht zu Struve -- voll Angst und Ingrimm)
+
+Du hast mir vorhin ne Zigarre gegeben --
+
+·Struve· (gutherzig abwehrend)
+
+Laß man! Laß man! ... Es is nich, weil ich stolz bin, weil ich nu
+den -- Magazinschlüssel hab' ... aber -- ich kann mir nich --
+ausschließen, -- ich muß machen wie die andern.
+
+·Biegler·
+
+Wa -- was hab' ich -- euch denn -- ...?
+
+·Struve·
+
+Sag mal, wie alt bist du?
+
+·Biegler·
+
+Vierunddreißig.
+
+·Struve·
+
+Und da haben sie dich schon 'rausgelassen? So früh lassen sie einen wie
+du -- sonst doch nich los ...
+
+·Biegler·
+
+    (sieht ihn entsetzt an, wirft einen wilden, verängstigten Blick
+    auf die ihn rings Beobachtenden und versteht)
+
+Ach so ... Ach so.
+
+·Struve· (ist zu Lohmann zurückgetreten)
+
+Ich sag' euch bloß: det stimmt _nich_.
+
+·Lohmann·
+
+Wer soll's denn sonsten sein?
+
+·Biegler·
+
+    (auf die Bank der Kantine sinkend)
+
+Ach so!
+
+    (_Der Vorhang fällt_)
+
+
+
+
+Dritter Akt
+
+    Die Kantine. Deren Wände sind aus Fachwerk gebildet. Die Decke
+    ist niedrig und verräuchert. Auf der rechten Seite die Tür zum
+    Werkplatz. Im Hintergrunde rechts das Fenster, im Hintergrunde
+    links das Büfett mit einem Schanktisch davor. -- Auf der
+    linken Seite eine Tür zu Schlafräumen. -- In der Mitte unter
+    der Hängelampe ein Tisch mit Stühlen, links vorne ein Sofa mit
+    Tisch und Stühlen, rechts vorne Tisch mit Stühlen. Vor dem
+    Fenster Schustergerät. In der Ecke rechts hinten ein eiserner
+    Ofen.
+
+    Das Ganze trotz des ärmlichen oder vielmehr provisorischen
+    Charakters sauber und beinahe freundlich. Blumentöpfe auf
+    den Tischen und vor dem Fenster. Blitzblankes Gerät auf dem
+    Schanktisch, darunter ein verzinkter Wasserwärmer. Plakate und
+    Bilder ohne Rahmen sind als zufälliger Schmuck an die Wände
+    geheftet. Die »Platzordnung« unter Glas und Rahmen hängt neben
+    der Eingangstür. Über dem Büfett eine Uhr; neben ihm eine
+    Mandoline
+
+
+Erste Szene
+
+    _Lore_ hinter dem Schanktisch mit einer Handarbeit beschäftigt.
+    Der alte _Eichholz_ auf dem Sofa schlafend. _Lenchen_ an dem
+    Schusterschemel
+
+·Eichholz· (schnarcht)
+
+·Lore·
+
+Was machst du da, Lenchen?
+
+·Lenchen·
+
+Ich spiel' mit Großvatern seine Schuhmacherspielsachen.
+
+·Lore·
+
+Zerbrich ihm man nich seine Glasglocke.
+
+·Lenchen·
+
+Nein, nein.
+
+·Lore·
+
+    (sieht nach der Uhr und geht dann zum Sofa)
+
+Vater -- Vater!
+
+·Eichholz·
+
+    (brummt aus dem Schlafe, ohne sich zu rühren)
+
+·Lore·
+
+Vater, du mußt aufstehn.
+
+·Eichholz· (im Halbschlaf)
+
+Wieso denn?
+
+·Lore·
+
+Es is Sonnabend heute. Nach der Lohnzahlung -- du weißt ja -- dann
+wird's noch einmal voll hier.
+
+·Eichholz·
+
+Ja, ja ... Na ja ... (Richtet sich auf und reckt die Glieder) Ich muß
+ja auch noch gehn, mir neues Verschmierpech besorgen.
+
+·Lore·
+
+Laß doch, Vater, das eilt ja nicht.
+
+·Eichholz·
+
+Nu ja. Ich arbeit' ja _doch_ nich. Ich bin 'n altes Faultier, sagt
+meine Tochter. (Rülpst) Dein Kümmel is das reine Rattengift. -- Meine
+Leber kriegt schon harte Stellen von. Ich muß mal baldigst gehn, mich
+an einen Mäßigkeitsvereine zu beteiligen.
+
+·Lore·
+
+Ach ja, das wär' ganz gut, Vater.
+
+·Eichholz·
+
+Wär' ganz gut. Wär' ganz gut. Was weißt du, was mir gut is? Ich freß
+nich mehr aus'n Steinguttopp. Das laß dir gesagt sein.
+
+·Lore·
+
+Ach, das is ja alles Einbildung, Vater.
+
+·Eichholz·
+
+Denn was bin ich? ... Stück Vieh auf'm Schindanger bin ich ... Wenn sie
+mich schon wegjagen tun um -- um -- um 'n Mörder.
+
+·Lore· (abwehrend)
+
+Ach!
+
+·Eichholz·
+
+Auf meinem Platz sitzt 'n Mörder. Das halt' ich nich aus. Da jeh' ich
+ins Wasser. Da nehm' ich eine Jiftpille zu mir. Und dann verkauf' ich
+mir an die Annetomie ... Damit du nichts zu erben kriegst, du Biest.
+Nich mal meinen Leichnam.
+
+·Lore· (lächelnd)
+
+Ich will ja auch nichts, Vaterchen.
+
+·Eichholz·
+
+Wenn du hättest Ehre in deinem Herzen, dann schmißt du den Kerl 'raus
+und scheuerst mit Karbol die Stelle, wo er gestanden hat. Statt dessen
+frißt er sich hier rund an deine Karbonade.
+
+·Lore·
+
+Gönn ihm doch sein bißchen Essen, Vater. Und ob er wirklich _der_ is,
+von dem der Kommissär gestern gesprochen hat, das weiß ja keiner.
+
+·Eichholz·
+
+Ich hab's immer gesagt: der Kerl hat Mörderaugen im Kopp. Heute is nu
+jeder so klug.
+
+·Lore·
+
+Was sind denn Mörderaugen, Vater?
+
+·Eichholz·
+
+Die sind wie beim Fisch. Da sitzt ein Stein drin. Und das is der Tod.
+Und wegen so einen -- haben sie -- mir -- (Weint)
+
+·Lore· (mitleidig)
+
+Vaterchen!
+
+·Eichholz· (weinend)
+
+Das halt' ich nich aus. Da werde ich verrückt von. Einer muß hin. Er
+oder ich. Tot oder lebendig. Der muß verrecken, der Hund, der Bluthund,
+der -- der -- (Kläglich) Ich hab' so 'n Leberstechen.
+
+·Lore·
+
+Geh, leg dich aufs Bett, Vater.
+
+·Eichholz·
+
+Das hat er mir schon mit seinen bösen Blick anjetan, daß ich nicht
+werde jenesen meines Leidens ... Ich hab' so 'n Leberstechen. (Ab)
+
+·Lore· (sieht ihm seufzend nach)
+
+Lenchen, du bist ein kluges Kind. Geh mit Großvater. Und wenn er weint,
+dann ruf.
+
+·Lenchen·
+
+Ja, Mamachen. (Von Lore zur Tür geleitet, ab. Es klopft)
+
+·Lore·
+
+Herein!
+
+
+Zweite Szene
+
+    _Lore._ _Marie_
+
+·Marie·
+
+'n Tag, Lore. Du hast wohl schon sehr auf mich gewartet?
+
+·Lore· (gedrückt)
+
+Ach! Jetzt hatt' ich schon aufgehört.
+
+·Marie·
+
+Wußtest du's, daß ich gestern mit ihm gesprochen hatte?
+
+·Lore·
+
+Die anderen erzählten sich's.
+
+·Marie·
+
+Und du fragst gar nicht? Dachtst dir wohl schon, daß ich keine guten
+Nachrichten bringe?
+
+·Lore· (mutlos)
+
+Gott, als Sie gestern abend nicht kamen. Und heute vormittag nicht.
+Wollen sich nich setzen, Mariechen?
+
+·Marie·
+
+Danke. (Setzt sich) Hast du gehört, wie schön die Amsel singt auf
+deinem Dach? Mitten in all dem Lärm. Täusch' ich mich, oder pfeift sie
+fröhlicher, seit sie ihr Nest hat? Es is wirklich so, als ob das Glück
+pfeift ... Auf deinem Dach, Lore.
+
+·Lore·
+
+Für mich pfeift kein Glück.
+
+·Marie·
+
+Wer weiß? ... (Zögernd) Lore, ich will dir was gestehn: Ich hab' Vater
+gebeten, daß er ihm am nächsten Termin kündigt.
+
+·Lore·
+
+Warum haben Sie das getan? Wenn er gehen will, dann soll er gehn. Aber
+nicht fortjagen. Nicht um meinetwillen.
+
+·Marie·
+
+Lore. Ich hab' auch Vater gebeten, daß er ihm dann sagt, daß er dir 'ne
+Aussteuer geben wird.
+
+·Lore·
+
+Ich will keine Aussteuer. Die heilt nichts und macht nichts gut. Ich
+will nichts.
+
+·Marie·
+
+Denn sieh mal: Er ist ehrgeizig. Er will eine Frau, die wohlhabend ist.
+Darauf geht er aus.
+
+·Lore·
+
+Woher wissen Sie das?
+
+·Marie·
+
+    (stockend, mit abgewandtem Gesicht)
+
+Nun, das -- merkt -- man doch.
+
+·Lore·
+
+Zuzutrauen ist es ihm schon. Aber so himmlisch gut Herr Zarncke is,
+wohlhabend, wie _er_ meint, kann ich ja doch nie werden.
+
+·Marie·
+
+    (mit geheimnisvollem Lächeln)
+
+Nun -- wer weiß?
+
+·Lore·
+
+Denn erspart hab' ich nichts. Ich verdien' hier gerade das tägliche
+Brot.
+
+·Marie· (mit unterdrückter Erregung)
+
+Sieh mal, Lore, was ich dir schon immer mal hab' sagen wollen: Lange
+leben werd' ich nicht, (langsam, mit Betonung) und -- dein Lenchen --
+hab' ich _sehr lieb_.
+
+·Lore· (nach langem Schweigen)
+
+Mein Kind hast du -- so lieb?
+
+·Marie· (nickt)
+
+·Lore·
+
+Mein Lenchen hast du so lieb?
+
+·Marie· (tonlos)
+
+Ja.
+
+·Lore· (aufschreiend)
+
+Dann geb' ich's dir. Dann nimm's als dein eigen. Wozu soll sie sich
+durchschleppen mit mir durch all den Jammer, wenn sie _das_ haben kann?
+(schluchzt)
+
+·Marie·
+
+Lore, hör mal! ... Vor zwei Tagen -- da hätt' ich noch ja und »Schön
+dank« gesagt. Aber jetzt -- seh' ich die Dinge -- anders an. Denn, sieh
+mal! So ein -- Kindchen -- muß doch zuerst mal -- seinen Vater haben
+... Nicht wahr?
+
+·Lore· (in neuem Erstaunen)
+
+Marie, Marie! Wenn ich das recht versteh'! ... Das glaub' ich nicht!
+Das ist zu viel! Das ist zu viel! Und das kann auch nicht zum Guten
+sein. Nie im Leben. Nie.
+
+·Marie·
+
+Warum nicht?
+
+·Lore·
+
+Weil -- weil ... Der -- der _will_ mich nicht mehr. Dem bin ich _doch_
+bloß 'ne Kette am Bein. Weiter nichts.
+
+·Marie·
+
+Auch wenn er weiß, was Lenchen mal zu erwarten hat? Und wovon er doch
+der Verwalter sein wird?
+
+·Lore·
+
+Mein Gott, mein Gott, mein Gott!
+
+·Marie·
+
+Nur wie das wird, wenn ich früher sterbe als Vater, das weiß ich nicht.
+Denn wollen _wird_ er ja nicht.
+
+·Lore·
+
+Nein, nein, nein! Es wird nichts. Es kann auch nicht. Und es schadet
+auch gar nichts, wenn's -- nichts -- wird. -- Man is ja längst schon
+viel zu mürbe. Und vielleicht ist einem ganz, ganz was anders bestimmt,
+wo _nicht_ so viel Tränen drauf liegen. Aber 'ne Viertelstunde lang mal
+froh gewesen sein und ein Mensch, nicht bloß ein Stein, den man hin
+und her stößt, ach, das tut so gut, so gut, so gut! (Sinkt lachend und
+weinend vor ihr nieder und küßt ihr die Hände)
+
+·Marie·
+
+Laß doch! Steh auf! Mir scheint, es kommt wer. (Lore steht auf)
+
+
+Dritte Szene
+
+    _Die Vorigen. Biegler_
+
+·Biegler· (dumpf, scheu)
+
+Guten Tag.
+
+·Marie.·
+
+Guten Tag, Herr Biegler. Ist denn schon Feierabend?
+
+·Biegler·
+
+Ja.
+
+·Marie·
+
+Geht's Ihnen gut?
+
+·Biegler·
+
+Danke.
+
+·Marie·
+
+Adieu, Herr Biegler. Adieu, Lore! (ab)
+
+
+Vierte Szene
+
+    _Lore. Biegler_
+
+·Biegler· (setzt sich an den Mitteltisch)
+
+·Lore·
+
+    (geht zum Büfett, schenkt aus dem Wärmekessel einen Topf mit
+    Kaffee ein, bricht eine Fünfpfennigsemmel ab und bringt sie
+    nach dem Tisch links)
+
+Setzen sich lieber hierher, Herr Biegler. Das da is ja der
+Steinmetzentisch, und die Bildhauer kommen nich nach der Auszahlung.
+Die sind zu große Herren.
+
+·Biegler·
+
+Ich geh' so wie so gleich fort. (Setzt sich links)
+
+·Lore·
+
+Warum sind Sie eigentlich nich bei der Wochenauszahlung?
+
+·Biegler·
+
+Ich -- krieg' -- monatlich. (Schweigen)
+
+·Lore·
+
+    (immer in freudiger Erregung)
+
+Ich weiß nicht; Sie kommen mir heut so anders vor, Herr Biegler. Sie
+reden gar nich.
+
+·Biegler·
+
+Ich red' ja -- auch sonst nich -- viel.
+
+·Lore·
+
+Wissen Sie, mir is nämlich heute ganz was -- ganz was -- Besonderes --
+passiert.
+
+·Biegler·
+
+Was Gut's?
+
+·Lore· (nickt)
+
+·Biegler·
+
+Da gratulier' ich.
+
+·Lore·
+
+Ach, es is nichts zu gratulieren. Es wird sich nichts ändern. Aber es
+is doch wie 'n heller Schein. -- Und da möcht' ich, daß es auch andern
+so geht. Ihnen auch.
+
+·Biegler· (schwer atmend)
+
+Danke!
+
+·Lore·
+
+Herr Biegler -- ach, Herr Biegler, wozu sollen wir erst viel Versteck
+spielen. Ich weiß ja, was Sie quält -- seit gestern.
+
+·Biegler·
+
+    (sich in Erstaunen jäh umwendend)
+
+Und da reden Sie noch mit mir?
+
+·Lore·
+
+Ja -- is es denn wahr?
+
+·Biegler· (nach einer Pause, schwer)
+
+Die Herren Geschworenen haben die Frage -- ob's Notwehr gewesen is oder
+nich -- verneint ... Und nu lassen Sie mich meinen Kaffee austrinken.
+(Schweigen)
+
+·Lore· (nach innerem Kampfe)
+
+Herr Biegler! ... Sündig sind wir alle ... Ich auch.
+
+·Biegler· (bitter lachend)
+
+Sie?
+
+·Lore· (zaghaft)
+
+Sie wissen doch!
+
+·Biegler·
+
+Ja, Ohren hab' ich auch ... (in Wut auffahrend) Und wenn ich erst
+wieder Fleisch hätt' auf den Armen, dann würd' ich den Kerl -- --
+
+·Lore·
+
+Ruhig, Herr Biegler, ruhig, ruhig! Sie wollen doch nich, daß ich Angst
+hab' vor Ihnen?
+
+·Biegler· (hastig seinen Kaffee trinkend)
+
+Ich geh' schon. Ich geh' schon.
+
+·Lore·
+
+Herr Biegler, wollen Sie nich mal Ihr Herz erleichtern?
+
+·Biegler·
+
+    (unschlüssig, mit dankbarem Aufblick)
+
+Ach! ... (hart) Ne.
+
+·Lore·
+
+Gott, Herr Biegler, gut tät's Ihnen schon! Man wird ja so wie so wie'n
+Stein! Die Steinmetzen erzählen nämlich: Der Stein wird durch Druck.
+Wissen Sie?
+
+·Biegler·
+
+Das sollt' ich wohl wissen.
+
+·Lore·
+
+Ja, Hunderttausende und Millionen Jahre müssen die drüberliegenden
+Schichten drücken, dann wird die lebendige Erde zu Stein ... Beim
+Menschen dauert's nich so lang. Das hab' ich ausprobiert. 'n paar
+Jährchen Druck -- immer derselbe Druck. Das genügt.
+
+·Biegler· (bitter)
+
+Ob's genügt.
+
+·Lore·
+
+Man lacht und man weint und man schläft und man arbeitet -- ach, lustig
+sein kann man sogar -- man is überhaupt ein Mensch wie andere und is
+doch lang keiner mehr ... Drin im Innersten lebt man gar nich mehr ...
+Man is willenlos wie 'n Stein ... Man läßt sich mit dem Fuß stoßen wie
+'n Stein. Man wird gegen alles gleichgültig wie 'n Stein.
+
+·Biegler· (eifrig)
+
+Ja, ja, ja, -- so is es, -- ja, ja.
+
+·Lore·
+
+Aber heut is wieder Leben in mich gekommen. So sehr hat mich was
+gefreut ... Gestern war ich wie Sie. Aber heut kann ich Ihnen was
+helfen. Bloß Vertrauen müssen Sie haben, daß ich's auch wirklich will.
+
+·Biegler·
+
+Das hätt' ich schon -- aber -- (vor sich hinbrütend) ich muß ja wohl
+wieder weg.
+
+·Lore·
+
+Ich denk', Sie waren zufrieden.
+
+·Biegler·
+
+Wenn sie mich in Ruh' gelassen hätten -- _alle_ -- im Himmel wär' ich
+gewesen. Morgens -- so gegen zweie -- da is mir leicht geworden ...
+dann kann keiner kommen und was von mir wollen. -- _Doch!_ -- Einer
+_kann_ kommen ... Die kann _immer_ kommen. Sie _is_ noch nich -- aber
+sie kann.
+
+·Lore· (mit beruhigendem Lächeln)
+
+Na wer denn, wer denn?
+
+·Biegler·
+
+Ach so -- ich soll ja mein Herz erleichtern.
+
+·Lore·
+
+Nicht -- wenn Sie nich wollen.
+
+·Biegler·
+
+Wissen Sie, wie's nu werden wird? ... Vors erste schieben sie sich so
+langsam von einem weg ... Man will _mit_ anfassen, und dann is man
+allein. Und dann geht's Gerede los um einen rum. Da heißt es: »Na,
+habt ihr auch schon euer Leben versichert?« Und da heißt es: »Wenn
+sich gewisse Brieder nich bald dinne machen, dann werden wir den Platz
+schwarz stellen.« Und dann fliegt 'n Stück Holz. Und dann fliegt 'n
+Stein. Und dann kommen _Sie_ eines Tags und sagen: »Es tut mir leid,
+Herr Biegler, aber Sie müssen wo anders essen, es is wegen der Leute.«
+
+·Lore· (schüttelt heftig den Kopf)
+
+·Biegler·
+
+Na warten Sie man. Und schließlich kommt der Prinzipal und sagt: »Hier
+is Ihr Buch. Sie können gehen.« Und man weiß, daß man nu wieder ins
+Hungerland zieht, wo kein warmes Mittag is und kein Bett, und man sagt
+noch: »Gott sei Dank.«
+
+·Lore·
+
+Ach, es is schrecklich.
+
+·Biegler·
+
+Unser Pastor in der Anstalt hat immer gesagt: »Seid froh, daß ihr
+sühnen könnt« ... »Sühnen« heißt das schöne Wort ... Das haben die
+Herren extra für uns erfunden ... Ja, was soll ich nu alles sühnen?
+... Daß der Weg mich in _die_ Schlafstelle geführt hat -- und gerade
+in _die_? ... Daß die Frau jung war -- mit Flunkeraugen -- und daß sie
+immer _so_ machte (haucht mit spitzem Munde), wenn sie hinten an mir
+vorbeiging. Und wenn ich gesagt hab': »Was machen Sie da?« dann hat sie
+mich mit den blanken Zähnen angelacht und gesagt: »Ich kann's in den
+Tod nich leiden, wenn auf dem Rockkragen 'ne Feder sitzt« ... Und der
+Mann hat noch mitgelacht, wenn's mir schon heiß und kalt das Genick
+'runterlief ... Ja, so kommt so was ... Er war Schuster. Wie Ihr Vater
+... Mit den Schustern hab' ich kein Glück ... Nu, da wissen Sie ja
+auch, was 'n Klopfstein is ... (Zum Gerätschemel gehend) Da liegt er
+ja! (Bringt den Stein.) Sehn Sie sich den an! Bißchen kleiner war er
+-- aber groß genug. Dann wie der Mann mich eines Tages abgefaßt hat --
+mit ihr -- -- und auf mich zugekommen is, Messer in der Hand, da hab'
+ich gedacht: was machen? Was hab' ich gemacht? _So!_ (Hebt den Stein
+hoch) ... Und mit eins hat er langgelegen. Das Ganze hat gedauert,
+wie wenn einer bis drei zählt ... Weil der nu da lang lag, darum war
+mein Leben verdorben. Nu sagt der Pastor: »sühnen!« Ja, nun sühne mal,
+wenn der Wahnsinn schon hinter dir sitzt ... Was kann ein zu Schanden
+geprügelter Hund viel sühnen? Seine Wunden kann er sich lecken ... Mehr
+kann er nich.
+
+·Lore· (mitleidig)
+
+Mein lieber Gott.
+
+·Biegler·
+
+_Ihr_ lieber Gott is nich _mein_ lieber Gott. Sonst ließ' er _das_ nich
+zu ... Ja, nu werd' ich gehn ... die ersten müssen gleich kommen.
+
+·Lore· (fest)
+
+Sie sollen _nicht_ gehn, Herr Biegler.
+
+·Biegler· (in flackernder Angst)
+
+Ich hab' mein Vesper getrunken. Ich hab' hier nichts mehr zu tun.
+
+·Lore·
+
+Sie sollen dableiben. Was auch geschehen mag, Sie sollen dableiben. Ich
+setz' Ihnen ein Glas Bier hin wie den andern. Das trinken Sie aus und
+kümmern sich um nichts.
+
+·Biegler·
+
+Um Gottes willen. Hier? Hier? Wieso denn?
+
+·Lore·
+
+Sehn Sie denn das nicht? Je mehr Sie sich verkriechen, desto mehr sind
+_die_ von Ihrer Schuld überzeugt. Und das darf nicht sein.
+
+·Biegler·
+
+Wenn's nu aber doch wahr is?
+
+·Lore·
+
+Das geht keinen was an. Außer Herrn Zarncke und mir weiß keiner was.
+Und wir halten reinen Mund. Wenn _die_ sehn, daß Sie keinem aus dem
+Wege gehn, dann wird das Getratsche langsam wieder einschlafen ... Aber
+nichts gestehn! Sich nich verschnappen! Sonst ist alles aus ... Wissen
+Sie noch, wie Sie waren, als ich Ihnen das erste Butterbrot brachte?
+
+·Biegler· (nickt voll Grauen)
+
+·Lore·
+
+So sehn Sie in vier Wochen wieder aus, wenn Sie sich jetzt wegjagen
+lassen. Es geht um Ihr Leben, Herr Biegler. (Hinaushorchend) Ich
+glaube, Sie kommen schon. Da setzen Sie sich hin. Und wer Sie anlappt,
+dem zeigen Sie die Zähne.
+
+·Biegler· (stammelnd)
+
+Ach ich -- m -- mir bl -- eibt ja jedes Wort in der Kehle.
+
+·Lore·
+
+Soll nicht. Darf nicht. Sie müssen. Müssen, Herr Biegler, müssen!
+
+·Biegler·
+
+Und 's kann sein, wer's will? Ja?
+
+·Lore· (stutzend, dann stark)
+
+Ja.
+
+·Biegler· (dumpf, zagend)
+
+Na, is gut. (Setzt sich auf seinen Platz zurück)
+
+
+Fünfte Szene
+
+    _Die Vorigen._ _Lohmann._ _Sprengel._ _Struve._
+    _Drei andere Arbeiter_
+
+    (Die Eintretenden begrüßen Lore, die rasch hinter den
+    Schanktisch getreten ist, mit einem brummigen »Guten Tag« und
+    setzen sich an den Tisch rechts)
+
+·Lohmann·
+
+Glas Bier!
+
+·Sprengel·
+
+Mir auch.
+
+·Struve·
+
+Jedem eins.
+
+·Sprengel·
+
+Kiekt mal, wer da huckt!
+
+·Lohmann·
+
+Mir wundert, daß er sich nich aufs Ehrensofa geschmissen hat. Das ist
+doch extra für ihm hingebaut.
+
+·Struve·
+
+Der Mensch sitzt, wo er kann. -- Laß ihm sitzen.
+
+·Lore· (Bier bringend)
+
+Wohl bekomm's!
+
+·Lohmann·
+
+Danke. (Nach Biegler hinüber) Jemütlich is anders. Prost! (Sie stoßen
+an)
+
+·Lore·
+
+    (bringt auch Biegler ein Glas Bier)
+
+·Sprengel·
+
+Wird der hier nu auch den Stammgast spielen?
+
+·Lohmann·
+
+Struve, du verstehst dir ja auf so 'ne Brieder. Graul ihm mal 'raus.
+
+·Struve·
+
+Kindersch, laßt mir in Ruh. Ick bin jetzt so beschäftigt mit meine
+eigenen Sorgen.
+
+·Lohmann·
+
+Wat vor Sorgen?
+
+·Struve·
+
+Wat vor Sorgen? Des fragste noch? Glaubste, es macht Verjniegen, mit
+so 'ne Verantwortung in de Welt rumzuloofen? Wenn du jehst bloß Steine
+schleppen, denn haste jar keene Verantwortung, dafür biste aber auch
+'n Lump. Wenn du aber wirst jeehrt sein durch das Vertrauen deiner
+Mitbürger, wenn du wirst 'n Magazinschlüssel an dir tragen, oder so --
+dann wirst mal sehen, wie so 'n Mann zu Mute ist.
+
+·Sprengel·
+
+Dir is des wohl zu Koppe gestiegen? Was?
+
+·Struve·
+
+Denn wer eine jewisse Erfahrung hat von's menschliche Leben, der muß
+sich doch sagen: det is 'n janz jewehnliches Schnappschloß. -- Da
+brauchste bloß 'n paar gesunde Zähne zu, um 'n vierzölligen Drahtnagel
+krumm zu biegen, und denn biste schon drinne. Immer so mitten mang de
+Diamanten. Kindersch, um Gottes willen, regt eich das jar nich uf?
+
+·Lohmann· (lachend)
+
+Ne.
+
+·Struve·
+
+Und jesetztenfalls und du hast se nu ausgebrochen --
+
+·Lohmann·
+
+Was?
+
+·Struve·
+
+Na -- de Diamanten, denn kannste se jehn ruhig verschärfen bei jeden
+freindlichen Mann, wo mit blanke Knöppe handelt. Da kann dir kein
+Teckel an de Beene ... Des is 'ne aufjelegte Sache. Des reinste
+Beersenjeschäft ... Kindersch und da soll ick die Verantwortung vor
+haben? -- Ne, des halt' ich nich aus. Da zieh' ick über Land.
+
+·Sprengel·
+
+Jlickliche Reise. Prost.
+
+·Struve·
+
+Und was der Nachtwächter da is, der schlappohrige Kerl, ick wette 'n
+Hering jegen 'n Löffel Jritze, dessentwegen könnte man 'rin und 'raus
+-- wie de Schwalben.
+
+·Lohmann·
+
+Der blieht da nu so 'rum. Wie so 'n Maibliemchen.
+
+·Sprengel·
+
+Abjebrieht is er wohl. Sonst säß' er nich hier.
+
+·Struve·
+
+Kindersch, ick sag' eich immerzu. Wenn er und er wär's, dann wär' er
+noch nich 'raus.
+
+·Lohmann·
+
+Jedenfalls wollen wir da mal ein jelinde blasenziehendes Mittel
+anwenden. (Sehr laut) Fräulein! Wissen Sie vielleicht die Adresse von
+'ne leistungsfähige Lebensversicherungsgesellschaft?
+
+·Biegler·
+
+    (der solange scheinbar teilnahmslos, doch in gespannter
+    Erwartung dagesessen hat, wendet sich jäh um)
+
+·Lore· (abweisend)
+
+Was soll ich mit 'ne Lebensversicherung?
+
+·Lohmann·
+
+Nu, 's is doch jetzt nich janz jeheier auf'n Platz. Da kann mal leicht
+so 'n kleiner Kuhhandel kommen, wo man plötzlich mit Tode abjeht, man
+weiß nich, wie?
+
+·Lore· (abweisend)
+
+Ich versteh' gar nich, was Sie meinen.
+
+·Lohmann·
+
+Diejenigen, wo's anjeht, die werden mir schon verstehn.
+
+·Biegler·
+
+    (steht auf, will reden, bringt aber nur ein unartikuliertes
+    Stammeln hervor und setzt sich wieder)
+
+·Lohmann·
+
+Hat jesessen.
+
+·Sprengel·
+
+Wo bleiben übrigens heite die Steinmetzen?
+
+·Struve·
+
+Nu -- die müssen sich doch erst ausputzen. Mit ihre blaue
+Kalikoschirzen trauen die sich nich uf de Straße. Es könnt' se ja einer
+fir Hausknechte halten. (Lachen)
+
+·Lohmann·
+
+Jedenfalls müßt' man sich mit denen zusammentun und was unternehmen
+beim Alten, -- damit er auf'm Platz 'n bißchen ausräuchern läßt. Es
+wird nötig.
+
+·Sprengel·
+
+Fang nich schon wieder an, Mensch ... hab doch Erbarmen mit so 'n
+plundrigen Kerl.
+
+·Lohmann·
+
+Wenn ich in 'n Modder trete, dann wisch' ich mir die Stiebeln ab; -- da
+hab' ich auch kein Erbarmen.
+
+·Biegler·
+
+    (zittert und atmet schwer. Er ringt mit sich, unschlüssig, ob
+    er sprechen solle, wagt es aber nicht mehr)
+
+·Sprengel·
+
+Kein Mensch weiß, ob er's wirklich is.
+
+·Lohmann·
+
+Warum steht er denn nich auf und --
+
+
+Sechste Szene
+
+    _Die Vorigen. Willig. Göttlingk und andere
+    Steinmetzen_ (in Feierabendkleidung)
+
+·Göttlingk·
+
+    (auf den Tisch der Arbeiter weisend)
+
+Da _sitzt_ se ja, die janze feine Familie ... Ihr kriegt's wohl nich
+eilig genug mit eurem Feierabend -- was?
+
+·Lohmann·
+
+Wieso denn?
+
+·Willig·
+
+Den großen Oberkirchner Block, links von der Treppe, habt ihr auf
+Hochkant stehn lassen. Wißt ihr das nich?
+
+·Sprengel·
+
+Nu, der hängt doch im Flaschenzug.
+
+·Willig·
+
+Aber locker hängt er.
+
+·Lohmann·
+
+Bis wir den 'runterkriegen, dauert's zwanzig Minuten. Wenn der Alte
+Überstunden zahlen will, gehn wir gleich noch mal 'ran.
+
+·Göttlingk·
+
+Husten wird er euch was.
+
+·Willig·
+
+Jedenfalls steift ihn noch ab. Wenn was passiert, seid ihr
+verantwortlich. (Setzt sich zu den Steinmetzen an den Mitteltisch)
+
+·Göttlingk·
+
+Na, Lore, Sie könnten ruhig 'n bißchen fixer sein, wenn die Steinmetzen
+kommen.
+
+·Lore·
+
+    (die Bier bringt, eilig, ängstlich)
+
+Hier is, bitte, hier is schon alles.
+
+·Göttlingk·
+
+Aber freilich, wenn man sich mit solchem Volk abgibt, wie der Kerl --
+der -- (Biegler erkennend) Herrgott, wer sitzt denn da?
+
+·Willig· (rasch)
+
+Ach, kümmer dich nicht um den.
+
+·Göttlingk·
+
+Hast recht. So 'n Geschmeiß existiert nich. Prost, die Herren! ~Per
+Bacco~, is mir mollig. Ganz fingrig is mir zu Mute. Wollt ihr was
+hören? Natürlich, ihr wollt immer was hören. Lore, bring mal -- bringen
+Sie mal die Seufzerkiste.
+
+·Lore·
+
+Jawohl. (Holt die Mandoline von der Wand und bringt sie ihm)
+
+·Ein Steinmetz·
+
+Du, der Alte war doch heute so extra süß mit dir. Ahnste weswegen?
+
+·Göttlingk·
+
+    (während er die Mandoline stimmt)
+
+Tja, lieber Sohn, wer kann das wissen? Manchmal können sich Ereignisse
+vorbereiten -- die Welt is eben 'n Affenkäfig.
+
+
+Siebente Szene
+
+    _Die Vorigen._ _Der alte Eichholz_
+
+·Eichholz·
+
+    (angezogen wie im ersten Akt)
+
+Einen guten Feierabend wünsch' ich der hochgeehrten Gesellschaft.
+
+·Göttlingk·
+
+So in Jala, Papa Eichholz?
+
+·Eichholz·
+
+Jawohl. Mein Manschettenhemde hab' ich mir angezogen und habe mir
+angetan im Schmucke sämtlicher Orden und Ehrenzeichen. Nu wollen wir
+mal sehn, ob ein alter Krieger noch was gilt in seinem Vaterlande.
+
+·Lore· (ängstlich)
+
+Was hast du vor, Vater?
+
+·Eichholz·
+
+Zuerst bejeb' ich mir zum Alten und frag' ihn auf Ehr' und Jewissen:
+Wer is der Kerl? Was is der Kerl? ... Und wenn er in meinen unjewissen
+Zustande mir sollte -- (bemerkt Biegler) was -- was -- was -- was is
+denn das? Is das --?
+
+·Lore·
+
+Vater, hier darf jeder sein Bier trinken, der zum Platz gehört. Weißt
+du das nich?
+
+·Göttlingk· (halblaut zu Lore)
+
+Was mischst du dich da eigentlich immer 'rein?
+
+·Eichholz·
+
+Was man so sagt, der Wiedehopf, der läßt in sein eigenes Nest
+'reinschmutzen, aber wenn du willst mein Fleisch und Blut sein -- (in
+ausbrechender Wut) Kerl, dir werd' ich platt schmeißen! Dir bind' ich
+'n Mühlstein um'n Hals, dir, dir ... Blut muß fließen, du Hund, du
+blutiger Hund!
+
+·Biegler· (gequält)
+
+Fräulein, soll ich nu immer noch länger hier bleiben? Ich denk', nu is
+genug.
+
+·Göttlingk· (halblaut zu Lore)
+
+Nanu? Was geht dich dem Kerl sein Hierbleiben an?
+
+·Lore·
+
+Vater, tu, was du willst, aber hier in der Kantine fang keinen Zank an.
+Sonst mußt du 'raus.
+
+·Lohmann· (leise)
+
+Sieh mal, wie sie sich auf dem seine Seite schmeißt.
+
+·Sprengel·
+
+Hat sie ganz recht.
+
+·Eichholz·
+
+Jawohl. Ich geh' schon. -- Ich werde schon in geeignete Erfahrung
+bringen, wer, wer (mit geballter Faust) und wer Blut vergießt, deß --
+Blut -- muß -- -- ich geh' schon, ich geh' schon. Guten Abend, die
+hochgeehrte Gesellschaft. (Ab)
+
+
+Achte Szene
+
+    _Die Vorigen_ ohne _Eichholz_
+
+·Göttlingk· (leise zu Lore)
+
+Hast du etwa Durchsteckereien mit dem?
+
+·Lore· (wendet sich ab)
+
+·Göttlingk· (verbissen)
+
+Sieh mal an! (Kehrt auf seinen Platz zurück) Na, lassen wir uns nich
+die Laune verderben. (Ergreift die Mandoline, in neuem Argwohn)
+Freilich, wissen möchte man doch.
+
+·Willig·
+
+Halt bloß Ruhe, Eduard.
+
+·Die Anderen·
+
+    (die am Steinmetztische sitzen, stimmen ihm bei)
+
+·Göttlingk· (an der Mandoline zupfend)
+
+Na also, was soll ich euch singen? Ich weiß 'ne Menge schöne Lieder,
+die mir die schönen Weiber dort unten in schönen Stunden beigebracht
+haben ... denn die Weibsleut' da unten! Überhaupt die Weibsleut',
+Kinder! Wenn man da nich feste 'ranjeht! (Beiläufig, herablassend) Ach,
+bringen Sie mir doch noch 'n Glas Bier, Fräulein Lore.
+
+·Lore·
+
+    (bebend vor Erregung, holt sein leeres Glas)
+
+·Göttlingk·
+
+Du fragtest vorhin, warum der Alte heute so süß mit mir war. Ja,
+mein geliebter Sohn, Glück bei den Weibsleuten muß der Mensch haben.
+Das is der Ausschlag beim Rosinenhandel ... Danke, mein Fräulein,
+danke, danke, danke! (Singt und spielt) »~Vè quà una giardiniera, si
+chiama Luisella, da sovra all'Arenella~« -- (Abbrechend) Sagt mal,
+Herrschaften, wie wär's, wenn ich zur Abwechslung mal so euer Chef
+würde hier auf diesem Steinmetzplatz?
+
+·Willig·
+
+Was is das wieder für 'n fauler Witz?
+
+·Göttlingk·
+
+Ja, das Leben macht manchmal so 'ne faulen Witze. Wenn ich da Jimm
+drauf hätte. Die Puckligen sind zwar nich gerade mein Jeschmack, aber
+wenn so 'n schönes Jeschäft dran hängt, kann man ja auch mal beide
+Augen zumachen.
+
+·Lore·
+
+    (stößt einen unartikulierten Laut des Abscheus und des
+    Entsetzens aus)
+
+·Sprengel· (halblaut)
+
+Is 'n Mensch wie 'n Vieh.
+
+·Willig· (leise)
+
+Läßte nu nich mal mehr die Krüppel in Ruh?
+
+·Göttlingk·
+
+    (der das allgemeine Murren bemerkt hat, zum Arbeitstisch
+    hinüber)
+
+Riskiert da etwa einer zu mucken? Was?
+
+·Lohmann·
+
+Wir sind ja ganz still.
+
+·Göttlingk·
+
+Möcht' ich mir auch ausgebeten haben. (Da Lore, den Kopf in den Händen,
+noch einmal aufstöhnt) Was ist denn hier los? Was? Was? Was?
+
+·Biegler·
+
+    (ist in zitternder Erregung langsam aufgestanden, leise,
+    zaghaft, als traue er seinen erwachenden Kräften nicht)
+
+Du Schuft! Du Schuft! -- Du Schuft!
+
+·Göttlingk· (fassungslos vor Erstaunen)
+
+Was will das Gewächse da?
+
+·Biegler·
+
+Du ganz erbärmlicher Schuft!
+
+·Göttlingk· (Humor heuchelnd)
+
+Kinder, der is übergeschnappt. Soll ich den zu Mus quetschen? Nehmt mir
+das nicht übel, aber die Handvoll, das lohnt mir nich. Außerdem bin
+ich's als Steinmetz mir und euch schuldig, mich nich mit erst wem --
+Prost!
+
+·Biegler· (heiser)
+
+Was du bist, bin ich noch alle Tage.
+
+·Göttlingk·
+
+Dem Kerl muß man doch 'ne Zwangsjacke anlegen.
+
+·Biegler·
+
+Ich hab' zum Spaß deine Arbeit getan. Wenn's hell is, kann ich's besser.
+
+·Göttlingk· (aufspringend)
+
+Du warst das selber, du verfluchter --?
+
+·Die Anderen· (halten ihn fest)
+
+Ruhig, ruhig, ruhig.
+
+·Biegler·
+
+Aber das is Nebensache. (Auf Lore weisend) Da -- da -- wer steht da?
+-- Der sagst du _das_ ins Gesicht? -- Jeder weiß, daß sie 'n Kind von
+dir hat. Zum Dank verhunzen tust du sie -- schuriegeln tust du sie ...
+Wirst sie -- wirst sie ehrlich machen? Wirst sie ehrlich machen? Du
+nichtswürdiger Schuft! Du!
+
+·Göttlingk· (der sich zu befreien sucht)
+
+Nu laßt doch los. -- Is bloß 'n Floh, der ganze Kerl, aber das kost't
+ihm das Leben. (Reißt sich los und zieht den Dolch heraus) Los sag'
+ich, oder --
+
+·Die Anderen· (weichen erschrocken zurück)
+
+·Biegler·
+
+Du meinst, ich hab' Angst vor deiner einzinkigen Gabel, weil alle
+anderen Angst haben? -- Kraft hab' ich keine, Haut und Knochen bin
+ich vom langen Hungern, aber -- (er hat den Klopfstein ergriffen, der
+auf dem Schanktisch liegen geblieben ist, und hebt ihn hoch) -- _mit
+so 'nem Schusterstein hab' ich schon einen erschlagen! Mit so 'nem
+Schusterstein hab' ich schon_ -- -- (große Bewegung) Nu komm mal 'ran,
+wenn du willst. Komm mal 'ran -- komm mal 'ran! (Dringt auf Göttlingk
+ein)
+
+·Göttlingk· (erschrocken zurückweichend)
+
+Na, na, na, na.
+
+·Biegler·
+
+Komm 'ran -- oder 'raus da -- 'raus da. --
+
+·Göttlingk·
+
+(weicht, unverständliche Worte stammelnd, bis zur Tür zurück)
+
+·Biegler· (der ihm gefolgt ist)
+
+'raus da! 'raus da!
+
+·Göttlingk·
+
+Das werd' ich dir -- gedenken. -- (Rettet sich durch die rasch
+geöffnete Tür)
+
+·Biegler·
+
+    (sieht sich wirr um und wankt zu seinem Tische zurück. Er
+    sieht verständnislos noch einmal um sich, sieht Lore, die
+    schluchzend, mit verhülltem Gesicht, abgewandt dasteht, sieht
+    die blassen, entsetzten Gesichter und murmelt, wie wenn er
+    langsam zu sich käme)
+
+Was is denn? Was war denn? Was --? (Sein Gesicht verändert sich, er
+kämpft mit dem Schluchzen und will auf seinem Stuhl zusammensinken,
+rafft sich aber mit letzter Kraft empor, trinkt sein Bier aus, setzt
+seine Mütze auf und schreitet mit geballten Fäusten zur Tür zurück; --
+sich umwendend wirft er einen fragenden, trotzigen Blick auf die ihn
+regungslos Anstarrenden -- und geht hinaus)
+
+    (_Der Vorhang fällt_)
+
+
+
+
+Vierter Akt
+
+    Szenerie des zweiten. Spätabendbeleuchtung. Über den Häusern
+    des Hintergrundes ein glühender Streif Abendrot, der sich
+    allmählich verliert. Vor der Veranda unter dem Fenster der
+    Zarnckeschen Wohnung ein gedeckter Tisch nach vollendeter
+    Abendmahlzeit. Das Fenster der Kantine ist erleuchtet. Beim
+    Aufgehen des Vorhangs ertönt von irgendwoher Biergartenmusik
+
+
+Erste Szene
+
+    _Marie._ _Zarncke_
+
+·Zarncke·
+
+    (in einem Korbstuhl behaglich ausgestreckt, eine Zigarre
+    rauchend)
+
+Siehste, nu is unsre Amsel auch schon schlafen gegangen.
+
+·Marie·
+
+Eben sang sie doch noch.
+
+·Zarncke·
+
+Bald werden sie nu auch im »Gambrinus« Ruhe geben mit ihrem Bumbum.
+
+·Marie·
+
+Ach, ich hör's gerne.
+
+·Zarncke·
+
+Ich auch ... Und weißt du, warum? Weil es so schön weitab is vom
+eigenen Leben ... Da sitzen nu die Menschen in Haufen, stoßen sich,
+ärgern sich, beneiden sich, begehren sich, und fünf aufgequollene
+Trompeter machen Musike zu ... Man is doch wahrhaftig wie der liebe
+Herrgott in seiner Stille ... Sechs Tage hat er an der verfluchten
+Welt 'rumgebastelt, am siebenten hat er aber auch _gar nichts_ von ihr
+wissen wollen. ... Was guckste denn immer nach der Lore ihrem Fenster
+'rüber?
+
+·Marie·
+
+Ja, Vaterchen, merkwürdig is es doch.
+
+·Zarncke·
+
+Was denn? ... Daß der Göttlingk da is?
+
+·Marie·
+
+Den ganzen Winter ist er Sonntags nicht einmal bei ihr gewesen. Seit
+seiner Rückkehr nicht. Und plötzlich kommt er -- Abends um neune -- von
+da oben -- die Treppe 'runter.
+
+·Zarncke·
+
+Der Deibel mag wissen, was er da oben zu suchen gehabt hat. Aber
+so käseweiß brauchst du darum doch auch nich zu werden, wenn er nu
+wirklich mal hinter dir auftaucht.
+
+·Marie· (schweratmend)
+
+Denk doch, was das für die Lore bedeutet.
+
+·Zarncke·
+
+Hör mal, Kindchen, hab die Lore lieb! Aber du mußt dich nich so
+'reinbegeben in das, was rings um uns geschieht. Nich mitmachen wollen.
+Das zehrt dann am eigenen Leben. Es bleibe jeder in seiner Haut -- und
+jeder hüte den Schlüssel zu seinem Geheimfach ...
+
+·Marie·
+
+O, das freilich. Aber -- gestern muß was passiert sein bei der Lore
+drin.
+
+·Zarncke·
+
+So? Was denn?
+
+·Marie·
+
+Zwischen dem Nachtwächter und -- und -- Göttlingk.
+
+·Zarncke·
+
+So? Hm. Das war ja nu leider vorauszusehn.
+
+·Marie· (ängstlich)
+
+Wieso?
+
+·Zarncke·
+
+Sie haben 'rausgekriegt, daß der arme Kerl was pekziert hat. Deshalb
+hab' ich gestern schon den Eichholz 'rausgeschmissen. Das alte Vieh
+war ganz rabiat. Irgendwas bereitet sich vor gegen den Biegler. Und
+schließlich werd' ich noch klein beigeben müssen. Schad um den --
+(Schnalzt)
+
+·Marie·
+
+Nein, nein, es scheint was anderes. Was Schlimmeres. Viel was
+Schlimmeres.
+
+·Zarncke·
+
+'n Menschen ins Verderben zu jagen is schlimm genug ... Von wem weißt
+du's denn? Von der Lore?
+
+·Marie·
+
+Nein. Das ist es eben, was mich ängstigt. Die geht mir heut aus dem
+Wege, wo sie kann ... Und die Homeyer macht immerzu Andeutungen. Aber
+was Rechtes kriegt man auch aus _der_ nich 'raus.
+
+·Zarncke·
+
+Na, wenn das Schwatzweib schon sein Maul hält. Da wollen wir doch mal
+gleich -- (Klingelt)
+
+
+Zweite Szene
+
+    _Die Vorigen._ _Frau Homeyer_
+
+·Frau Homeyer·
+
+    (eine Windlampe in der Hand)
+
+Gotte, Gotte, ich wart' schon immer mit der Lampe ... Nein, so im
+Dunkeln ...! Wie können Sie bloß?
+
+·Zarncke·
+
+Sie haben wohl noch nie zu zweien im Dunkeln gesessen?
+
+·Frau Homeyer·
+
+Ach nein doch! Mit 'n jungen Mann -- der nimmt sich dann so leicht was
+'raus --
+
+·Zarncke·
+
+Und mit 'n alten Mann -- das lohnt nich.
+
+·Frau Homeyer·
+
+Aber, Herr --
+
+·Zarncke·
+
+Sagen Sie mal, Sie, was is denn gestern bei der Lore gewesen?
+
+·Frau Homeyer·
+
+Bei der Lore? I, daß ich nicht wüßte.
+
+·Zarncke·
+
+Sie haben doch meiner Tochter erzählt --
+
+·Frau Homeyer·
+
+Ich? Ach nein, das muß ein Irrtum sein. Ich, dem Fräulein? Und gerade
+dem Fräulein? I, da müßt' ich -- (Nimmt das Tischzeug zusammen)
+
+·Marie·
+
+Aber Frau Homeyer --
+
+·Zarncke· (gleichzeitig)
+
+Was heißt das: _Gerade_ dem Fräulein?
+
+·Frau Homeyer·
+
+Nu ja. Da müßt' ich doch sozusagen eine Schwätzerin sein. Und ich bin
+im Gegenteil immer höchst zurückhaltend ... Da bin ich bekannt für. Da
+können Sie alle Mannsleute fragen. Da können Sie meine Zeugnisse lesen
+... Und da soll ich mir gerade _hier_ die Zunge bei verbrennen? ... Das
+kann Ihnen wer anders erzählen, Fräulein. Und dann müssen sich auch
+nichts draus machen. ... Die Männer sind immer mit dem Maul vorneweg
+... Ehrbar sein und sein Myrtenbäumchen pflegen, das is immer noch das
+Beste für 'n ältliches Mädchen.
+
+·Marie·
+
+Ja, was hab' _ich_ aber mit dem allen zu tun, Frau Homeyer?
+
+·Frau Homeyer·
+
+Ja, Fräulein Mariechen, der Mensch hat _manchmal_ mit was nich zu tun,
+und kommt _doch_ ins Gerede ... Von dem Herrn Göttlingk hätt' ich
+das freilich nicht gedacht. Der is sonst immer 'n Kavelier gewesen
+(verschämt) immer so zutraulich -- und, wie gesagt, Kavelier. Aber da
+könnte ja jeder kommen und -- ach, bitte das Sahnentöpfchen -- und
+behaupten, er braucht' bloß die Hand auszustrecken, da könnt' er Herr
+sein auf diesem Steinmetzplatz. Ja.
+
+·Zarncke·
+
+Was? Was? Was is das?
+
+·Frau Homeyer·
+
+Und es glaubt ihm auch keiner. Da können Sie ganz unbesorgt sein,
+Fräulein, das --
+
+·Zarncke·
+
+Halt! Stopp! 'raus! Weg!
+
+·Frau Homeyer·
+
+Aber Herr --
+
+·Zarncke·
+
+Weg, weg, weg, weg!
+
+·Frau Homeyer·
+
+Ja, ja, Herrgott!
+
+·Zarncke·
+
+Weg!
+
+·Frau Homeyer·
+
+    (mit dem Tablette ins Innere ab)
+
+
+Dritte Szene
+
+    _Marie._ _Zarncke_
+
+·Zarncke·
+
+Das haste wahrhaftig um den Lumpen nich verdient, Mariechen. Bittst
+mich noch, ich soll helfen, ihm sein Nest austapezieren ... Und da
+traut sich der Kerl überhaupt noch hierher? -- Da wollen wir mal gleich
+-- -- (steht auf)
+
+·Marie·
+
+    (die, ins Leere starrend, regungslos dagesessen hat, fährt auf)
+
+Nein, Vater, nein!
+
+·Zarncke·
+
+Was -- nein? Und wie siehste denn aus? -- Ganz überird'sch!
+
+·Marie· (in hilflosem Bekennen)
+
+Vaterchen!
+
+·Zarncke·
+
+    (nach einem Schweigen hinter sie tretend)
+
+Miezelchen! (Die Hand auf ihren Scheitel legend, leise) Haben sie dir
+'s Geheimfach aufgebrochen?
+
+·Marie· (aufschluchzend)
+
+Nicht ansehn! Nicht ansehn! (Verbirgt das Gesicht in seinem Rock)
+
+·Zarncke· (sie streichelnd)
+
+Also _das_ war's? Und was du da drinnen verschlossen hieltst, das wird
+dir nu da -- (weist zur Kantine) Ja, wie geht denn das zu?
+
+·Marie· (von Schluchzen geschüttelt)
+
+Weiß nicht! Weiß nicht!
+
+·Zarncke·
+
+Na, nu laß doch mal meinen Rock los!
+
+·Marie·
+
+    (verbirgt das Gesicht um so fester)
+
+·Zarncke·
+
+Willst nich? ... Schämst dich so sehr? ... Kannst mich gar nich ansehn?
+Möchtst das Tageslicht nich mehr sehn? Möchtst dir womöglich das Leben
+nehmen noch diese Nacht?
+
+·Marie· (nickt heftig)
+
+·Zarncke· (lacht und streichelt sie)
+
+Und machst doch nur durch, was jeder durchmachen muß, dem 'n Stern vom
+Himmel 'runterfällt. (Zum Himmel weisend) Kiek mal hoch! ... Kannst
+noch nich? Da sind schon 'n paar. Und dahinter noch Milliarden. Sie
+stehn da wie für die Ewigkeit. _Und sie fallen alle._ Aber darum
+werden wir Menschen nich ärmer ... Höchstens die, denen sie als
+Zwanzigmarkstücke in die Tasche fallen ... Die Jugend verliert sich
+zuerst, aber unser Blick wird um so heller ... Die Freunde zerkrümeln
+sich, aber unsere Freundschaft wird alles, was mit uns reden kann,
+jeder Gedanke -- jeder Hund -- jeder Stein ... Na -- und die Liebe? --
+Dem einen fällt sie in den Schmutz -- wie dir, dem anderen zerreibt sie
+der Alltag; -- rasch oder langsam, es is immer dasselbe, -- aber vor
+der Tür lauern schon wieder viele, die wollen sehr liebgehabt sein,
+und die brauchen's den Deiwel wie nötig ... Selbst der Herrgott wird
+uns aus unseren Herzen gerissen, aber unsere Herzen schlagen kräftiger
+... Kindchen, 's wird noch 'n büschen weh tun 'ne Zeit lang ... Scham
+brennt ... Aber seines guten Rechts soll sich der Mensch nicht schämen.
+Und dein Recht war's ... Ja war's ... Wie's mein Recht war und ist,
+dich liebzuhaben und dir zu sagen: Halt still ... Die Stillen sind die
+Klugen ... Und nur wer von der Welt _weit, weit_ ab is, der hat sie
+ganz.
+
+·Marie· (sich aufrichtend)
+
+Vaterchen, hast du das immer gedacht?
+
+·Zarncke·
+
+Ich geb' zu, Kindchen, es is 'ne Weisheit für die Kranken und die
+Alten. Aber die, welche die Jungen und die Gesunden sich zurechtmachen,
+is auch nischt wert ... Na -- nu schmunzelst du ja wieder --.
+
+·Marie· (schluchzt kurz auf)
+
+·Zarncke·
+
+Nich, nich, nich ... Und komm 'rauf ... Mir is, die Tür hat schon 'n
+paarmal geklappt. (Weist nach der Kantine) Da traut sich einer nich an
+die frische Luft, eh' wir nich verduftet sind.
+
+·Marie·
+
+Die arme Lore!
+
+·Zarncke·
+
+Nja. Na, komm. (Beide ins Haus ab)
+
+
+Vierte Szene
+
+    _Eichholz._ _Göttlingk._ _Lore_
+
+·Eichholz·
+
+Scht! Du, Göttlingk! -- Sie sind weg!
+
+·Göttlingk· (heraustretend)
+
+Es war auch hohe Zeit! ... Denn wenn mir jetzt -- gewisse Leute in den
+Weg gerannt wären -- -- na! Also übers Aufgebot reden wir noch, Lore!
+
+·Lore·
+
+    (die in der Tür geblieben ist, matt, freudlos)
+
+Wie du willst, Eduard.
+
+·Göttlingk·
+
+Dann wollen wir also Schluß machen mit dieser elenden Quetsche. Mein
+Handwerkszeug bringt mir morgen der Vater und -- ja, richtig! Die
+Mandoline gib mir doch noch mit.
+
+·Lore· (verschwindet)
+
+    (Die halboffene Glastür über der Veranda hat sich erhellt. Die
+    Gestalt Zarnckes wird dahinter sichtbar)
+
+·Göttlingk· (leise)
+
+Is das nich der Alte da oben?
+
+·Eichholz·
+
+Ja, der schläft da.
+
+·Göttlingk·
+
+Scht! Na, endlich macht er die Türe zu. (Das Rouleau wird herabgelassen)
+
+·Lore· (bringt die Mandoline)
+
+·Göttlingk·
+
+So ... Vater begleitet mich noch ein Stückschen.
+
+·Lore· (ängstlich)
+
+Vater, es wäre wohl besser, du -- --
+
+·Eichholz· (scheltend)
+
+Was heißt das? Was hast du --?
+
+·Göttlingk· (gleichzeitig)
+
+Nu laß doch Vater! ... (Reicht ihr die Hand) Gute Nacht! -- (Da sie in
+der Türe stehen bleibt) Nu geh nur! Geh nur!
+
+·Lore· (tonlos)
+
+Gute Nacht. (Ab, die Türe hinter sich schließend)
+
+
+Fünfte Szene
+
+    _Eichholz._ _Göttlingk_
+
+·Göttlingk·
+
+Na -- und nu? ... Wir haben drin nich ausreden können, weil uns
+die Lore ewig auf den Hacken saß. Wie denkst du nu über 'ne gute
+Streckschicht für den Kerl?
+
+·Eichholz·
+
+Ich bin immer ein ehrenwerter Mann jewesen, ich bin ein zuverlässiger
+Mann jewesen und ein --
+
+·Göttlingk·
+
+Ja, ja, ja, ja!
+
+·Eichholz·
+
+Aber sie haben mir die Seele aus dem Leibe gezogen, sie haben mir den
+höllischen Geier, welcher heißt Hadramoth, den haben sie mir --
+
+·Göttlingk·
+
+Nu quatsche nich. Komm mal mit 'rüber in die Destillation.
+
+·Eichholz·
+
+Hier steh' ich, hier jeh' ich nich weg. Sobald der Hund kommt, dann
+stürz' ich mir los auf ihm. Brust gegen Brust.
+
+·Göttlingk·
+
+Na und dann?
+
+·Eichholz·
+
+Dann? Ich hab' dem Alten gesagt: Herr Zarncke, hab' ich gesagt, es gibt
+-- ein Unglück.
+
+·Göttlingk·
+
+Ja, mit's Maulwerk.
+
+·Eichholz·
+
+So? ... (Zögernd) Du, und was is denn mit dem -- Block?
+
+·Göttlingk· (lauernd)
+
+Was für 'n Block?
+
+·Eichholz·
+
+Wo du vorhin von sprachst.
+
+·Göttlingk·
+
+Ach so ... Siehst du den da oben im Flaschenzug?
+
+·Eichholz·
+
+Ja.
+
+·Göttlingk·
+
+Wenn da einer die Ketten aushängt, dann steht er bloß auf der Kippe.
+Verstehste? Eine Holzsteife -- die kann 'n Kind wegschlagen. -- Und
+geht dann einer die Treppe 'rauf -- _muß_ er die Treppe 'rauf?
+
+·Eichholz·
+
+Nu jewiß. Der Alte hat doch dahinter 'ne Kontrolluhr aufgestellt. --
+
+·Göttlingk·
+
+Daß da man kein Malheur passiert!
+
+·Eichholz·
+
+    (argwöhnisch, will nicht verstehn)
+
+Warum soll -- da gleich -- 'n Malheur passieren?
+
+·Göttlingk·
+
+Ach so! ... Scht! Is er das nich? (Man hört rechts das Schließen einer
+Tür)
+
+·Eichholz·
+
+Ja.
+
+·Göttlingk· (leiser)
+
+Nu komm ... Drüben trinken wir noch eins ... Kann man da oben irgendwo
+'raus?
+
+·Eichholz·
+
+Durch die kleine Tür. Immerzu.
+
+·Göttlingk·
+
+    (ihn nach dem Hintergrunde ziehend)
+
+Na denn komm!
+
+·Eichholz·
+
+Warum nich hier durchs Tor?
+
+·Göttlingk·
+
+Komm, komm, komm ... Da scheint auch wer zu stehn. -- Komm! (Auf einer
+mittleren Treppenstufe hält er inne) Scht!
+
+·Eichholz·
+
+Er schließt noch das Sägewerk.
+
+    (Beide verschwinden links oben. -- Während rechts eine schwere
+    Tür zugeschlossen wird, hört man oben das leise Klirren der
+    Flaschenzugketten. Dann Stille. Während der folgenden Szene
+    geht der Mond auf)
+
+
+Sechste Szene
+
+    _Biegler._ Dann _Struve_
+
+·Biegler·
+
+    (mit Schlüsselbund und schwerem Stock, eine Schnarre
+    umgehängt, erscheint rechts vorne und geht an dem erleuchteten
+    Kantinenfenster vorbei, dann revidiert er das Schloß des
+    Magazins und will zur Tür des Wohnhauses hinüber)
+
+·Struves Stimme· (vom Haustor her)
+
+He! Scht! Nachtwächter! Biegler!
+
+·Biegler·
+
+Wer is da?
+
+·Struves Stimme·
+
+'n guter Freund!
+
+·Biegler·
+
+Ich hab' keine guten Freunde.
+
+·Struves Stimme·
+
+Struve is da.
+
+·Biegler·
+
+Struve kann bei Tage kommen.
+
+·Struves Stimme·
+
+Mach auf, sonst reiß' ich an de Klingel.
+
+·Biegler·
+
+Was is denn? (Er geht aufmachen. Man hört den Schlüssel sich drehen.
+Dann erscheint er zusammen mit Struve) Na?
+
+·Struve·
+
+Fsch! Drinne wär' mer ja nu.
+
+·Biegler·
+
+Also was willst du?
+
+·Struve·
+
+Sachte, sachte, sachte! ... Ick jeheer' hier zu's Haus. Ick hab' 'n Amt
+hier ... 'n Vertrauensposten! Jawoll! ... Da muß ick mir iberfihren
+können bei Tag und bei Nachte ... Ick kann schon jar nich mehr schlafen
+vor lauter Ehrjefihl. Ja.
+
+·Biegler·
+
+Na, schlaf man. Ich geh' ja hier als Wächter.
+
+·Struve·
+
+Det sagste so in deinen Jemiete. -- Aber wenn du eines Morjens nicht
+mehr dabist --
+
+·Biegler·
+
+Wieso?
+
+·Struve·
+
+Na, Mensch, Kohlege, wir beid' kennen uns doch. Uns haben se doch aus
+denselben Suppentopp jeangelt.
+
+·Biegler· (bitter)
+
+Ach so!
+
+·Struve·
+
+Und diesentwegen biste dir doch klar: Weg mußte hier _nu doch_!
+
+·Biegler·
+
+Ja. Das bin ich mir klar.
+
+·Struve·
+
+Als du jestern 'raus warst, da haben die Steinmetzen noch ne jroße
+Beratung jehabt. Da haben wer nich zuheeren derfen. Bloß, daß se
+morjen früh zum Alten jehn werden, das hab' ich noch --
+
+·Biegler· (in bitterer Erregung)
+
+Und meinen Austritt fordern?
+
+·Struve·
+
+Wer zufällig fünf Finger hat, kann sich das ja dran abzählen.
+
+·Biegler· (verbissen, verzweifelt)
+
+Ich wart's gar nich ab. Ich geh' alleine.
+
+·Struve·
+
+Da wärste ja auch scheen dumm, wenn du dir -- nich vorher schon dinne
+machen wolltst. -- Und darum bin ick eben auch 'n bisken dahinter
+jewesen. Deiwel auch! Wenn man so die Verantwortung hat.
+
+·Biegler·
+
+Wofür? Für mich?
+
+·Struve·
+
+Ne -- aber -- (macht Zeichen nach dem Magazin hin) vor -- -- Ick kenn'
+doch 's menschliche Leben. So 'ne Sachen die loofen doch jewissermaßen
+hinter einen her. Janz von selber. Wie wenn se Beene hätten. Da kann
+man jar nischt vor.
+
+·Biegler·
+
+Was denn? Was denn?
+
+·Struve·
+
+Na, du weißt schon. Aber in so 'ne menschliche Versuchungen da muß man
+eben 'n Freind haben. Mann mit Ehrjefihl. Und so. Wo einem 'n bisken
+ins Jewissen redt ... Denn der Fallstricke des Teufels sind viele, und
+-- -- was? Wie sagste?
+
+·Biegler· (mit einem kurzen Lachen)
+
+Ich sag' jar nischt.
+
+·Struve·
+
+Na, nu mal unter uns! -- Wenn du -- und du jehst hier weg, wo wirschte
+denn nu hinmachen?
+
+·Biegler·
+
+Wer kann das wissen?
+
+·Struve·
+
+Nu, setz dir mal bisken hier dal! (Zieht ihn auf den vordersten Block)
+Sieh mal, mir jeht hier ja so weit janz jut. Ick bin Verdrauensperson.
+Und so. -- Aber _zu_ viel Ehre kann der Mensch auch nich verdragen. Des
+drickt aufs Jemiet, weißte ... Und weil ich dir nu mal so liebhabe --
+jewissermaßen, und weil de iberhaupt noch im janzen 'n bisken klietrig
+bist -- weißte! -- -- na? -- Wollen wir zusammen uf de Fahrt steigen?
+
+·Biegler·
+
+Was? Du und ich?
+
+·Struve·
+
+Nu ja. Mit _die_ Ansichten, wo wir beide vons menschliche Leben haben
+-- die _haben_ wir nu mal! Die kann uns keiner nehmen. Die einen
+wälzen sich in'n Jolde, wir wälzen uns in'n jrienen Chausseejraben.
+Tagsüber sehn wir mal bisken nach, wo wat los is, Abends saufen wir uns
+'n verjnichten Teng ins Jesichte. Hier mußte ewig 'n krummen Puckel
+machen und dir sauer anhauchen lassen und wirscht doch nie mehr im
+Leben, wat die andern sind!
+
+·Biegler·
+
+Mensch! Da haste recht!
+
+·Struve·
+
+Draußen veracht' dir keiner ... Und da biste bloß _einem_ Jehorsam
+schuldig, -- das is der Meilenzeiger ... Na?
+
+·Biegler·
+
+    (schaut abschiednehmend um sich, mit hartem Entschluß)
+
+Gut! Wann willst du -- losjehn?
+
+·Struve·
+
+Losjehn? ... Jleich. Uf'n Momang.
+
+·Biegler· (in Erregung)
+
+Ich muß doch erst -- mit ihm -- reden ... Muß doch kündigen.
+
+·Struve·
+
+Ach! Sei doch kein Milchkalb! Wird er dir viel kündigen? Und noch eins
+sag' ich dir: Der Jöttlingk is 'n tück'sches Luder. Der verjeßt dir die
+Blamasche nich. Da kannste morjen drei Zoll Stahl ins Leib kriegen,
+jleich, noch auf'n nichternen Magen.
+
+·Biegler· (dumpf, entschlossen)
+
+Mir is alles egal.
+
+·Struve·
+
+Ne, ne, ne, ne. Komm jleich. Nimm dir in acht.
+
+·Biegler·
+
+Zeugnisbuch muß ich haben. Dann komm' ich mit.
+
+·Struve·
+
+Zeichnisbuch? Ick weeß 'ne Penne hier in de Jegend, da stempelt dir 'n
+jewesener Oberjeheimrat de piksten Flebben noch heite nacht. Und denn
+-- wat willste mit 'n Zeichnisbuch? -- Et steht ja woll jeschrieben:
+»Ehrlich währt am längsten« -- aber 'n tichtiger Spitzbube fährt mit
+vier Hengsten. Und iberhaupt mit die olle Tugend! Die schabt sich ab
+wie 'ne dreck'ge Scheierbürschte. Da droppt dir ewig de Nese von wie
+bei'n kleinen Swienegel ... Bloß natirlich -- 'n jewisses Anlagekapital
+-- det missen wir haben.
+
+·Biegler·
+
+Wozu? Woher?
+
+·Struve·
+
+Det brauchste überall. -- Ohne 'n Parchentlappen kannste nich uf de
+Flohjagd. -- Willste lernen Jold machen? Kleinigkeit! Aber natirlich --
+wenn de keinen Dukaten _hast_, kannste auch keinen Dukaten beschneiden.
+Siehste! Das is der Witz ... Na, Jott sei Dank, bei uns is ja nich wie
+bei arme Leit' ... Kleines Vermeegen zum Anfangen -- und so -- is ja
+alles da.
+
+·Biegler·
+
+Ich krieg' noch nich mal 's volle Monatsjehalt.
+
+·Struve·
+
+Aber Mensch! -- Bejreifst de denn noch immer nich?
+
+·Biegler·
+
+Was denn? Na was denn?
+
+·Struve·
+
+Herrgott! Schon doch 'n bisken mein Ehrjefihl und frag nich immer so
+glup'sch. Aber se sind doch nu mal da. Da kann man doch nischt machen.
+
+·Biegler·
+
+Was? Was? Was?
+
+·Struve· (zaudernd, verlegen)
+
+Na -- de -- de -- Diamanten.
+
+·Biegler·
+
+Die willst du am Ende --?
+
+·Struve·
+
+Die brechen wir doch jetzt jleich aus. Det is doch 'n janz reelles
+Jeschäftsprinzip. Anzeigen kann uns der Olle nich mehr. Sonst blamiert
+er sich. Na?
+
+·Biegler·
+
+Ach so einer bist du! Na, dann jeh man wieder zu Hause.
+
+·Struve·
+
+Du bist wohl 'n Schlamassel?
+
+·Biegler·
+
+Ich muß jetzt elfe abpfeifen. (Wild) Jeh, oder ich pack' dir ins Jenick.
+
+·Struve·
+
+Na -- denn mach's gut! ... Ick hab' mir aber sehr in dir entteischt.
+Den Vorwurf kann ick dir nich ersparen! ... Äh! Is nischt mehr los
+mit's menschliche Leben, nich vor und nich hinter de Mauer.
+
+    (Ab, von Biegler gefolgt. Man hört das Tor auf- und zuschließen)
+
+
+Siebente Szene
+
+    _Lore._ _Biegler_
+
+·Lore·
+
+    (tritt aus der Kantinentür und lauscht nach links hin)
+
+Vater, bist du's?
+
+·Biegler·
+
+Ich bin's, Fräulein.
+
+·Lore· (freudig aufschreckend)
+
+Ach Sie sind's ... Haben Sie Vater nich gesehn mit -- mit -- noch einem?
+
+·Biegler·
+
+Nein.
+
+·Lore·
+
+Ach -- 'n paar Augenblicke könnt' ich Sie sprechen -- ja?
+
+·Biegler·
+
+Ich möcht' Sie ja auch noch sprechen, bevor ich ... das heißt wenn Sie
+mir danken wollen etwa --
+
+·Lore·
+
+Danken darf ich Ihnen wohl noch nich mal! Weiß Gott, Herr Biegler, ich
+wollt' Ihnen so gerne helfen. Das war meine einzigste Absicht. Statt
+dessen haben Sie mir geholfen. Nu helfen Sie mir auch weiter. Ich weiß
+nicht aus, nicht ein.
+
+·Biegler·
+
+Was is denn nu?
+
+·Lore·
+
+Er -- war -- eben da.
+
+·Biegler·
+
+Aha ... Na, wann wird Hochzeit sein?
+
+·Lore· (schweigt)
+
+·Biegler·
+
+Oder will er noch immer nich?
+
+·Lore·
+
+Ja, ja, er will ... Er sagt wenigstens, er will ... In Arbeit kommt er
+nich mehr zurück.
+
+·Biegler·
+
+So? Ei, ei!
+
+·Lore·
+
+Aber sobald er was andres gefunden hat, sagt er --
+
+·Biegler·
+
+Das kann ihm ja nich fehlen.
+
+·Lore·
+
+Herr Biegler, sagen Sie mir, is denn das möglich? -- Man hungert, man
+hungert nach seinem Glück, jahrelang -- und wie man's endlich hat --
+_so_, zwischen seinen zwei Händen, da is es mit einem Mal keins mehr,
+da _will_ man gar nich mehr, da is man satt, satt. Satt is man. Satt.
+
+·Biegler·
+
+Wer satt is, soll nich essen.
+
+·Lore·
+
+Ich kann doch nicht »nein« sagen zu ihm ... Das is doch Wahnsinn. Da
+drin schläft doch mein Lenchen.
+
+·Biegler· (erregt, verbissen)
+
+Mancher Mann wär' glücklich, Ihr Lenchen auf dem Schoß zu halten.
+
+·Lore· (erschrocken)
+
+Herr Biegler, so etwas darf ich nich denken. Das is Sünde.
+
+·Biegler·
+
+Sünde is, wenn man sich mit sehenden Augen ins Unglück stürzt.
+
+·Lore·
+
+Das sagen Sie heute, und gestern -- haben Sie Stellung und alles --
+haben Sie hingegeben -- bloß --
+
+·Biegler·
+
+Gott weiß, wie alles kommt.
+
+·Lore·
+
+Ach, wenn ich reden dürfte! Ich glaub' ihm ja nichts mehr. Ich laure
+bloß immer: Was für 'n Hintergedanken hat er nu? Mit Vater hat er im
+Winkel gesessen, weit weg, damit ich nichts hören soll ... Es war da
+die Rede von -- Gott, Sie wissen ja, wie Vater is. Nu hebt mich die
+Angst, daß er ihm irgend was Schlimmes einredet.
+
+·Biegler·
+
+Wem kann der alte Mann denn was tun?
+
+·Lore·
+
+Vielleicht irr' ich mich auch. Ach, sagen Sie mir, was soll ich? Ich
+kann ja nich mehr los von ihm. Ich bin jahrelang wie sein Hund zu ihm
+gewesen. Ich kann ja nich mehr los von ihm.
+
+·Biegler·
+
+Ja, wenn Sie nich _können_.
+
+·Lore·
+
+Ach, lieber Herr Biegler, helfen Sie mir.
+
+·Biegler·
+
+Helfen! Ich weiß mir alleine nich zu helfen!
+
+·Lore·
+
+Ach, Sie sind stark. Das weiß ich seit gestern. Sie können, was Sie
+wollen! Sie --
+
+·Biegler·
+
+Hähähähä! Weil ich 'n Stein gefunden hab' zur richtgen Zeit. Ich will
+_nich_ bald wieder auf 'ner dreckigen Pritsche liegen, Pennbruder
+rechts, Pennbruder links -- wenn nichts Schlimmeres -- und mir die
+Augen aus dem Kopf brennen vor -- -- _und muß doch_.
+
+·Lore·
+
+Sie können doch auch da gehn, wo Sie hingehören. Zu Ihresgleichen.
+
+·Biegler·
+
+Das _is_ meinesgleichen, Fräulein Lore. Irren sich nich. -- Da _gehör'_
+ich hin ... Aus _der_ Welt, wo Sie sind, da bin ich 'raus. Wo ich lebe,
+da is Krätze und Fuselgestank, da spuckt man sich auf die wunden Füße,
+weil man kein Geld zu Salbe hat, da verkauft man seine ewige Seligkeit
+um ein gefälschtes Stück Attest.
+
+·Lore·
+
+Aber noch sind Sie doch hier.
+
+·Biegler·
+
+Schon so gut wie nich mehr. Morgen früh geh' ich weg.
+
+·Lore·
+
+Aber warum denn? Warten Sie doch ab!
+
+·Biegler·
+
+Ich wart' gar nichts mehr ab. Nichts Gutes, nichts Böses. -- Ich geh'
+auf alle Fälle ... Nu sie aus meinem eigenen Munde wissen, was für
+einer ich bin, nich einen Tag mehr ... Dies is bloß wie 'n schöner
+Traum gewesen. Der is nu aus ... Ach, bangen werd' ich mich schon sehr
+... Ja, _die Nächte_, wenn der Mondschein überall auf den Blöcken liegt
+... Da -- sehn Sie, da ... Bei Tag sind sie man grau ... Aber Nachts
+wie Carrara ... Manchmal bin ich so 'rumgegangen und hab' _einen_
+gestreichelt und den _andern_ gestreichelt und hab' gedacht: »Wer wird
+dich mal behauen -- der Glückliche!« ... Und wenn dann erst alles ganz
+still wird -- ringsum auf den Straßen, -- dann sitzt man mitten in der
+Welt wie in einem schönen, warmen Mantel -- ganz ruhig und ganz -- --
+ich sagt's Ihnen schon gestern -- aber das kommt erst viel später gegen
+Mor -- -- (Hält lauschend in ängstlicher Spannung inne)
+
+·Lore·
+
+Was is?
+
+·Biegler·
+
+    (Man hört links Gelächter von Frauenstimmen und Singsang --
+    scheinbar sich entfernend)
+
+Horchen Sie! Horchen Sie!
+
+·Lore·
+
+Nun ja. Da lachen 'n paar auf der Straße. Was is denn dabei?
+
+·Biegler· (leise)
+
+Das sind die Mädchen, die unter Aufsicht stehn. Die ziehen hier in
+die Runde -- von elfe ab -- immer ums Straßenkarree 'rum -- bis gegen
+Morgen. (In Angst) Solang ich die lachen hör', da --
+
+·Lore·
+
+Was haben Ihnen denn die armen Weiber getan?
+
+·Biegler· (leise, geheimnisvoll)
+
+Sie is drunter. Ja, sie, sie ... die geht jetzt auch so 'rum.
+
+·Lore·
+
+Woher wissen Sie das?
+
+·Biegler·
+
+Ich hab' -- sie -- getroffen.
+
+·Lore· (erschrocken)
+
+Hier draußen?
+
+·Biegler·
+
+Ne ... Bevor ich herkam. Oben im Norden ... Wenn sie mich gesehn hätt'
+-- ich hab' mich bloß geschämt, weil ich so abgerissen war, sonst --
+weiß Gott, was ich jetzt schon wär' ... (Er schaudert) Ja, der Hunger
+kann viel ... Na -- werden ja sehn!
+
+·Lore· (erschüttert)
+
+Aber Sie haben doch Ihren guten Willen, Sie --
+
+·Biegler·
+
+Was is guter Wille? Mein guter Wille sind Sie gewesen, Sie und der
+komische alte Mann da drin. Von jetzt ab hält mir keiner mehr die
+Stange hin. Aber gedenken werd' ich's Ihnen -- bis -- ... Fräulein
+Lore, es is mein letzter Dienst heute. Ich hab' die Elf-Uhr-Runde noch
+nich gemacht.
+
+·Lore· (sich ängstlich umschauend)
+
+Ach -- noch -- noch -- Wenn ich bloß wüßte, wo er Vater hingeschleppt
+hat ... Ich kann die Angst nich los werden, daß, daß -- --
+
+·Biegler·
+
+Na, was denn?
+
+·Lore·
+
+Ach, nehmen Sie sich vor dem Block in acht -- dort -- ja?
+
+·Biegler·
+
+Ja, ja, der hängt locker, ich weiß ...
+
+·Lore·
+
+Und bleiben Sie wenigstens im Mondschein. Gehn Sie nich ins Finstre --
+nein?
+
+·Biegler· (kurz auflachend)
+
+Das wär' 'n richtiger Wächter, der sich vorm Finstern grault. Und heut
+bin ich noch einer ... Heut bin ich noch Mensch ... Morgen munter --
+wieder 'runter -- in den Morast ... (Streckt in tiefer Bewegung die
+Hand gegen sie aus) Gut soll's Ihnen gehn, Fräulein Lore ...
+
+·Lore· (ohne die Hand zu nehmen)
+
+Ja, Herr Biegler, wenn's Ihnen hier so gefällt ... Schließlich, wenn's
+Ihnen die andern verzeihen, warum _müssen_ Sie denn durchaus weg?
+
+·Biegler·
+
+Wer wird _mir_ verzeihen? ... Die Steinmetzen haben ja schon beraten,
+daß sie morgen zum Alten gehen werden -- und --
+
+·Lore·
+
+Nu ja.
+
+·Biegler·
+
+-- und --
+
+·Lore·
+
+Ach, Sie denken wohl ...? Ach, Sie wissen noch gar nich ...?
+
+·Biegler·
+
+Was is da viel zu wissen?
+
+·Lore·
+
+Herr Biegler, die Steinmetzen _wollen_ morgen zum Alten gehn -- das
+is richtig, aber nicht darum, was _Sie_ glauben, sondern weil sie ihm
+sagen wollen, daß sie gerne mit Ihnen zusammenarbeiten werden.
+
+·Biegler· (verständnislos)
+
+Die Steinmetzen -- wollen -- dem Al--
+
+·Lore·
+
+Ja. Weil Sie ja bewiesen haben, daß Sie vom Fach sind, und weil Ihr
+Auftreten gestern ihnen so gut gefallen hat, darum soll Ihr Privatleben
+keinen mehr was angehn, haben sie gesagt.
+
+·Biegler·
+
+Die Steinmetzen wollen -- die Steinmetzen wollen -- die Steinm-- -- --
+Gott, Gott, Gott! ... Die Steinmetzen wollen -- ja, warum haben Sie mir
+das nich schon früher gesagt?
+
+·Lore·
+
+Sie sagten doch, Sie warten gar nichts mehr ab ... Sie gehen auf alle
+Fälle.
+
+·Biegler·
+
+Wenn die Steinmetzen _wollen_, warum soll _ich_ denn --? Wenn ich
+wieder -- ich soll wieder Krönel und Scharriereisen in die Hand nehmen?
+... Ich soll wieder die blaue Schürze -- umbinden -- dürfen? Ich soll
+-- soll -- soll -- wieder die blaue Schürze ... (Heimlich, leise, in
+Angst) Fräulein Lore, ich will Ihnen was anvertrauen. -- Aber -- (Legt
+die Hand auf die Lippen) Ich hab' nämlich manchmal solche Anfälle
+gehabt (wischt sich über die Stirn) in der Anstalt ... Das find't man
+dort sehr oft ... Sind Sie ganz sicher, daß Sie das eben gesagt haben,
+daß die Steinmetzen -- morgen -- dem Alten --?
+
+·Lore·
+
+Aber Herr Biegler, ja, ja!
+
+·Biegler·
+
+Und Sie glauben auch, es kann -- nichts mehr -- dazwischenkommen -- bis
+morgen?
+
+·Lore·
+
+Was sollt' denn das sein?
+
+·Biegler·
+
+Nu, daß die Steinmetzen ihren Sinn ändern -- oder daß der Alte sagt:
+»Nein« -- oder daß mir 'n Stein auf'n Kopf fällt -- oder, was weiß ich?
+
+·Lore·
+
+    (sieht sich erschrocken nach der Treppe um, leise)
+
+Stein auf'n --
+
+·Biegler· (lachend)
+
+Ach, wissen Sie, das wär' wirklich schade. Denn ich bin immer 'n
+tüchtiger Arbeiter gewesen ... Ich hab' schon zwei Preise gekriegt ...
+Ich bin mal vor der ganzen Innung -- bin ich öffentlich belobt worden
+... Gespart hab' ich auch mal ... Ich hab' mal schon acht Mark fünfzig
+pro Tag verdient ... Ich versteh' auch gut in Granit zu arbeiten.
+Profile und Alles ... Granit, das wissen Sie ja, das ist das Härteste
+... Dabei scheint es einem manchmal wie Gallert ... weicht einem
+geradezu aus. Man kann da mit dem Spitzeisen gar nich 'ran ... da muß
+man -- da muß man -- (vom Glücke überwältigt) Die Steinmetzen -- wollen
+-- mit mir -- -- (sinkt lachend und schluchzend auf die Bank, das
+Gesicht gegen die Mauer gelehnt, leise) arbeiten -- mit mir -- arbeiten
+-- --
+
+·Lore·
+
+    (macht mitleidig einen Versuch, seinen Rücken zu streicheln)
+
+Ach Gott! (um ihn zu erwecken, ein wenig ängstlich) Herr Biegler! ...
+Herr Biegler!
+
+·Biegler· (zu sich kommend)
+
+Ja, ja, ja, ja! Wo hab' ich meinen Stock -- meine Pfeife? ... Ich bin
+ganz, ganz ... die Kontrolluhren hab' ich auch noch nich gestochen! --
+Heut darf ich nichts versäumen, sonst ... Hahaha -- hahahaha! Adieu,
+Fräulein Lore. Ich komm' bald wieder.
+
+·Lore·
+
+Wo wollen Sie hin, Herr Biegler?
+
+·Biegler·
+
+Runde machen -- nach oben -- die Treppe 'rauf ...
+
+·Lore· (leise)
+
+Gehn Sie nich, Herr Biegler. Nich die Treppe 'rauf!
+
+·Biegler·
+
+Warum denn nich? Haben Sie immer noch Angst vor dem Block?
+
+·Lore· (in wachsender Angst)
+
+Gehn Sie nich, Herr Biegler! Wenn Sie sich freuen auf Ihr künftiges
+Leben -- wenn Sie den Krönel wirklich noch mal führen wollen -- wenn
+Sie -- ... _Mein Kind_ hat Ihnen das erste Willkommen gesagt, das hat
+Ihnen Glück gebracht -- darum ... ach, gehn Sie nich! Gehn Sie wo
+anders, aber da _nicht_!
+
+·Biegler·
+
+Fräulein Lore, Sie werden ja wohl Ihre Gründe haben --
+
+·Lore·
+
+J, ja, ja, ja.
+
+·Biegler·
+
+Aber sein Sie ganz ruhig! Nu kann geschehn, was will! Mir tut keiner
+mehr was. Jetzt nich mehr. Nee.
+
+·Lore· (entschlossen)
+
+Dann komm' ich mit.
+
+·Biegler·
+
+Gut! Kommen Sie mit. Gehn wir alle beide nachtwächtern!
+
+·Lore· (ruft hinauf)
+
+Is da einer oben? (Schweigen)
+
+·Biegler·
+
+Na sehn Sie!
+
+·Lore· (leise)
+
+Herr Biegler, wenn wir die Treppe 'raufgehn, dann fassen Sie mich mal
+um den Leib. Ganz fest.
+
+·Biegler·
+
+Ich soll Sie umfassen? Das is doch nich Ihr Ernst?
+
+·Lore·
+
+    (umschlingt ihn rasch, mit erhobener Stimme)
+
+So werden wir jetzt die Treppe 'raufgehn. Und dann wollen wir doch mal
+sehen.
+
+·Eichholzens Stimme· (von oben)
+
+Wirste weg da, du --
+
+·Göttlingks Stimme·
+
+Scht!
+
+·Biegler·
+
+Nanu! Was is denn _das_? (Er reißt sich los und springt blitzschnell
+die Treppenstufen hinan. -- In demselben Augenblicke stürzt dicht
+hinter ihm der Block mit Getöse herunter, prallt gegen die Stufen und
+zerschellt am Boden. Eine Staubwolke wirbelt auf. Man hört oben das
+ängstliche Granzen des alten Eichholz und ein Stöhnen wie von Ringenden)
+
+·Lore·
+
+    (ist mit einem Schreckensruf zurückgewichen und schreit,
+    sinnlos vor Angst, in das Dunkel hinauf)
+
+Tu ihm nichts, Eduard. Ich zeig' dich an. Ich zeig' dich an. Ich zeig'
+dich an.
+
+·Göttlingks Stimme·
+
+Schrei nich, du Frauenzimmer! (Man sieht seine Gestalt nach links hin
+flüchten und verschwinden)
+
+
+Achte Szene
+
+    _Lore._ _Biegler._ _Eichholz._ Später _Zarncke._ _Marie._ _Frau
+    Homeyer._ _Zwei Dienstmädchen_
+
+·Stimmen von der Straße her· (durcheinander)
+
+Was ist da los? Was is da geschehn? Da is Mord und Totschlag ... Macht
+doch mal auf! ... Aufmachen! -- (Man rüttelt am Tor)
+
+·Biegler·
+
+    (führt unterdessen den Alten die Treppe herab)
+
+Vorsicht! ... Da sind Stufen zerbrochen. -- Vorsicht! --
+
+·Eichholz· (betrunken weinend)
+
+Ich bin unschuldig. Ich hab' nichts getan ...
+
+·Lore· (ihnen entgegen)
+
+Um Gottes willen, Vater!
+
+·Biegler·
+
+    (gibt den Alten, der sich nicht aufrecht halten kann, an Lore
+    und ruft nach links hinübergehend atemlos)
+
+Was wollen Sie hier? 'n Stein is 'runtergefallen. Weiter nichts ...
+Weiter is nichts. --
+
+·Die Stimmen· (durcheinander)
+
+Nu machen Sie doch mal das Tor auf ... Wollen mal nachsehen..
+Geschwindelt wird nicht ... Aufmachen!
+
+·Biegler·
+
+Hier wird nichts aufgemacht. Gehen Sie Ihrer Wege! (Pfiffe. Gelächter.
+Abgerissene Rufe. Dann allmählich Stille)
+
+·Eichholz·
+
+    (der von Lore zu dem vordersten Block geführt wird, wo er sich
+    niedersetzt, derweilen weitergranzend)
+
+Ich bin nu auch 'n Mörder. Ich komm' nu aufs Schafott.
+
+·Zarncke·
+
+    (hat derweilen Licht gemacht, das Rouleau hochgezogen und die
+    Glastür geöffnet, dann tritt er im Schlafrock auf den Balkon
+    hinaus)
+
+Was is da unten? Is da ein Unglück geschehn?
+
+·Lore·
+
+    (mit flehender Gebärde zu Biegler hin)
+
+Ach bitte, bitte!
+
+·Zarncke·
+
+Bekomm' ich keine Antwort?
+
+·Biegler·
+
+    (nach Atem ringend, mit zitternder Stimme)
+
+Der Oberkirchner Sandsteinblock links an der Treppe is vom Stapel
+gefallen, Herr Zarncke.
+
+·Zarncke·
+
+Wie hat denn das passieren können?
+
+·Biegler·
+
+Er stand auf Hochkant im Flaschenzug. Da haben sich wohl die Ketten
+gelockert.
+
+·Zarncke·
+
+Und was klagt der alte Eichholz so? Hat er sich verletzt?
+
+·Lore·
+
+    (Angst und Erregung niederzwingend, mit geheuchelter Ruhe)
+
+Er hat sich wohl 'n bißchen weh getan ... Aber schlimm is es nicht,
+Herr Zarncke.
+
+·Zarncke·
+
+Na wenn's weiter nichts is.
+
+·Eichholz· (wird allmählich still)
+
+·Frau Homeyer·
+
+    (in Nachtjacke mit einem dunkeln Tuch darüber, ist mit zwei
+    Mägden hinter sich auf die Veranda hinausgetreten)
+
+O Gott, o Gott, o Gott, da is gewiß 'n Malheur passiert.
+
+·Zarncke· (herunterrufend)
+
+Nichts is passiert. Geht mal alle ins Haus zurück!
+
+·Marie·
+
+    (die während des Vorigen in dem -- gleichfalls erhellten --
+    Fenster des Wohnzimmers erschienen ist)
+
+Du, Lore, komm mal her zu mir.
+
+·Lore· (geht zu ihr)
+
+·Frau Homeyer· (derweilen)
+
+Da is sicher wieder 'n fremder Mann bei der Lore gewesen. Da möcht' ich
+jeden heiligen Eid drauf schwören.
+
+·Zarncke·
+
+Na, wird's bald?
+
+·Frau Homeyer· (mit den Mägden ab)
+
+Ja, ja, ja, geh' schon. Herrgott, ja.
+
+·Marie· (leise)
+
+Was schriest du da vorhin? Und zu wem?
+
+·Lore· (bebend)
+
+Ich?
+
+·Marie·
+
+Ich war wach. Mich täuschst du nicht.
+
+·Zarncke·
+
+Mariechen.
+
+·Marie·
+
+Vaterchen?
+
+·Zarncke·
+
+Geh nu man auch zu Bett. Den Schaden können wir uns morgen besehn. Das
+heißt, dem Willig werd' ich aufs Dach steigen. Haben sich wohl tüchtig
+erschreckt, Biegler -- was?
+
+·Biegler·
+
+    (noch immer zitternd in Erregung)
+
+Ach -- nich sehr -- Herr Zarncke.
+
+·Zarncke·
+
+Na denn: Gute Nacht, Kinder.
+
+·Lore·
+
+Gute Nacht, Herr Zarncke.
+
+·Marie· (gleichzeitig)
+
+Gute Nacht, Vaterchen.
+
+·Zarncke·
+
+    (geht ins Zimmer zurück und schließt die Glastür)
+
+·Lore· (leise)
+
+Morgen erzähl' ich dir alles. Es is viel geschehn seit gestern.
+
+·Marie·
+
+Aber doch nur Gutes?
+
+·Lore· (fest)
+
+Ja. Weiß Gott.
+
+·Marie· (in wehmütiger Güte)
+
+Na, dann freut's mich auch. Gute Nacht.
+
+·Lore·
+
+Gute Nacht, Mariechen.
+
+·Marie· (schließt das Fenster. Ab)
+
+
+Neunte Szene
+
+    _Lore._ _Biegler._ _Eichholz_
+
+    (Fenster und Glastür verdunkeln sich. Die Stimmen der Straße
+    haben sich allmählich verloren. Mitternachtsstille)
+
+·Biegler·
+
+    (sinkt, von den Folgen der ausgestandenen Erregung überwältigt,
+    auf die Bank und atmet schwer)
+
+·Lore·
+
+Was is Ihnen, Herr Biegler? Sind Sie ganz heil geblieben? Is Ihnen auch
+nichts geschehn?
+
+·Biegler·
+
+Ich muß mich bloß -- 'n bißchen verschnaufen ... ich bin ganz ...
+
+·Lore·
+
+Aber Sie rangen doch mit ihm? Hat er Ihnen da nichts getan?
+
+·Biegler·
+
+Er hat nich mal mehr so viel Courage gehabt, seinen Dreikantigen zu
+ziehn. -- Na, kommen Sie noch immer nich los von ihm?
+
+·Lore·
+
+    (mit einer wilden Gebärde des Befreitseins)
+
+Ach!
+
+·Biegler·
+
+Ja. Dem sein Hund sind Sie _gewesen_, scheint mir.
+
+·Lore·
+
+Und meinen alten Vater so zu -- der Schuft! ... Vater! Du mußt zu Bett
+gehn, Vater!
+
+·Eichholz·
+
+    (antwortet nicht, atmet tief im Schlafe)
+
+·Lore·
+
+Gott! -- Nu sehn Sie bloß!
+
+·Biegler·
+
+Schläft er am Ende?
+
+·Lore·
+
+_Dem_ werden Sie doch nichts nachtragen?
+
+·Biegler·
+
+Wenn er mir nichts nachträgt. Hahaha.
+
+·Lore·
+
+Herr Biegler!
+
+·Biegler·
+
+Was, Fräulein Lore?
+
+·Lore·
+
+Ich kann nichts sagen -- mir ist das Herz so -- ich kann nicht ...
+
+·Biegler·
+
+Aber die Hand können Sie mir geben. (Streckt ihr die Hand entgegen)
+Wenn die nu wieder rein wird, dann sind Sie schuld.
+
+·Lore·
+
+    (weist kopfschüttelnd nach dem Balkon)
+
+Unser Alterchen da oben is schuld.
+
+·Biegler· (seine Hand in der ihren)
+
+Ja, wie's auch wird, dem wollen wir danken ... Scht! ... Schlägt's da
+nich zwölfe? (Man hört die ferne Turmuhr schlagen) Wahrhaftig! Nu muß
+ich aber wirklich mal Runde machen und abpfeifen ... Sonst bin ich ja
+gar nich wert, daß ... (Lacht leise und glücklich) Gute Nacht, Fräulein
+Lore!
+
+·Lore·
+
+Gute Nacht, Herr Biegler.
+
+·Biegler· (am Fuß der Stufen)
+
+Na, nu kann ich ja wohl ruhig die Treppe 'rauf?
+
+·Lore·
+
+_Der_ kommt nie wieder. --
+
+·Biegler· (von den Stufen her)
+
+Gute Nacht!
+
+·Lore·
+
+Gute Nacht.
+
+·Biegler· (verschwindet nach rechts)
+
+·Lore·
+
+Vater! ... Nu mußte aber wirklich schlafen gehn, Vater. (Der Alte rührt
+sich nicht. Man hört Biegler dreimal kurz pfeifen) Vater, hörst du, wie
+er pfeift? (Biegler pfeift -- wieder von weiter her) Vater, das Glück
+pfeift! Das Glück pfeift! (Sie sinkt schluchzend vor dem Alten nieder,
+das Gesicht an seinem Knie verbergend. Der Alte schläft fort. -- Das
+Pfeifen Bieglers tönt leiser, je weiter er sich entfernt)
+
+    (_Der Vorhang fällt langsam_)
+
+[Illustration]
+
+
+
+
+  +----------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                  |
+  |                                                                |
+  | Inkonsistenzen wurden beibehalten, wenn beide Schreibweisen    |
+  | gebräuchlich waren, wie:                                       |
+  |                                                                |
+  | anderen -- andern                                              |
+  | besehen -- besehn                                              |
+  | danach -- darnach                                              |
+  | Gehen -- Gehn                                                  |
+  | sehen -- sehn                                                  |
+  |                                                                |
+  | Interpunktion wurde ohne Erwähnung korrigiert.                 |
+  | Im Text wurden folgende Änderungen vorgenommen:                |
+  |                                                                |
+  | S. 31 »teilnahmlos« in »teilnahmslos« geändert.                |
+  | S. 66 »austapenzieren« in »austapezieren« geändert.            |
+  | S. 71 »verschüchert« in »verschüchtert« geändert.              |
+  | S. 76 »pike-pikefeiner« in »pikefeiner« geändert.              |
+  | S. 130 »umso« in »um so« geändert.                             |
+  | S. 156 »der Lore von« in »der von Lore« geändert.              |
+  |                                                                |
+  +----------------------------------------------------------------+
+
+
+
+
+
+End of Project Gutenberg's Stein unter Steinen, by Hermann Sudermann
+
+*** END OF THIS PROJECT GUTENBERG EBOOK STEIN UNTER STEINEN ***
+
+***** This file should be named 62132-8.txt or 62132-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/1/3/62132/
+
+Produced by Peter Becker and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
