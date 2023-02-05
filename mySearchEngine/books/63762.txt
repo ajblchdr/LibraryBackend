@@ -1,0 +1,3451 @@
+﻿Project Gutenberg's Nymphes dansant avec des satyres, by René Boylesve
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Nymphes dansant avec des satyres
+
+Author: René Boylesve
+
+Release Date: November 14, 2020 [EBook #63762]
+
+Language: French
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NYMPHES DANSANT AVEC DES SATYRES ***
+
+
+
+
+Produced by Laurent Vogel and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Books project.)
+
+
+
+
+
+
+
+
+
+
+  RENÉ BOYLESVE
+  DE L'ACADÉMIE FRANÇAISE
+
+  NYMPHES
+  DANSANT
+  AVEC DES SATYRES
+
+  PARIS
+  CALMANN-LÉVY, ÉDITEURS
+  3, RUE AUBER, 3
+
+
+
+
+DU MÊME AUTEUR
+
+
+CONTES
+
+  LES BAINS DE BADE                                  1 vol.
+  LE BONHEUR A CINQ SOUS                             1  --
+  LA LEÇON D'AMOUR DANS UN PARC                      1  --
+  LA MARCHANDE DE PETITS PAINS POUR LES CANARDS      1  --
+
+ROMANS
+
+  LE MÉDECIN DES DAMES DE NÉANS                      1 vol.
+  SAINTE-MARIE-DES-FLEURS                            1  --
+  LE PARFUM DES ILES BORROMÉES                       1  --
+  MADEMOISELLE CLOQUE                                1  --
+  LA BECQUÉE                                         1  --
+  L'ENFANT A LA BALUSTRADE                           1  --
+  LE BEL AVENIR                                      1  --
+  MON AMOUR                                          1  --
+  LE MEILLEUR AMI                                    1  --
+  LA JEUNE FILLE BIEN ÉLEVÉE                         1  --
+  MADELEINE JEUNE FEMME                              1  --
+
+
+E. GREVIN--IMPRIMERIE DE LAGNY
+
+
+
+
+  Il a été tiré de cet ouvrage
+  SOIXANTE-QUINZE EXEMPLAIRES SUR PAPIER DE HOLLANDE
+  et
+  CINQ CENTS EXEMPLAIRES SUR PAPIER VÉLIN DU MARAIS
+  tous numérotés.
+
+
+Droits de reproduction et de traduction réservés pour tous les pays.
+
+
+Copyright, 1920, by CALMANN-LÉVY.
+
+
+
+
+AU LECTEUR
+
+
+Les contes que je réunis ici ont été écrits vers 1894 et 1898; ce sont
+mes premiers essais dans le genre du récit, et à cause de cela j'avais
+négligé de les publier en librairie.
+
+Le titre même du présent recueil est de ce temps-là; il m'a plu
+toujours, non seulement parce qu'il évoque une harmonieuse image, mais
+parce que le balancement qu'il exprime entre la grâce de formes pures et
+le rictus souvent désolé ou amer de cette maligneté que je vois à la
+face du monde, me paraît caractériser une disposition d'esprit qui se
+retrouve dans tous mes livres.
+
+R. B.
+
+
+
+
+DIVUS ARETINUS
+
+
+Pierre Arétin, surnommé divin, par le fait de sa gloire, occupait à
+Venise une maison sise au Grand Canal, proche du pont de Rialto et des
+marchés de la ville. Lui-même a pris soin de nous dire que ce lieu était
+«sans défaut» et que la vue y était la plus agréable du monde. Mille
+gondoles y passaient, soit aux heures des approvisionnements, soit à
+celles de la promenade. Le quartier de Rialto étant le centre des
+affaires, le vieux pont de bois était sans cesse parcouru par la foule
+pittoresque des commerçants, des agioteurs et des étrangers de toutes
+les nations dont les rapports étaient actifs avec la République. Joignez
+à cela que la famille dogale des Mocenigo avait son palais dans le
+voisinage, ce qui était l'occasion de fréquents mouvements d'équipages
+princiers ou d'ambassadeurs et de ce train spécial et d'une richesse
+incomparable dont s'accompagnait le célèbre vaisseau nommé le
+_Bucentaure_. Mais Arétin était plus puissant que le Doge; toutes les
+personnes que l'étiquette menait chez celui-ci avaient à coeur de
+visiter l'illustre écrivain; et il en recevait en outre beaucoup
+d'autres.
+
+A l'heure délicieuse du soir qui précède la chute du soleil, messer
+Pierre Arétin, ayant retenu à souper quelques-uns de ses visiteurs, se
+tenait avec eux au balcon de cette maison fameuse. Il y avait là son bon
+ami le Titien, grand peintre, et le sculpteur Sansovino non moins
+célèbre; Nicolo Franco, secrétaire d'Arétin, et plusieurs femmes de
+grande beauté, d'humeur alerte, et dont les propos avaient la grâce et
+l'agilité des oiseaux libres qu'on voit en abondance dans les jardins
+enchantés de l'île de Murano. Et certes, s'il était agréable de
+contempler du balcon le spectacle mouvant du Canal, il arrivait aussi
+que nombre de gondoliers et de barcarols se missent d'eux-mêmes à
+ralentir le balancement cadencé de leur rame, pour fournir aux
+promeneurs l'occasion d'admirer l'entourage magnifique d'Arétin, le
+fléau des princes. Les dames, déjà parées pour le souper, dépassaient
+par la splendeur de leur accoutrement les plus riches pièces
+d'orfèvrerie; leurs cheveux étaient teints et séchés, et leurs épaules
+et leur gorge parfumées et fardées s'épanouissaient hors des brocarts et
+sous les perles, pareilles à ces fleurs cultivées dont on ne sait au
+juste si l'attrait vient de l'excessive beauté ou de l'artifice. Le
+maître attirait les regards par l'éclat de son teint, sa longue barbe,
+son pourpoint cramoisi où brillait une chaîne d'or bien ouvragée,
+dernier gage d'amitié de Sa Sainteté le Pape. Titien, qui adorait les
+couleurs, était vêtu d'étoffes de velours noir d'une demi-douzaine de
+tons différents. Sansovino, de qui la sobriété faisait l'objet
+d'amicales railleries, portait la longue robe de serge noire attachée au
+cou simplement par des pièces d'argent.
+
+L'on avait devisé tout le jour, en faisant de la musique et buvant des
+vins. Arétin avait tenu sur vingt hauts seigneurs les propos les plus
+hardis en même temps que les plus lâches et les plus extravagants; il
+avait fort scandalisé son auditoire et l'avait beaucoup diverti. Maintes
+fois le bon sculpteur avait été sur le point de se fâcher contre lui, et
+autant de fois il avait été désarmé par ses reparties inopinées et son
+exubérance aussi puérile que déconcertante. Titien, plus préoccupé de
+l'heureux effet de l'assemblage des choses que de la valeur isolée de
+chacune, et sensible extrêmement aux saillies ainsi qu'à la belle
+humeur, regardait son étrange ami d'un oeil sans cesse indulgent. Outre
+cela, Arétin connaissait les arts et les jugeait avec grand discernement
+et sincère amour; de sorte que l'illustre peintre ne croyait pas se
+tromper en admirant à l'aveugle cette force extraordinaire, cette
+prodigieuse vitalité qui, poussant Arétin à tous les extrêmes, vous
+laissaient augurer de son audace l'enfantement de quelque chose
+d'excellent tout aussi bien que d'exécrable.
+
+Arétin penché au balcon, le coude appuyé sur un tapis levantin, laissait
+aller sa verve au hasard des barques fuyantes. Il distribuait des
+bonjours, des signes de main, des compliments à haute voix, des
+sourires; et, posant parfois sur sa bouche sa main chargée de bagues, il
+lançait à son entourage un mot cinglant qui ruinait un homme ou brisait
+d'un coup l'honneur d'une patricienne. On s'exclamait, on protestait, on
+riait. Le rire emportait tout. Et ceux que ce divertissement trouvait
+rebelles, se laissaient attendrir par les beaux jeux de l'heure
+crépusculaire sur les paillettes des eaux, sur la poupe grasse des
+gondoles et sur les marbres qui sont frères de la lumière.
+
+Ainsi s'achevait, dans du luxe, de la beauté, du plaisir, de la
+calomnie, des saluts, des baisers, des caquetages, de la musique et des
+promenades, une journée de Venise au temps de sa gloire.
+
+                                   *
+
+                                 *   *
+
+Tout à coup, une troupe de jeunes garçons venant de la _Merceria_, qui
+est la rue commerçante de Venise, déboucha sur le pont de Rialto, tenant
+à la main des libelles et criant à tue-tête:
+
+--Écoutez! écoutez! voilà les nouvelles du jour: la guerre avec le Turc!
+Écoutez! écoutez!... la rupture avec Sa Majesté l'Empereur!... Écoutez!
+écoutez!... le mauvais état des galères de la République! l'Arsenal
+vendu secrètement!... etc., etc.
+
+Bien que le fait ne fût pas sans précédent et que l'on eût vu dès les
+premières années du siècle de pauvres gens semer des pamphlets dans la
+ville, du haut du Rialto, cette irruption soudaine et la gravité des
+nouvelles énoncées, vraisemblables après tout, jetèrent en moins d'une
+minute un grand trouble parmi les embarcations élégantes qui
+sillonnaient le Grand Canal. Il y eut, un instant, une forte presse aux
+alentours du pont. On dépêchait les gondoliers acheter la feuille
+imprimée; bientôt les vendeurs la laissèrent tomber en pluie sur les
+curieux; ceux-ci leur jetaient en échange des sequins, des pièces
+d'argent et d'or, au hasard. Plusieurs personnes tombèrent à l'eau;
+quelques-unes y périrent. On n'y fit guère attention; la fièvre tenait
+tout le monde, et les Vénitiens se dispersèrent en commentant les
+nouvelles, laissant, en l'espace d'un quart d'heure, le Grand Canal
+désert.
+
+Cependant, on avait pris part à l'inquiétude générale sur le balcon de
+Pierre Arétin. Le bon Sansovino et Titien, natures peu compliquées et
+coeurs excellents, s'étaient montrés vivement émus; deux femmes avaient
+été prises de faiblesse, et le secrétaire Franco s'occupait activement à
+les alléger de leur corsage. Un domestique nombreux avait envahi les
+appartements; et l'Arétin, imperturbable, avait montré à ses amis deux
+nègres de sa maison profitant du tumulte pour se sauver à la nage,
+chacun la ceinture garnie des meilleures pièces de sa vaisselle d'or.
+
+--Vous les ferez pendre? dit le Titien.
+
+--Mais non! fit Arétin, je tirerai de Sa Majesté l'Empereur un service
+de table nouveau...
+
+En entendant prononcer le nom de l'Empereur, on s'approcha de l'Arétin.
+
+--Vous parlez de l'Empereur avec facilité, hasarda Sansovino; mais s'il
+y a du vrai sur les papiers que l'on vient de distribuer et qui ont
+troublé toute la ville, Sa Majesté n'est pas sur le point de combler de
+présents les Vénitiens, fût-ce en la personne de leur plus illustre
+citoyen!...
+
+--Messer Jacopo, dit Arétin, votre cervelle est, à cette heure, de terre
+glaise, et vous pénétrez la chose publique avec l'aisance qu'aurait un
+aveugle à découvrir cette turquoise au fond du Grand Canal. (Et ce
+disant, il laissait tomber une de ses bagues dans l'eau, ce qui combla
+d'admiration son entourage.) Or je gage, moi, Pierre Arétin, qu'avant le
+mois écoulé, sans prendre la peine d'écrire un sonnet, et sur le seul
+bruit du désir que je viens d'exprimer de recouvrer ma vaisselle d'or,
+je tiendrai de l'auguste libéralité de Charles cinquième un service plus
+beau que celui que l'on me vient de dérober, et une pierre plus grosse
+que celle dont les plongeurs que vous voyez d'ici vont se tirer une
+fortune.
+
+--Ho! ho! s'écria-t-on autour de lui, car, bien que l'on connût son
+imprudence coutumière, il semblait, cette fois-ci, dépasser la mesure.
+On l'écoutait avec anxiété; il venait de prendre ce sourire singulier
+qui le faisait, disait-on, ressembler à un loup.
+
+--Car sachez, poursuivit-il, que Sa Majesté apprenant les bruits fâcheux
+qui courent à Venise au sujet des relations de l'empire avec la
+République--et qui sont de nature à troubler l'économie des États
+chrétiens!--Sa Majesté, dis-je, s'adressera, pour les étouffer, au seul
+homme de qui le souffle en ait le pouvoir...
+
+--Parce qu'il est le seul... hasarda Sansovino, soupçonneux à bon droit,
+et déjà tout blanc d'indignation.
+
+--Achevez donc! fit Arétin, gouailleur.
+
+--... qui les ait répandus! prononça à demi-voix le pauvre sculpteur, en
+se détournant déjà pour prendre la porte.
+
+--Vous l'avez dit! s'écria l'Arétin. Et il ébranla tout le palais de son
+large rire.
+
+Il riait seul dans tout Venise. Durant plusieurs secondes, le
+retentissement de son plaisir emplit le Canal assombri, et fit vibrer
+les vitres des maisons où les citoyens se rongeaient d'inquiétude pour
+la farce sinistre de ce colossal bouffon.
+
+                                   *
+
+                                 *   *
+
+Tandis que ce rire gagnait toute la maison de l'Arétin, et que Sansovino
+lui-même passait à son compère cette dernière folie--car on devient
+indulgent quand on est délivré d'un souci,--quelqu'un fit observer, dans
+la pénombre qui tombait sur le Canal abandonné, une gondole riche, dont
+les tapis frôlaient la surface de l'eau et qui s'avançait avec la
+lenteur ordinaire aux promenades amoureuses. Les personnes qui s'y
+trouvaient étaient assurément fort étrangères aux préoccupations
+actuelles de la ville; et il fallait, d'autre part, que leur attention
+fût fortement tenue par ailleurs pour ne s'inquiéter pas davantage de
+l'aspect insolite du Canal, ni de l'isolement complet de leur
+embarcation au milieu du pesant silence que brisaient seuls les éclats
+du balcon d'Arétin.
+
+On s'attendait à ce que la belle humeur du maître le poussât à
+invectiver contre les promeneurs au passage. Justement, Arétin se
+penchait, et son oeil s'efforçait de distinguer leurs silhouettes ou
+leurs traits, dans la clarté mourante.
+
+La gondole approchait, paisible et muette comme une écorce de bois qui
+suit le fil de l'eau.
+
+--Je ne vois qu'une femme, dit quelqu'un.
+
+--Moi, qu'un homme.
+
+--Imbéciles! fit Arétin, vous ne voyez pas que ce sont des amants?...
+Des flambeaux! que l'on apporte des flambeaux!...
+
+Le balcon s'illumina. La gondole aussitôt esquissa un mouvement de
+retrait, comme ferait un animal vivant sensible à la lumière; mais elle
+ne se retira pas assez vite pour que l'on n'eût le temps d'apercevoir
+les visages.
+
+--Par la Madone! dit Arétin, voici une enfant plus belle que la très
+sainte mère de Dieu!
+
+On crut qu'il n'avait parlé que pour blasphémer. Franco, qui avait remis
+les dames en état, se prit à rire, et il commençait d'adresser des
+_lazzi_ au couple amoureux, pensant flatter le maître. Mais celui-ci le
+souffleta et le traita de porc immonde. Personne ne dit plus mot.
+
+--Qui connaît cette jeune femme? dit Arétin.
+
+Aucun de ceux qui étaient là ne l'avait vue, jamais.
+
+--Elle n'est pas de Venise, dit Titien; elle a la chair menue et
+transparente que l'on voit aux Vierges des bons maîtres de Cologne et la
+grâce pieuse des filles de Sienne illustrées par le doux Sano di Pietro,
+homme tout en Dieu, ainsi qu'on l'appelle.
+
+--Elle est d'ivoire, dit Sansovino. J'ai vu, à Rome, dans la maison de
+l'illustre Agostino Chigi, des statuettes finement taillées qui étaient
+les petites soeurs de cette enfant. Leur taille est ployée à demi, et
+elles sont si frêles que l'on voudrait leur enlever le bambin qui semble
+leur peser au bras...
+
+--Et l'homme? l'homme? qui le connaît? dit Arétin avec impatience.
+
+On ne le connaissait pas davantage. La gondole s'éloignait; Arétin
+trépignait. Il appela des domestiques. Il choisit le plus vigoureux,
+nommé Tommaso; détacha le poignard qu'il portait à la ceinture et le lui
+remit.
+
+--Quitte les couleurs de l'Arétin, dit-il, va tout nu au besoin, et
+cours par les petites rues jusqu'à ce que tu croies avoir dépassé de
+cent brasses la gondole qui s'en va là du train que tu vois. A cette
+distance, tu regagnes le Canal, tu détaches la première barque et tu
+viens à la rencontre de la gondole. Cache ton arme, mais tiens-la à
+portée de la main. Tu t'avances et demandes d'abord avec politesse à
+connaître le nom de la dame. Si on te le donne, tu t'éloignes en
+saluant, et l'affaire est sans importance. Si le seigneur bondit à ton
+approche, tu prends le nom, coûte que coûte. Va-t'en!
+
+--Compère, dit Titien, songez que ce sont deux jeunes amants, deux
+fiancés, deux époux peut-être: ils sont heureux et pleins de beauté!...
+
+A l'abri de l'autorité du grand peintre, tout le monde se pressa autour
+de cet homme aux caprices terribles, et les regards de tous
+l'imploraient.
+
+--Mesdames, dit Arétin, galamment, et vous, messieurs, à table! Nous
+avons ce soir des foies de coq de bruyère que notre compère Titien nous
+a fait venir de sa maison de campagne de Cadore; il convient de les
+fêter tant pour leur excellence que pour la qualité du donateur, artiste
+divin... Pour ma part, j'ai grand appétit.
+
+                                   *
+
+                                 *   *
+
+La chaleur du repas détourna les esprits de se préoccuper excessivement
+de la scène qui se devait jouer dans le même temps sur le Grand Canal, à
+la faveur de la nuit. Le maître prit place entre madame Angela Zaffetta,
+fort excellente courtisane dont les épaules et la gorge étaient aussi
+arrondies que l'humeur, et la célèbre chanteuse Franceschina, à qui il
+arrivait de se dépiter, parce que l'on saisissait mal le sens de ses
+paroles, absorbé que l'on était par la musique enchanteresse de sa voix.
+Il y avait encore là plusieurs autres personnes remarquables, soit par
+leur beauté, soit par la vivacité ou l'aisance de leurs passions.
+
+L'on s'exclama, dès que l'on fut assis, sur la magnificence de la
+verrerie qui décorait la table. C'était une surprise qu'Arétin ménageait
+à ses convives et c'était en même temps une révolution dans les arts,
+qu'il accomplissait de la manière la plus élégante. La fabrique de
+Murano commençait de s'étioler dans la répétition des mêmes modèles,
+quand Arétin, recevant en hommage une reproduction des arabesques et
+autres ornements que Jean d'Udine avait exécutés pour la décoration du
+Vatican, conçut l'idée d'appliquer ces charmants dessins à
+l'embellissement des verres de Murano. On venait de lui adresser les
+plus satisfaisantes épreuves de cette tentative, et il exposait ces
+merveilles que son initiative allait répandre par le monde, en créant
+pour son pays une nouvelle source de richesse.
+
+Titien, que la vue d'un bel objet émouvait jusqu'aux larmes, perdait le
+boire et le manger à retourner les délicats chefs-d'oeuvre dans sa main
+sûre et puissante. Il en faisait jouer les teintes diverses à la
+lumière; et les mille caprices des entrelacs, les mascarons, et les
+têtes de satyres enlaçaient, lutinaient et étourdissaient son esprit
+dans les détours de leur voluptueux labyrinthe. Sansovino, plus réservé,
+contemplait et jugeait en silence. Il avait la repartie brusque et même
+violente, ainsi que les personnes d'une grande probité. La Zaffetta, qui
+était à sa droite et qui était plus accoutumée de voir l'éclat de la
+passion des hommes que la sagesse qui leur permet de la faire servir à
+la bonté de leurs actes, craignit que certains mouvements d'humeur de
+l'après-midi ne poussassent le sculpteur à apprécier défavorablement
+l'idée d'Arétin. Elle se pencha sur son bras et, le pressant de toute sa
+chair fleurie, elle lui montra du doigt le fils de Vénus, que l'on
+voyait tirant son arme redoutable, dans la transparence du verre, et lui
+dit:
+
+--Prenez garde, messer Sansovino, car ce petit coquin est si bien fait
+que l'on croit qu'il nous va transpercer l'un ou l'autre...
+
+Et elle s'approcha si près que le bonhomme ne pouvait faire autrement
+que de lui baiser l'épaule, et sa lèvre était déjà toute frémissante.
+
+--Eh bien! non! dit-il, se levant tout à coup, si je m'accorde ce soir
+le ragoût d'un baiser, ce ne sera pas à la Zaffetta, qui est belle sans
+discontinuité, que j'en ferai la faveur, mais à mon compère Arétin, qui
+a moins de constance dans la vertu, mais s'y hausse parfois jusqu'au
+sublime, comme on le voit à cet ouvrage, qui crée une seconde fois
+Murano. Et je souhaite que ces beaux verres soient nommés Arétins!
+
+Et le grand artiste, quittant sa place, alla embrasser Arétin, aux
+applaudissements de la compagnie qui, tour à tour, ou confusément, imita
+son exemple.
+
+Titien dit:
+
+--Arétin, je ferai, à cause du plaisir que j'ai eu, la copie de la
+figure de Notre-Seigneur, frappé par des soldats, avec le buste de
+Tibère dans le fond, au-dessus de la porte du prétoire, et qui est
+destinée à Sa Majesté l'Empereur, et je te la donnerai.
+
+C'était un cadeau royal qui fut fait effectivement le jour de Noël de la
+même année.
+
+                                   *
+
+                                 *   *
+
+Franco versait des torrents d'inventions libertines dans le sein de la
+courtisane Pocofila. Le rire frais de cette jeune femme, plus renommée
+par la pureté de ses formes que par ses qualités spirituelles, répandait
+sur la table heureuse l'illusion d'un jaillissement d'eau claire; ses
+cris charmants allaient éveiller l'écho dans la gorge des Arétines; une
+éclatante gaieté animait l'assistance, et chacun réclamait du maître le
+récit de quelques-unes de ces «conversations» fameuses, dont
+l'impertinence surpassait ce qui s'était écrit jusqu'alors pour le
+divertissement des dames.
+
+L'Arétin, seul, sous les dehors d'une joie bruyante, gardait l'apparence
+d'un souci, et il lui arrivait de tourner la tête vivement lorsque la
+porte s'ouvrait. Mais, à la vérité, tout le monde en ayant déjà oublié
+la cause, on n'y prenait point garde.
+
+--Par la Madone, dit-il, j'abandonnerai aujourd'hui la royauté de la
+priapée à mon excellent Franco, qui s'y exerça tantôt avec adresse dans
+le giron de mes plus belles amies, tandis que j'y fus, quant à moi,
+assez mal préparé en ouvrant la journée par la mise en langue vulgaire
+d'un des Psaumes de la pénitence...
+
+Et, tandis que l'on riait à ces mots, il prit texte de l'un des versets
+sacrés pour échafauder une si scandaleuse nouvelle, que plusieurs des
+convives qui n'étaient point sujets à se montrer pudibonds en rougirent
+et s'en répétèrent mentalement les termes les plus frappants pour en
+éprouver l'effet sur les personnes de leur connaissance.
+
+Un tumulte se fit, à ce moment, du côté des portes, et l'Arétin ne put
+dissimuler une émotion soudaine en reconnaissant son domestique Tommaso,
+qui revenait de l'expédition du Grand Canal en assez piteux appareil et
+soutenu par chaque bras, comme s'il allait défaillir.
+
+Arétin se leva précipitamment:
+
+--Tommaso, dit-il, as-tu accompli ta mission?
+
+Tommaso fit signe que oui.
+
+--Eh bien! je t'écoute, fit le maître avec impatience; parleras-tu?
+
+--Seigneur... balbutia Tommaso, et il chancela.
+
+--Parle! par tous les diables! as-tu le nom?
+
+Tommaso fit un violent effort, et il dit:
+
+--Je l'ai, seigneur!
+
+Arétin commanda qu'on avançât un siège au malheureux. On lui fit prendre
+un peu de vin épicé; il revint à lui. Les femmes s'étaient levées et
+l'entouraient, voulaient savoir s'il était blessé; mais Arétin, penché
+sur lui, les yeux fixés sur les mouvements de ses lèvres, n'était
+attentif qu'à ce nom de femme qui allait être prononcé, et grâce à quoi
+il poursuivrait jusqu'au bout du monde la créature de séduction qui lui
+était apparue ce soir, dût-il remuer tous les États de l'Europe.
+
+Tommaso recouvra assez de force pour parler:
+
+--J'ai exécuté, dit-il, les ordres de Votre Seigneurie; je suis venu en
+barque à l'encontre de la gondole, et j'ai adressé à la jeune femme,
+puis au jeune homme, une bonne révérence. Mais, avant que j'eusse parlé,
+celui-ci, qui a le sang vif, seigneur, a mis la main à sa dague... Je
+tenais ferme le stylet de Votre Seigneurie, et, sans faire un geste, je
+demandais seulement à connaître le nom et je me penchais fortement vers
+la jeune femme, qui avait fort peur. Je pensais qu'elle me le donnerait
+pour couper court à cette scène. Une partie de ma prévision se réalisa,
+car cette dame, s'apercevant de l'attitude menaçante de son compagnon,
+me jeta son nom; mais, au même moment, je reçus par derrière, entre les
+deux épaules, une mauvaise piqûre...
+
+--Cet homme est blessé! s'écrièrent à la fois la Zaffetta, la
+Franceschina et la Pocofila, et elles tendaient les mains pour défaire
+son vêtement.
+
+--Et ce nom! ce nom! hurlait l'Arétin, sur la bouche de Tommaso.
+
+--Elle se nomme Périna Riccia, seigneur, c'est une colombe du bon Dieu,
+une enfant qui tiendrait dans la main de Votre Seigneurie...
+
+Arétin prononça tout bas et savoura par avance les syllabes de ce nom:
+Périna Riccia; il les baisait des lèvres à mesure que leur aimable
+consonance tintait.
+
+--Où est-elle à cette heure? demanda-t-il impérieusement au messager qui
+faiblissait.
+
+--Que Votre Seigneurie daigne me prendre en pitié, dit Tommaso; je n'ai
+pas pu sentir cette piqûre sans faire aussitôt un mouvement violent du
+côté de ce jeune seigneur, et comme ma main était fortement garnie de la
+lame de Votre Seigneurie, celui-ci l'éprouva, un peu trop avant, sans
+doute, car il en chavira dans le Canal, je ne l'ai plus revu...
+
+--Malheureux! dit quelqu'un, le gondolier te dénoncera!
+
+--Le gondolier, dit Tommaso, est Piero Becchino, de Chioggia, c'est mon
+ami; il sera celui de sa Seigneurie si elle le veut bien payer...
+
+--Et Périna? interrompit Arétin.
+
+--Elle est ici, seigneur; nous l'avons ramenée évanouie, dans la
+gondole; elle est blanche comme la lune et elle ressemble à Notre-Dame
+la Vierge...
+
+Toute la compagnie se précipita d'un bond vers le vestibule d'où l'on
+accédait aux marches de marbre que la gondole frôlait. Dans le tumulte
+on heurta l'épaule de Tommaso qui poussa un léger cri et mourut.
+Sansovino qui n'avait point de curiosité et Franco qui n'avait pas de
+goût pour les femmes maladives et pâles, étant demeurés en arrière,
+s'aperçurent seuls de cet accident. Le bon sculpteur allait s'écrier:
+
+--Taisez-vous donc! fit le secrétaire d'Arétin, qui connaissait la
+pensée du maître, la perte de cet homme-ci accommode les choses à
+merveille, car, lui disparu, rien ne s'oppose à ce que la demoiselle
+Périna Riccia, revenue de son sommeil, ne se croie recueillie dans une
+maison hospitalière, à la suite d'une mauvaise aventure...
+
+Et les deux hommes transportèrent le corps de Tommaso dans un cabinet
+donnant sur un canal obscur.
+
+                                   *
+
+                                 *   *
+
+Périna Riccia s'éveilla dans une alcôve à cariatides dorées, et à
+tentures de soie rayées de lames d'or, qu'éclairaient de la manière la
+plus agréable plusieurs petites lanternes à colonnes torses, suspendues
+au plafond, et où des miroirs étaient si habilement ménagés, que l'effet
+produit sur les panneaux de la chambre en était comparable à celui de
+peintures en clair-obscur. La lumière tremblotante tirait de l'ombre, à
+intervalles à peu près réguliers, de riches consoles garnies de hautes
+pièces de céramique, ou de vases d'or et d'argent; des vitrines remplies
+de beaux débris antiques ou de livres en cuir guilloché; aux murs
+apparaissaient de belles glaces de Venise, des médailles, des tableaux
+et des instruments de musique.
+
+La nuit était avancée; les convives partis, les domestiques retirés; la
+maison d'Arétin était dans le complet silence. Le maître seul avait tenu
+à veiller la jeune femme que les médecins appelés en hâte avaient
+déclarée hors de danger, du moins quant au présent, car elle était d'une
+délicatesse excessive, et sa poitrine était faible.
+
+Arétin, agenouillé sur un prie-Dieu, penchait la tête sur la belle
+endormie, et son attention était telle, au-dessus de ce frêle visage,
+que l'on eût dit qu'il ne vivait lui-même que du souffle presque
+insaisissable qu'émettaient les gracieuses narines transparentes et
+pareilles à de fines verreries couleur de lait. Il voulait voir la lente
+résurrection de la créature charmante de qui l'existence passée venait
+d'être par lui rompue et qui allait, entre ses bras, renaître à une vie
+nouvelle. La figure s'animait peu à peu, de légers mouvements nerveux
+étaient visibles aux alentours des paupières et la tempe prenait cet
+aspect indéfinissable que donne la vie à cette partie du visage.
+
+Elle remua doucement, et le premier mot qu'elle prononça fut:
+
+--Polo!...
+
+Ce nom résonna dans le silence. Elle n'avait pas encore ouvert les yeux,
+et la réminiscence se formait à l'instant du réveil. Tout à coup elle
+éclata en sanglots et poussa des cris déchirants. Arétin s'apprêtait à
+jouer le rôle d'une mère, et ouvrait ses bras pour entourer cette tête
+endolorie. Elle l'aperçut et s'effraya de sa figure barbue.
+
+--Où suis-je? dit-elle, sainte Madone, ayez pitié de moi!
+
+--La Madone, dit Arétin, a pris soin de vous et vous a envoyée reposer
+dans une maison amie où seigneurs et valets sont aux pieds de votre
+grâce, ma très belle...
+
+--Ha! ha! ha! s'écria-t-elle, je suis perdue! Et n'est-ce pas vous qui
+avez tué Polo, mon amant?
+
+--Je ne sais, mon enfant, qui vous entendez dire par ce joli nom de
+Polo, et mes gens vous ont trouvée ce soir, solitaire et évanouie dans
+une barque... Je vous ai mise ici dans l'intention que vous soyez mieux
+à l'aise qu'au fil de l'eau...
+
+--Ha! ha! ils me l'ont tué, je le vois bien, et il m'est égal d'être ici
+ou bien ailleurs, sans mon Polo bien-aimé!...
+
+Elle eut une crise de larmes nouvelle, et se roula sur elle-même,
+désespérément, en mordant la courte-pointe.
+
+L'Arétin s'efforçait de la contenir et d'empêcher qu'elle se brisât le
+crâne, et sentant son front à portée de ses lèvres, il y mit un baiser.
+Mais elle eut alors un si vif mouvement de répugnance que lui-même se
+recula instinctivement; et il contemplait à distance la douleur de cette
+jeune femme éperdue qui devait être la plus affolante des amoureuses et
+qui était la première créature qui se refusât à ses caresses.
+
+                                   *
+
+                                 *   *
+
+Périna ne se rétablissait point. On endormait sa douleur par de la
+musique et des chants. Sa chambre était devenue un lieu de réunion de
+toute la maison d'Arétin, et les maîtresses du poète lui faisaient bon
+visage, étant accoutumées à n'avoir point de jalousie, et ayant conçu
+une grande pitié pour son sort malheureux. A la vérité, Périna répandait
+un charme infini par sa grâce et sa douceur.
+
+Il y avait dans un angle de la pièce un orgue dont le buffet était peint
+agréablement et représentait de belles rondes d'enfants en grisaille,
+ainsi que la chasse des nymphes, avec des lévriers et des sangliers,
+exécutés minutieusement et en couleurs vives. La musicienne Franceschina
+n'en quittait presque point le clavier, et, y laissant errer ses doigts
+avec nonchalance, elle s'accompagnait de sa voix admirable. Arétin, qui
+touchait passablement l'archiluth, en jouait aussi parfois, tourné
+dévotement vers le cher objet de ses voeux; et il arriva que Périna le
+remercia pour le plaisir qu'il lui avait donné. Arétin pensait alors que
+toutes les débauches du monde étaient d'un goût bien médiocre au prix de
+ce simple «merci» tombé d'une lèvre aimée. Mais s'étant alors hasardé à
+lui adresser un madrigal dont le sens était la demande d'une promesse
+pour l'avenir, Périna, calme et grave comme une vierge d'ivoire,
+répondit simplement:
+
+--Jamais!
+
+Les jeux aimables interrompaient la musique, et l'on était en train de
+se livrer à l'un des plus divertissants, nommé le «jeu du bain»,
+lorsqu'on vint annoncer la visite d'un envoyé extraordinaire de Sa
+Majesté l'Empereur.
+
+Arétin fit répondre que, pour le moment, la gracieuse Périna, qui était
+la dame préférée de son coeur, prenait plaisir au jeu du bain, et qu'il
+était loisible à Son Excellence, soit d'attendre, soit de prendre part
+aux agréments de la compagnie.
+
+C'était d'une impertinence telle qu'aucun prince d'Europe n'eût osé se
+la permettre. Plusieurs des personnes présentes en tremblèrent et en
+firent tout haut la remarque. Arétin montra du doigt Périna:
+
+--Voyez, dit-il, elle sourit à cause des saillies inopinées qui naissent
+de notre amusement présent, et je prends le ciel à témoin que je ferais
+recevoir Notre Seigneur le Pape par mon valet, plutôt que d'interrompre
+le joli pli de sa bouche.
+
+L'ambassadeur voulut prendre la chose du côté plaisant, qui, sans doute,
+convenait le mieux aux intérêts de Sa Majesté. Il entra, sans plus de
+façons, suivi de plusieurs nobles vénitiens, espagnols et allemands, et
+s'informa incontinent de la règle du jeu.
+
+--Que Votre Excellence, dit Arétin, se veuille supposer affligée de
+quelque incommodité ou maladie, ainsi que le font ici toutes les
+personnes mâles de notre assemblée. Chacune de ces dames, par contre,
+possède, entre autres vertus, celle d'une source curative; et selon la
+nature de notre mal, nous sommes envoyés vers l'une d'elles qui nous
+inflige un traitement à sa guise. La peine est de l'observer avec autant
+de scrupule qu'un serment, et traître est qui s'y dérobe!...
+
+--Qu'à cela ne tienne! dit l'ambassadeur, qui était un Augsbourgeois
+bedonnant et dépourvu de malice. J'ai, par ma foi! dit-il, une pesanteur
+dont j'aimerais trouver l'occasion de me défaire moyennant une saison
+aux eaux de ces dames. Le mal vient, dit-il, en souriant, de la
+gracieuseté de Sa Majesté l'Empereur qui me chargea pour l'illustre
+Arétin de quelques présents un peu lourds...
+
+L'assemblée désigna d'un commun accord la douce Périna à qui, pour
+l'heure, appartenait la fontaine qui délivre des oppressions,
+suffocations, nausées ou péchés graves.
+
+L'ambassadeur, sans dissimuler sa satisfaction du hasard qui
+l'approchait de la favorite, se dirigea vers le lit où Périna reposait,
+et, ayant mis un genou en terre, en baisant la petite main diaphane
+qu'on lui tendit, il écouta avec le plus grand sérieux du monde le
+traitement que lui infligeait la nouvelle nymphe des eaux.
+
+--Votre Seigneurie, dit Périna, se rendra dans sa gondole et souffrant
+encore du poids des cadeaux de Sa Majesté, jusqu'à l'endroit où, le
+Canal commençant d'obliquer vers la gauche, on aperçoit la pointe de
+Saint-George Majeur, et à cinq brasses de la rive. Arrivée là, Votre
+Seigneurie jettera dans le Canal les présents de Sa Majesté, un à un et
+jusqu'au dernier. Cela fait, Elle aura soin d'appeler d'habiles
+plongeurs qui devront me rapporter à moi-même et directement tous les
+objets retrouvés, jusqu'au plus petit, et outre cela tous les objets qui
+se pourraient trouver au même endroit et à environ cinquante coudées
+alentour, dans le lit du Canal. Je n'ai point d'autre chose à ordonner à
+Votre Seigneurie.
+
+Cette fantaisie extravagante eut le plus vif succès; tout le monde en
+applaudit la folie féminine et l'ineffable absurdité. A peine quelques
+personnes, qui se souvenaient du drame exécuté au Grand Canal quelques
+jours auparavant et dans l'endroit que fixait Périna, eurent-elles le
+sombre pressentiment que la fin pût tourner au tragique. Mais parmi ceux
+qui se souvenaient était Arétin qui pâlit d'une manière sensible. Il se
+mit aussitôt à rire ouvertement et très haut, dans l'espoir de tourner
+en dérision le caprice de la jeune femme. Cependant, tel était le
+respect en quoi l'on tenait, au jeu du bain, l'ordonnance des dames,
+qu'il ne vint à personne l'idée de se soustraire à l'obligation imposée
+par Périna Riccia.
+
+L'on nomma des juges d'honneur pour assister l'ambassadeur dans sa
+mission, et le divertissement continua, ainsi que la musique, en
+attendant le retour de cette étrange expédition.
+
+                                   *
+
+                                 *   *
+
+Ce fut une procession tout le long du jour, entre l'endroit du Grand
+Canal que Périna avait fixé, et la maison d'Arétin. Chaque plongeur,
+accompagné d'un ou de plusieurs juges d'honneur, apportait à mesure les
+objets retrouvés. On tenait ouverte la fenêtre de l'appartement qui
+donnait sur le Canal, et l'homme, nu et essoufflé encore de sa course
+sous-marine, hissait au balcon les épaves ruisselantes du présent
+impérial.
+
+Il n'y avait pas grand dommage pour les chaînes d'or ou les belles
+plaques émaillées dont on prit aussitôt le plus grand soin et que l'on
+remit en leur état brillant. Mais ce fut une grande pitié de voir tirer
+de l'eau fangeuse et mal odorante une belle robe de brocart d'or brodée
+de cramoisi à manches fourrées de petit-gris, et une autre à fond d'or
+et violet, à longues manches tombant jusqu'à terre, fourrée d'hermine
+chamarrée. Ces admirables vêtements avaient l'aspect de loques que l'on
+voit pendre aux petites fenêtres du Ghetto, et bonnes à couvrir l'échine
+de mécréants. Tout ce qui était découvert et ne faisait point partie des
+dons de Sa Majesté était mis à part et se composait à la vérité des
+objets les plus variés et les plus disparates. Un fou rire accueillit
+l'exhibition de vieilles chaussures à demi pourries dans le lit vaseux,
+et d'un corset fortement garni de petites bandes d'acier qu'une dame
+incommodée avait dû jeter durant sa promenade en gondole. Arétin fit un
+mouvement assez vif lorsque parut un poignard portant son nom en toutes
+lettres sur le travers des quillons: _Divus Aretinus, flagellum
+principum._
+
+--Qu'est-ce donc? lui demanda-t-on.
+
+--C'est, dit-il aussitôt, une arme qui me fut dérobée récemment.
+
+Périna demanda qu'elle lui fût remise. Arétin lui-même la lui déposa
+entre les mains, sans vouloir toutefois recevoir son regard. Et la jeune
+femme considéra la lame avec une attention particulière. Elle alla même
+jusqu'à déclarer qu'elle ne s'en séparerait plus. Plusieurs pensèrent
+qu'elle avait perdu la raison.
+
+Arétin voulut profiter de ce qu'elle s'exaltait et de ce que des
+couleurs lui revenaient au visage, pour la lutiner et s'approcher de ses
+lèvres, car sa passion augmentait, et tous en étaient témoins. Elle lui
+signifia froidement de se retirer. Comme il n'en faisait pas la mine,
+elle lui dit, avec tranquillité, qu'étant armée de la dague, elle le
+saurait bien tenir aisément à l'écart. Il voulut rire du plaisant
+propos. Mais elle le piqua si adroitement qu'il se releva d'un bond en
+portant la main à la poitrine où une gouttelette de sang perlait. Périna
+sourit. Personne n'osa s'indigner de l'audace de la jeune femme, car il
+était visible à tous que désormais Arétin l'adorait.
+
+Sur ces entrefaites, il se produisit une rumeur sous la fenêtre, et l'on
+distinguait d'assez vives altercations entre les gens d'une gondole et
+les personnes de la compagnie qui se tenaient sur le balcon pour
+annoncer les premiers la nature des objets repêchés sous les eaux.
+
+--C'est impossible, disait-on du balcon, vous ne le ferez pas!
+
+--Cependant, les règles sont formelles, faisaient les juges d'honneur,
+et nous accomplirons notre tâche jusqu'à l'extrémité.
+
+--Mais ceci n'est point un objet...
+
+--Ceci a été trouvé à moins de vingt brasses de l'endroit indiqué; nous
+l'apporterons donc comme le reste.
+
+--Non! non! vous ne le ferez pas!
+
+Arétin s'approcha de la fenêtre.
+
+--Qu'est-ce donc? dit-il.
+
+On lui dit à l'oreille ce que c'était. Une crise violente se passa dans
+le temps d'un éclair au dedans de lui-même. Il s'appuya contre un bahut,
+ferma les yeux, puis le sang prompt reparut; il se composa le visage, et
+ce fut d'un ton serein qu'il répondit à Périna, demandant impérieusement
+de son lit la cause de ce tumulte:
+
+--Ma belle amie, c'est le corps d'un homme qu'ils ont trouvé dans le lit
+du Canal fertile en surprises: entre-t-il en vos desseins qu'il soit
+étalé ici parmi nos chaînes et nos parures?
+
+Périna jeta un grand cri et retomba sur ses oreillers. On la crut
+évanouie, mais elle se releva presque aussitôt, et, quasiment nue, elle
+fut debout dans la chambre et elle se précipitait vers le balcon pour
+voir plus tôt la funèbre épave.
+
+--Qu'on l'apporte donc! dit Arétin.
+
+On avait recouvert la tête du cadavre; le reste du corps était vêtu de
+la manière la plus élégante. C'était le corps d'un homme jeune et bien
+fait.
+
+Périna n'eut pas plus tôt aperçu ce qui demeurait de la couleur du
+pourpoint et une des mains exsangues qui ballotta quand on hissa la
+chose pesante sur le balcon, qu'elle tomba sur les genoux en invoquant
+la Vierge Marie et criant à tous que l'on avait assassiné Polo, son
+amant bien-aimé. Ce fut une scène à la fois discourtoise et touchante,
+car, à la vérité, cette funèbre parade se trouvait être l'épisode d'un
+très aimable jeu, et toutes les personnes qui étaient là, pour leur
+divertissement, tournaient inopinément à la douleur la plus vive, en
+présence d'un si grand désespoir.
+
+Dans le même temps, l'ambassadeur fut de retour, avec tout son appareil
+et sa suite, ayant achevé sa mission. Il se montra fort déconfit des
+résultats inattendus de son zèle et osa s'informer, tant il avait de
+crédulité dans les subtilités italiennes, si ce qu'il voyait là n'était
+pas la continuation de quelque jeu qu'il ignorait. On lui dit qu'il se
+passait au contraire quelque chose d'une excessive gravité, et que nul
+ne saurait dire si tout cela tournerait à bonne fin.
+
+Périna embrassait le corps inanimé et se roulait éperdument sur ces
+restes misérables, sans souci de leur malpropreté ni du peu de décence
+de son vêtement, qui, étant déjà fort réduit, se déchirait et s'ouvrait
+dans l'ardeur de ses emportements. Elle eut tôt fait de lacérer, par le
+moyen de ses ongles et de ses dents, le velours du pourpoint et la fine
+chemise à l'endroit où la dague avait laissé sa petite morsure. Elle ne
+se troubla point à la vue de la plaie mince, béante et demeurée fraîche
+au contact de l'eau. Sans doute elle était experte et accoutumée, comme
+les femmes de son temps, aux blessures de ce genre. L'idée lui vint
+d'aller prendre le poignard d'Arétin trouvé dans le Canal, non loin de
+ce corps chéri, et en ayant approché la petite lame courte et acérée,
+elle jugea finement, promptement, d'un oeil expert et sûr.
+
+Elle se redressa tout à coup, brandissant le poignard qui avait touché
+le coeur de son amant. Et elle lut une seconde fois l'inscription en
+relief sur la garde dorée: _Divus Aretinus, flagellum principum._
+
+--Le divin Arétin, fléau des princes! s'écria-t-elle en s'adressant à
+l'assistance nombreuse. Le ton de sa voix était gouailleur et ironique.
+Elle aperçut tous ces gens muets; elle vit l'ambassadeur de Sa Majesté
+Impériale qui était timide et tremblant au milieu de l'étalage de ses
+présents souillés pour le seul caprice d'une femme aimée de l'Arétin.
+Elle réfléchit un instant et prononça à nouveau, sur un ton différent où
+transperçait le sentiment de la réelle puissance de cet homme:
+
+--Le divin Arétin, fléau des princes!
+
+Elle se prit à songer; puis elle le chercha des yeux; elle ne l'aperçut
+pas tout d'abord.
+
+Il était à l'extrémité de la salle, assis dans une haute cathèdre
+gothique, le menton appuyé sur le poing, les yeux vifs. Un étrange
+sourire passait et repassait sur sa lèvre épaisse. On s'était écarté
+devant lui. Il fixait Périna et recevait de l'excès de sa douleur un
+sombre et violent plaisir.
+
+Elle le vit et le nargua de loin, certaine que sa main avait dirigé le
+poignard qu'elle tenait à cette heure. Elle l'insulta ignominieusement,
+bravement. Elle lui jetait à la face tout ce qu'elle savait d'infâme et
+d'injurieux. Cette flamme et ces propos contrastaient avec son corps
+frêle et sa figure de vierge. En face de ces gens inertes et soumis à
+l'hôte tout-puissant, elle empruntait une force secrète à sa solitude et
+à sa juste colère. Elle monta sur le cadavre de son amant pour adresser
+de plus haut ses injures à l'assassin. Elle prenait une extraordinaire
+beauté.
+
+Du haut de sa cathèdre, Arétin continuait de sourire. Ce calme, plus
+encore que la grandeur du crime, dépassait l'entendement de la jeune
+femme. Elle se posa la main sur les yeux et sur le front, comme pour se
+demander si elle jugeait encore sainement les choses, si ce n'était pas
+elle, précisément, qui errait, au milieu de ce concert de respect
+vis-à-vis de celui qu'elle poursuivait de sa colère. Elle essayait de se
+remémorer les différentes phases de l'aventure; les idées
+s'embrouillaient dans sa fièvre; une seule demeurait nette: la certitude
+qu'Arétin était le meurtrier de Polo. Elle se commandait de ne se point
+laisser troubler par aucune considération; et elle implorait cette forte
+conviction de l'envahir tout entière et d'armer son bras pour l'acte
+qu'elle voulait accomplir ici, sur-le-champ, au milieu de ce vil peuple
+de courtisans.
+
+Malhabile à manier la dague, elle en serrait la poignée dans sa petite
+main débile. Sa main, son bras et tout son corps tremblaient. Cependant
+elle levait la main et s'élançait.
+
+Elle crut surprendre des sourires, comme si elle eût été ridicule en ce
+qu'elle allait faire. Sans doute contre elle avait-elle le monde entier;
+et rien n'est plus gauche que de s'attaquer à la puissance. Elle se
+sentait raison contre tous, et cette lutte contre une formidable
+opposition soupçonnée l'affermissait. Elle ignorait combien de pas elle
+avait faits; elle éprouvait seulement qu'elle avançait vers l'endroit où
+elle exécuterait une action juste. Elle fixait Arétin à la manière d'une
+bête de proie. Elle croyait pourtant aller vite et se sentait fondre sur
+lui; comment donc la justice n'était-elle point encore accomplie? Arétin
+fixait Périna avec autant de ténacité, et il gardait son perpétuel
+sourire. Qui des deux était l'animal de proie? Qui allait être par
+l'autre anéanti?
+
+Tout ceci se passa dans le temps d'un clin d'oeil, mais parut long dans
+les esprits. Périna s'exaltait à mesure qu'elle approchait, à l'idée du
+colosse qu'elle allait jeter bas, par quelque aide divine dont elle
+n'osait douter. Elle se rappelait Goliath et David. La figure d'Arétin
+s'enflait en son esprit dans la proportion que croissait l'orgueil
+joyeux de l'acte tout proche. Ce misérable était immense et magnifique
+sur son espèce de trône, au milieu de sa cour et avec son dédain de
+demi-dieu. Il avait une main sur la barbe, qu'il laissait doucement
+descendre, en flattant les longs poils soyeux; le coude posé sur le
+genou, le regard immobile et croisant ses feux avec ceux du regard de
+Périna Riccia. Peu d'hommes, ayant goûté les joies âpres et ardentes de
+la passion, approchèrent de la volupté aiguë que dut savourer cet amant
+farouche, à voir ainsi s'avancer contre lui la créature adorée, pleine
+de haine, ivre par avance de son sang et confondant, dans le désordre de
+sa colère, l'appétit de la mort de son ennemi et la fascination de la
+puissance que celui-ci exerçait infailliblement sur elle.
+
+Quand Périna toucha du pied le degré sur quoi la chaise gothique était
+exhaussée, elle cracha à la figure d'Arétin, poussa un cri rauque et
+bondit. L'assistance sursauta; quelques-uns se précipitèrent, malgré la
+volonté que le maître avait exprimée par un signe. Mais Arétin, d'un
+geste agile, avait saisi la fine main meurtrière, et il tenait dans ses
+bras robustes, comme une enfant, le corps de Périna secoué de sanglots,
+frémissant et pâmé tout à coup par la plus terrible commotion et le plus
+étrange revirement qui puissent atteindre la nature d'une femme. La
+grandeur du cynisme et la vivacité du heurt la jetaient dans le délire
+complet de la pensée et des sens. Enivrée soudain d'être si violemment
+réduite, si complètement vaincue, elle s'abandonnait avec toute la grâce
+heureuse et la jolie hébétude naturelle qu'a l'être faible à se sentir
+un maître. Celui-ci essuya des lèvres les larmes que la pauvre enfant
+répandait; il lui baisa le visage et l'épaule qu'il avait meurtrie en
+arrêtant son élan; il se leva, et il emporta sa conquête, fier,
+tranquille et lent comme un beau tigre qui secoue sa proie toute
+pantelante à la gueule.
+
+                                   *
+
+                                 *   *
+
+Les courtisans applaudirent; on fit écarter le cadavre du malheureux
+Polo, et les dociles Arétines célébrèrent par des chants le triomphe de
+leur commun amant. A l'ambassadeur de Sa Majesté l'Empereur, qui osait
+se plaindre de n'avoir pu exposer l'objet de sa mission près de l'Arétin
+par suite des amours nouvelles de celui-ci, le secrétaire Franco, de qui
+la langue était libre et parfois emphatique, répondit:
+
+--Celui qui, par la vertu de l'audace, don divin, s'élève jusqu'à
+gouverner les traits du dieu Amour, n'est inférieur à aucun roi.
+
+
+
+
+L'ADORATION DES MAGES
+
+
+I
+
+Le Roi me toucha du doigt, et me tira de ce doux plaisir du sommeil
+qu'on ne goûte vraiment qu'au matin[1]. Sa barbe était sans apprêt; il
+penchait la tête sur le côté, semblant me prendre en compassion, et son
+regard n'avait pas l'ordinaire quiétude des personnes familières avec
+les choses divines.
+
+  [1] Ce récit est, à n'en pas douter, de quelque Grec, placé entre
+    l'influence des derniers sceptiques et la naissance de l'empirisme
+    ou positivisme ancien qui fleurit aux premiers siècles de notre ère.
+    On sait qu'en Perse, où vécut notre philosophe, même après que les
+    rois-mages sassanides eurent restauré l'hégémonie nationale, on se
+    flattait du titre de philhellène. Les Attiques, toutefois, un peu
+    réduits sans doute au rôle d'amuseurs, sinon de bouffons, durent
+    prendre en face de la Majesté despotique et religieuse, un goût du
+    paradoxe qui est ici trop évident. Nous ne publierions point ce
+    fragment si le singulier mélange qu'on y voit, d'une exactitude
+    scrupuleuse de certains détails (confirmés par Pline, par
+    Philostrate, etc.) et la vraisemblance des grands traits même (tel
+    le Voyage des Dames Persanes), ne le réduisaient à la valeur d'un de
+    ces divertissements oratoires d'érudits qui effleurent les plus
+    hauts sujets sans les atteindre.
+
+Il m'engagea à avoir honte de dormir à l'heure où l'aurore jalouse
+éteignant les étoiles s'apprête à clore le livre du Destin.
+
+--Maître, répliquai-je, le Destin pourra me dire que les songes de cette
+heure enfantine sont achevés pour moi, mais il ne pourra pas me dire que
+des songes meilleurs me viendront caresser les sens desquels l'harmonie
+s'épanouit en la fleur de mon âme. Mon rêve est tout garni de nobles et
+tendres formes bien imprégnées de parfums, et tout y marque que je suis
+beau. La munificence de Votre Majesté serait inhabile à me combler de
+mensonges si bienfaisants. Qu'elle me permette seulement de sourire de
+l'une et de l'autre face du Destin.
+
+Cependant le Roi commença de s'échauffer et de maudire ce qu'il nomme,
+par une étrange irrévérence de langage, le souffle court de notre race
+hellénique. «Doux joueurs de flûte, prononce-t-il, vis-à-vis du
+retentissement que les merveilles occultes feront éclater aux oreilles
+humaines.»
+
+Et ce disant, il courait saisir, de sa main auguste, le bâton de voyage
+que je tiens constamment à proximité de ma couche pour signifier le
+caractère transitoire de la halte présente; et il commanda:
+
+--Lève-toi! car des prodiges sont accomplis.
+
+
+II
+
+Je suivis posément le Roi mon maître jusqu'à la cour intérieure où une
+grande masse de gens de toutes castes étaient assemblés. Il y avait
+aussi quarante chameaux, dirai-je à la mode de ce pays, pour exprimer
+que leur nombre allait au delà de ce que l'on peut compter; force
+bagages sur des mules; des chevaux bien drus et un épais tumulte
+d'officiers et d'esclaves. Je hasardai de m'enquérir si le prodige
+n'était point précisément que tant de monde se trouvât debout à une
+heure aussi matinale. Mais ma voix, qui ne puise sa clarté que dans la
+coupe de vin de Chypre propre au lever du sage, s'érailla dans ma gorge
+sèche et se perdit dans les murmures et le bruit des piétinements.
+
+L'aurore coulait doucement le long des pentes de la colline où s'adosse
+le Palais, et en haut de l'escalier double, la chevelure des
+hippogriffes à tête d'homme recevait la caresse de ses tons de lait,
+tandis que leur barbe annelée rougeoyait encore au-dessus du brasier des
+torches.
+
+Nous quittâmes la ville par la porte méridionale et il fallut que le
+cortège se déployât sous les rayons du jour et parmi les déclivités
+successives du terrain jusqu'aux bords du fleuve, pour que l'on pût
+apprécier le nombre et l'éclat des personnes qui le composaient. Je
+n'entreprendrai pas de le décrire; qu'il me suffise de dire que tout ce
+qui a de la qualité dans l'antique Istakar était là, brillamment équipé
+et amplement muni de serviteurs. Sachez que l'un et l'autre sexe s'y
+balançaient en quantité égale, ce qui maintint dès aussitôt l'humeur
+sereine, sans préjuger le moins du monde des risques divers que comporte
+une expédition si mystérieuse.
+
+Je passai la première matinée dans la compagnie des dames, insoucieux
+autant qu'elles, grâce à d'aimables discours, et confiant en la
+fantaisie royale. Nous admirâmes, au long de l'eau, la joaillerie
+capricieuse de la rosée sur les feuillages gras, et, sur la surface des
+flots polis, les combinaisons des tons harmonieux du jour, qu'égalent
+les Babyloniens dans le travail de leurs beaux tissus. Dans
+l'après-midi, nous lâchâmes l'oiseau de proie habile à piquer
+mortellement de son bec le lièvre et la gazelle; le temps nous parut
+aussi prompt que la course de ces animaux agiles et le repas du soir fut
+succulent et gai.
+
+Le Roi, qui ne sortait pas du cercle des prêtres, veilla la nuit et
+observa le ciel à l'aide d'instruments subtils. L'air était doux, et
+l'ombre aimable, à cause des mille clartés d'en haut. Mon puissant
+maître me reconnut accoudé à un vieux cep noueux, vers la lisière d'un
+champ d'oliviers dépouillés.
+
+--Homme asservi à la matière et dont l'esprit cependant est souple,
+délicat et orné, prononça-t-il en passant, ne prendrais-tu pas d'intérêt
+à voir avec nous le Ciel continuer le livre des hommes, sublime
+collaboration! ou, si tu aimes mieux, à lire aux figures de cette grande
+coupe renversée, sinon le Destin que tu dédaignes, du moins les causes
+des fluctuations diverses de cet esprit humain que tu te piques de
+priser immédiatement après la chair des femmes?
+
+--Maître, fis-je humblement, imprimant une cadence au cep flexible,
+outre que je ne me soucie pas de voir le Ciel corroborer des livres
+desquels je ne voudrais pas, par Apollon, avoir inscrit de mon stylet le
+plus mince _iota_,--car j'imagine qu'il s'agit de ces compilations des
+vilains Hébreux, incohérents et outrés,--je goûte pour le moment les
+aromes divins de la terre vers quoi je vois que toutes vos étoiles
+clignotent d'un oeil jaloux; et de plus, j'ai, sous ma tente, entre ma
+lampe allumée et ma petite esclave caucasienne, deux ou trois fragments
+homériques, quelques vers de Sophocle et des mimes courts et vifs où le
+dessin est pur, car, aux mobiles de l'esprit humain onduleux, j'avoue
+que je préfère le triomphe de cet esprit, dans les rares cas où il s'est
+montré parfait. J'implore donc, ô Roi, qu'il vous plaise me laisser sur
+mon cep, à recevoir la caresse du soir, délicieuse devancière des
+flatteries de jolis doigts parfumés et du bercement des nobles pensées
+traduites en langage excellent.
+
+
+III
+
+Le visage du Roi parut radieux, le lendemain. On en augura que les
+signes étaient bons et personne ne s'inquiéta d'autre chose que de
+suivre cette face auguste et se reposer sur ces présages. Rien n'est
+plus doux que d'être conduit.
+
+Toutefois, ayant eu, dans le courant de ce jour, à traverser un coin
+notable du désert d'Arabie, et les ressources de l'esprit commençant à
+se sentir de l'aridité générale, nous éprouvâmes quelque malaise dès
+auparavant que le soleil déclinât. Je crus comprendre que les seigneurs
+et les dames souhaitaient savoir si, non content des prodiges annoncés,
+le Roi entendait en tirer de notre patience. On me chargeait bientôt de
+cette enquête délicate, grâce à la complaisance que ce monarque témoigne
+pour ma double qualité de misérable sophiste et d'héritier d'une race
+qui mit le royaume à feu et à sang. J'allais m'en acquitter quand nous
+vîmes poindre à l'horizon des sables un nuage poudreux qui s'enfla
+progressivement et, dès aussitôt, nous fit oublier tout le reste.
+
+Le nuage contenait un groupe de négrillons tout nus, hormis les régions
+du cou, des poignets et des chevilles, où des racines tressées
+supportaient de pauvres objets sans nom, qui étaient des talismans. A
+leur approche, les dames poussèrent un grand cri, se firent garantir la
+face par des écrans de plumes, puis n'eurent de cesse qu'elles n'eussent
+entouré et quasiment touché ces esclaves d'ébène fort divertissants par
+leur affectation à singer l'allure des hommes libres. Le comble de
+l'hilarité vint de ce qu'il nous fallut comprendre à leur mimique
+saccadée et inharmonieuse, qu'ils tenaient parmi eux quelque chose comme
+un roi et qui ne craignait pas de solliciter une entrevue face à face
+avec le puissant Seigneur de la Perse. Et je vous donne à penser de
+l'état de nos esprits quand nous sûmes que la tente royale s'était
+ouverte à toute cette peuplade gambadante aux membres menus et aux dos
+luisants comme ont les scarabées. Mieux que cela, le petit roi noir fut
+admis, la nuit suivante, à l'examen du ciel étoilé, et l'on sut qu'après
+avoir manqué défaillir au premier aspect des instruments et des signes
+graphiques de nos livres, les résultats s'en étaient trouvés d'une si
+intime concordance avec ceux des notions rudimentaires que l'on possède
+au royaume des Sables, qu'une scène touchante avait eu lieu où Roi,
+Mages et Nègre nu s'étaient confusément embrassés.
+
+Nous ne doutâmes plus que l'on ne nous menât vers des merveilles, et nos
+dames, allégées par ce bel horizon, reprirent un goût serein aux choses
+de la route, à la grâce des matins, au clair déroulement de la journée,
+aux diversités troublantes des crépuscules, à la volupté des nuits.
+
+
+IV
+
+Le voyage fut long, et je me garderai de le décrire par le détail.
+Toutefois les dieux bienfaisants nous le parsemèrent à souhait d'oasis
+réconfortantes, et nous fûmes constamment maintenus en haleine. Une
+journée fut remplie par le fait de menus propos que tint une noble
+indiscrète sur le compte d'une princesse dont je tairai le nom, mais qui
+est aux yeux des hommes comme cette chair veloutée des pêches que je vis
+naguère exposées pour Aphrodite au blond soleil de Paphos. Nous eûmes
+ainsi une grande animation oratoire, quelques cliquetis d'armes, et
+vîmes la couleur du sang qui apaisa tout le monde. Ma lampe manqua
+d'huile une nuit que je composais une ode à la manière de Sapho et que
+la petite Caucasienne dormait si profondément que je n'osai l'appeler.
+Une dame s'éprit d'un nègre. Les comédiens hellènes nous donnèrent, au
+penchant d'un coteau, une représentation de _la Bacchante_ d'Euripide.
+Voici pour les événements qui marquèrent le plus sur nos esprits. Ai-je
+dit que nous fîmes la rencontre d'un vieillard d'aspect honorable qui se
+dit adonné, lui aussi, aux sciences secrètes, porte couronne et
+s'enflamme chaque nuit claire aux côtés de notre Seigneur, du petit roi
+noir et des initiés chenus?
+
+
+V
+
+M'avisant, un jour de belle humeur, le Roi daigna s'étonner, sous le
+couvert de mots plaisants, de ma parfaite et aveugle soumission à
+l'équipée qu'il menait.
+
+--Quoi! dit-il, vous allez à l'inconnu avec la même insouciance que tous
+ces princes et seigneurs qui ont moins de philosophie que leur monture
+ou que ces dames dont l'âme est pareille aux minces libellules qui nous
+frôlent, près des fleuves, aux haltes de midi?
+
+--Maître, répondis-je, est-ce donner les marques de tant de médiocrité
+que de se satisfaire à admirer la sagesse par quoi Votre Majesté
+conduit, en temporisant, ces dames fragiles à quelque révélation
+ineffable? J'ignore, pour ma part, le mot que vous tenez caché; mais je
+sens que le prononcer serait en épuiser la vertu. Car ce qui n'a plus de
+mystère est sans action sur l'esprit des hommes. Par contre, votre
+réserve leur grossit, nous grossit, chaque jour, quelque chose vers quoi
+nous allons avec un intérêt croissant, vers quoi nous nous contenterions
+sans doute d'aller toujours.
+
+Le Roi sourit, mais un souci rapprocha aussitôt les lignes de son front.
+
+--La crête des monts que vous apercevez là-bas, dit-il, est celle du
+Liban fertile en cèdres, bois odorant qu'employa le Roi Salomon pour
+construire un temple fameux; et tous les signes me portent à croire que
+nous approchons du terme du voyage. Je dois à mes gens de parler enfin,
+et il me plaît de vous avertir, vous, précédemment.
+
+--Sire, j'atteins l'âge où la nouveauté s'inscrit difficilement sur la
+table durcie du jugement; j'ai tracé une ligne nette avec les bornes de
+ma connaissance, et la figure m'en plaît...
+
+--Chère âme paresseuse, soupira le Roi qui s'attendrissait sous le poids
+de son secret, ta figure changera cependant, comme celle du monde,
+car... Aussi bien, je ne puis te le cacher plus longtemps...
+
+Sa voix tremblait, et une larme était suspendue dans le coin de son oeil
+vénérable.
+
+--Le Messie, dit-il, tu sais, le Messie...
+
+--Oui, j'ai lu beaucoup de livres; plusieurs contiennent cette belle
+promesse, et elle est populaire.
+
+--Eh bien! le Messie est né!...
+
+--C'est un bien grand malheur! Qui donc attendrons-nous désormais?
+
+Mais le Roi s'emporta tout à coup:
+
+--Vil Grec! s'écria-t-il, âme modelée dans la boue que raclent les
+esclaves aux sandales des rhéteurs et des sophistes! Peux-tu avoir
+prononcé un tel blasphème et demeurer devant moi?
+
+--Sire, cela est en effet en mon pouvoir que j'ai coutume cependant
+d'estimer fort mince. Mais je dois faire observer à Votre Majesté que le
+Messie qui vaut comme espérance ne peut manquer de se diminuer en se
+réalisant. Ce que l'on mesure du doigt n'atteignit jamais la taille des
+images que contemplent les visionnaires. Le divin Hercule n'est si grand
+que par le long travail des esprits qui s'ajouta au cours des temps à la
+renommée de ses exploits naturels. Et ce serait au rebours que
+procéderait votre Messie! Les plus spirituels seront ceux qui ne
+croiront point en lui.
+
+Le Roi contint un geste d'impatience, et son visage reparut dépourvu de
+colère. Je ne sus jamais si ma pensée l'avait touché ou bien s'il
+n'écoutait que son coeur qui, visiblement, débordait.
+
+--Sire! ajoutai-je, m'adressant à ses sentiments, je vous supplie de ne
+point annoncer à votre peuple cet événement fâcheux. Il en manifestera à
+la vérité une grande joie, qui sera comme le feu de paille, par la
+rapidité et les résultats. Je sais qu'en ses heures mauvaises, l'espoir
+de ce beau leurre le soutient. Qu'arrivera-t-il quand il saura que le
+Messie est là et que les heures coulent mauvaises comme devant?
+
+--Tais-toi! tais-toi! tous les arguments sont boiteux désormais; il ne
+faut plus raisonner comme hier. Les calculs célestes eux-mêmes sont
+dérangés par le fait d'une étoile nouvelle: l'univers s'éclaire d'une
+lumière insoupçonnée...
+
+Ici, je commençai de pleurer cette ancienne sagesse dont mon puissant
+maître s'était rarement départi, quoique mage. Il continua de parler
+avec une grande volubilité; je ne le pus suivre. Il avait coutume de
+dire: «Restez debout, mais faites asseoir votre pensée.» J'éprouvais la
+démangeaison de lui citer ses paroles. Mais ma compagnie ne lui suffit
+plus; je le vis s'éloigner, l'oeil en feu, les lèvres avides de parler.
+Je compris que la foule allait être informée, et courus boucher les
+oreilles et bander les yeux de la petite Caucasienne qui ne dépend que
+de moi.
+
+
+VI
+
+Je renonce à dire l'animation qui régna dans nos groupes dès que l'on
+tint, du Roi lui-même, que l'on allait voir le Messie. Il se trouva des
+gens qui dès auparavant s'en doutaient. On loua leur retenue. Mais la
+plupart furent émus très profondément. On en faillit négliger le boire
+et le manger. Des dames passèrent les nuits à regarder les astres, de
+leurs beaux yeux nus, dans l'espoir intime de quelque signe privilégié.
+Quelques-unes confessèrent avoir reçu confirmation particulière de
+l'événement. On se fit mille descriptions de la figure qu'on imaginait
+au Messie. On négligea les nègres. On se pardonna les injures. On
+s'occupa de la tenue que l'on aurait au jour de la présentation. On
+déplora de n'avoir pas été prévenu plus tôt, à cause des robes et des
+parures. On se dépita, s'injuria de nouveau; l'humeur fut exécrable. La
+maison du Roi dut abandonner plusieurs tentures riches et vénérables,
+quoique Xerxès y eût fait représenter la prise d'Athènes et la Victoire
+des Thermopyles, qu'il s'attribuait. On les coupa; se les partagea; en
+couvrit les selles des chevaux et des mules. Nous passions seuls des
+nuits calmes, ma petite esclave et moi; et lui ôtant ses bandeaux, je
+lui faisais des contes, comme elle les aime, c'est-à-dire de ceux qui ne
+peuvent point arriver.
+
+
+VII
+
+Nous atteignîmes un pays remarquable par sa pauvreté. Mais les signes et
+les informations s'accordant à le désigner comme l'endroit où les
+prodiges étaient accomplis, chacun s'exténua à en vanter l'agrément. A
+la vérité, la ville était composée de gros blocs réguliers et blancs,
+sans un portique, sans une colonne, sans la trace ni d'un marbre taillé
+ou non, ni de ces représentations vivement colorées où excellent les
+artistes persans. Des troncs dénudés de figuiers et de vignes
+s'enlaçaient à l'entour de cette misère. On n'avait rien vu d'un goût si
+délicat et la sobriété de ces cabanes avait de l'héroïque et du divin.
+Quelques seigneurs dépêchèrent des esclaves démolir leurs palais
+d'Istakar; on jeta les tentures d'Athènes et des Thermopyles; et le
+reste du train piétina les tissus éblouissants. Les chameaux glissaient
+dans la fange et la croupe des chevaux blancs en était maculée. On se
+traita de Babyloniens et d'efféminés à cause de la répugnance qu'on
+avait peine à dissimuler. Mais il faut avouer qu'aux fontaines, des
+femmes nous regardèrent avec d'admirables yeux étonnés.
+
+Enfin, le groupe des Rois mages qui tenait la tête du cortège fit halte,
+et tout le meilleur de la Perse sentit son coeur battre et s'humecter
+ses paupières.
+
+Il y avait dans l'une de ces masures à peine abritées de la bise, une
+femme donnant le sein à un petit enfant nouveau-né, et un homme debout,
+qui les considérait d'un oeil timide et doux. Notre nombre et notre
+magnificence ne parurent pas les émouvoir grandement. C'étaient des gens
+honnêtes et sans culture; ils ignoraient la langue persane aussi bien
+que la grecque et celle des Romains. Quand enfin nous les pûmes
+atteindre par quelques paroles hébraïques et syriaques touchant le but
+de notre mission, ils hochèrent la tête en souriant et parurent rentrer
+aussitôt dans la tiède sérénité de leur union. Le Roi ouvrit des
+cassettes; l'or brilla et tinta. Le Roi ne put se tenir de prendre
+l'enfant, et il dit, les yeux pleins de larmes: «Je le tiens dans mes
+bras!»
+
+--Maître! Maître! prononçai-je à voix basse, et sur un ton de
+remontrance suppliante.
+
+Ils sourirent encore et parurent confondus. L'autre mage avait aussi des
+présents. Mais le petit roi nègre qui se démenait étrangement pour
+expliquer la vertu de certains objets racornis, pareils à des noyaux,
+qu'il offrait, amusa l'enfant. Celui-ci agita les mains et remua ses
+lèvres humides de lait. On avait eu tant d'émotion qu'une grande détente
+se produisit. On entendit les chuchotements des seigneurs mêlés aux
+rires légers des dames. Une grande baie ouverte dans la muraille
+laissait apercevoir le reste du cortège attentif, haussé sur les
+montures, sur les bagages et jusque sur le cou des chameaux. Une
+princesse osa s'approcher de l'enfant et le baisa. Toutes les dames le
+voulurent approcher et baiser. On se le passait de main en main. On
+commença de mettre à part tout ce qu'il avait touché, mais on n'y put
+suffire. On lui promit cent cadeaux divers. On le voulait emmener et
+élever plus chaudement. Tout bas on blâma même le père de demeurer si
+tranquillement dans un hangar glacé. On prit pitié de ses langes;
+jusqu'à des nourrices affranchies haussèrent l'épaule à cause de la
+façon dont il était enveloppé, selon la coutume du pays. Le petit avait
+l'air patient et bon; les caresses lui plaisaient et il secouait de la
+main les colliers d'or. On finit par s'asseoir où l'on put, et l'on
+occupa le reste du jour à jouer avec l'enfant le plus simplement du
+monde.
+
+
+VIII
+
+Il arriva que le lendemain on eut à passer par là, en s'en retournant.
+Il faisait un soleil tiède. Le père, la mère et l'enfant étaient assis
+au pas de la masure.
+
+Comme on était pressé, on leur adressa de la main un petit bonjour
+amical.
+
+
+
+
+LA DANSEUSE DE TANAGRE
+
+
+J'ai été séduit par une statuette de Tanagre au point d'éprouver à sa
+vue cette sorte de joie tremblante et cette anxiété qui sont les
+compagnes ordinaires de la passion amoureuse.
+
+C'est une danseuse. Un voile d'étoffe légère embrasse ses formes
+accomplies; son attitude semble prise dans l'instant où le torse et la
+jambe, animés par les mouvements rythmiques qui s'achèvent et, pour
+ainsi dire, rendus sublimes par la vie abondante que répand
+l'entraînement musical dans un corps jeune et pur, atteignent, en une
+seconde de repos, l'insaisissable beauté.
+
+«O petite danseuse! pris-je la liberté de dire un jour à cette gracieuse
+effigie de terre, je te supplie de m'apprendre le secret du charme que
+tu répands et qui dépasse celui de tes soeurs, car tu vois que je le
+subis aussi vivement que s'il me venait d'une jeune fille plus jeune que
+moi de dix ans et cependant des gens avisés prétendent que de nombreux
+siècles nous séparent. Pour moi, je t'avouerai que je crois sentir la
+moiteur de ta chair parfumée qui vient de s'émouvoir et je ne suis pas
+sûr que l'air qu'a déplacé ta jambe agile n'est pas celui qui m'a tout à
+l'heure rafraîchi le visage. Dis que je suis fou! mais j'ai cru que ta
+poitrine se soulevait par suite de la douce fatigue, et que tes lèvres,
+un moment desserrées, exhalaient ce souffle imprégné de l'odeur des
+olives et des lauriers-roses, tel que je le respirai dans les pays du
+soleil et sur les pentes inclinées du côté de la mer.
+
+»Je te supplie de me dire qui tu es, ou bien quel dieu habite la fine
+pâte de ton argile, parce que je n'ai pas devant toi le calme que donne
+ordinairement la vue du chef-d'oeuvre, et que l'intime familiarité de ta
+grâce me ravit à mon temps, m'arrache à l'heure que le destin
+m'attribua, pour m'emporter en arrière, dans le passé ancien, jusqu'à
+l'heure bienheureuse où ta paupière a battu,--ce qui est contraire à
+l'ordre des choses et me déchire le coeur.»
+
+Alors, j'entendis une voix agréable, et je crus que la petite danseuse
+Tanagréenne parlait.
+
+                                   *
+
+                                 *   *
+
+«Tu connais, me fut-il dit, le bourg béotien dont le nom est demeuré aux
+figures de terre, la blanche Tanagre; c'est ma patrie. Mon père avait
+des champs et de la vigne sur le penchant du Céricius où la ville
+étageait ses maisons de brique argileuse. Rien ne manqua à mon enfance,
+et je connus le bonheur. A l'âge où toutes les jeunes filles chez nous
+étaient belles, je le devins, à ce qu'il paraît, et lorsque je passais
+dans la rue pour aller aux Temples ou aux Jeux, les hommes et les femmes
+me regardaient en souriant.
+
+Ce fut vers ce temps-là que, me trouvant à l'endroit où se tiennent les
+coroplastes ou modeleurs de poupées, pour vendre les petites images
+qu'ils pétrissent de leurs mains, l'un d'eux nommé Douris me fit signe
+qu'il m'aimait. Je baissai les yeux et n'osai plus de longtemps revenir
+au même lieu, parce que son visage avait fait une grande impression sur
+moi.
+
+Mais je pensai beaucoup à lui sans le voir. Bientôt il prit l'habitude
+de passer devant la maison de mon père et je l'aperçus. Je sentis, ce
+jour-là, que je n'avais aimé personne comme lui, et j'eus un grand
+regret qu'il ne fût qu'un pauvre coroplaste dont les statuettes, si
+prisées qu'elles fussent au-dessus de celles des autres, étaient vendues
+pour une obole.
+
+Un jour que je n'étais pas là, par extraordinaire, dans le moment où il
+vint, je trouvai sur la stèle de marbre consacrée à Hermès, qui était
+près du portique de la maison, un petit Eros en terre parfaitement
+modelé et peint. Je ne pus me tenir de le montrer à mon père, homme
+prudent et habile. Mon père tourna et retourna dans sa main le petit
+Eros. A la fin, il dit: «Qui a fait cela?»
+
+Je rougis et répondis que je n'en savais rien.
+
+--En tout cas, dit-il, celui qui a fait cela est un fort bon artiste et
+de qui le renom ira loin.
+
+Je sautai, à ces mots, si joyeusement et en battant des mains, que mon
+père me regarda avec étonnement. Je tombai à ses genoux que j'embrassai,
+et je lui dis, toute confuse:
+
+--Mon père, ce petit Eros est de Douris, le modeleur de poupées; et le
+coeur qu'il a percé de cette flèche est le mien.
+
+--Que Douris vienne donc ici, dit mon père en me relevant, et je pense
+qu'il honorera ma maison.
+
+Je songe avec attendrissement aux jours trop brefs qui suivirent mon
+mariage avec le modeleur de poupées. Nous nous aimions; il m'admirait et
+me prenait pour modèle. De cette époque datent ses meilleures figurines
+de terre; non parce que je valais mieux que les filles qu'il faisait
+poser avant de me connaître, mais parce que l'amour échauffait son
+talent.
+
+C'était une âme ardente et éprise de la beauté; aussi lui arrivait-il
+souvent d'avoir de l'inquiétude sur la valeur de ce qu'il avait fait,
+bien que sa fortune commençât à être brillante et que l'on ne cessât de
+lui prodiguer des éloges. Je l'emmenais alors, à la tombée du jour, du
+côté des prairies qui s'étendaient aux bords de l'Asope, au delà de la
+ville. Nous nous baignions les pieds dans la rivière; je me penchais
+au-dessus de son front, et ma voix, mêlée au doux bruit du vent dans le
+feuillage des tamaris, endormait sa pensée.
+
+Cependant, une fois, il se redressa sous mes caresses. C'était à la fin
+d'une journée particulièrement agitée, où l'argile s'était montrée plus
+que jamais rebelle à ses doigts; même il avait détruit plusieurs
+ébauches sur lesquelles nous fondions de grandes espérances. Il me
+repoussa tout à coup et me dit d'une voix à la fois impérieuse et
+suppliante:
+
+--Danse!... danse!
+
+Je me levai aussitôt, car, l'aimant comme je faisais, j'étais sa
+servante; et j'imitai de mon mieux la danse qu'exécutaient les jeunes
+filles en l'honneur d'Artémis. Mon vêtement était léger et le sol
+favorable. J'essayai de suppléer de la voix à l'accompagnement de la
+flûte qui nous manquait. D'ailleurs, entraîné bientôt par mon pas,
+Douris chanta lui-même. Son organe était ample et varié, et l'on eût
+juré qu'un berger était là et soutenait mes mouvements par le son de la
+syrinx.
+
+Il se baissa tout à coup pour saisir une poignée de la terre humide qui
+se trouvait en abondance au bord de l'eau; il se mit à la pétrir avec
+vivacité, et je vis naître promptement sous sa main mon image.
+
+C'est celle que tu vois. Il n'en avait jusqu'alors réussi aucune avec
+autant de bonheur. A mesure qu'elle venait sous ses doigts mouvants, je
+voyais s'agiter le visage de Douris et j'atteste les dieux qu'il fut
+plus beau dans ce moment-là que le jour même où il m'aperçut et sentit
+dans son coeur qu'il m'aimait. Dirai-je que j'en conçus une peine
+secrète et que je fus un peu jalouse de cette jolie image de terre qui
+captivait mon époux?
+
+Douris emporta son ouvrage, et il mouilla, pour le couvrir, une partie
+de mon vêtement qui était tombé à terre pendant la danse, sans prendre
+garde que mon épaule était nue. Les paroles que je lui adressai durant
+le retour à la maison furent vaines; et même, ayant tenté d'attirer son
+esprit vers la beauté du soir qui transfigurait Tanagre et les collines,
+ce spectacle, d'ordinaire si puissant sur son esprit, ne le détourna pas
+de la pensée du chef-d'oeuvre qu'il avait fait.
+
+Les jours coulèrent; il retouchait l'admirable figure et la poussait à
+la perfection. Jamais il ne s'aperçut que j'errais, moi vivante, autour
+de cette poignée de terre humide et glacée qui le retenait. Mon chagrin
+s'accrut. Je fus tentée de détruire la petite danseuse d'argile pendant
+le sommeil de Douris.
+
+Je me levai, une nuit; je pris la lampe et me dirigeai soigneusement
+vers l'endroit où la statuette reposait sous le linge frais. La colère
+m'animait et je goûtais une ivresse inconnue. Je pris l'amer plaisir de
+découvrir l'ennemie qui me ressemblait, avant de l'anéantir. Je gardais
+le linge dans la main et j'embrassais de ma haine l'image inanimée de
+mon corps devenue ma rivale par suite d'un sortilège ou d'une folie que
+je ne pouvais m'expliquer.
+
+«Te voilà donc! dis-je, misérable parcelle de limon qui ne couvriras pas
+la plante de mon pied quand je t'aurai écrasée! Je t'ai foulée déjà
+maintes fois à l'état de fange, au bord du ruisseau, quand les yeux des
+pâtres et ceux de mon bien-aimé, jaloux de la pureté de ma jambe,
+regrettaient que je la salisse au contact de ta boue... Et maintenant tu
+t'es élevée sur ce piédestal, tu as emprunté la forme de ma jambe et de
+mon joli ventre poli! Perfide! jusqu'à ce mouvement des épaules et de la
+tête que l'on m'a dit qu'aucune autre créature n'eut pareil et qui
+faisait frissonner des hommes forts, tu me l'as pris! par quelle astuce?
+Moi-même je l'ignorais; je n'avais jamais pu le saisir en un miroir et
+tu me vois toute tremblante à la révélation de ce qu'Amour met en nous
+de mystérieux attraits. Tout ce que tu es, tu me le dois; tu me l'as
+volé pièce à pièce; sans moi tu ne serais pas; tu n'es pas autre chose
+que moi!...»
+
+Je fus épouvantée tout à coup du son de mes paroles dans là pièce
+obscure et vis-à-vis de l'image qui recevait toute seule la lumière de
+la lampe. La danseuse semblait sourire et me regarder avec indulgence du
+haut de son chevalet de bois. Je me tus. Mes derniers mots
+retentissaient dans le silence de la nuit: «Tu n'es pas autre chose que
+moi!...»
+
+Mon premier mouvement avait été de bondir vers la statue aussitôt après
+avoir invectivé contre elle. Mais j'étais maintenue à ma place par une
+volonté imprévue. Mes yeux ne quittaient pas l'objet de ma colère; et je
+m'étonnais de mon attitude et de mon inaction. Je me pris la tête dans
+les deux mains ainsi que l'on fait lorsqu'on veut voir clair avec
+ténacité; je me souviens que mes doigts s'enfoncèrent très avant dans ma
+chevelure, et lorsque les extrémités s'en rejoignirent derrière ma tête
+à travers l'emmêlement épais, je sentis un si vif mouvement de dépit à
+cause de ma faiblesse et de la puissance inconnue qui me paralysait, que
+je sortis brusquement en renversant la lampe dont l'huile se répandit.
+
+Je me trouvai sur la terrasse où j'avais passé des nuits si belles et si
+heureuses entre les bras de Douris. Sous le ciel voilé, une incertaine
+lueur bleue et légère commençait d'entourer le front des temples sur la
+hauteur; la ville était plongée encore dans l'ombre, et le silence
+m'effrayait.
+
+Je me souvins tout à coup d'un certain vieillard nommé Simonide qui
+était redouté pour sa connaissance des choses secrètes. Je savais où
+était sa maison, car il passait souvent devant l'étalage des
+coroplastes, qu'il critiquait ou encourageait par des paroles rares et
+justes; et je l'avais regardé s'éloigner jusque chez lui, à cause de ce
+qu'on disait de merveilleux sur sa science. J'y courus. Je le trouvai
+courbé sous sa lampe et au-dessus d'ouvrages anciens par l'apparence, et
+d'une écriture inconnue.
+
+Il sourit en m'apercevant:
+
+--Tu es la femme de Douris, dit-il.
+
+Et avant que je lui eusse adressé la parole:
+
+--Il faut que tu sois folle pour avoir épousé cet homme!...
+
+J'eus un mouvement de révolte, à cause de mon amour.
+
+--Tu l'aimes, dit-il, en cessant de sourire; et il te préfère ses
+ouvrages de terre?
+
+Je fis signe que oui.
+
+--J'ai voulu briser la danseuse, ajoutai-je en tremblant; je n'ai pas
+pu; et je viens savoir...
+
+Il m'interrompit avec violence:
+
+--J'ai vu, dit-il, la danseuse de Douris! Autant vaudrait s'attaquer à
+Jupiter qui gouverne le monde. Pauvre enfant! C'est toi qui as posé pour
+ce corps admirable, et tu t'étonnes de voir soudain ces formes d'argile
+te dépasser dans l'esprit de celui qui les a pétries de ses doigts;
+parce que ces mêmes doigts, n'est-ce pas? avaient coutume de défaillir
+de volupté à seulement toucher la jeune fleur de ta chair!
+
+»Mon enfant, écoute. Un dieu est caché et dort sous la mer mobile des
+formes comme sous l'eau profonde des regards humains. Nul ne sait
+comment ni pourquoi il s'éveille, s'agite et est présent tout à coup.
+Cependant nous nous inclinons devant un geste ou une attitude dont la
+secrète vertu nous a ébranlés jusqu'au fond de l'âme. Ceci n'eut
+peut-être que la durée d'un instant aussitôt évanoui, et il est possible
+qu'un grand nombre de témoins ne s'en soit pas aperçu. Mais nous
+déclarons divin l'homme habile qui, l'ayant vu, a su lui fournir
+l'expression durable, et souvent sans doute a provoqué le prodige, par
+sa prière ou son désir ardent.
+
+»C'est ainsi que, par l'évocation de Douris et par l'effet de ton beau
+corps ému, s'est réalisé dans de la terre et a pris forme pour
+l'immortalité cet instant d'entrevue sublime. Et le petit objet d'argile
+que tu n'as pu briser est supérieur à Douris lui-même et à toi: il ne
+serait pas injuste de l'établir au rang des dieux.»
+
+J'écoutais le vieillard avec une grande crainte. A mesure qu'il parlait,
+j'avais plus vif le sentiment de ma perte, car je comprenais que Douris
+avait tiré de moi tout ce que je valais. Quand Simonide eut fini, je lui
+dis simplement:
+
+--Je veux mourir.
+
+Au lieu de lever les bras et de me faire mille discours ordinaires, ce
+vieux sage s'étant recueilli un moment, comme pour peser diverses
+alternatives, me répondit que j'avais raison. Je l'admirai de si bien
+pénétrer les secrets du coeur et de l'esprit, et je baisai sa robe en
+signe de reconnaissance.
+
+L'aube descendait gaiement les pentes de nos collines quand je regagnai
+la terrasse où l'idée m'était venue de recourir au vieillard Simonide.
+Je m'y arrêtai de nouveau et résolus d'y accomplir sur-le-champ mon
+dessein. C'était le lieu qui m'avait été le plus complaisant, puisque
+l'amour m'y avait souri; et sur quelque point du pays que se portassent
+de là mes regards, j'y retrouvais le souvenir brûlant des caresses de
+Douris.
+
+Vers le haut de la ville, les temples des dieux recevaient les premiers
+rayons du jour, et au delà des murs, les champs d'orge et de blé, les
+prairies et le long serpent du fleuve baignaient confusément dans la mer
+de lait que le matin répand. Mon coeur se souleva; les larmes emplirent
+mes paupières et je ne vis plus distinctement tels endroits de la
+campagne où mon époux m'avait pressée plus tendrement de son bras. Je
+dis adieu au jour qui s'élevait et que je ne verrais pas en son midi.
+Puis j'accomplis quelques rites prescrits par le vieillard et tirai de
+mon sein la petite fiole qu'il m'avait remise. J'en bus d'un trait le
+contenu avant d'aller embrasser dans son sommeil celui pour qui je
+voulais mourir, et de peur de faiblir à sa vue. Il dormait profondément
+et ne sentit pas mon baiser. Ma lèvre, d'ailleurs, était déjà refroidie
+et je ne pus qu'avec peine regagner le dehors où le premier chant des
+oiseaux et le réveil alerte de la ville furent les dernières choses du
+monde qui me parvinrent, dans la grande confusion que donne la présence
+de la mort.»
+
+--O âme passionnée qui te défis un matin, sur une terrasse de Tanagre,
+de la chair dont s'inspira le modeleur de poupées, m'écriai-je, je
+t'aime!
+
+--Non! me dit, sur un ton désespéré, la voix qui m'avait attendri par le
+récit d'une vie si simple et si belle, non! ce n'est pas moi que tu
+aimes: comme Douris, comme les hommes et comme les dieux, c'est ma
+rivale que tu aimes! Je ne suis pas la statuette; moi, qui t'ai parlé,
+je suis la sacrifiée, l'éternelle jalouse. Je suis la créature de chair,
+le modèle, l'amante, l'héroïne, l'inspiratrice de l'oeuvre d'art; à
+jamais inférieure au morceau de terre que le pouce d'un homme a touché.»
+
+
+
+
+LE MIRACLE DU SAINT VAISSEAU
+
+
+I
+
+Au temps où Notre-Seigneur périt sur la croix, le pays de Judée était en
+partie soumis aux Romains dont Pilate était le bailli[2].
+
+  [2] On a cru devoir conserver dans ce récit l'absence totale de
+    «couleur locale» qui caractérise le roman de La Table Ronde dont il
+    est inspiré. Il y a moins d'irrespect à violer la vérité ou la
+    vraisemblance historiques, qu'à dégarnir ces belles matières
+    romanesques de la grâce particulière que leur valent leur naïveté et
+    leur foi.
+
+Un prud'homme nommé Joseph d'Arimathie, qui était au service de Pilate,
+avait aimé Jésus dès qu'il l'avait vu. Il l'avait suivi avec ses
+disciples, et il lui était dévoué, bien qu'il n'osât pas en témoigner,
+dans la crainte des mauvais Juifs.
+
+Or Jésus ayant expiré, Joseph en eut une vive douleur. Il s'en vint
+trouver Pilate et lui dit:
+
+--Sire, je vous ai longtemps servi sans recevoir de loyer; je viens vous
+demander pour ma récompense le corps de Jésus crucifié.
+
+--Je l'accorde de grand coeur, répondit Pilate.
+
+Joseph courut à la croix par le chemin que Notre-Seigneur avait suivi et
+où la populace s'écoulait en commentant ce qui était arrivé. Il y croisa
+plusieurs femmes qui pleuraient, et entre autres une nommée Verrine
+portant une guimpe qu'elle montrait à tous et où la figure de Jésus
+s'était imprimée fidèlement.
+
+Mais Joseph étant arrivé près de la croix, les gardes lui en défendirent
+l'approche, et ils envoyèrent contre lui un certain Juif du nom de Moïse
+qui lui dit en le repoussant avec brutalité:
+
+--Jésus s'est vanté de ressusciter le troisième jour, et s'il a dit
+vrai, nous voulons le refaire mourir; et autant de fois
+ressuscitera-t-il, autant de fois le mettrons-nous à mort.
+
+Joseph revint très mécontent vers Pilate qui était à table et tenait à
+la main une belle coupe. Il lui demanda main-forte pour vaincre la
+résistance des gardes.
+
+--Vous aimiez donc bien cet homme, pour prendre tant de peine de son
+corps? demanda Pilate. Eh bien, tenez! ajouta-t-il, voici le vase dans
+lequel il a célébré son sacrement. On me l'a donné: gardez-le, en
+mémoire de celui que je n'ai pu sauver.
+
+Et il lui donna main-forte.
+
+Joseph emprunta un marteau et des tenailles, et, ayant triomphé de la
+résistance des gardes et du Juif Moïse, il monta à la croix et en
+détacha Jésus.
+
+Il le prit entre ses bras; le posa doucement à terre; replaça
+convenablement les membres et les lava le mieux qu'il put.
+
+Pendant qu'il se livrait à cette besogne, il vit le sang divin couler de
+la plaie que la lance de Longin avait ouverte sur le côté. Il prit la
+coupe que Pilate lui avait remise et y recueillit les gouttes qui
+s'échappaient, car il pensait qu'elles y seraient conservées avec plus
+de révérence qu'en tout autre vaisseau. Cela fait, il enveloppa le corps
+d'une toile fine et neuve et le déposa dans un sarcophage qui se
+trouvait non loin de là et qu'il recouvrit d'une pierre large et d'un
+bon poids.
+
+                                   *
+
+                                 *   *
+
+Jésus ressuscita comme il l'avait annoncé et se montra à Marie la
+Madeleine, à ses disciples et à d'autres encore.
+
+Voilà aussitôt les Juifs très émus, et les soldats chargés de garder le
+sépulcre inquiets du compte qu'ils auraient à rendre. Comme Joseph
+d'Arimathie avait enseveli le corps, ils le soupçonnèrent de quelque
+maléfice dans l'affaire de cette sortie du tombeau. Ils résolurent d'en
+tirer vengeance contre lui et s'assemblèrent afin de délibérer des
+moyens que l'on pourrait employer pour lui nuire.
+
+Moïse se trouvait dans le groupe et dit:
+
+--Pour moi, je ne me soucie point de ce qui est arrivé, et j'ai craché à
+la figure de celui que l'on dit ressuscité. Je me moque pareillement de
+Joseph d'Arimathie. Mais c'est un homme riche, et je me fais fort de le
+livrer en bon état de capture à qui m'indiquera, pour s'emparer de son
+fief, un moyen prompt, sûr, et garanti de la potence.
+
+--Vous dites, fit un clerc qui se trouvait là, que ce Joseph a du bien?
+
+--Certes! On lui connaît plus de cent arpents, tant en vignes qu'en
+oliviers; et il les cultive avec habileté. Il a plus de génie qu'il n'en
+a l'air. Ainsi, on le crut dément, il n'y a pas si longtemps, lorsqu'il
+alla, à la suite du prophète, avec quelques âmes simples jusqu'au lac de
+Tibériade. Il n'en était rien. «J'y ai fort profité!» disait-il à son
+retour. En effet, outre qu'il recevait la bonne parole, d'autre part il
+vendait à des prix de famine, ses raisins, ses figues et ses olives aux
+bonnes gens accourus pour entendre Jésus. Et celui-ci ayant fait miracle
+à un certain endroit du Lac, Joseph y acheta immédiatement les pêcheries
+et y mit des établissements qui ne manqueront pas de prospérer par suite
+du bruit que fera l'aventure. C'est un homme d'ordre et plein de sens.
+
+--A-t-il quelque famille?
+
+--Il a en tout une soeur que l'on nomme Enigée.
+
+--Enigée, dit le clerc au perfide Moïse, hérite légalement de tout
+l'avoir de son frère... Que celui-ci vienne à disparaître, qui est-ce
+qui pourrait s'opposer à ton mariage avec cette demoiselle qui est
+assurément accorte et avenante en tous points?
+
+--Va donc trouver la belle, à la tombée de la nuit, qui est l'heure
+favorable à l'amour, insinuèrent-ils tous à Moïse, et, par la chambre de
+cette gentille personne, pénètre hardiment jusqu'au lit de Joseph...
+
+Moïse mit un pourpoint de velours à plus de cent sous l'aulne et s'étant
+garni les reins de liens solides et propres à bâillonner tous ensemble
+les chevaliers du guet, il s'alla poster, à la brune, sous la fenêtre
+d'Enigée, tout en chantant et s'accompagnant du luth qu'il touchait avec
+assez d'agrément.
+
+Enigée était une jeune fille accomplie et dont tous les sentiments
+étaient développés, comme il est naturel aux environs de la seizième
+année et sous les cieux cléments qui font fleurir les parterres dès le
+temps de Pâques. Elle avait du goût pour la musique et pour les gens
+bien faits. Avouez donc qu'il lui eût fallu une astuce fort éloignée de
+sa simplicité, pour démêler, sous le bel accoutrement de Moïse, que le
+chanteur était un vilain Juif et non quelque noble chevalier romain.
+Enigée ouvrit sa fenêtre sur le jardin parfumé d'où venait la chanson.
+
+Il est odieux de penser que la bouche en fleur d'une demoiselle, qui
+s'entr'ouvre à l'espoir du premier baiser, reçoive au lieu et place de
+ce qu'elle attend, le contact malséant du bâillon. Tel fut cependant le
+sort de la pauvre petite Enigée dès qu'elle fut tombée entre les mains
+de l'infâme Moïse. En même temps, la bande des mauvais Juifs liait
+outrageusement le vertueux Joseph d'Arimathie et l'emportait tout vif et
+bien fâché de ne pouvoir dire adieu à sa mignonne soeur, mais plus
+contristé encore d'abandonner le vaisseau contenant les gouttes du sang
+de Notre-Seigneur Jésus.
+
+Ils le conduisirent du côté d'une affreuse tour située à l'écart. Là ils
+lui délièrent les jambes, parce qu'il était replet de sa nature et
+pesant à porter, et ils lui firent descendre trois cent trente-trois
+marches, à force de coups. Enfin, ils le laissèrent dans un cachot
+obscur, sans lui donner ni pain ni eau et sans lui adresser une parole.
+
+Après quoi, étant remontés et ayant scellé l'entrée de la tour, ils se
+dispersèrent, en se frottant les mains, car ils pensaient bien qu'il ne
+serait plus jamais question de Joseph d'Arimathie.
+
+                                   *
+
+                                 *   *
+
+Le malheureux Joseph éprouva le plus vif mécontentement du lieu où on
+l'avait mis; non seulement parce qu'il était dépourvu de lit, de
+crédence et de prie-dieu, mais encore parce qu'il manquait de ce parfum
+subtil que mademoiselle Enigée faisait peut-être venir d'Arabie, à moins
+qu'elle ne le répandît de sa personne dans le logis clair et propret qui
+convenait si bien à un prud'homme faisant honneur à ses affaires. En
+outre, Joseph était incapable de méditation, ce qui eût été la seule
+ressource dans un mauvais cas comme le sien; mais le pire vint de ce
+qu'il avait un grand appétit qui fut contrarié quand arriva l'heure
+ordinaire du repas.
+
+En revanche, Notre-Seigneur lui apparut.
+
+--Joseph! lui dit-il, es-tu content de souffrir pour moi?
+
+--Monseigneur! dit Joseph, en faisant une profonde révérence, mon
+jugement est pauvre et dominé en ce moment par la faim; la vérité
+m'oblige à vous confesser que je ne suis pas parfaitement content.
+
+--Joseph! reprit Jésus, ta foi est plus pauvre encore que ton jugement;
+car si elle avait quelque vigueur, tu ne sentirais pas ta faim.
+
+--En ce cas, Monseigneur, dit Joseph avec simplicité, me voilà bien au
+regret, je vous jure, que ma foi ne soit pas plus vive!
+
+Jésus fut tenté de sourire de pitié, à cause de la malheureuse faiblesse
+des hommes, et il dit à Joseph:
+
+--Eh bien! et moi? crois-tu que je n'ai pas souffert pour toi?
+
+--Monseigneur! Monseigneur! soupira Joseph en se traînant aux pieds du
+maître, et soudain confus au souvenir des grandes tortures qu'il avait
+vues. Et il se mit à pleurer abondamment, en se traitant de pourceau.
+
+--Relève-toi, dit Jésus, car je t'aime. Tu as pris soin de mon corps et
+l'as enseveli. Au surplus, depuis longtemps tu me suivais avec fidélité
+et tu écoutais ma parole...
+
+--Oui, oui! interrompit vivement Joseph, c'était au bord du lac de
+Tibériade: il y avait une grande quantité de poissons, j'en ai vendu
+pour quinze cents deniers, et j'ai acheté des pêcheries! Ah!
+Monseigneur! montrez-moi la porte par où vous êtes entré dans ce réduit,
+afin que j'aille jeter un coup d'oeil à ces établissements qui vont
+dépérir par suite de mon absence!...
+
+--Joseph! dit Jésus avec douceur, voilà que tu n'as plus faim,
+maintenant que tu penses à tes pêcheries, tandis que ma présence a été
+inefficace à combler ton appétit!... Cependant, je veux t'embrasser à
+cause de ton ignorance du mensonge et de l'hypocrisie. Et écoute-moi:
+_Je t'apprendrai à connaître le vrai bien, et te tirerai de prison._
+
+Pour le moment, voici le vaisseau dans lequel tu as recueilli un peu de
+mon sang. Je l'ai ravi aux mains des méchants et je t'en confie la
+garde. Et écoute encore ceci: Tu n'as pas oublié le Jeudi où je fis la
+Cène chez Simon, avec mes disciples. En bénissant le pain et le vin, je
+leur dis qu'ils mangeaient ma chair avec le pain et buvaient mon sang
+avec le vin. Or, il sera fait mémoire de la table de Simon en maints
+pays lointains, et toi-même tu le feras, dès que tu seras sorti de
+prison et que tu auras trouvé douze hommes ayant le coeur pur et voulant
+s'asseoir avec toi à la table.
+
+Ce disant, Notre-Seigneur disparut.
+
+                                   *
+
+                                 *   *
+
+Bien que Notre-Seigneur eût promis à Joseph de le tirer de prison, on
+n'avait point entendu parler du pauvre prud'homme au bout de quarante
+années. On l'avait complètement oublié en Judée. Moïse avait réussi à
+épouser la gentille petite soeur, et celui-ci était à présent un homme
+riche et jouissant d'une bonne considération.
+
+La tour, au fond de laquelle le misérable avait jeté un juste, était
+tombée en ruines. Les oiseaux du ciel nichaient au creux des pierres et
+chantaient; les ronces et les lierres se suspendaient non sans grâce aux
+débris de cet édifice; la terre avait été retournée aux environs et les
+champs étaient fertiles. Car toutes les choses sont indifférentes et
+s'emploient souvent avec complaisance à couvrir les iniquités.
+
+
+II
+
+Il se trouva que dans le même temps l'Empereur de Rome avait un fils
+nommé Vespasien, qui était atteint de la lèpre. Ce malheureux prince
+vivait à l'écart, et dans un endroit sans fenêtre et sans escalier, où
+on lui passait sa nourriture par une étroite lucarne.
+
+Une vieille femme, appelée Verrine, qui avait chez elle le portrait de
+Notre-Seigneur, alla trouver l'Empereur et lui dit qu'elle guérirait le
+prince Vespasien par le moyen de son image.
+
+L'Empereur voulut bien tenter l'aventure et il se rendit avec toute sa
+cour au pied de la maison du lépreux. Verrine s'y trouva également,
+tenant serrée contre son coeur une guimpe qui était pliée avec soin.
+Tout le monde étant là, elle déplia la guimpe, et il n'y eut ni petit ni
+grand qui ne fût contraint de s'agenouiller, quand on vit le portrait de
+Notre-Seigneur Jésus-Christ.
+
+Quand Verrine vit le grand effet que produisait son image, elle dit:
+
+--Écoutez comment je la reçus. Je portais ce morceau de fine toile entre
+les mains, quand je fis la rencontre du prophète que les Juifs menaient
+au supplice. Il avait les mains liées d'une courroie derrière le dos, et
+suait sang et eau de toutes parts. Un homme juste, nommé Joseph
+d'Arimathie, qui le suivait et qui avait pitié de lui, me conseilla de
+lui essuyer le visage. Je m'approchai et je passai mon linge sur son
+front. Rentrée à la maison, je regardai mon drap et j'y vis l'image du
+saint prophète. Joseph la vit comme moi, et nous fûmes très émerveillés.
+Si cet homme vivait encore, il vous confirmerait mes paroles; mais ils
+l'ont fait périr parce qu'il avait enseveli le corps de Jésus.
+
+L'Empereur et ses gens admirèrent beaucoup ce que racontait cette femme,
+et ils étaient impatients de ce qui allait se produire pour le cas du
+prince Vespasien.
+
+Mais Verrine n'eut pas plus tôt présenté la sainte image à la lucarne,
+que Vespasien cria qu'il était revenu à la parfaite santé. En effet, il
+sortit de lui-même hors de la maison et chacun vit qu'il était sain, ce
+qui causa un grand étonnement et une grande joie. Et de plus, comme il
+était de belles formes et que son visage était gracieux, on l'approcha,
+le toucha et l'embrassa en l'honneur du miracle, surtout les dames et
+les demoiselles.
+
+Pour le jeune Vespasien, son premier voeu fut de témoigner de sa
+reconnaissance en vengeant le prophète auquel il devait sa guérison,
+ainsi que l'homme juste Joseph qui avait souffert à cause de lui. Et il
+s'employa aussitôt à équiper une armée pour aller en Judée.
+
+                                   *
+
+                                 *   *
+
+L'armée de Vespasien fit un fort tapage lorsqu'elle débarqua en Judée.
+Elle était composée d'un bon nombre de fantassins et de cavaliers
+produisant un grand cliquetis d'armes sur les routes; et les trompettes
+portaient la peur très avant dans le pays.
+
+Les Juifs, qui voyaient de loin tout cet appareil descendre du haut des
+collines, se demandaient ce qu'ils pourraient bien répondre dans le cas
+où tous ces gens d'armes viendraient leur réclamer le prophète Jésus. Et
+Moïse se souvint de Joseph, l'ami du prophète. Il eut un grand remords
+d'avoir agi contre lui pour épouser sa soeur Enigée et s'emparer de son
+bien. Aussi tremblaient-ils les uns comme les autres, de tous leurs
+membres.
+
+Vespasien, aussitôt entré dans la ville, y forma une cour de justice
+avec ses meilleurs barons. Il y siégea en personne et fit premièrement
+comparaître Pilate qui était bailli, du temps que l'on fit souffrir des
+avanies à Notre-Seigneur. On lui demanda ce qu'il avait fait de Jésus.
+Il répondit qu'il l'avait abandonné à la justice de la foule. Vespasien
+lui fit observer d'abord qu'il employait des termes dont le sens obscur
+passait son entendement, la justice étant, à son avis, chose si subtile
+et ténue que le fil en échappe souvent aux plus grands clercs du royaume
+et que c'est une présomption que de s'imaginer qu'on la rend, n'était-il
+pas plaisant de penser que l'exercice en pût être confié au populaire,
+lequel est inégal et agit par le mobile de la passion? Pilate ajouta
+qu'il s'était lavé les mains de ce qui pourrait arriver par la suite.
+Vespasien lui dit qu'il n'eût point pu agir plus sottement.
+
+--Vous ne m'entendez pas, dit encore Pilate qui était fin et retors pour
+avoir vieilli dans les prétoires; je veux dire que si je n'ai pas agi
+convenablement, en me désintéressant de ce prophète, vis-à-vis de vous
+autres qui le pleurez, j'ai agi cependant selon les desseins de Dieu,
+puisque vous savez que ce prophète devait périr... Or, il s'est produit
+plusieurs cas, dans le cours de ma carrière, où me trouvant en face d'un
+embarras analogue, soit entre la cité et le particulier, soit entre la
+cité et l'État romain, je demandai le bassin et l'aiguière, par quoi se
+trouvait admirablement marquée, à mon sens, la limite de l'humain
+pouvoir.
+
+Néanmoins, Vespasien ordonna qu'on lui liât les mains et le fît
+souffrir. Il agit de même envers un grand nombre de Juifs auxquels on
+demandait vainement ce qu'ils avaient fait de Jésus ainsi que d'un
+certain Joseph d'Arimathie qui avait pris soin de son corps.
+
+Alors, comme quelques-uns louchaient du côté de Moïse qui s'était fait
+pardonner son crime par sa richesse, mais que l'on avait bien envie de
+dénoncer dans ce moment périlleux, celui-ci eut peur pour sa vie, et,
+ayant réfléchi, il vint se jeter aux pieds de Vespasien, et lui dit:
+
+--Sire, m'accorderez-vous la vie sauve, si je vous indique le lieu où
+l'on a mis Joseph?
+
+--Soit! fit le prince. Va donc devant et montre-nous le chemin.
+
+Arrivé à l'endroit où se trouvait la tour ruinée et à demi ensevelie
+sous les ronces et les fleurs printanières, Vespasien se mit à rire,
+malgré tout le chagrin qu'il avait de la perte sans doute irrévocable de
+Joseph, et il demanda à Moïse s'il se moquait de lui, pour s'être flatté
+de lui montrer la retraite de Joseph, et s'arrêter à cet amas de pierres
+humides et moussues où aucune créature ne saurait trouver abri.
+
+Moïse courba l'échine et dit:
+
+--Sire, j'ai dit que je montrerais où fut mis Joseph, il y a plus de
+quarante années; mais je n'ai pas promis de vous le faire voir en bon
+état!...
+
+Le fils de l'Empereur, qui n'était chrétien que depuis peu de temps,
+jura par le nom d'une divinité païenne et diabolique, ce qui ne fut pas
+toutefois désagréable à Dieu, en raison de la pureté du sentiment.
+
+Cependant Moïse ayant déplacé plusieurs pierres épaisses et fort
+lourdes, avait mis à jour l'entrée d'un escalier par où Vespasien et sa
+suite s'engagèrent.
+
+Tous étaient très émus à la pensée de ce qu'ils allaient découvrir dans
+ce réduit. Mais l'escalier était si long, et en outre glissant et
+malpropre, que plusieurs s'en trouvèrent incommodés; et le fils de
+l'Empereur, parvenu environ à la soixante et dixième marche, dit à Moïse
+que, bien qu'il lui eût promis la vie sauve du chef de l'affaire de
+Joseph, il se pourrait trouver quelque autre juste motif de le faire
+pendre, ne fût-ce par exemple que pour amener son auguste personne dans
+des endroits si incivils.
+
+Sur ce, quelqu'un des seigneurs qui allaient de l'avant, fit observer
+que l'odeur devenait en effet méphitique et comparable à celle
+qu'exhalent les corps pestiférés.
+
+Mais Vespasien s'étant radouci:
+
+--Dieu, dit-il, permet que l'enveloppe mortelle de l'âme la plus proche
+des fleurs par la grâce et par le parfum, soit souillée et répugnante à
+nos sens; et il se peut très bien que le prud'homme Joseph, qui fut un
+saint et toucha Notre Seigneur Jésus-Christ, nous envoie ces émanations
+qui, à la vérité, sont grossières et indécentes. Nous continuerons donc
+d'aller plus avant dans le vilain tombeau où nous conduit ce Moïse que
+nous ferons pendre aussitôt remontés, à supposer que notre peine ait été
+inutile.
+
+Le fils de l'Empereur et sa suite descendirent toujours plus
+profondément et ils ne découvraient rien. Vespasien fut tenté de
+rebrousser chemin; mais Moïse, qui ne cessait d'être habile homme jusque
+dans les moments les plus ingrats, dit au fils de l'Empereur:
+
+--Sire, celui qui vous a guéri de la lèpre ne peut-il faire que l'homme
+que vous cherchez soit là tout à coup? Et ne peut-il faire encore que
+Joseph soit vivant au fond de ce tombeau infect quoique, dans le cas
+contraire qui est plus naturel, sa relique vaille de la peine et puisse
+atteindre un grand prix, à cause des vertus qu'il professa?
+
+Vespasien fut touché par ce discours, et une secrète indulgence lui vint
+pour ce coquin de Moïse. En même temps et dans l'instant précis où la
+foi pénétrait à nouveau dans son âme, on aperçut dans le lointain une
+petite lueur.
+
+                                   *
+
+                                 *   *
+
+L'endroit d'où partait cette lumière était d'apparence misérable et
+sordide. Le jour bas, ainsi que celui que répand une maigre lampe,
+venait d'un point de la muraille et ne laissait rien distinguer
+convenablement.
+
+Moïse, ayant cependant reconnu le cachot où il avait enfermé Joseph, se
+précipita vers l'objet qu'il croyait être en effet une lampe. Il
+s'imaginait bien qu'il allait découvrir à l'aide de cette lumière le
+pauvre Joseph dans le dernier état; mais il espérait quant à lui avoir
+la vie sauve.
+
+Moïse n'avait pas encore mis la main sur l'objet qu'il prenait pour une
+lampe, lorsqu'il fut touché rudement à l'épaule par quelqu'un de plus
+grand et de plus fort que le fils de l'Empereur lui-même et tous ses
+chevaliers. Il se retourna et reconnut Joseph.
+
+Alors il poussa un cri et fut saisi de peur. Vespasien et ses chevaliers
+s'écartèrent jusque vers les murailles, car ils tremblaient dans leurs
+membres et dans leur esprit, à cause de la puissance de Dieu.
+
+Joseph dit:
+
+--Ceci est le vaisseau qui contient le sang de Notre-Seigneur
+Jésus-Christ... Qui es-tu donc, toi qui portes la main sur le Fils de
+Dieu?
+
+Moïse n'osa pas dire qu'il était celui qui avait posé Joseph dans ce
+mauvais endroit, mais il dit:
+
+--Voici le prince Vespasien, le fils de l'Empereur de Rome, qui vient te
+tirer de prison!...
+
+--Qui parle de prison? dit Joseph, je ne suis pas en prison...
+
+Moïse qui était le seul à lui adresser la parole, tellement les autres
+étaient pris de révérence, demanda:
+
+--Où donc te crois-tu? Tu n'es pourtant pas libre?
+
+--Je suis libre, dit Joseph.
+
+Le saint homme faisait des efforts pour se souvenir. La mémoire lui
+étant revenue:
+
+--Oui, oui, dit-il, je me souviens que je fus jeté jadis en prison par
+une petite troupe de gens dont j'ai oublié la figure et les noms. Mais
+Notre-Seigneur Jésus-Christ m'a tiré de prison!
+
+--Ha! ha! ha! ricana Moïse, il est fou! Et, pardieu, on le deviendrait à
+moins. Mon ami, lui dit-il familièrement, ces hauts seigneurs et moi
+venons de descendre trois cent trente-trois marches puantes pour
+parvenir au cul-de-basse fosse où tu gis; et tu prétends que Jésus t'a
+tiré de prison!...
+
+Joseph se tourna du côté de la petite lampe qui était en réalité sans
+mèche, sans huile et sans flamme et répandait une lueur par quelque
+moyen mystérieux.
+
+--Monseigneur Jésus! dit-il, soyez enclin à l'indulgence envers ceux qui
+ne vous ont pas connu et qui ne sont pas éclairés par le divin rayon de
+votre foi. La grossièreté de leurs sens égale l'erreur de leur esprit;
+et ils prennent pour une prison le lieu du monde le plus décent et le
+plus fertile en délices.
+
+A ces mots, les seigneurs ne purent non plus se tenir de rire; car
+l'endroit où ils se trouvaient avec Joseph était nauséabond. Mais
+Vespasien leur dit:
+
+--Il se peut que cet homme voie ce que nous ne voyons pas, à cause de sa
+grande vertu.
+
+Aussitôt, le fils de l'Empereur ayant proclamé sa foi par ces paroles,
+il lui fut donné ainsi qu'à tous, de voir par les yeux de Joseph.
+
+Or rien n'était plus éloigné de l'apparence d'une prison. Une lumière
+plus belle que le jour venait d'un vase appuyé sur un autel fort bien
+orné où Joseph se tenait à genoux très pieusement. Cette lumière
+comblait de son rayonnement une salle vaste et comparable par la
+magnificence aux plus superbes basiliques. L'air y était léger et
+imprégné de parfums, et son seul mouvement faisait une sorte de musique
+que l'on pouvait attribuer tout aussi bien à des instruments séraphiques
+qu'au murmure discret de toutes les petites bêtes du Seigneur que l'on
+entend bourdonner aux heures heureuses de l'été. Maintenant, il est bien
+probable aussi que des anges étaient là et chantaient, sans qu'on les
+vît, et peut-être même se montraient-ils parfois quand Joseph était dans
+la solitude.
+
+Joseph se prosterna très bas et dit:
+
+--Je vous adore, Monseigneur Jésus!
+
+Sur quoi, tous ceux qui étaient là, étant touchés dans leurs sens,
+crurent fermement en la présence de Notre-Seigneur Jésus-Christ--sauf
+Moïse qui avait l'esprit du mal.
+
+--Voici, dit Vespasien, un miracle plus grand que de m'avoir guéri de la
+lèpre, car, mes écailles étant tombées, je fus tiré de l'opprobre, en
+réalité, ce qui est un cas merveilleux et qui ne s'appliquera sans doute
+pas à beaucoup. Mais cet homme-ci a été jeté pour mort dans un cachot
+infect, il y a plus de quarante années, et il y est encore, comme nous
+l'avons pu voir,--ce qui est déjà remarquable;--mais voici que grâce au
+vaisseau de Notre-Seigneur, cet homme se trouve être en même temps dans
+l'endroit le plus magnifique et le mieux garni de volupté. Or ceci aura
+un plus grand retentissement dans le monde que la guérison de tous les
+lépreux, et ce sera un bien précieux dans les États.
+
+Mais Joseph qui se souvenait de la recommandation que lui avait faite
+Jésus, en lui remettant le saint vaisseau, dénombrait déjà les
+personnages qui étaient là, et en ayant trouvé douze, y compris Moïse,
+il leur dit:
+
+--Notre-Seigneur m'a commandé de célébrer la Cène en présence de douze
+personnes honnêtes et ayant le coeur pur. Il n'y a pas de doute que vous
+ne soyez tels, étant de bonne compagnie. Si vous voulez, nous nous
+assoirons à la table et ferons le sacrement?
+
+                                   *
+
+                                 *   *
+
+Avant de s'asseoir à la table, Moïse, qui était hypocrite et fourbe, eut
+encore peur qu'il ne lui arrivât malheur. Il réfléchit; puis il tira
+Joseph à part et lui dit:
+
+--Écoute, je suis celui qui te bâillonna jadis et qui te jeta en prison.
+J'espère que tu ne me feras pas de mal, à cause du temps écoulé et de
+mon repentir...
+
+Joseph le regarda avec attendrissement et loua Dieu de ce que cet homme,
+après avoir péché, fût ramené au bien.
+
+--Ce n'est pas tout, dit Moïse, tu avais plusieurs fiefs et je m'en suis
+emparé...
+
+--Tout mon fief, dit Joseph, est en Notre-Seigneur.
+
+Mais Moïse, ne pouvant croire à tant de désintéressement, résolut de le
+toucher avec adresse:
+
+--Eh donc! dit-il, de Notre-Seigneur relevaient les pêcheries et les
+établissements qui florissaient au bord du Lac de Tibériade?...
+
+--Arrête! Arrête! s'écria Joseph. Et il se prit le front dans la main.
+Le nom du Lac de Tibériade lui rappelait la douceur de vivre.
+
+--En effet! dit-il, c'étaient de beaux établissements, et bien situés
+aux bas des pentes où mûrissaient les raisins, les figues et les olives;
+et comme il était agréable de voir les barques chargées regagner le
+rivage à la tombée de la nuit!
+
+Une larme vint au bord de sa paupière.
+
+--Dire que j'avais eu tout cela pour rien! fit-il, quinze cents deniers!
+Cela valait le double!
+
+--La valeur a centuplé! dit Moïse.
+
+--Centuplé! s'écria Joseph. Et son oeil se mouilla tout à fait. Il
+penchait la tête et il considérait, dans sa pensée, cette grande
+prospérité, là-bas, couchée au soleil le long du rivage de sable fin.
+
+--Je te restituerai tout cela! dit Moïse.
+
+--Non pas! non pas! fit Joseph touché dans sa bonté.
+
+--Si fait! Si fait! C'est une chose accomplie. Tiens! prends tout de
+suite cette bourse qui ne contient pas seulement le produit d'une année
+et qui est assez arrondie, comme tu vois...
+
+--Au moins, dit Joseph, prélèveras-tu une forte part pour ta bonne
+gestion?
+
+Moïse, comprenant qu'il l'avait gagné par le goût des biens terrestres
+qui est très fort contre Dieu, ne put contenir sa bonne humeur:
+
+--Maintenant, ajouta-t-il, sur un ton plaisant, je me souviens d'avoir
+employé la violence pour épouser ta soeur Enigée qui héritait de ton
+bien. Si tu ne veux pas de moi pour beau-frère, je la répudierai, car la
+voici un peu flétrie à l'heure qu'il est et j'épouserai une certaine
+Corinne qui est venue avec les Romains et qui a de l'agrément.
+
+Joseph se mit à rire de tout son coeur en bon homme qu'il était. Il
+embrassa Moïse pour lui prouver son amitié, et lui dit de s'asseoir à la
+table, ce dont Vespasien et ses seigneurs ne furent pas trop flattés.
+
+                                   *
+
+                                 *   *
+
+Joseph fit le serment d'employer sa richesse à la gloire de Dieu.
+
+Ensuite, il rompit le pain, en mémoire de ce qu'avait fait
+Notre-Seigneur, et il le distribua en parties aux personnes qui étaient
+assises à la table:
+
+à Vespasien d'abord,
+
+aux chevaliers ensuite.
+
+Quand vint le tour de Moïse, tout le monde, sauf Joseph dont la bonté
+était extrême, craignait que Dieu ne fût offensé.
+
+Or, comme Moïse allait porter le pain à sa bouche, voilà qu'il se fait
+un grand fracas, et que Moïse disparaît, ainsi que son siège, aussi
+complètement que s'ils n'avaient jamais été.
+
+Tous en furent extrêmement émus, et n'eût été la grande piété avec quoi
+ils accomplissaient le service divin, ils l'eussent certainement
+interrompu. Mais aussitôt que le service fut achevé, Vespasien dit à
+Joseph:
+
+--Jamais nous n'avons eu tant de frayeur: dites-nous, je vous en prie,
+ce que Moïse est devenu!
+
+--Quant à moi, je n'en sais rien, dit Joseph, mais nous pourrons le
+savoir de Celui par qui toutes choses arrivent.
+
+Et il interrogea le Saint vaisseau.
+
+Alors on entendit une voix qui sortait du vaisseau, et qui dit:
+
+«Ne vous inquiétez pas de Moïse qui fut, à la vérité, fourbe, menteur,
+assassin et sacrilège, mais qui, cependant, contribua à la gloire de
+Dieu, puisque par lui Joseph fut amené à connaître le vrai bien, dans
+cette prison, et puisque par lui fut fondée cette fortune moyennant quoi
+vous établirez la part matérielle de mon oeuvre, qui s'adresse plus
+clairement aux hommes. Car je vous en avertis, beaucoup vous paraissent
+méprisables, qui tiennent un rôle dont le sens vous échappe; vous ne
+voyez que l'architecte qui construit une maison, et j'ai souci également
+du maçon et de l'ouvrier plus médiocre encore qui mélange la terre avec
+l'eau. C'est pourquoi je vous conseille de vous occuper le moins
+possible de la justice: vous n'y entendez rien; elle est aux mains de
+mon Père, et je frapperai en son nom. J'ai enlevé ainsi Moïse qui était
+mauvais au milieu de vous, mais qui peut valoir en des emplois où vous
+ne vaudriez rien. Vous le retrouverez dans la vie.
+
+»Vous autres, aimez-vous les uns les autres, et aimez-moi dans le fond
+de votre coeur, afin que le monde, qui est semblable à la prison de
+Joseph, vous soit transformé en un lieu agréable, comme cela est arrivé
+pour lui.»
+
+
+
+
+LES TABLETTES DE CYTHÈRE
+
+
+Vers le milieu de la neuvième journée, nous vîmes monter, sur la mer, de
+petites barques aux voiles gonflées, et Myrrha agita aussitôt les mains,
+et leva ses bras nus qui s'éclairent, au jour, d'un peu de duvet d'or.
+
+--Myrrha! dis-je en enserrant son corps chéri, il convient en effet de
+recevoir avec des marques de gaieté la nouvelle qu'il y a encore des
+hommes, et qui vont à leur négoce et à leurs entreprises de gloire,
+depuis que nous nous aimons sur cette île solitaire. Ces petites voiles
+pleines de vent sont puériles, n'est-ce pas? comme des joues de
+nouveau-nés. Si tu veux, nous allons danser et rire, et nous tresserons,
+à l'heure du crépuscule, des guirlandes agréables à Aphrodite, avec la
+tige des églantiers mêlée de myrtes et de violettes?
+
+Myrrha ne refusa pas de balancer sa jambe pure en cadence et s'échauffa
+même à secouer le tambourin au-dessus de sa chevelure. Elle chanta, et
+je me baissai pour aspirer, sur sa bouche, le souffle sonore et
+l'allégresse de ma chère amante.
+
+Cependant les petites barques furent bientôt assez près de nous pour que
+le bruit des voix nous en parvînt, et nous pûmes même discerner en leur
+cacophonie les dialectes divers et la grossièreté des propos. Il y avait
+des gens de toutes les contrées de la Grèce, et jusques à des Barbares;
+et c'était un ramassis d'hommes de peu de valeur et allant à l'aventure.
+
+--Myrrha! dis-je, c'est assez d'ironie, et tu as fait suffisamment
+d'honneur à ces étrangers qui ne le méritent pas. Retirons-nous de
+l'autre côté des rochers et gagnons nos endroits fleuris. Si tout ce
+monde tient à aborder ici, nous lui offrirons du lait, du miel et des
+grenades. Allons-nous-en!
+
+Mais, tout au contraire, Myrrha se mit à courir sur la grève de sable
+fin, et elle mouilla ses pieds dans la mer; et elle commença de ramener
+ses cheveux en touffe au sommet de la tête, à la manière thébaine, et
+elle les retint par une agrafe d'or à la tête de Silène, qu'elle tira
+avec d'autres bijoux d'une petite boite de cornaline. Elle passa à son
+cou son joli collier de bronze contourné en spirale, et à son doigt des
+anneaux ornés de grenats syriaques et de prase qui est une pierre
+nouvelle.
+
+Je jure que je crus mourir en voyant cela et que j'accomplis quelques
+prières extravagantes de Myrrha,--comme d'agrafer moi-même sa
+ceinture,--de la façon dont les machines dociles, au théâtre, portent et
+supportent les dieux. Ma bouche serrée fut quelque temps muette; puis,
+j'eus une envie de pleurer, que je retins, à cause de la présence de ces
+Barbares. Enfin, quand je pus parler:
+
+--Myrrha! ma petite Myrrha! lui dis-je, quelle fantaisie ou quelle folie
+t'a prise tout à coup en face de ces vilains hommes mal épilés et
+beaucoup plus vulgaires que ceux que nous avons fuis pour venir nous
+aimer ici, Myrrha, il y a de cela neuf jours à peine révolus?
+
+--Oh! je t'aime! dit-elle, en nouant ses beaux bras à mon cou dans une
+pose à charmer jusqu'aux lents coquillages ou aux écueils de la mer.
+
+Elle reçut mon baiser, puis elle tourna la tête et m'échappa des mains.
+
+--Je t'aime, dit-elle encore, je n'aime que toi, mon amour.
+
+Et elle était toute penchée déjà vers les hommes des petites barques,
+qui levaient de son côté de lourds yeux chargés d'étonnement et de
+désirs.
+
+Je me suspendis au tissu léger de sa tunique et fis céder la petite
+fibule d'or qui retenait ce vêtement à la gorge. Je vis la peau blonde
+de l'épaule, durant que des hommes aux mauvais accents, qui étaient pour
+le moins des îles tributaires, s'écriaient dans les barques: «Evohé!
+c'est Aphrodite elle-même!» ce que ceux qui étaient des Barbares
+traduisaient en leur langue.
+
+--Je t'aime! jetai-je à Myrrha, alors qu'elle était déjà loin et que des
+mains froissaient ses vêtements; car en cet instant je ne me souvins
+plus que de l'aimer. Elle répondit:
+
+--Je n'aime que toi!
+
+On voyait qu'elle était partagée entre la joie et la tristesse. Je lui
+criai:
+
+--Tu ne sais donc pas ce que tu fais?
+
+--Je ne le sais pas! répondit-elle.
+
+Il se passa quelque chose de bien étrange. J'étais agenouillé sur le
+rivage, près de quelques objets qu'elle avait laissés. Il y avait son
+miroir que je baisai à l'endroit où fut son image. Je ramassai aussi un
+fruit qu'elle avait mordu et dont la chair humide gardait la marque de
+ses dents; je me mis à baiser la morsure de ce fruit, et à ce moment je
+n'eus plus honte de pleurer même en face des étrangers et des Barbares.
+Je distinguai, dans ma confusion, que Myrrha avait sur le visage les
+traces d'un chagrin égal. Je crus qu'elle me tendait les bras, et je vis
+son pied cambré dans un effort pour revenir; mais son regard ayant
+rencontré tous ces yeux qui l'admiraient de façons diverses, elle ne put
+se retenir d'éprouver le bonheur d'être belle _autant de fois qu'il y
+avait d'hommes alentour_.
+
+--Mais! fis-je, à eux tous, ils ne t'accordent pas tant de beauté que je
+fais, tout seul!
+
+Elle rit. Elle se laissait alors transporter de barque en barque pour
+que d'autres hommes éprouvassent d'elle un étonnement nouveau, et
+qu'elle fût ravie d'être _nouvellement belle, toujours_.
+
+La brise souffla, et je vis s'en aller les barques avec ma petite Myrrha
+bien-aimée. Tout cela fut presque aussitôt lointain et puéril, avec
+cette apparence de joues gonflées de nouveau-nés. Cependant, quand le
+geste doré des bras de Myrrha s'éteignit, je tombai, comme un hoplite
+blessé, sur le rivage.
+
+Alors, j'ai brisé le petit miroir qui ne sut rendre qu'une beauté, ce
+qui est trop peu pour Myrrha qui les a toutes, assurément. Et je vais
+clore à jamais mes yeux, parce qu'ils furent inhabiles à feindre les
+mille artifices qu'il fallait, et n'exprimèrent que l'unique aveu du
+grand amour de mon coeur. Mais auparavant, j'ai écrit ceci, et je
+l'enferme dans le vase funéraire que nous avions apporté là pour
+contenir nos cendres quand le jour eût été venu.
+
+Puisse l'amant qui le découvrira, orner et aviver son amour de la
+mélancolie que j'enclos en cette terre légère.
+
+
+
+
+LE BON JUGEMENT DU TRIBUNAL DES MOEURS, A VENISE
+
+
+Francesco di San Polo, fils d'un gentilhomme vénitien, fut embarqué de
+bonne heure sur les galères de la République et grandit parmi les Turcs
+et les gens enturbanés de l'Orient, dont les moeurs sont mauvaises.
+Étant revenu à l'âge d'homme dans sa patrie, il y afficha un vif dédain
+autant envers les demoiselles patriciennes qu'envers les courtisanes.
+Pour ce qui était des premières, le scandale n'était pas grand, vu que
+ces péronnelles étaient gauches et engoncées pour la plupart, et que
+Francesco, à vingt ans, pouvait avoir de l'éloignement pour le mariage.
+Quant aux dames galantes, grasses, nombreuses et renommées, habilement
+teintes, fardées à grands frais et aussi expertes à la conversation qu'à
+tous les arts de la volupté, n'y avait-il pas lieu de s'étonner qu'elles
+ne retinssent ce jeune homme par les fines mailles de leurs attraits?
+
+De plus, Francesco emmenait des garçons dans sa gondole, à la tombée de
+la nuit, et leurs promenades étaient longues et mystérieuses.
+
+Des dames, émues de sa beauté naturelle et dépitées de sa froideur,
+l'accusèrent d'avoir rempli, chez les Turcs, des emplois déshonorants.
+Mais plusieurs adolescents des meilleures familles vénitiennes
+laissèrent entendre qu'en tout cas il n'en avait pas la marque.
+Là-dessus les langues allèrent, et il se fit un grand bruit à Venise
+autour du jeune Francesco di San Polo, qui s'étonnait beaucoup, de son
+côté, qu'on le trouvât si intéressant, alors que personne précisément ne
+l'avait remarqué durant ses voyages dans le Levant.
+
+Aussi fit-il la figure la plus divertissante lorsqu'il fut déféré devant
+le collège chargé d'instruire contre les sodomites, qui se réunissait
+tous les vendredis, selon une loi du 22 mars mil quatre cent
+cinquante-huit.
+
+                                   *
+
+                                 *   *
+
+Loin de nier la particularité sur laquelle on l'invitait à répondre, le
+bon Francesco en étala avec une complaisance touchante les phases
+diverses devant le tribunal. A l'entendre, aucune coutume n'avait plus
+de beauté que celle dont on lui faisait reproche; il le prouvait tant
+par l'histoire que par la science esthétique. Il parlait avec abondance,
+s'échauffait, agrémentait de vers latins et même de grecs la vivacité de
+sa défense. Il clôtura sa harangue en exprimant le regret où il était
+que la République, si avancée parmi les nations pour tout ce qui touche
+les institutions et l'excellence des moeurs, s'obstinât à demeurer dans
+l'ignorance de celles-ci. Enfin, ce jeune homme avait tant d'honnêteté
+dans sa conviction qu'il ne doutait point qu'avant seulement qu'on lui
+donnât à boire pour avoir parlé si bien, les divertissements de Sodome
+ne fussent recommandés fortement et solennellement aux citoyens de
+Venise.
+
+Il en arriva autrement, et notre Francesco fut bel et bien condamné.
+Toutefois, l'on verra une preuve de la magnanime sagesse de ses juges et
+de l'heureuse souplesse de la procédure vénitienne dans le châtiment
+spécial que l'on prit la peine d'ajouter, en faveur du coupable, au
+supplice de la _cheba_ qui lui revenait de droit.
+
+                                   *
+
+                                 *   *
+
+Le supplice de la _cheba_ consistait à être enfermé en une cage de bois,
+que l'on hissait à mi-hauteur du clocher de Saint-Marc, et
+extérieurement, de façon que le patient y subît les rigueurs de la
+saison et y fût exposé aux quolibets des passants.
+
+Voici la teneur de l'addition qui y fut faite dans l'intérêt de
+Francesco:
+
+«Ledit (Francesco) recevra chaque soir et bon gré mal gré, après le
+couvre-feu,--pour éviter le scandale,--et en sa cage, la visite d'une de
+nos plus notables courtisanes, et le lendemain d'une autre, et ainsi de
+suite, jusqu'à l'expiration du délai de sa peine.
+
+»Ceci pour la plus grande gloire de Dieu et dans le but que le coupable
+soit ramené dans la voie qu'il (le Seigneur) a tracée de sa main et
+indiquée à notre premier père pour notre bien et celui de nos enfants,
+petits-enfants et arrière-petits-enfants.»
+
+                                   *
+
+                                 *   *
+
+Un beau matin, l'on vit brimbaler au bout d'une corde la cage de bois
+contenant notre malheureux Francesco di San Polo assez déconfit, penaud,
+mal en point, et prenant le ciel à partie qu'il était victime d'une
+grande iniquité. Vous pensez que les gens de Venise ne faisaient pas
+défaut autour du clocher de Saint-Marc ni sur toute la place, qui est le
+lieu où se traitent les affaires et le seul endroit de la ville où se
+fasse la promenade à pied sec. On dit qu'il n'y eut ni dame ni
+demoiselle qui ne s'y montrât ce jour-là, soit en chaise, soit
+simplement juchée sur les hauts patins pour lors à la mode. Et il faut y
+ajouter, bien entendu, les personnes adonnées à la galanterie, dont le
+nombre, d'après les meilleurs documents, n'était pas inférieur à onze
+mille, et qui avaient un intérêt direct à prendre connaissance de la
+figure du sire, puisque chacune d'elles était tenue d'essayer de la
+dérider tour à tour.
+
+Francesco, à mi-hauteur de son clocher, ne pouvait répondre aux mille
+lazzi et aux malhonnêtetés de toute sorte qui lui montaient de cette
+foule assemblée. D'ailleurs, rien ne porte à l'indulgence comme
+d'envisager les hommes et les femmes d'un peu haut; et il est probable
+qu'il en était en ce temps-là comme aujourd'hui. L'histoire ignore sur
+quel point porta sa méditation, et se contente d'enregistrer que, vers
+l'instant où le soleil déclinait et alors qu'une grande quantité de
+badauds bâillaient encore du côté du condamné, celui-ci, ayant contenu
+un besoin depuis l'heure de l'aurore, s'en soulagea librement,
+pleinement et à la ronde sur toutes les classes de la société, qui prit
+texte de cette pluie incongrue pour se disperser et s'en aller souper.
+
+De sorte qu'il ne resta guère sur la place Saint-Marc, à l'heure du
+couvre-feu, que les personnes qui y possédaient pignon ou fenêtre et qui
+comptaient sur le lever de la lune pour voir ce qu'il adviendrait du
+prisonnier sodomite et de la compagne à lui octroyée par jugement en
+bonne forme.
+
+                                   *
+
+                                 *   *
+
+La malchance fit que la lune fût ce soir-là couverte aussi complètement
+qu'une chandelle sur quoi se fût assise par mégarde quelque matrone
+vénitienne.
+
+Le lendemain on n'y pensait plus: telle est l'inconstance de la faveur
+des esprits.
+
+Les courtisanes accomplissaient avec ponctualité et discrétion la
+besogne quotidienne que leur avait départie la Justice. Et des mois se
+passèrent sans que l'on prît seulement garde à cette cage poussée au
+flanc du clocher de Saint-Marc comme une verrue ou une gibbosité
+naturelle sur quoi se posaient journellement les colombes.
+
+                                   *
+
+                                 *   *
+
+Toutefois, au bout de six mois, Francesco di San Polo fut trouvé mort
+par la cent quatre-vingt-troisième courtisane hissée en cet endroit, à
+l'heure du couvre-feu.
+
+On se montra fort étonné de ce résultat, et une enquête fut ouverte
+par-devant le Conseil qui avait jugé Francesco. Les cent
+quatre-vingt-trois personnes galantes y comparurent et déposèrent une à
+une selon la date de leur coopération à la besogne de la justice.
+
+--Quel homme était, à votre sentiment, ce Francesco di San Polo? leur
+fut-il demandé.
+
+Pour les cinq ou six premières, c'était un triste personnage, sans goût,
+sans appétit et sans politesse, enfin dénué de tout avantage.
+
+De la septième à la douzième, il était jugé hésitant et malhabile,
+gauche à l'excès en ses façons.
+
+Ce travers était confirmé par la treizième courtisane, à laquelle
+toutefois il n'avait pas déplu, et qui l'avait trouvé original et ayant
+des penchants au rebours du commun.
+
+On remarqua beaucoup l'avis de la quinzième d'après laquelle Francesco
+était déjà un homme ordinaire.
+
+Ordinaire n'était point le mot qu'il convenait d'employer en parlant de
+ce jeune homme, opinèrent les cinq filles suivantes, car il était un
+fort bon amant, expert et agissant, avec qui le temps ne durait point.
+
+Sur les cent qui déposèrent après, il n'y en eut pas une qui contredît
+cette opinion favorable, sinon que trente-quatre d'entre elles
+affirmèrent qu'elles étaient grosses de ses oeuvres. En outre, toutes
+l'avaient entendu, dans le moment de la pâmoison, bénir ses juges en les
+recommandant à Dieu, chacun par leur nom et avec grande ardeur et
+gratitude.
+
+Le Conseil pleura à l'audition de ces paroles et se sentit pris aux
+entrailles d'un vif sentiment d'indulgence rétrospective pour l'ancien
+sodomite converti et puis mort de l'abus des justes plaisirs de l'amour.
+
+--Et vous, mesdemoiselles? dit l'assemblée, émue et tout d'une seule
+voix, en s'adressant aux soixante-trois courtisanes restantes.
+
+Celles-ci furent secouées d'un sanglot unanime et pour toute réponse
+montrèrent les marques visibles des combats qu'elles s'étaient livrés
+entre elles avant de monter dans la cage, par suite de leur empressement
+et à cause de la renommée que le détenu s'était acquise dans les
+exploits amoureux.
+
+
+
+
+TABUBU
+
+
+Un brave homme, nommé Setna, en se promenant un jour sur le bord du Nil,
+aperçut une femme qui lui parut très belle, bien qu'il ne lui vît pas la
+figure. Elle portait beaucoup d'or sur ses vêtements, et elle était
+suivie de cinquante-deux jeunes filles de tournure agréable.
+
+Setna en perdit immédiatement la tête. Il fit signe à son jeune
+serviteur et lui commanda de savoir tout de suite qui était cette femme.
+
+Le jeune serviteur s'approcha aussitôt de la jeune servante qui marchait
+derrière la belle femme et lui demanda le nom de sa maîtresse.
+
+--Tabubu, dit la jeune servante. Et elle sourit à cause de celui qui en
+était encore à s'informer de Tabubu, que connaissaient tous les hommes.
+
+Le jeune serviteur rapporta à Setna ce qu'il avait appris.
+
+--Retourne vers cette fille et dis-lui d'avertir sa maîtresse que je
+m'appelle Setna et que je donnerai dix pièces d'argent pour passer une
+heure avec elle.
+
+Le garçon rapporta la réponse:
+
+--Tabubu fait dire à Setna qu'il se trompe s'il la prend pour une
+personne vile, et qu'elle est sage.
+
+--C'est bien! dit Setna dont la figure se colorait comme le ciel au
+soleil couchant, retourne encore et fais dire à Tabubu que je suis
+capable d'user de violence.
+
+Le jeune serviteur parlementa de nouveau et revint:
+
+--Tabubu répond que, dans ce cas, il n'y a qu'à aller la trouver chez
+elle, dans une belle maison derrière le temple de Bast, et que là, Setna
+fera d'elle tout ce qu'il voudra, moyennant dix pièces d'argent.
+
+Le soir même, Setna se rendit derrière le temple de Bast, et, avisant
+une belle maison, il demanda qui demeurait là. On le prit d'abord pour
+un homme ivre; mais, comme il insistait, quelqu'un lui dit d'un air
+équivoque:
+
+--C'est Tabubu.
+
+--Fort bien, dit Setna, c'est chez elle que je vais.
+
+On avertit Tabubu. Elle descendit, modestement voilée, mais couverte de
+riches parures; et Setna se félicita d'être venu chez elle. Elle le prit
+par la main et le conduisit dans le jardin où il vit les cinquante-deux
+jeunes filles occupées à chanter, à jouer ou à prendre des poses propres
+à ravir les yeux. Les pelouses étaient très bien éclairées et l'eau des
+bassins, formant miroir, multipliait les lumières.
+
+--Tu vois, dit Tabubu, que rien ne laisse à désirer dans ma maison.
+
+Setna, qui se sentait le feu dans le corps, dit:
+
+--Allons à l'intérieur.
+
+Tabubu le fit monter par le perron, et ils pénétrèrent dans une salle
+ouverte par tout un côté sur le dehors et d'où l'on apercevait les ébats
+des joyeuses filles. Elle était ornée de lapis-lazuli et de vraies
+turquoises. Il y avait autour de la pièce des lits nombreux drapés
+d'étoffe de fin lin. Nombre de coupes d'or étaient disposées sur un
+buffet et chacune était remplie de vin. On apporta des mets variés et
+des fruits.
+
+--Qu'il te plaise boire et manger, dit Tabubu.
+
+--Ce n'est pas ce que je demande, dit Setna.
+
+Tabubu lui dit:
+
+--Moi, je suis sage, je ne suis pas une personne vile. Si tu tiens à
+faire ce que tu veux avec moi, il faut me céder par contrat tous tes
+biens.
+
+--Pourquoi n'ôtes-tu pas le voile qui te couvre la figure? dit Setna.
+
+--Je viens précisément de t'en donner la raison. Tu te trompes si tu me
+crois celle que tu penses.
+
+«Voici cinquante-deux jeunes filles sans aucun voile et ce n'est pas
+elles que tu désires. Laisse donc cela. D'ailleurs ne suis-je pas très
+bien faite par tout le reste du corps?
+
+--Si, si, dit Setna, je vois que tu es parfaitement bien; finissons,
+allons à l'intérieur.
+
+Tabubu fit venir un scribe et faire à Setna un contrat de cession pour
+tous ses biens.
+
+Quand Setna eut signé, il dit:
+
+--Allons à l'intérieur.
+
+--Viens, dit Tabubu.
+
+Mais, au moment où ils allaient pénétrer dans l'appartement, on vint
+dire à Setna:
+
+--Tes enfants sont en bas, ils t'ont suivi et ils veulent que tu
+descendes sur-le-champ!
+
+--Ces enfants viennent mal à propos, dit Setna; mais, quant à moi, je ne
+peux pas descendre; qu'on les fasse monter.
+
+Tabubu s'habilla d'un habit de lin, pendant qu'on faisait monter les
+enfants. Setna voyait tous ses membres à travers l'étoffe, et son amour
+grandissait encore.
+
+--Finissons, dit-il; allons à l'intérieur.
+
+--Voilà tes enfants, dit Tabubu; si tu tiens beaucoup à faire ce que tu
+veux avec moi, prie-les de signer au-dessous du contrat que tu as fait
+en ma faveur, afin qu'ils ne contestent pas le don de tes biens.
+
+Les enfants étant rentrés signèrent ce qu'on leur demandait. Après quoi,
+Setna dit:
+
+--Finissons, allons à l'intérieur!
+
+--Moi, je suis sage, dit Tabubu; je ne suis pas une personne vile; si tu
+tiens absolument à faire ce que tu veux avec moi, fais tuer tes enfants
+pour qu'ils ne se disputent pas un jour avec les miens.
+
+--Je voudrais au moins, dit Setna, que tu ôtasses ton voile afin de
+savoir pour quelle beauté, je vais commettre cette méchante action.
+
+Tabubu lança un vif éclat de rire. Elle se promenait à contre-jour, le
+long de la muraille qui portait les lumières, de sorte que l'on voyait
+la forme de son corps au travers de l'habit de lin. Et il n'y avait que
+son visage que l'on ne vît point.
+
+Setna se tourna vers ses enfants, afin de leur demander s'ils
+comprenaient que l'on fît les plus grandes folies pour cette femme. Mais
+il vit ceux d'entre eux qui commençaient à être des hommes s'élancer
+vers Tabubu avec tous les signes d'un désir au moins égal au sien, et il
+pensa qu'ils tueraient leur père pour passer une heure avec elle. Alors
+il dit:
+
+--Qu'on les tue!
+
+Tabubu les fit égorger là où ils étaient et fit jeter leurs corps en bas
+du perron, devant les chiens et les chats qui mangèrent leur chair.
+Setna entendit ronger leurs os en buvant avec Tabubu.
+
+--Tout ce que tu m'as demandé, je l'ai fait, dit-il; finissons, allons à
+l'intérieur.
+
+--Entre dans cette salle.
+
+Il entra dans la salle, se coucha sur un lit d'ivoire et d'ébène, et
+étendit la main vers Tabubu.
+
+--Me voici, dit-elle en se découvrant. Alors, il s'aperçut qu'elle avait
+la figure désobligeante des proxénètes d'un certain âge et que sa bouche
+était un cloaque immonde.
+
+Mais il ne se montra point mécontent; il se leva tranquillement et
+descendit en passant par les endroits où il était passé pour venir.
+
+Le bruit de son aventure était répandu; on se moqua de lui dans les
+jardins où les jeunes filles étaient accouplées avec des hommes de
+différentes nations, et on lui fit honte d'avoir perdu ses enfants et
+son bien pour une hideuse créature.
+
+Il s'en alla, en pensant que ces gens-là sortiraient de cette maison
+d'amour, sans savoir ce que c'était que l'amour, alors que lui, il en
+avait goûté les plus vives délices par les transes effroyables du désir.
+
+
+
+
+VOYAGE DE CANDIDE AVEC PANGLOSS AU VRAI ELDORADO
+
+
+Il n'y avait pas quinze jours que Candide avait résolu de cultiver son
+jardin, qu'il était fatigué de manger des cédrats confits et des
+pistaches, peut-être aussi de voir le vilain visage de Cunégonde. Il
+exprima à Pangloss le doute où il était d'avoir touché réellement
+Eldorado. Eh quoi! dit Pangloss, n'y prîtes-vous point cinquante moutons
+chargés d'or, de pierreries et de diamants? Vous ne m'entendez pas,
+reprit Candide, je me demande si je n'eusse point trouvé ailleurs, par
+exemple, un sequin qui eût valu dix fois la charge de mes cinquante
+moutons et qui eût tenu dans mon gousset, par quoi j'eusse évité les
+nombreuses pertes que je fis dans les marais, dans les déserts et par le
+moyen d'un négociant hollandais. En ce cas, opina Pangloss, il faut
+aller au vrai Eldorado. Et ils y allèrent.
+
+Ils avaient tout juste posé le pied dans le pays, que des gens se mirent
+à pleurer à leur aspect, parce qu'ils avaient mauvaise mine, ayant
+beaucoup voyagé. Voilà qui marque un bon naturel! s'exclama Pangloss, en
+s'avançant, la main tendue, vers les habitants d'Eldorado. Voyez,
+dit-il, en retournant vers Candide sa main toute mouillée de larmes, ces
+gens ont le coeur sur ma main. Mais, dit Candide, nous avons, nous
+autres, l'estomac sur les talons, et on ne vous a rien donné...
+Néanmoins, le pays me plaît, dit Pangloss, car je ne vis personne
+témoigner tant de compassion quand je fus desservi par la fortune, ce
+qui m'arriva quelquefois.
+
+Comme ils commençaient de philosopher, on leur mit dans la main des
+gazettes. Ils s'étonnèrent du bon marché de la pensée à Eldorado. Eh!
+fit Candide, c'est là sans doute la nourriture de ce pays merveilleux,
+et nous n'avons pas remercié la personne charitable... Ils couraient
+s'acquitter de cette politesse; mais, ayant dérangé un loqueteux qui
+extirpait un superbe chronomètre du gousset d'un gentilhomme, ils
+reçurent un coup de pied violent. J'aurais plaisir, dit Candide, à aller
+voir pendre ce misérable. Qu'est-ce à dire? fit le gentilhomme, et
+comment traitez-vous ce pauvre homme qui paisiblement s'en va, ayant
+achevé son travail? Eh quoi! Monsieur, dit Candide, votre
+chronomètre!... Taisez-vous donc! se hâta de lui souffler Pangloss qui
+avait l'esprit philosophique et avait déjà lu une partie de la gazette,
+apprenez donc, mon cher Candide, les moeurs de ce pays avant de vous
+courroucer de la sorte. Candide ouvrait de grands yeux en parcourant la
+gazette, tandis que la foule pleurait d'attendrissement en s'écartant
+devant le loqueteux paré du chronomètre, à cause de la grande misère
+qu'il avait dû souffrir. Quelques lieutenants de la maréchaussée
+s'essuyaient l'oeil du revers de la main.
+
+Candide avait absorbé plus des trois quarts de la gazette et ne se
+sentait pas la faim moins opiniâtre. Pangloss, au contraire, ne pensait
+plus du tout à cela; tenant d'une main la gazette qu'il brandissait
+comme un drapeau, il attira Candide sur son coeur et l'embrassa à
+plusieurs reprises et convulsivement. Candide s'essuyait le visage et
+n'était pas encore revenu de ses façons, qu'il vit que Pangloss
+embrassait aussi tout le monde, et en était mouillé et le mouillait, les
+larmes ne tarissant pas à Eldorado. On s'absorbait en commentant la
+mésaventure d'un petit toutou qui avait été écrasé par un personnage qui
+avait le front de faire passer son carrosse au milieu de la chaussée où
+justement se trouvait le chien; ou bien un âne avait été battu, en
+province; ou un assassin condamné par quelque cour arriérée. Il fallait
+que de tels forfaits prissent fin. Et on venait précisément d'adjoindre
+des femmes à tous ceux qui détenaient une partie quelconque de la force
+publique. Il y en aurait désormais près de chaque magistrat, près de
+chaque capitaine dans le commandement de la compagnie, près de tout
+préposé au bon ordre de la voirie et jusque dans le conseil du roi, de
+manière que l'on évitât les violences, prêtât aux infamies une oreille
+indulgente et réprimât les tentatives de virilité. Oh! oh! pensait
+Candide, me voici bien éloigné des Bulgares chez qui je passai
+trente-six fois par les baguettes et qui tout de même étaient de fiers
+gaillards. Quelle grande nation doit être celle-ci, puisque tout y va
+beaucoup mieux, y allant tout juste à rebours? Cependant, j'ai soupé
+ailleurs avec six monarques et je n'ai pas une noisette à me mettre ici
+sous la dent.
+
+Il allait appeler Pangloss, mais il l'aperçut parmi beaucoup de
+personnes fort occupées pour le moment à débarrasser un régiment de
+milice de ses armes et bagages incommodants. Et, s'en étant chargées,
+elles les portaient en rythmant le pas aux côtés de ces pauvres
+fantassins. Elles leur tenaient aussi des discours. Nous laissons, dit
+quelqu'un, à côté de Candide, nos citoyens les plus éloquents approcher
+de ces militaires pour leur rappeler chaque matin qu'il est plus doux
+d'aller à la promenade, la canne à la main, qu'à la manoeuvre, le
+mousquet sur l'épaule. Mais, dit Candide, que ne supprimez-vous cette
+pauvre milice? Il est vrai, monsieur, mais, telle quelle, nous avons
+accoutumé de l'aimer et d'être émus à son passage; elle nous tient fort
+à coeur et elle est en outre une inépuisable matière à alimenter nos
+feuilles de contes humoristiques et compatissants... Je n'entends pas
+tous vos termes, dit Candide, le compatissant est-il donc un genre
+littéraire? Monsieur, vous sortez de chez les Hurons, ou venez tout
+droit de Monomotapa, pour ignorer que notre littérature est
+compatissante. On en a fini avec les errements de nos pères.
+Figurez-vous qu'ils guerroyaient, domptaient des peuples, gagnaient des
+provinces, qu'ils édifiaient des monuments et d'imposants ouvrages dont
+vous pourrez voir encore quelques débris que nous laissons debout bien
+qu'ils aient coûté beaucoup de sueur populaire... Vous souriez,
+monsieur? Votre langue, dit Candide, me cause seulement de la
+surprise... Je songe à M. de Voltaire... Soit, reprit le citoyen
+d'Eldorado, mais sachez que si, du temps de M. de Voltaire, on était
+fort en bel esprit et soucieux du beau langage, c'est en bonté
+qu'aujourd'hui l'on excelle. Nous sommes bons, monsieur, nous ne voulons
+plus rien être que bons; nous ne ferons que de bonnes oeuvres; nos
+livres sont de pitié, nos journaux d'amour, nos réunions de charité et
+nos familles sont en train de se constituer sur des bases qui sont
+d'abnégation et dont nous attendons les effets les meilleurs. Tenez, de
+ces trois bambins qui sont élevés chez les jésuites et entrent manger un
+baba chez le pâtissier, en compagnie de cette belle dame, deux sont les
+fils d'un misérable homme qui, faute d'éducation, étrangla ses père et
+mère; et toutes ces petites filles qu'une gouvernante mène à la pension
+étaient à un infortuné qui fit sauter la diligence où se trouvait la
+famille qui, aussitôt rétablie sur pieds, les adopta. Il est dommage,
+dit Candide, que Pangloss s'en soit allé en portant le fourniment d'un
+militaire, car c'est un grand philosophe, et il apprécierait votre pays
+avec plus de discernement que moi qui ai l'estomac creux. A ces mots, le
+citoyen d'Eldorado fut secoué d'un violent sanglot, regarda Candide en
+pitié, et s'en fut, s'épongeant avec son mouchoir.
+
+Candide avisa un groupe qui discutait avec toutes les apparences de la
+gravité autour d'un homme pour qui l'on semblait avoir les plus grands
+égards. S'étant approché, il reconnut que cet homme était Pangloss. Il
+venait de tordre le cou à un évêque. Et le groupe était de personnes de
+qualité qui interprétaient son acte au point de vue philosophique.
+Candide admira que les gazettes que l'on distribuait abondaient déjà en
+détails sur les mobiles du crime et sur l'évolution idéologique de
+l'auteur. De tous côtés venaient des hommes en livrée apporter à
+Pangloss des cartes armoriées avec invitation à souper. Emmenez-moi!
+implora Candide. A quel titre? fit Pangloss. Quel est cet intrus? firent
+les personnes de qualité qui prenaient le point de vue philosophique, en
+écartant du talon le quémandeur. Ah! bien! s'écria Candide. Et comme un
+carrosse était à sa portée, fortement garni de dorures et de laquais, il
+transperça d'outre en outre, à l'aide d'un long poignard, le seigneur
+qui s'y faisait voiturer. C'était un ministre du roi. Tout le monde
+quitta Pangloss et vint entourer Candide. On lui prêta les motifs les
+plus ingénieux du monde, et Candide, qui ne les eût point inventés, en
+fut fier. Il était campé, le poing sur la hanche, et narguait d'un peu
+haut Pangloss qui n'avait tué qu'un évêque. Cependant, ayant été priés
+l'un et l'autre dans un grand nombre de maisons, il arriva qu'ils se
+trouvèrent, le soir, à la même table. Pangloss y fut fêté comme un
+habile dialecticien et on honora en Candide un intuitif génial.
+
+Je voudrais bien, dit Candide, en se retirant au bras de Pangloss, que
+Martin fût ici; je crois que son pessimisme serait ébranlé. Tout ceci
+n'est que billevesées, dit Pangloss, et il y a mieux à faire à Eldorado.
+Ils recommencèrent de philosopher, et d'autant plus que le souper et les
+vins leur avaient échauffé la cervelle et qu'ils avaient vu un grand
+nombre de dames beaucoup mieux que Cunégonde et même qu'autrefois la
+petite Paquette, la femme de chambre de madame de Thunder-ten-Tronckh.
+Ce faisant, Pangloss entra dans une boutique et acheta trois forts sacs
+de poudre; il en fit acheter le double par Candide et recommença en un
+autre endroit; et, quand il eut vingt sacs de poudre, dit à Candide:
+Nous ferons sauter demain les seigneurs qui nous traitèrent ce soir et
+qui seront réunis en États-Généraux. Et ils le firent. Je pense, soupira
+Pangloss en voyant brimbaler, dans les airs, de notables portions du
+clergé et un véritable abatis de noblesse où se mêlait du tiers-état, je
+pense que voilà un coup qui sera commenté. Ne pensez-vous pas aussi,
+hasarda Candide, être une seconde fois pendu?
+
+Il fut fait tellement de bruit autour de cette affaire que le roi
+lui-même prononça: Voilà deux personnes fort intéressantes, et voulut
+voir Pangloss et Candide et les entendre développer leurs idées
+philosophiques. Ce fut une séance mémorable, et aucune illustration n'y
+manqua. Il n'y eut pas jusqu'à l'évêque et au ministre du roi, les
+premières victimes de Pangloss et de Candide, qui n'étaient point tout à
+fait mortes, qui ne tinssent à soutenir l'intérêt particulier qu'ils
+avaient pris à la belle attitude de ces messieurs durant qu'ils étaient
+par eux poignardés ou avaient le cou tordu. Ils déclarèrent qu'ils les
+avaient aussitôt couchés sur leur testament. Ces paroles eurent
+l'assentiment général, et les applaudissements redoublèrent quand
+Pangloss et Candide firent signe qu'ils acceptaient. Mais ceci ne fut
+rien au prix de l'empressement des familles de ceux qui avaient péri
+dans la salle des États-Généraux. Des courriers arrivaient de tous les
+points d'Eldorado, apportant, qui des dons en argent, qui des offres
+d'alliance pour les personnes et les familles de MM. Pangloss et
+Candide. Le mal, soupira Candide à l'oreille de Pangloss, est que vous
+n'ayez point de famille et que je sois marié à Cunégonde qui est si
+laide. Hélas! sanglotait Pangloss; et il s'apprêtait à subtiliser. Mais
+il entendit qu'il y avait 4.928 prétendants à la main de sa fille, de
+qui l'on demandait le petit nom. Il n'est que trop vrai, réfléchit
+Pangloss, que je n'ai pas plus de fille que je n'ai de cheveux sur le
+sinciput, et c'est bien regrettable; mais il m'en naît une peut-être.
+Et, à tout hasard, il dit un nom et celui qui lui vint fut Cunégonde.
+Mais c'est ma femme, quoique fort endommagée, objecta timidement
+Candide, outre que votre procédé a l'apparence malhonnête... Laissez
+donc aller les choses, dit Pangloss, elles vont le mieux du monde. Les
+4.928 prétendants en venaient aux mains. Le roi dit: Je l'épouse; car
+justement il cherchait femme. Mais il y eut le double de demandes pour
+la soeur de Candide, parce qu'il avait le visage agréable. Hélas! allait
+avouer Candide. Pangloss le coupa: Dites donc, je vous prie, le nom de
+Paquette; c'est une personne fort bien tournée et qui a l'usage du
+monde. On plaça de même frère Giroflée quoiqu'il fût théatin et puis
+Turc, et Cacambo et la vieille qui eut un tabouret à la cour quoiqu'elle
+ne fût capable de l'occuper qu'à moitié.
+
+Pangloss rêvait de professer la philosophie. On lui permit de grouper
+ceux qui partageaient la doctrine qu'il avait manifestée à Eldorado par
+des actes retentissants. C'étaient quelques douzaines de portefaix, des
+repris de justice et des voleurs de grands chemins, trois belles âmes,
+un duc et pair, une femmelette et quelques petits-maîtres. Pangloss ne
+perdit point de temps. On n'avait pas encore retrouvé l'auguste famille
+qui avait peut-être changé d'habitation à Constantinople, par la force
+des choses, que le grand philosophe avait déjà constitué avec ses
+disciples et les privilèges du roi, la société du _Péril d'Eldorado_. La
+presse y fit l'accueil le plus empressé. Les actions furent lancées à
+toute volée par le royaume, et il n'y eut point de capitaliste qui ne se
+fît scrupule d'en posséder un bon nombre. Les plus intelligents des
+écrivains tiraient un grand parti pour leurs chroniques de ce danger
+grandissant, dont ils simulaient chaque matin, par de jolis tours
+d'esprit et la meilleure apparence de bonne foi, avoir découvert les
+progrès; et ils poussaient l'humour jusqu'à sourire et tendre les bras à
+ce curieux monstre, à cet enfant gâté qu'Eldorado chauffait et qui
+mangeait Eldorado chaque jour. De même que l'on faisait autrefois pour
+les projets de nobles édifices, on publiait les plans et devis des
+nouvelles machines et substructions dévastatrices, en sorte que chacun
+pût savoir d'avance sur quel pied sauter. L'exercice de la bonté étant
+devenu l'unique sport, beaucoup de citoyens des plus considérables
+s'employaient à encourager les travailleurs, et l'on ne parlait plus à
+table et dans les salons que de leur noble ardeur et de leurs efforts
+touchants. Enfin, il ne restait plus un pouce de la terre d'Eldorado qui
+ne fût amplement garni de poudre jusqu'à trois pieds en profondeur,
+lorsqu'on annonça l'arrivée des Bulgares.
+
+Quoi! dit Candide, ce peuple de moeurs grossières et de naturel
+impitoyable vient ici porter la guerre! Mais nous allons être bien gênés
+pour recevoir comme il faut Cunégonde et Paquette qui ne peuvent tarder
+d'être ici et je cours informer le roi de ce désagrément. Rien ne
+pouvait être plus fâcheux que ce parti. Candide fut bousculé et personne
+ne le reconnut. Je suis Candide, s'écriait-il, c'est moi qui ai miné
+Eldorado! Mort aux Bulgares! Eldorado en avant! lui répondait-on, durant
+que l'on remettait à la milice ses armes quoique incommodes, et qu'on y
+enrôlait bon gré mal gré Candide. Qu'est ceci? fit Candide apercevant
+que l'on faisait passer Pangloss par les baguettes pour avoir discuté au
+coin de la rue sur la vertu du sentiment patriotique, en vérité, ce
+peuple a plus de souplesse en ses mouvements que ce grand homme en sa
+philosophie. Voilà d'un coup Eldorado tout pareil aux Bulgares et il est
+aussi probable qu'il les va mettre dehors qu'il l'est que l'on s'est
+joué de nous. Hélas! s'écriait Pangloss, l'échine fort molestée sous les
+baguettes, nous n'avions plus qu'à mettre le feu aux poudres!
+
+Presque aussitôt Eldorado sauta par le fait d'un boulet qui provint des
+Bulgares et s'alla ficher incontinent dans ces poudres. Pangloss et
+Candide étaient aussi haut dans les airs qu'ils y avaient fait aller les
+membres des États-Généraux: Je regrette, dit Candide, qui conservait sa
+présence d'esprit, que Martin ne soit pas ici, car j'aurais aimé
+entendre son opinion sur ce pays d'Eldorado qui tout de même valait
+mieux que ces Bulgares qui le vont habiter à présent, comme je le vois
+d'ici. Il vous donna, dit Pangloss, un grand exemple de bonté, qui vaut
+bien le sequin qui eût valu à lui seul plus que les cinquante moutons
+chargés d'or, de pierreries et de diamants. Ah! fit Candide,
+retournerons-nous cultiver notre jardin? C'est s'y prendre un peu tard,
+eut encore la force de gémir Pangloss. Eh! dit Candide, vous prononcez
+justement le mot qu'avaient tout à l'heure ces messieurs d'Eldorado qui
+viennent de choir empalés au moyen de la flèche de l'église
+métropolitaine. C'est donc qu'ils ont compris, acheva Pangloss, et
+toutes choses vont pour le mieux.
+
+
+(Publié dans la _Revue Bleue_ du 3 février 1894.)
+
+
+FIN
+
+
+
+
+TABLE
+
+
+  DIVUS ARETINUS                                          1
+  L'ADORATION DES MAGES                                  59
+  LA DANSEUSE DE TANAGRE                                 91
+  LE MIRACLE DU SAINT VAISSEAU                          113
+  LES TABLETTES DE CYTHÈRE                              155
+  LE BON JUGEMENT DU TRIBUNAL DES MOEURS, A VENISE      165
+  TABUBU                                                179
+  VOYAGE DE CANDIDE AVEC PANGLOSS AU VRAI ELDORADO      191
+
+
+E. GREVIN.--IMPRIMERIE DE LAGNY.--9829-2-20.
+
+
+
+
+
+End of Project Gutenberg's Nymphes dansant avec des satyres, by René Boylesve
+
+*** END OF THIS PROJECT GUTENBERG EBOOK NYMPHES DANSANT AVEC DES SATYRES ***
+
+***** This file should be named 63762-8.txt or 63762-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/3/7/6/63762/
+
+Produced by Laurent Vogel and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Books project.)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

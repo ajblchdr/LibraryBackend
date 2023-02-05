@@ -1,0 +1,3633 @@
+﻿The Project Gutenberg EBook of Helena, by Euripides
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Helena
+
+Author: Euripides
+
+Translator: Axel Gabriel Sjöström
+
+Release Date: September 29, 2019 [EBook #60381]
+
+Language: Swedish
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HELENA ***
+
+
+
+
+Produced by Jari Koivisto
+
+
+
+
+
+
+
+
+HELENA
+
+af
+
+Euripides
+
+
+Öfversatt af
+
+Axel Gabriel Sjöström
+
+
+
+      EURIPIDIS HELENA.
+
+      SVETHICE REDDITA
+          cuius
+     Particulam Primam
+VENIA AMPLISSIMAE FACULTATIS PHILOSOPHICAE
+AD IMPERIALEM ALEXANDREAM IN FENNIA UNIVEBSITATEM
+
+        PRAESIDE
+
+AXELIO GABRIELE SJÖSTRÖM
+Literaturae Graecae Professore Publico et Ordinario
+Imper. Ord. de St. Wladimiro in IV Classe Equite
+         P.P.
+      RESPONDENS
+   ALEXANDER HULTIN
+
+Stipendiarius Quintae Cohortis Pyrobolorum Savono-Carelus
+In Auditorio Philos. die 1 Nov. 1843
+h.p.m.4.
+
+
+
+
+
+Helsingfors,
+hos J.C. Frenckell & Son,
+1845.
+
+
+
+
+PERSONERNE:
+
+Helena.
+Teukros.
+Khoren.
+Menelaos.
+Gumman.
+Budet.
+Thronoe.
+Theoklymenos.
+[Andra budet]
+Dioskurerne.
+
+
+
+
+HELENA.
+
+    Här rinner Nilens nymphbebodda vatten fram,
+    Hans, som, i stället för den himmelska regnskurn,
+    Egyptens åkrar vattnar, när hvit snö bortsmällt.
+    Sålänge Proteus lefde, var han landets drott,
+    Och bodde uppå Pharos' ö, Egyptens kong.                     5
+    Bland vattnets tärnor en han valde till gemål,
+    Psamathe, såsnart hon öfvergiftit Aiakos.
+    Hon födde sedan tvenne barn i denna borg,
+    En son Theoklymenos, som from mot gudarna.
+    Sitt lif framlefde, och en dotter, underskön,               10
+    Sin moders ögonsten, sålänge barn hon var;
+    Men när hon vuxit upp, och var giftvuxen mö,
+    Hon kallades Theonoe, ty gudaråd
+    Hon kände alla, varande och vardande;
+    Utaf sin morfar Nereus hon den gåfvan fått.                 15
+    Mitt fosterland är icke heller oberömdt,
+    Sparta; min far är Tyndareus; ett rykte går,
+    Att Zeus en gång inställde sig hos moder min,
+    Leda, se'n han sig tagit skepnad af en svan,
+    Samt sof hos henne stjälandes, liksom han flytt             20
+    Ur örnens klor, ifall den sägn trovärdig är.
+    Sjelf Helena jag kallas, och de qval jag haft,
+    Jag vill förtälja: tre gudinnor ställde sig
+    För Alexandros, i Idaiska grottan fram,
+    Hera, och Kypris, och zeusborna gudamön,                    25
+    Och önskade få höra fälld sin skönhets dom.
+    Min fägring satte, om hvad osällt fägring är,
+    Kypris till pris åt Alexandros, med min hand:
+    Och vann. Idaiske Paris stallen lemnade,
+    Och kom till Sparta, för att dela bädd' med mig.            30
+    Hera, misstyckande, att priset hon ej vann,
+    Tillintetgjorde Alexandros' giftermål,
+    Och gaf ej mig åt honom, men en själfull bild
+    Af mig, som var af himlens ether sammansatt,
+    Åt sonen af drott Priamos, som trodde sig                   35
+    Mig ega fåfäng tro! och egde ej; men Zeus
+    Med denna ofärd andra planer sammanknöt.
+    Ett krig han bragte öfver de Helleners land,
+    Och olycksälla Phryger, att från menskomängd
+    Och hvimmel så befria jorden, allas mor,                    40
+    Och låta störste man i Hellas ärad bli.
+    Nu för de Phrygers mod utsattes jag, ej jag,
+    Men blott mitt namn till kamppris åt Hellenerna.
+    Då lade mig Hermes i etherslöjorna,
+    Betäckande med moln; ty mig ej Zeus förglömt,               45
+    Och bragte sedan hit till Proteus' kongaborg,
+    Som kyskast han ansåg bland alla dödliga,
+    Att Menelaos' bädd jag hölle så i helgd.
+    Här är jag nu, och mellertid min arme man,
+    Med samlad här, utkräfver mig, bortröfvade,                 50
+    Mot Ilios' vallar dragande i härnad ut.
+    För min skull månge kämpar vid Skamandriske
+    Flodstranden dött; men jag, som alla qvalen bär,
+    Förbannas, och man tror att jag, förrådande
+    Min make bland Hellener väckt det stora krig.               55
+    Hvi lefver jag då? Af en gud jag rösten hört,
+    Utaf Hermes, att jag får bo i Spartas land,
+    Det stolta, med min make, när han hör, att jag
+    Till Ilios ej kom, ej redde annans bädd.
+    Sålänge detta solens ljus än skådade                        60
+    Proteus, jag var för bröllop fredad; se'n han gömms
+    I jordens mörker, mig den hädangångens son
+    Att äkta jäktar. Men af aktning för gemåln
+    Här invid Proteus' minnesvård knäböjer jag,
+    Bönfallande, att han må skydda fordna band,                 65
+    Så att, om jag vanryktadt namn i Hellas bär,
+    Jag ej härstädes nesa mig åsamka må.
+
+TEUKROS.
+
+    Ho är, som makten har i detta välbefästa hus?
+    En rik man värdig denna boning synes mig,
+    Med konungslig omgifning, och sköntinnad borg.              70
+    O Ve!
+    O gudar, hvilken syn! Förhatlig skådar jag,
+    Och blodig bild af qvinnan, som min ofärd var,
+    Och samtlige Akhaiers. Dig, som liknar så
+    Helena, förskjute gudarne! Och stode jag                    75
+    Ej här på okänd jord, för säkert slungad sten
+    Du strax umgällde, att du är Zeus dottersbild.
+
+HELENA.
+
+    Hvarför du usle, ho du är, afskyr du mig,
+    Och hatar mig, för hennes olyckshändelser?
+
+TEUKROS.
+
+    Förlåt! För vreden vek jag mera, än jag bordt;              80
+    Ty hela Hellas bär ju till Zeus dotter hat.
+    Och derför, qvinna, tag ej illa mina ord!
+
+HELENA.
+
+    Ho är du? från hvad bygder kommer du till oss?
+
+
+TEUKROS.
+
+    En bland Akhaierna jag är, de stackrarna.
+
+HELENA.
+
+    Alltså ej under, att du hatar Helena.                       85
+    Men hvem du är, hvarfrån, hvars son, du säga bör.
+
+TEUKROS.
+
+    Mitt eget namn är Teukros, och min faders namn
+    Är Telamon, och fosterlandets Salamis.
+
+HELENA.
+
+    Hvi är du kommen hit till Nilens åkerfält?
+
+TEUKROS.
+
+    Landsflyktig drefs jag bort utur min fosterbygd.            90
+
+HELENA.
+
+    Ack, stackars karl! ho körde dig ur landet hän?
+
+TEUKROS.
+
+    Min fader Telamon, som vara bordt min vän.
+
+HELENA.
+
+    Och hvarför det? den saken din olycka gör.
+
+TEUKROS.
+
+    Min broder Aias skulden var, vid Troia fälld.
+
+HELENA.
+
+    Hur så? hans lif föröddes då utaf ditt svärd?               95
+
+TEUKROS.
+
+    Frivilligt språng mot eget svärd hans bane var.
+
+HELENA.
+
+    Var han då galen? hvilken sansad gjorde så?
+
+TEUKROS.
+
+    Du visst Akhilleus känna torde, Peleus' son?
+
+HELENA.
+
+    Som vi hört sägas, Helenas friare han var.
+
+TEUKROS.
+
+    Död, väckte han bland vännerna om vapnen tvist.            100
+
+HELENA.
+
+    Och hvilken skada hade Aias derutaf?
+
+TEUKROS.
+
+    Då vapnen annan fick, från lifvet skildes han.
+
+HELENA.
+
+    Du lider då gemensamt med hans lidanden?
+
+TEUKROS.
+
+    Emedan jag med honom ej tillsamman dog.
+
+HELENA.
+
+    Du kom då äfven med till Ilios' stolta stad?               105
+
+TEUKROS.
+
+    Olycklig blef jag, se'n jag hjelpt att öda den.
+
+HELENA.
+
+    Är den då redan bränd, och genom eld förstörd?
+
+TEUKROS.
+
+    Så, att ett tydligt spår ej finns af murarna.
+
+HELENA.
+
+    Osälla Helena, för din skull Phrygerne förgås!
+
+TEUKROS.
+
+    Akhaierne derhos; ty ondt är mycket gjordt.                110
+
+HELENA.
+
+    Hur lång tid har nu gått, sen staden härjades?
+
+TEUKROS.
+
+    Man nära sju års frukter sedan bärgat in.
+
+HELENA.
+
+    Hur lång tid eljes haden J vid Troia dröjt?
+
+TEUKROS.
+
+    Rätt många månar, lupna genom tio år.
+
+HELENA.
+
+    Säg, togen J den Spartiatska qvinnan ock?                  115
+
+TEUKROS.
+
+    Sjelf Menelaos henne ifrån luggen drog.
+
+HELENA.
+
+    Såg du den arma, eller hörde prat derom?
+
+TEUKROS.
+
+    Som dig jag ser med ögonen, ej mindre alls.
+
+HELENA.
+
+    Sen till, att det synvilla ej från gudar var!
+
+TEUKROS.
+
+    Säg eljes hvad du vill men nämn synvilla ej!               120
+
+HELENA.
+
+    Tron J synvillan tillförlitlig vara då?
+
+TEUKROS.
+    Jag sjelf med egna ögon sett, och vettet ser.
+
+HELENA.
+
+    Är redan hemma med gemåln Menelaos?
+
+TEUKROS.
+
+    I Argos ej, ej heller vid Eurotas' flod.
+
+HELENA.
+
+    Aj aj! du illa sagt för dem du illa sagt.                  125
+
+TEUKROS.
+
+    Han jemte sin gemål försvunnen vara sägs.
+
+HELENA.
+
+    Togs ej af samtliga Argeier samma väg?
+
+TEUKROS.
+
+    Togs visst; men stormen dref en hit, en annan dit.
+
+HELENA.
+
+    På hvilka böljors ryggar gjorde de sin färd?
+
+TEUKROS.
+
+    Tversöfver det Aigaiske hafvet foro de.                    130
+
+HELENA.
+
+    Har ingen se'n sett Menelaos återländ?
+
+TEUKROS.
+
+    Allsingen; men för död i Hellas hålles han.
+
+HELENA.
+
+    Med oss är slut; men Thestios' dotter, lefver hon?
+
+TEUKROS.
+
+    Du Leda menar? redan hon afliden är.
+
+HELENA.
+
+    Visst gjorde Helenas vanrykte hennes död?                  135
+
+TEUKROS.
+
+    Man säger, att hon snaran knöt kring ädel hals.
+
+HELENA.
+
+    De Tyndarider, lefva de väl, eller ej?
+
+TEUKROS.
+
+    De dött; de icke dött: tu tal man har derom.
+
+HELENA.
+
+    Och hvilkendera tror man mest? o ve mig, ve!
+
+TEUKROS.
+
+    I stjernors skepnad anses de för gudar två.                140
+
+HELENA.
+
+    Detder du vackert sagt; hur lyder andre sägn?
+
+TEUKROS.
+
+    Att för sin systers skull, de genom sjelfmord dött.
+    Men nog är taladt; jag ej dubbelt sucka vill.
+    Nu, för hvars skull jag kom till denna kongaborg,
+    För att orakelqvinnan Theonoe få se,                       145
+    Var mig behjelplig, att hon ger mig gudasvar,
+    Hvarthän jag styra bör mitt skepp, för förlig vind
+    Att Kypros' kuster hinna, der Apollon sjelf
+    Mig förespått, att fästa bo, och Salamis
+    Mitt nya hem benämna, för det gamlas skull.                150
+
+HELENA.
+
+    Det skall dig sjelfva färden lära. Lemnande
+    Vårt land, fly hädan, fremling, förrän Proteus' son
+    Dig sett, som här är konung, men nu bortastada,
+    Af sina trogna hundar följd, på blodig jagt.
+    Ty hvar Hellen, som han påträffar, dräper han,             155
+    Och hvarföre derom du icke spörja må,
+    Och jag ej säger; ty hvad båtade det dig?
+
+TEUKROS.
+
+    Du talat väl, o qvinna! måtte gudarne
+    Dig riklig vedergällning ge för goda ord!
+    Du till gestalt visst liknar Helena, men ej                160
+    Ett likdant sinne, utan mycket olikt har.
+    Hon snöpligt må förgås, och till Eurotas' stad
+    Ej hinna; men du vare alltid lyckelig!
+
+HELENA.
+
+    Ve mig, som i skräckliga smärtors skräckliga qval är kastad!
+    Hur skall jag bekämpa min sorg? hvad qväde försöka,        165
+    Med tårar, jemmerskri, eller suckar? ve!
+    Unga, bevingade mör,                      _Stroph. 1._
+    Döttrar af moder Jord,
+    Seirener, måtte ni mina qval
+    Dela, med Libyska                                          170
+    Lotosflöjtens eller Syringens ljud,
+    Skänkande smärtorna ymniga tårar,
+    Qvalena qval, och tonerna toner!
+    Sånger, till sucken samljudiga,
+    Skicke mig Phersephassa,                                   175
+    Blodiga, blodiga, att hon, på tårar, må
+    Från mig, i de nattliga salar, undfå
+    Härjade skuggors låfsång.
+
+KHOREN.
+
+    Vid dunkla vattnet jag satt           _Motstr. 1._
+    På klasige gräsets bädd,                                   180
+    De purpurskimrande mantlarna
+    I solens gyllene strålglöd
+    Värmande, samt i skogen af vassen.
+    Dän ljöd då en jemmerklagan,
+    Och jag hörde en ömklig, qvidande stämma.                  185
+    Så suckar med verop mången gång
+    Najaden, när uppå berget hon
+    Sörjer den flyktande älskaren,
+    Eller när hon i klippans klyfta, i grottan hos Pan
+    Beklagar det gäckade bröllop.                              190
+
+HELENA.
+
+    O ve, o ve!                              _Stroph. 2._
+    Du byte på barbarens skepp,
+    Helleniska flickehop,
+    Ho bland Akhaiers seglare kom väl, ja, kom väl,
+    Bringande tårar på tårar åt mig,                           195
+    Bud om Ilios' undergång,
+    Genom ödande elden skedd,
+    För mig mångdråparinnan,
+    Och för min skull mångplågarinnan?
+    Leda, i snarans streck,                                    200
+    Emottog döden,
+    Af sorg öfver nesan min.
+    och, på sjön kringirrande, bortdog
+    Min olycksälle gemål.
+    Men Kastors och dess sambroders                            205
+    Tvillingborna ära, försvunnen,
+    Försvunnen, hemlandet, hästtrampade ängen lemnade
+    Och skolorna vid den säfvige
+    Eurotas, sin ungdoms äflan.
+
+KHOREN.
+
+    O ve, o ve!                             _Motstr. 2._       210
+    Mångsuckige olyckan din,
+    O qvinna, och ödet ditt!
+    Olycklig den stund må man kalla, man kalla,
+    Då hos modren dig aflade
+    Zeus, herrlig i ethern,                                    215
+    Snöhyig, med vinge af svan,
+    Ty hvilken ofärd tryter dig?
+    Och hvad qval har ej du utstått?
+    Död är din mor,
+    Och ej heller af Zeus                                      220
+    De tvillingssöner haft trefnad.
+    Och fädernejorden ej skådar du,
+    Men i all verlden går
+    Det prat, som åt annors bädd
+    Dig, vördade, öfverlemnar.                                 225
+    Och din make i sjön och i böljorna lifvet förlorat;
+    Ej någonsin mera fädernesalen,
+    Ej koppartemplet du lyckliggör.
+
+HELENA.
+
+    O ve, ove! ho var det bland Phrygers folk?   _Stroph. 3._
+    Eller ho från Helleniska landet                            230
+    Har timrat för Ilios gråtvärd
+    Fura? hvaraf hopfogande
+    Osälla galejan se'n
+    Priamiden seglande kom på barbarisk båt,
+    Till min födernehärd,                                      235
+    För min menliga
+    Fägrings skull, att roffa mitt bröllop.
+    Men den falska mångdråparinnan Kypris
+    Danaiderna bragte och Priamiderna död;
+    Ve mig, olyckliga!                                         240
+    Och hon på den gyllene thron,            _Motstr. 3._
+    Zeus höga omfamning, Hera,
+    Snabbfotade sonen af Maia sände,
+    Som mig, de friska rosenblad, inunder kappan,
+    Samlande, bjöd till koppartemplig Athena                   245
+    Komma; men genom ethern bortröfvande,
+    Till detta osaliga landet,
+    Till en split, en split bestämde
+    För Hellas och Priamos söner.
+    Och mitt namn vid Simuntiska böljan har                    250
+    Ett vanskeligt rykte fått.
+
+KHOREN.
+
+    Jag vet, att du olycklig är; dock båtar dig,
+    Att bära lifvets händelser med tålamod.
+
+HELENA.
+
+    Väninnor, vid hvad öde är jag sammanfäst?                  255
+    Har till järtecken modren mig åt menskor födt?
+    Ty ej Hellenska, ej Barbarska nånsin än
+    I hvitt foderal till verlden sina foster släppt,
+    Hvari mig Leda säges hafva fått af Zeus.
+    Ett under äro mine öden, och mitt lif,                     260
+    Dels genom Hera, dels ock för min fägrings skull.
+    O, måtte jag, utsuddad som ett konterfej,
+    För denna vackra, få en fulare gestalt!
+    Och alla onda öden, som jag lider nu,
+    Hellenerne ha glömmt; men de ej onda de                    265
+    Nog minnas, likasom de onda ödena.
+    Den som, enär han afser blott ett olycksfall,
+    Af gudar hemsöks, bär det tungt, men måste dock,
+    Men jag i många olycksöden ligger snärjd.
+    Ty fastän icke brottslig, jag vanryktad är.                270
+    Och den olyckan större, än en verklig blir,
+    När brott, som icke finnas, man påbördar
+    Mig äfven gudarna från fosterbyggden sändt
+    Ibland barbarer, och, beröfvad vännerna,
+    Jag är slafvinna vorden, som dock föddes fri.              275
+    Ty hos barbaren allt är slaf, förutom en.
+    Och nu det ankar, som mig ensamt uppehöll,
+    Att komma skulle min gemål, och frälsa mig,
+    Nu är han död, och finnes icke mera till.
+    Ock mor min dött, och jag dess mördarinna är,              280
+    Väl oförskyldt, men sjelfva skulden dock är min.
+    och hon, som husets prydnad var, och min också,
+    Min dotter, grånar bort som ogift mö.
+    Och sjelfve Dioskurerne, Zeus sönerne
+    Ej finnas till; men jag i allt olyckelig,                  285
+    I mina öden dött, men icke verkligen.
+    Det sista blir, att, om jag kommer hem igen,
+    I fängslet kastas utaf dem, som hålla för,
+    Att jag från Ilios följde Menelaos åt.
+    Ty om min make lefde, kände vi hvaran                      290
+    Af vissa tecken, endast klara för oss två.
+    Nu är ej så; och aldrig nånsin räddas han.
+    Hvi lefver jag väl längre? hvad afbider jag?
+    Att, bytande olycka emot giftermål,
+    Tillsammanbo med en barbar, och sätta mig                  295
+    vid kräsligt bord? Men då en vrångsinnt äkta man
+    Med qvinna bor, hvars hela väsen vrångsinnt är,
+    Är bäst att dö; dock huru skall jag vackert dö?
+    Otäck är snaran, den i höjden sväfvande,
+    Samt oanständig ock bland slafvar anses hon;               300
+    Men svärdet något skönt och ädelt innebär,
+    Och kort är dödens rätta ögonblick också.
+    Ty jag i sådant djup af olyckor är bragt,
+    Att andra qvinnor sälla genom skönheten
+    Befinnas, men just hon mig gör olyckelig.                  305
+
+KHOREN.
+
+    Helena, den fremmande, som kom, eho han är,
+    Ej bör du tänka, att han idel sanning talt.
+
+HELENA.
+
+    Bestämdt likväl han sade, att min make dött.
+
+KHOREN.
+
+    _Osanning finns emellertid med sanning mängd._
+
+HELENA.
+
+    Och tvertemot är tillförlitlig sanningen.                  310
+
+KHOREN.
+
+    I lyckans ställe bringas du i ofärd nu.
+
+HELENA.
+
+    Farhågan griper mig, och gör förskräckelse.
+
+
+KHOREN.
+
+    Hvad välbevågenhet sker dig i detta slott?
+
+HELENA.
+
+    Der äro alle vänner, utom friaren.
+
+KHOREN.
+
+    Säg, vet du hvad? Nu minnesvården lemnande.                315
+
+HELENA.
+
+    Hvad är din mening, eller hvartill råder du?
+
+
+KHOREN.
+
+    Gå in, och henne, som om allting kunskap har,
+    Nereidens dotter der, hafsnymphens, Theonoe,
+    Bespörj, om din gemål ännu vid lifvet är,
+    Om han är hädangången. Och när allt du vet,                320
+    Derefter rätta sedan både fröjd och sorg,
+    Men förrn du intet säkert vet, hvad båtar dig,
+    Att ängslig vara? nej, hörsamma mina råd!
+    Gå hän från denna graf, och uppsök sierskan,
+    Af hvilken du all sanning sedan veta får;                  325
+    I detta slott, hvad blickar du väl efter mer?
+    Jag äfven vill ditin med dig begifva mig,
+    Och jemte dig hos jungfrun be om gudasvar;
+    Ty _qvinna bör med qvinna dela ärende_.
+
+HELENA.
+
+    Väninnor, jag ert råd tar an,                              330
+    Kommen, kommen ditin,
+    Att derinne J höra fån
+    Samtliga mina qval!
+
+KHOREN.
+
+    Den villiga du manar lätt.
+
+HELENA.
+
+    Ve, osalige dag!                                           335
+    Hvad, eländiga, hvad gråt-
+    värdt ord nu förnimmer jag?
+
+KHOREN.
+
+    Spå dig ej qvalen påförhand,
+    Goda, och sucka i förtid ej!
+
+HELENA.
+
+    Hvad har händt min arma gemål?                             340
+    Skådar han dagens ljus,
+    Och solgudens fyrspann,
+    Och stjernornas banor än;
+    Eller delar han under jorden
+    Med de döda, skuggors lott?                                345
+
+KHOREN.
+
+    _Du bör till det bästa vända
+    Hvad i en framtid kan hända._
+
+HELENA.
+
+    Dig jag åkalla vill, dig jag besvärja vill,
+    Du vattenrika, och säfgröna
+    Eurotas, om sannt är ryktet,                               350
+    Som går om min makes död.
+
+KHOREN.
+
+    Hvarför så dårligt prat?
+
+HELENA.
+
+    En mördande snara
+    Kring halsen jag binda skall;
+    Eller med mordsvärds anfall                                355
+    Drabba min strupe tversgenom, förfärligt,
+    Rof för gudinnorna trenne,
+    Och Priamiden på Ida, som blå-
+    ste på syrinxpipan vid stallen en gång.
+
+KHOREN.
+
+    All ofärd fjerran från dig                                 360
+    Vike, och säll må du bli!
+
+HELENA.
+
+    Olyckliga Troi, ve!
+    För saklös sak du har fallit, och lidit hårdt
+    Min gåfva var det, att Kypris dig sände
+    Rikelig blod, och rikliga tårar, och smärta på smärta,
+    Och tårar på tårar ökte ditt qval.                         365
+    Mödrarne söner förlorade;
+    Och jungfrur, de dödes förvandter,
+    Sig lockarna skördade af, vid Skamandros'
+    Phrygiska bölja.
+    Men Hellas ett jemmerskri                                  370
+    Hof upp, och ropade ve,
+    Och drabbade hufvut med händren,
+    Och bestänkte finhyiga kinden
+    Med nagelns blodiga slag,
+    Lycksaliga mö i Arkadien, o Kallisto, som Zeus'            375
+    Läger med fyra fötter besteg,
+    Hur mycket sällare var du, än moder min!
+    Du som i ludenkäftige djurets skick,
+    Med blodig blick, björninnas gestalt
+    Antog, till kränkningens råga.                             380
+    Mer salig var hon, som Artemis slöt ur dansen,
+    Gullhornade hinden, Merops, Titanidens dotter,
+    För fägringens skull. Min skönhet har
+    Förstört, förstört Dardaniens Pergama,
+    Samt olycksälla Akhaier.                                   385
+
+MENELAOS.
+
+    Du, som i Pisa med Oinomaos' fyrspannsvagn,
+    O Pelops, i fordna dagar hurtigt åkte kapp,
+    Ack, att du då, när du till spis åt gudarna
+    Framsattes styckad, mist bland gudarna ditt lif,
+    Förrän du nånsin Atreus födde, fader min,                  390
+    Som med min mor Aeropa framaflade
+    Agamemnon, och mig, Menelaos, ett hjeltepar!
+    Ty största krigshär -- och jag talar utan skryt, --
+    På flottan menar jag mig ha till Troia fört,
+    Härförare och konung, utan minsta tvång,                   395
+    Frivilligt folk från Hellas land beherrskande.
+    Dem, som ej mera finnas till, man räkna kan
+    Och dem som gladligt sig ur hafvet räddade,
+    Till hemmet återbringande de dödes namn.
+    Jag, arme, uppå blåe hafvets vida svall                    400
+    Kringirrat lika länge, som jag Ilios' torn
+    Förstörde; och till fosterlandet sträfvande,
+    Mig gudarne tillstädja ej, att detta nå.
+    Men Libyens öknar, och hvar ogästvänlig strand
+    Jag har besökt; och när jag hemmet nära var,               405
+    Dref stormen mig tillbaka; aldrig seglet mitt
+    Frisk kultje fyllde att jag hade hemmet nått.
+    Och nu, med vännernas förlust, skeppsbruten man,
+    Jag kastats hit, och emot klipporna mitt skepp
+    Uti tallösa spillror sönderkrossades.                      410
+    Af alla bjelklag kölen blott mig återstod,
+    På hvilken, mot förmodan, knapt jag räddad är,
+    Samt Helena, som jag från Troia tog igen.
+    Hvad namn nu detta landet har, och folket här,
+    Jag vet ej; störta mig i hopen blygdes jag,                415
+    Att lumpna drägten ingen skulle skåda få,
+    Min ofärd döljande, af skam: högt uppsatt man,
+    _När illa går, i svårare förlägenhet
+    Plär falla, än den längese'n vanlottade._
+    Mig tränger nöd; ty icke något mundförråd                  420
+    Jag har; ej kläder på min kropp; du sjelf nog kan
+    Det skönja, med skeppstrasor mig omhöljer jag.
+    De fordna mantlar och glansrika överplagg,
+    Och smycken hafvet röfvade; i grottans vrå
+    Jag gömde makan, som mig alla lidandens                    425
+    Upphof har varit, nödgande qvarlemnade
+    Bland vännerna, att om gemålen taga vård.
+    Jag ensam kommer, sökande åt vännerna
+    Undsättning här, ifall jag kunde finna den.
+    Då denna borg, med tinnar kringbesatt, jag såg.            430
+    Och dessa stolta portar hos en mäktig man,
+    Jag nalkades; sjömannen hoppas någonting
+    Dock hos den rike få; men de, som intet ha,
+    Änskönt de ville, kunna icke bistånd ge.
+    Ohe! vill ingen portvakt låta skåda sig,                   435
+    Som om min ofärd bragte tidender ditin?
+
+GUMMAN.
+
+    Ho är vid porten? laga du dig härifrån,
+    Och stå ej längre der bakom, åbringande
+    Omak åt herrskapet! du eljes måste dö,
+    Förty Hellen du är, och fågelfri alltså.                   440
+
+MENELAOS.
+
+    Min gumma, detta allt du ordade med skäl,
+    Ty det går an; jag lyder; men håll inne dock!
+
+GUMMAN.
+
+    Gå hän, du fremling! ty mig blifvit anbefaldt,
+    Att bland Hellener ingen släppa i vår borg.
+
+MENELAOS.
+
+    Träng icke på med handen, knuffas icke så!                 445
+
+GUMMAN.
+
+    På mina ord du aktar ej; ditt felet är.
+
+MENELAOS.
+
+    Säg till härom derinne hos ditt herrskapsfolk!
+
+GUMMAN.
+
+    Ett bittert budskap, tror jag, bli dem dine ord.
+
+MENELAOS.
+
+    Jag fremling är, skeppsbruten, och okränklig karl.
+
+GUMMAN.
+
+    Drag härifrån till annat hus, och oss förbi!               450
+
+MENELAOS.
+
+    O nej, här måste jag gå in; vik undan, du!
+
+GUMMAN.
+
+    Du oregerlig är; med våld möts våld rättnu.
+
+MENELAOS.
+
+    Fördömdt! hvar äro mine stolte härar nu?
+
+GUMMAN.
+
+    Hos dessa vördnadsvärdig var du; icke här.
+
+MENELAOS.
+
+    O gud, hur oförskyldt vi bli missfirmead!                  455
+
+GUMMAN.
+
+    Hvi fuktas ögat af en tår, så jemmerligt?
+
+MENELAOS.
+
+    Vid fordna sälla tiders minne händer det
+
+GUMMAN.
+
+    Gå hän! och tårarna åt dina vänner gif!
+
+MENELAOS.
+
+    Hur heter landet? hvems är denne kongaborg?
+
+GUMMAN.
+
+    Proteus i borgen bor; Aigyptos landet nämns.               460
+
+MENELAOS.
+
+    Aigyptos? stackars man, hvart har jag kosan ställt?
+
+GUMMAN.
+
+    Hos Neilos' slägte hvad har du att tadla då?
+
+MENELAOS.
+
+    Jag det ej tadlar; egen ofärd suckar jag.
+
+GUMMAN.
+
+    För mången annan illa gått, ej endast dig.
+
+MENELAOS.
+
+    Finns konungen, hvars namn du sade, i sin borg?            465
+
+GUMMAN.
+
+    Der är hans grafvård, och hans son är landets kong.
+
+MENELAOS.
+
+    Hvar kan han vara? borta eller hemma nu?
+
+GUMMAN.
+
+    Ej hemma; mot Hellener dock fiendtligast.
+
+MENELAOS.
+
+    Hvad har han då för skäl dertill, som angår mig?
+
+GUMMAN.
+
+    Jo, Helena, Zeus' dotter, finns i denna borg.              470
+
+MENELAOS.
+
+    Hvad pratar du? hur föll ditt ord? säg om en gång!
+
+GUMMAN.
+
+    Just Tyndariden, som i Sparta fordom bott.
+
+MENELAOS.
+
+    Och hvadan kom hon? och i hvilket ärende?
+
+GUMMAN.
+
+    Till våra bygder lände hon från Lakedaimons jord.
+
+MENELAOS.
+
+    När då? ur grottan dock hon icke röfvades?                 475
+
+GUMMAN.
+
+    Re'n förrn Akhaierne mot Troia ryckte ut.
+    Men drag du hädan! ty derinnanföre finns
+    En ting, hvaraf vår kongaborg uppskakad är.
+    Du kommit ej i läglig tid; om herrskaren
+    Dig fånga skulle, din gästgåfva döden blef.                480
+    Jag älskar er, Hellener; fastän bittra ord
+    Jag gaf dig nyss, af fruktan för min herrskare.
+
+MENELAOS.
+
+    Hvad skall jag säga, då jag hör, att ny ofärd
+    Sig till de gamla sammanfogar ömkligen,
+    Ifall jag kommit, ifrån Troia min gemål                    485
+    Befriande, som nu i grottan undangömma,
+    Men någon annan qvinna med detsamma namn,
+    Som min gemåls, i dessa kongasalar bor,
+    Och säger, att hon dotter är också af Zeus?
+    Och finns väl någon dödelig med gudens namn                490
+    Vid Nilens stränder? Han i himlen är blott en.
+    Hvar finns ett Sparta på vår jord, om icke der,
+    Allenast der skönsäfvige Eurotas går?
+    Och blott en ende Tyndareus bar detta namn.
+    Finns väl med Lakedaimon landskap likbenämndt,             495
+    Och Troia? Jag ej gitter lemna svar derpå.
+    Ty månge, som det syns, uppå den vida jord,
+    Besitta samma namn, med stad en annan stad,
+    Med qvinna qvinna: det är icke undransvärdt.
+    Ock skole vi ej rädas alls för gummans hot;                500
+    Ty ingen dödlig finnes, så till sinnet rå,
+    Att han ej, hörande mitt namn, mig ger en bit.
+    Ryktbar är Troias brand, och jag, som tände den,
+    Jag, Menelaos, okänd ej på jordens rymd.
+    Jag borgens drott vill vänta, och försiktighet             505
+    Tvefaldt iaktta: om han är en vildsinnt man,
+    Jag döljer mig, och återgår till skeppens vrak;
+    Men om han visar sig godhjertad, jag begär
+    Hvad nyttigt vara kan i denna nödens stund.
+    Den störste ofärd blir för mig, olycklige,                 510
+    Att andra drottar, fast jag är en konung sjelf,
+    Om lifskost bedja; men det oundvikligt är.
+    Ty vis mans ord, och ej mitt påhitt, lyda så:
+    _När nöden tränger, ingen är så stark som hon._
+
+KHOREN.
+
+    Af siarinnan jag har försport,                             515
+    Som spående trädde fram
+    I kongaborgen, att Menelaos ännu
+    Till kolsvart erebos ej
+    Sin kosa tog, i jorden gömd.
+    Och fastän länge på hafvets svall.                         520
+    Ängslad, sin fosterjords
+    Hamn han ej hunnit än;
+    Men irrar omkring,
+    Olyckelig och vännelös,
+    På mångvexlande jord                                       525
+    Sättande foten, se'n han med åran drog
+    Bort från de Troers land.
+
+HELENA.
+
+    Hit åter jag till denne minnesvård nu är
+    Ankommen, med godt budskap från Theonoe,
+    Som allt sannfärdigt vet. Nu säger hon, att än             530
+    Min make lefver, och guds dager skåda får,
+    Men irrar kring på tusen vägar, seglande
+    Hitåt och dit, samt efter dessa irringar
+    Att han skall komma, när han funnit qvalens slut.
+    Ett hon ej sade om han kommer frälsad hem;                 535
+    Men jag medflit att spörja sådant underlät,
+    Belåten, att hon sade mig: han lefver än!
+    Hon mente, att han är här nära någorstäds,
+    Ur skeppsbrott frälst, med några få af vännerna.
+    Ack, att du komme, du för mig kärälsklige!                 540
+    Vet hvem är denne? Lägger man mot mig försåt,
+    Igenom Proteus sleme sons tillställningar?
+    Lik fotsnabb fåle, eller lik en yr Bakkhant,
+    Bör jag väl nu till grafven ila? Vild är han
+    Till sin gestalt, som äflas, att mig fånga der.            545
+
+MENELAOS.
+
+    Dig, som till grafvens dystra grop så hastar fram,
+    Och till de stekta offerkakor, beder jag:
+    Stå stilla! o, hvi flyr du? Vid din anblick väcks
+    Hos mig förstumning och förvåning särdeles.
+
+HELENA.
+
+    Man gör oss illa; qvinnor; ty vi stängas ut                550
+    Från grafven af den mannen der, som gripande
+    Vill gifta bort mig åt den drott, som jag afskyr.
+
+MENELAOS.
+
+    Vi äre inga tjufvar, ej våldgerningsmän.
+
+HELENA.
+
+    Åtminstone vanprydlig drägt omhöljer dig.
+
+MENELAOS.
+
+    Lägg bort all fruktan, hejda en bevingad fot!              555
+
+HELENA.
+
+    Jag stannar redan, se'n jag hunnit denna plats.
+
+MENELAOS.
+
+    Ho är du, qvinna, du, hvars anblick möter mig?
+
+HELENA.
+
+    Och hvem är du? densamma frågan anstår mig.
+
+MENELAOS.
+
+    Jag ingen sett, som henne mera liknade.
+
+HELENA.
+
+    O gud! att känna vännen sin, är gudaskänk.                 560
+
+MENELAOS.
+
+    Är du Hellenska, eller landsmaninna här?
+
+HELENA.
+
+    Helleniska? men säg mig ock ditt fosterland.
+
+MENELAOS.
+
+    Hin Helena du liknar mest af dem jag sett.
+
+HELENA.
+
+    Min Menelaos du; jag mer ej säga kan.
+
+MENELAOS.
+
+    Den högst olycklige du riktigt kännt igen.                 565
+
+HELENA.
+
+    Ack, huru sent din makes famn du närmar dig!
+
+MENELAOS.
+
+    Min makas, huru? icke vid min kappa rör!
+
+HELENA.
+
+    Hon, som du fick af Tyndareus, min egen far.
+
+MENELAOS.
+
+    Ljusbringarinna Hekate, huldt spöke sänd!
+
+HELENA.
+
+    Du väggudinnans nattphantom i mig ej ser.                  570
+
+MENELAOS.
+
+    Jag är väl dock ej vorden, jag, två hustrurs man.
+
+HELENA.
+
+    Nå, hvilken annan hustrus herre är du väl?
+
+MENELAOS.
+
+    Hon gömms i grottan, från de Phryger återförd.
+
+HELENA.
+
+    Jag är din enda maka; ingen annan finns.
+
+MENELAOS.
+
+    Jag tänker rätt kanske, men ögat vilsefar.                 575
+
+HELENA.
+
+    Mig skådande, du tror dig ej din maka se?
+
+MENELAOS.
+
+    Gestalten liknar; men mig tryter vissheten.
+
+HELENA.
+
+    Se på mig! mer behöfs ej, att förvissad bli.
+
+MENELAOS.
+
+    Visst är du lik: det kan jag icke neka till.
+
+HELENA.
+
+    Hvem annan skall dig lära det, än ögonen?                  580
+
+MENELAOS.
+
+    Deri är knuten, att jag har en ann gemål.
+
+HELENA.
+
+    Till Troers land ej lände jag; min skuggbild blott.
+
+MENELAOS.
+
+    Hvem kan väl skapa skepnader, som ögon ha?
+
+HELENA.
+
+    Densamme ether, som dig gaf gudgjord gemål.
+
+MENELAOS.
+
+    Hvem ibland gudar? oförmodadt är ditt tal.                 585
+
+HELENA.
+
+    Hera, förvexling skett, att mig Paris ej fick.
+
+MENELAOS.
+
+    Hur var du då i Troia samtidigt, och här?
+
+HELENA.
+
+    Ett namn kan vara mångenstäds, personen ej.
+
+MENELAOS.
+
+    Låt bli mig! nog jag lidit har på vägen hit.
+
+HELENA.
+
+    Du lemnar mig, och bringar toma bilden hän?                590
+
+MENELAOS.
+
+    Farväl! Ty utaf Helena du tycke har.
+
+HELENA.
+
+    O ve! gemålen, som jag fick, jag miste strax.
+
+MENELAOS.
+
+    Mig böjer qvalens mängd, som der jag led; ej du.
+
+HELENA.
+
+    Ve mig! ho är väl ömkansvärdare, än jag?
+    Mig vännen öfverger, och jag ej nalkas får                 595
+    Hellener nånsin mera, och mitt fosterland.
+
+                                    (_Budet inträder_)
+
+BUDET.
+
+    Dig, Menelaos, sökande jag finner knapt,
+    Änskönt Barbarerlandet jag kringströfvat har,
+    Utaf qvarlemnade kamrater skickad hit.
+
+MENELAOS.
+
+    Hvad nu? säg, om ni plundrats af barbarerna?               600
+
+BUDET.
+
+    Ett under händt, till namnet mindre, än i sak.
+
+MENELAOS.
+
+    Säg ut, hvad nytt med sådan ifver bringar du?
+
+BUDET.
+
+    Jag säger, att millioner qval du fruktlöst led.
+
+MENELAOS.
+
+    Du gråter öfver gamla qval. Hvad nytt förspörjs?
+
+BUDET.
+
+    Din maka sig begifvit har till etherns rymd,               605
+    Ifrån vår åsyn höjd, och gömms i himmelen,
+    Den grotta, dit vi henne räddat, lemnande,
+    Så ordande beklagansvärde Phrygier,
+    Och J, Akhaier, som uppå Skamandros' strand,
+    Igenom Heras ränker, stupaden för mig,                     610
+    I tro, att Paris, som ej hade, hade Helena!
+    Nu, sedan jag så länge dröjt, som nödigt var,
+    Och ödet kräfde, till min far i himmelen
+    Jag går. Men stackars dottren utaf Tyndareus
+    I vanrop står, fastän hon intet brutit har.                615
+    O, hell dig, Ledas dotter! var härstädes du?
+    Men jag förtäljde, att till stjernors rymder du
+    Uppstigit; jag ej visste, att bevingad kropp
+    Du egde; framdeles jag ej tillstädjer dig,
+    Oss skymfa derför, att du väckt i Ilios                    620
+    Åt dina vänner och gemål talrika qval.
+
+MENELAOS.
+
+    Der ha vi saken! Budets ord inträffade
+    Med hennes; ack, du önskansvärde dag,
+    Som åt mitt famntag Helena har återgett!
+
+HELENA.
+
+    O Menelaos, kärste ibland dödliga! mig tiden var           625
+    En evighet; men nu är glädjen hemma här.
+    Glad jag återfick min gemål, väninnor,
+    Som nu jag slutar i älskande.
+    Famn, se'n mången morgon sig randat.
+
+MENELAOS.
+
+    Jag äfven dig; med många ord på tungan, dock               630
+    Jag icke vet, hvarmed jag först begynna skall.
+
+HELENA.
+
+    Jag är så glad, och tornar mina lockars skatt,
+    Likt vingar opp, och gjuter tårar ut,
+    Och sluter om dig armarna,
+    För att glädje få.                                         635
+    O, du min make, min käraste anblick!
+
+HELENA.
+
+    Jag knotar ej. Ty jag har
+    Zeus' dotter till maka och Ledas,
+    Hvilken, vid facklors sken,
+    Hvitfålige sambröder hyllade, hyllade                      640
+    I fordna dar; men gudarne dig aflägsnade ifrån min borg.
+
+HELENA.
+
+    Nu ödet bringat oss till annan lott,
+    Som bättre är, -- af ondt blef godt --
+    Och bringat oss samman, min make,
+    Omsider. Gud gifve, i lycklig stund!                       645
+
+MENELAOS.
+
+    Ja, i en lycklig stund! detsamma önskar jag.
+    Ty ibland tvenne en ej osäll är, en säll.
+
+HELENA.
+
+    Väninnor, väninnor, det fordna
+    Ej suckar, ej sörjer jag mer.
+    Ty min make jag har, jag har, som jag bidde,               650
+    Bidde från Troia att komma i många år.
+
+MENELAOS.
+
+    Ja, du har mig, och jag har dig; gudinnans list,
+    I tusen solhvarf pröfvande, jag undgått dock.
+    Nu mine tårar i glädjen mer
+    Tjusning, än smärta ha.                                    655
+
+HELENA.
+
+    Hvad säger jag? hvem hoppades väl nånsin slikt?
+    Jag dig oväntad trycker till mitt bröst.
+
+MENELAOS.
+
+    Och jag dig, som till Idaiske staden jag trott
+    Ha farit, och Ilios' usla torn.
+    Vid gudarna, hur kom du bort utur min borg?                660
+
+HELENA.
+
+    Ve, ve, till bitter början du återgår!
+    Ve, bitter fråga du kastar fram!
+
+MENELAOS.
+
+    Säg ut! ty hvarje gudaskänk man höra bör.
+
+HELENA.
+
+    Den sak jag afskyr, som jag nu förtälja skall.
+
+MENELAOS.
+
+    Säg dock! _Att höra sina lidanden är ljuft._               665
+
+HELENA.
+
+    Ej kom jag till fremmande ynglings bädd,
+    Med bevingad köl,
+    Men laglöst bröllops bevingade kärlek.
+
+MENELAOS.
+
+    Säg, hvilken gud beröfvar dig ditt fosterland?
+
+HELENA.
+
+    Min gemål, det var Zeus', det var Zeus' son,                670
+    Som mig bragte till Nilen.
+
+MENELAOS.
+
+    Befängdt! han bragte dig? o gryme ord!
+
+HELENA.
+
+    Jag gråter, och fuktar mitt ögonlock
+    Med tårar; Zeus' maka min ofärd var.
+
+MENELAOS.
+
+    Hera? hvad till vår ofärd lägga ville hon?                 675
+
+HELENA.
+
+    O ve, min ofärd, källan, och det bad,
+    Der gudinnor sin fägring
+    Förhöjde! ty domen kom derifrån.
+
+MENELAOS.
+
+    Har Hera dig för Paris' dom slik ofärd sändt?
+
+HELENA.
+
+    Att Kypris mig beröfva -- --                               680
+
+MENELAOS.
+
+                                  Hur då? säg ut!
+
+HELENA.
+
+    Och Paris, som hon loft mig åt.
+
+MENELAOS.
+
+                                    Olyckliga!
+
+HELENA.
+
+    Ack ja! ack ja! och så jag till Egypten kom.
+
+MENELAOS.
+
+    Skuggbild hon gaf istället, som af dig jag hör.
+
+HELENA.
+
+    Och derhemma bekymren, bekymren, o mo-
+    der, ve mig!                                               685
+
+MENELAOS.
+
+                 Hvad säger du?
+
+HELENA.
+
+    Min mor ej lefver; med hängsnaran hon
+    sig dräpte, för nesliga frieriet.
+
+MENELAOS.
+
+    Ve mig! vår dotter, Hermione, säg, lefver hon?
+
+HELENA.
+
+    Min make, bröllopslös, och barnlös suckar hon
+    Öfver sin moders nesliga älskogsbragd.                     690
+
+MENELAOS.
+
+    Ack, han, som allt mitt hus igrund förstört, Paris,
+    Har din, och hennes ofärd gjort, och tusendes
+    Bland kopparväpnade Danaer!
+
+HELENA.
+
+    Mig från fosterlandet, osälla, fördömds,
+    Bortjagade en gud, och från stad, och från dig,            695
+    Derför att borg och bädd jag lemnade, ej lemmande,
+    För skamligt frieri.
+
+KHOREN.
+
+    O, måtte dock en framtids öden välfva sig
+    Mer lycklige, och bota fordne smärtors sår!
+
+BUDET.
+
+    O Menelaos, gif mig ock af eder glädje del,                700
+    Som jag förnimmer, men ej riktigt fatta kan!
+
+MENELAOS.
+
+    Men, gamle man, du har ju åhört hvad vi talt.
+
+BUDET (pekande på Helena.)
+
+    Var hon ej lidandens vid Ilios gifverska?
+
+MENELAOS.
+
+    Hon icke; utaf gudarna bedrogos vi,
+    Med olycksalig molnbild uti händerna.                      705
+
+BUDET.
+
+    Hvad säger du?
+    Blott för en molnbild ledo vi då fruktlöst allt?
+
+MENELAOS.
+
+    Ja, Heras verk var det, och tre gudinnors split.
+
+BUDET.
+
+    Men hon, som här står, verkligen är din gemål?
+
+MENELAOS.
+
+    Hon sjelf, och deruti du mina ord kan tro.                 710
+
+BUDET.
+
+    Min dotter, hur _guds vilja är föränderlig,
+    Och outgrundligt hon omvälfver allt så lätt,
+    Omsättande hitåt och dit; en lider qval;
+    En annan, som ej några led, dock slätt förgås,
+    Och eger ingen säkerhet för allan tid._                    715
+    Så du och din gemål hemsökts af lidanden;
+    Du genom pratet; han igenom stridsbegär.
+    Då när han fikte, fick han intet; men nu allt,
+    Och af sig sjelf hans största lycka kommen är.
+    Ej heller Dioskurerna, och gammal fader du                 720
+    Vanärat, icke gjort hvad sqvallret vill.
+    Din bröllopshögtid nu igen förnyar jag,
+    Och minns de facklor, dem jag uti fyrspannsvagn
+    Framför dig förde åkande; i stolen du,
+    Som brud, med denne, lemnade ditt rika hem.                725
+    _Ty niding den, som icke ärar husbondefolk,
+    Och delar glädjen, som han delar sorgerna!_
+    Ack, vore jag, änskönt blott född till dagakarl,
+    Dock räknad ibland ädelsinnte tjenares
+    Antal, ehuru jag ej bär friborens namn,                    730
+    Men tankesätt! Att ha af tvenne onda ting
+    Blott ett, är bättre: att vanartigt sinne ha,
+    Att heta slaf i alla andra menskors mund.
+
+MENELAOS.
+
+    Välan, du gamle, du som mången hjeltebragd
+    Har mödosamt, inunder mitt befäl, utfört,                  735
+    Gå, äfven nu deltagande uti min fröjd,
+    Och tillsäg vännerna, som qvar vi lemnade,
+    Hur allt du funnit, och hvad lycka oss har händt;
+    Att de på stranden bida, och afpassa der
+    De strider, som jag tror mig skola förestå;                740
+    Samt hur vi henne må ur landet stjäla bort,
+    Och hur vi, delande gemensamt ödes lott,
+    Må frälsas ur Barbarers våld, om möjligt är.
+
+BUDET.
+
+    Det skall så ske, min konung; men jag siarns konst
+    Nu inser, hur den ringa är, och full at lögn.              745
+    Ty af eldsflamman ingen fromma hade vi,
+    Och ej af fåglalåten heller; _dårligt är,
+    Inbilla sig, att menskan utaf fåglen lär!_
+    Ty Kalkhas sade ej, och tolkade för härn,
+    Ehur han för en molnbild vännerna såg dö;                  750
+    Ej Helenos; men fruktlös Troia sköflades.
+    Man kunde säga: guden ville icke så.
+    Hvi låter man sig spå? man bör af gudarna,
+    Med offer, om det goda be, ej låta spå.
+    _Ty signeriet till en lockmat funnits opp;                 755
+    Och ingen lätting riktat sig med eldprof än:
+    Men vett och redlighet är bästa siarkonst._
+
+KHOREN.
+
+    Om sinne densamma tanken väcks hos mig,
+    Som här hos gubben: _den som eger gudarna
+    Till vänner, har i gården båsta siarkonst._                760
+
+HELENA.
+
+    Må vara så! och hittills allt är godt och väl
+    Dock hur du, arme, ifrån Troia räddades,
+    Att veta, ingen fromma är; men vännerne
+    Om vänners ofärd gerna höra hvad förspörjs.
+
+MENELAOS.
+
+    Isanning mycket om en enda färd du sport.                  765
+    Hvad säga om all ofärd på Aigaiska sjön,
+    Och Nauplios falska eldar från Euboias strand,
+    Och Kreta, Libyen, och de städer, jag förödt,
+    Och Perseus' vårdtorn? dig tillfreds ej ställde jag
+    Med orden; men berättelsen mig qvalde blott,               770
+    Af qvalen trötte tvefald plåga blefve vår.
+
+HELENA.
+
+    Du vackrare har svarat, än jag sporde dig.
+    Blott ett mig säg, och lemna allt: hur länge du
+    På hafvets rygg, olyckelig kringirrade.
+
+MENELAOS.
+
+    År ut, år in, till tio år vid Ilias                        775
+    Jag hela sju års kretsar har tillryggalaggt.
+
+HELENA.
+
+    O ve, min stackars man, lång tid du räknade!
+    Och räddad dän, du kommit hit, att mördad bli.
+
+MENELAOS.
+
+    Hvad säger du, som bringar öfver mig förderf?
+
+HELENA.
+
+    [Aflägsna dig från detta land, och fly nu strax!]          780
+    Af mannen der, hvars borg du ser, du dräpas skall.
+
+MENELAOS.
+
+    Hvad har jag gjort, som vore sådan ofärd värdt?
+
+HELENA.
+
+    Oväntad, blir du hinder för mitt giftermål.
+
+MENELAOS.
+
+    Har någon velat dela bädd med min gemål?
+
+HELENA.
+
+    Och skymfa mig med sådan skymf, som jag utstått,           785
+
+MENELAOS.
+
+    Är han en enskilt herre, eller landets kong?
+
+HELENA.
+
+    Just Proteus' son, som här i landet konung är.
+
+MENELAOS.
+
+    Der ha vi gåtan, som af tärnan jag förnam.
+
+HELENA.
+
+    Vid hvilken af barbarers portar stående?
+
+MENELAOS.
+
+    Vid den, dän jag, som tiggare, bortjagades.                790
+
+HELENA.
+
+    Begärde du dig mat? ve mig, olyckliga!
+
+MENELAOS.
+
+    Sak samma var det; men jag gaf ej samma namn.
+
+HELENA.
+
+    Du vet då allt -- så tycks det -- om mitt giftermål.
+
+MENELAOS.
+
+    Jag vet; men om du saken sluppit, vet jag ej.
+
+HELENA.
+
+    Din äkta bädd bevarad är okränkt åt dig,                   795
+
+MENELAOS.
+
+    Hur kan jag tro det? ljuft är talet ditt, om sannt.
+
+HELENA.
+
+    Ser du min jämmerliga plats vid griften här?
+
+MENELAOS.
+
+    Jag lägret ser, du arma; men hvad rör det dig?
+
+HELENA.
+
+    Att giftermålet undgå, här knäböjer jag,
+
+MENELAOS.
+
+    Af brist på altar, eller på barbarers vis?                 800
+
+HELENA.
+
+    Likt gudars tempel, denna grift min räddning var.
+
+MENELAOS.
+
+    Mig ej tillåtas tör, att segla hän med dig?
+
+HELENA.
+
+    Ett svärd dig snarare förbidar, än min bädd.
+
+MENELAOS.
+
+    Då vore jag den uslaste bland dödliga.
+
+HELENA.
+
+    Blygs ej för sådant, utan fly ur detta land!               805
+
+MENELAOS.
+
+    Dig lemnande, för hvars skull Troia jag förödt?
+
+HELENA.
+
+    Det bättre är, än att min bädd din bane blir.
+
+MENELAOS.
+
+    Du för ett fegt, och Ilios ovärdigt tal.
+
+HELENA.
+
+    Du ej tyrannen dödar, som du vill kanske.
+
+MENELAOS.
+
+    Har han en kropp då, som med svärd ej såras kan?           810
+
+HELENA.
+
+    Får se! _Omöjligt våga, aldrig vis man höfs._
+
+MENELAOS.
+
+    Skall tigande jag låta fjettra händerna?
+
+HELENA.
+
+    Nu är du rådvill, här behöfves fintlighet.
+
+MENELAOS.
+
+    _Mer ljuft är, efter bragden dö, än utan bragd._
+
+HELENA.
+
+    Ett hopp står qvar, hvaraf vår räddning helt beror.        815
+
+MENELAOS.
+
+    Bör räddning köpas, fås med våld, med goda ord?
+
+HELENA.
+
+    Om ej tyrannen visste, att du kommit hit.
+
+MENELAOS.
+
+    Hvem säger det? Han ej kan veta, ho jag är.
+
+HELENA.
+
+    Han har en bundsförvandt derinne, gudar lik.
+
+MENELAOS.
+
+    Orakel, sittande fördoldt i borgens vrå?                   820
+
+HELENA.
+
+    Nej! men en syster: _Theonoe_ så heter hon.
+
+MENELAOS.
+
+    Orakelmessigt namnet är; hvad gör hon? säg!
+
+HELENA.
+
+    Allt vet hon; och din ankomst säger åt sin bror.
+
+MENELAOS.
+
+    Låt oss då dö! ty jag omöjligt döljas kan.
+
+HELENA.
+
+    Ifall vi kunde röra henne, bedjande?                       825
+
+MENELAOS.
+
+    Att göra hvad? på hvilka tankar för du mig?
+
+HELENA.
+
+    Att ej för brodren nämna om din ankomst hit.
+
+MENELAOS.
+
+    Om hon bevekes, skulle vi bege oss hän?
+
+HELENA.
+
+    Med hennes vetskap ganska lätt; men eljes ej.
+
+MENELAOS.
+
+    Det vara må din sak! Bäst qvinna qvinna höfs.              830
+
+HELENA.
+
+    Med mina händer hennes knän vidrörer jag.
+
+MENELAOS.
+
+    Nåväl; men om hon ej beveks af våra ord?
+
+HELENA.
+
+    Då dräps du, och jag, arma, blir med våld förmäld.
+
+MENELAOS.
+
+    Jag vore då förrädare, och våldförd du.
+
+HELENA.
+
+    Men vid ditt hufvud svärjer jag en helig ed.               835
+
+MENELAOS.
+
+    Nvad säger du? att hellre dö, än byta bädd?
+
+HELENA.
+
+    För samma svärd, som du, och falla bredvid dig.
+
+MENELAOS.
+
+    Till yttermera visso, tag mig nu i hand!
+
+HELENA.
+
+    Rättså! och när du dör, guds dager lemnar jag.
+
+MENELAOS.
+
+    Beröfvad dig, jag äfven gör på lifvet slut.                840
+
+HELENA.
+
+    Hur dö vi, att vi måtte ära ha deraf?
+
+MENELAOS.
+
+    Se'n dig jag dräpt på grafven här, jag dräper mig.
+    Dock först vi skole kämpa ut en väldig kamp
+    Om din besittning; ho som vill, kan skåde på!
+    Min Troer ära ärnar jag ej spilla bort,                    845
+    Ej heller, länd till Hellas, lida mycket hån,
+    Jag, som beröfvade Thetis sin hjelteson,
+    Som Telamonske Aias mordsvärd skådade,
+    Och Nestor sonlös. Skulle jag mig undandra,
+    Att döden möta, för min egen makas skull?                  850
+    O nej! _ifall allvise äro gudarne,
+    Den tappre mannen, som af fienderna dräps,
+    I grafvens djup omsluta de med otung jord;
+    Men på den fege kasta de tung börda mull._
+
+KHOREN.
+
+    O gudar, måtte alltid bli vällyckelig                      855
+    Den Tantaleiske slägten, från olyckor skild!
+
+HELENA.
+
+    O, ve mig arma! ty mitt öde sådant är.
+    Ack, Menelaos, det är slut med oss! ur slottet går
+    Orakelqvinnan Theonoe; ett slammer hörs
+    Af undanskjutna riglar: fly! -- men hvarför fly?           860
+    Frånvarande, närvarande, hon vet att du
+    Hitkommit, stackars jag! med mig är slut.
+    Så, ifrån Troia räddad, och barbarers land,
+    Emot barbarers svärd du åter störta skall.
+
+THEONOE.
+
+    Gå du förut, och bär framför mig facklors glans;           865
+    Och etherns rymder, uppå heligt vis, vig in,
+    Att utaf himlens rena flägt vi mötas må.
+    Du åter vägen, om af någon oren fot
+    Den trampad är, åt helga reningsflamman gif,
+    Och skaka facklan, att jag sedan vandrar fram.             870
+    Men när ni gudarna min gärd hemburit, ni
+    På borgens härd dess eld tillbakabringen strax.
+    O Helena, hvad hörs? hur slog min spådom in
+    Din make Menelaos, hitländ skådar du,
+    Din skugggestalt beröfvad, liksom sina skepp;              875
+    Du arme man, hvad faror du undsluppit har!
+    Och vet ej, om du kommer hem, om stannar här.
+    Ty split bland gudar ställes till, och samladt råd
+    Hos Zeus om dig, och dina öden, denna dag.
+    Hera, som dig tillförene fiendtlig var,                    880
+    Nu är bevågen, och till hemmet rädda vill
+    Med Helena, att Hellas klarligt finna må,
+    Hur Alexandros lycka, Kypris skänk, var falsk.
+    Men Kypris deremot din hemkomst hindra vill,
+    Att hon ej röjas må, ej synas handlat, för                 885
+    Helenas skull, med gäckad bädd, sin fägrings pris.
+    Af mig beror nu, om, hvad Kypris önskar, jag
+    Din hitkomst röjer för min bror, och störtar dig,
+    Om jag, med Hera hållande, dig rädda vill,
+    Och tiga för min broder, som mig dock befallt              890
+    Tillsäga, när du kommen vore till vårt land.
+    Ho vill nu till min broder gå med tidningen
+    Derom, på det jag sedan lefva må i ro?
+
+HELENA.
+
+    Du gudamö, jag faller ned vid dina knän,
+    Och tager in en ingalunda lycklig plats,                   895
+    För min skull, och för hans, jag, omsider sedd,
+    Är i beråd, att se med egna ögon dräpt.
+    O, må du icke för din broder min gemåls
+    Hitkomst berätta, som i kärsta armar ländt!
+    Ack, rädda honom, ber jag dig, och mot din bror            900
+    En sådan systerkärlek aldrig nånsin röj,
+    Som köpes på bekostnaden af pligt och rätt!
+    _Gud hatar öfvervåld, samt bjuder menskorna
+    Sitt eget gods besitta, och ej gå på rof.
+    Man måste låta fara orätt fången skatt,                    905
+    Gemensam himmelen för alla dödliga,
+    Och jorden är, på hvilken, riktande sitt hus,
+    Man annor gods ej hafva bör, och ta med våld._
+    På gudars bud, men högst olyckeligt för mig,
+    Mig Hermes gaf åt fader din, att räddas så                 910
+    Åt denne make, som mig återtaga vill.
+    Hur skulle, dräpen, han mig återfå? och hur
+    Din fader åt den döde ge den lefvande?
+    Besinna nu, hvad himlen fordrar och din far,
+    Om både guden och den döde vilja, om                       915
+    De icke vilja, att man andras återger.
+    Det förra, tror jag; och derför din vrånge bror
+    Ej bör du mera lyda, än din frome far.
+    Men om du, som orakelgifverska, ändock
+    Din fars rättvisa fordringar tillintetgör,                 920
+    Men orättvise brodrens önskan fyller opp,
+    Det skamligt är, att gudars råd du alla vet,
+    Vet hvad som är, hvad ej; men ej, hvad rätt.
+    Mig arma, som i sådan ofärd är försänkt,
+    Befria, och den blinde slumpens verk förstör!              925
+    Ej finns en dödlig, som ej hatar Helena,
+    Om hvilken det i Hellas heter, att, min man
+    Förrådande, jag bott i Phrygers gullpalats.
+    Men om jag Hellas' trampa får och Spartas jord,
+    Och de få se och höra, huru gudars svek                    930
+    Dem ödde, och förräderskan var icke jag,
+    Bland kyska makars tal de åter teckna mig,
+    Och jag styr ut min dotter, som ej anbud haft,
+    Och lyktande mitt smärtesama irrtåg här,
+    Jag njuter rikligen af hemmets öfverflöd.                  935
+    Ty hade han -- med ett ord sagdt -- i striden dräpts,
+    Med tårar åt den mistade jag hyllning gett,
+    Men skall man nu den räddade beröfva mig?
+    O nej, du gudamö, hos dig bönfaller jag:
+    Mig visa denna ynnest, och din ädle far                    940
+    I seder likna; ty _för barn är skönsta pris,
+    Att den som eger en rättskaffens fader, sjelf
+    Ådagalägger samma tankesätt, som han._
+
+THEONOE.
+
+    Bedröfvelig är visst framställningen, du gjort,
+    Bedröfvelig din lott; men gerna önskar jag                 945
+    Af Menelaos äfven höra ord i sak.
+
+MENELAOS.
+
+    Mig egnar ej på knä för dig att falla ned,
+    Ej heller fukta ögonen med tårar; ty
+    Jag öfver Troia, genom vekhet, bragte skam.
+    Visst säger folket: _höfves nog välbördig man,             950
+    Att låta tåren, i olyckan, trilla ned._
+    Men denna ära, om det eljes ära är,
+    Jag aldrig öfver goda modet ställa vill.
+    Dock, om dig synes godt, att rädda fremlingen,
+    Som rättvist fordrar, att sin maka återfå,                 955
+    Så gif, och rädda! Om ej detta lyster dig,
+    Jag ej för första gången nu, men mången gång
+    Olycklig var, och nedrig qvinna heter du.
+    Men hvad jag anser värdigt mig och rättvisan,
+    Och hvad som aldramest ditt hjerta gripa skall,            960
+    Det vill jag vid din faders grift uttala varmt:
+    Du gamle man, som denna graf af sten bebor,
+    Min maka återgif, som jag af dig begär,
+    Som Zeus hitsände, för att räddas mig af dig!
+    Nog vet jag, att ej du, som död, kan återge;               965
+    Men ej sin fader, den ur graf anropade,
+    Och ärofulle, någonsin hon önska kan
+    Vanrykte nu, då saken är i hennes våld,
+    O, dödsgud Hades, äfven dig åkallar jag,
+    Dig, som just för min makas skull mång offer fick,         970
+    Utaf min glafven härjade, och har din lön:
+    Dem allesamman lefvande tillbakasänd!
+    Om ej, så tvinga henne, att, sin frome far
+    Ej olik, hon tillbakagifver min gemål!
+    Men om min maka J beröfva ärnen mig,                       975
+    Hvad hon i talet gick förbi, framställer jag.
+    Af ed jag bindes, gudamö, besinna det!
+    Att först inlåta mig i tvekamp med din bror,
+    Om han skall stupa, eller jag: helt enkel sagdt.
+    Men om han ej tillstrids vill ställa fot mot fot,          980
+    Och medelst hunger jagar oss, bönfallande,
+    Jag fast beslutit döda henne, och dernäst
+    I hjertat störta detta mitt tvehvässta svärd,
+    På sjelfva kumlet här, att blodets rännilar
+    I grafven nederdrypa, och vi ligga må                      985
+    Två lik invid hvarandra, på välpyntad graf,
+    Åt dig till evig smärta, åt din far till skam.
+    Ty henne ingen äkta skall; ej broder din,
+    Ej någon annan, men jag bringar henne hän,
+    Om ej till mina, till de dödes boningar.                   990
+    Hvad nu? igenom tårarna förqvinnligad,
+    Jag vore mera ömkelig, än bragderik.
+    Dräp, om dig lyster! nesligt du ej dräper mig;
+    Låt dig beveka heldre dock af mina ord:
+    Då är du rättvis, och jag makan återfår.                   995
+
+KHOREN.
+
+    Af dig beror, du gudamö, utgången nu;
+    Fäll sådan dom, att alles bifall lemnas dig!
+
+THEONOE.
+
+    Fromsinnad är jag af natur och böjelse,
+    Mig sjelf jag älskar, och min faders goda namn
+    Jag ej vill smutsa, och min bror ett gunstbevis           1000
+    Ej heller gifva, som vanryktad gjorde mig.
+    Ett herrligt tempel åt Rättvisan finnes redd
+    Uti mitt bröst, och då jag det utaf Nereus
+    I arf har fått, jag Menelaos rädda skall.
+    Och efter Hera vill dig visa välbehag,                    1005
+    Med henne delar jag beslut, men Kypris mig
+    Bevågen vare, fast vi ej gå samma väg,
+    Och jag vill bjuda till, att evigt jungfru bli!
+    I hvad du här vid grafven förebrår min far,
+    Jag åsigt delar: orätt vore gjordt af mig,                1010
+    Om jag ej gåfve; ty ifall han lefde, sjelf
+    Åt dig han skulle henne ge, åt henne dig.
+    En sådan rätt tillkommer alla menniskor,
+    Såväl inunder jord, som ofvan jord. Och själn
+    Utaf de döda lefver ej, men eger qvar                     1015
+    Odödligt vett, upp till odödlig ether flydd.
+    Att derför göra saken kort, jag tiga vill
+    Med hvad nu bönfallit om deltagerska
+    Uti min broders galenskap jag aldrig blir.
+    Så gör jag honom verklig tjenst, fast jag ej tycks,       1020
+    Ifall jag vänder honom bort från gudlöshet.
+    Utfinnen derför sjelfve rätta vägarna,
+    Men jag vill stiga undan, och förblifva stum.
+    Från gudarna begynnen, och anropen först
+    Kypris, att hon till fosterlandet släpper dig,            1025
+    Och Hera sedan, att vid gammal gunst hon blir,
+    Som för din räddning, och för din gemåls hon hyst,
+    Och du min döde fader, allt hvad jag förmår,
+    För gudahörsam, aldrig gudlös heta skall.
+
+KHOREN.
+
+    _Den orättfärdige ej nånsin lycklig var;                  1030
+    Men hopp om räddning uti sig rättvisan har._
+
+HELENA.
+
+    O Menelaos, gudamön har räddat oss;
+    Nu återstår för dig, att öfverväga grannt,
+    Och ett gemensamt räddningsmedel tänka ut.
+
+MENELAOS.
+
+    Så hör mig nu; ty du är husvarm längese'n,                1035
+    Och har med kongens tjenare tillhopabott!
+
+HELENA.
+
+    Hvi sade du mig det? du ger förhoppningar,
+    Som om du något ärnade för bådas väl.
+
+MENELAOS.
+
+    Bland dem, som styra fyrspannsvagnar, kunde du
+    Väl någon öfvertala, att oss lemna en?                    1040
+
+HELENA.
+
+    Javäl! men huru kunde väl vi rymma bort,
+    Vi, som ej fälten känne i barbarers land?
+
+MENELAOS.
+
+    Det blir omöjligt. Hvad? om jag i borgen dold,
+    Dess konung skulle dräpa med mitt tvebettssvärd?
+
+HELENA.
+
+    Ej systren dig fördroge, ej förtege det,                  1045
+    Ifall du mörda ärnade dess egen bror.
+
+MENELAOS.
+
+    Ock finns ej skepp, hvarpå vi kunde rädda oss
+    Med flygten; ty det skepp, vi haft, rår hafvet om,
+
+HELENA.
+
+    Hör på, om qvinna ock kan tala kloka ord!
+    Vill du, man _säger_, att du dött, fast du ej dött?       1050
+
+MENELAOS.
+
+    Ett svårt jertecken! Om det båtar mig, likväl
+    Jag är beredd, att _heta_ död, fast jag ej dött.
+
+HELENA.
+
+    Jag redo är, att med hårklippning och med gråt,
+    På qvinnovis, beveka den gudlöse karln.
+
+MENELAOS.
+
+    För oss hvad räddningsmedel finns väl deruti?             1055
+    Utslitet redan är ett sådant talesätt.
+
+HELENA.
+
+    Liksom åt den, som dött i sjö, en hedersvård
+    Åt dig, att resa, jag begär af landets drott.
+
+MENELAOS.
+
+    Om han tillåter det, hur kunne vi ändock
+    Förutan skepp oss rädda, se'n vi vården rest?             1060
+
+HELENA.
+
+    En farkost jag begär, hvarmed vi sänke ned
+    I hafvets armar din begrafuings prydnader.
+
+MENELAOS.
+
+    Det allt är bra, förutom ett: om han påland
+    Befaller vården resa, duger finten ej.
+
+HELENA.
+
+    Vi skole säga, att i Hellas sed ej är,                    1065
+    Att dem påland begrafva, som ha dött i sjö.
+
+MENELAOS.
+
+    Deri du visst har rätt; och jag vill följa med,
+    Och lägga tillbehöret allt på sagde skepp!
+
+HELENA.
+
+    Du framför allt bör vara med, och dine män
+    Hvarendaste, som ur skeppsbrottet räddades.              1070
+
+MENELAOS.
+
+    Och om jag träffar egna män på ankarplats,
+    svärdväpnad kämpe der vid kämpe uppställd står.
+
+HELENA.
+
+    Om detta allt du vårda bör; men blefve blott
+    För våra segel vinden god, och skeppets fart!
+
+MENELAOS.
+
+    Skall ske! ty gudar göra slut på mina qval.               1075
+    Af hvem skall du dock säga, att min död försports?
+
+HELENA.
+
+    Af dig! och säg, att ensam du med lifvet slapp,
+    Hitseglande med Atreus' son, som du såg dö.
+
+MENELAOS.
+
+    Och dessa trasor, hvilka hänga kring min kropp,
+    De skola om mitt skeppsbrott bära vittnesbörd.            1080
+
+HELENA.
+
+    Nu kom det lägligt, som olägligt mistes då
+    Och denna ofärd kunde lätt vår lycka bli.
+
+MENELAOS.
+
+    Behöfver jag med dig i kongaborgen gå?
+    Kanske vi sitte stilla här på denna graf.
+
+HELENA.
+
+    Blif qvar! ty om han öfverdådigt sig beter                1085
+    Så skall dig denne grafvård rädda, och ditt svärd.
+    Men jag vill gå ditin, afklippa lockarna,
+    Och byta bort den hvita kappan mot en svart,
+    Och med en blodig nagel rista kindens hy.
+    Ty stor är frågan, och jag ser två hufvudmål:             1090
+    Om jag ertappas stemplande, jag måste dö;
+    I annat fall jag hemmet når, och räddar dig.
+    Du, dyrkansvärda, delande din bädd med Zeus,
+    O Hera, lindra du två arme menskors qval!
+    Derom vi bedje, sträckta armar lyftande                   1095
+    Mot himlen, der du ber i stjernors etherglans!
+    Och du, som, för mitt bröllop, skönhetspriset vann,
+    Dionas dotter, Kypris, ej min ofärd gör!
+    Nog är den skymf, hvarmed du re'n beskymfat mig,
+    Blottställande mitt namn, ej mig, bland Troerna.          1100
+    Men om du vill mig dräpa, så tillåt mig dö
+    I fosterlandet! Hvi omättelig på qval,
+    Bestyr du städs om kärlek, svek, bedrägeri,
+    Om arga funder, blodiga förödelser?
+    Ty om du hofsam vore, ibland gudarna                      1105
+    För menskor ljufvast vore du: det säger jag.
+
+KHOREN.
+
+    Dig, som inunder löfsmyckade tak          _Stroph._ 1.
+    Sitter, på ljudande gren, åkallar jag,
+    Dig, sköntonande, melodiska fågel,
+    Gråtande näktergal!                                       1110
+
+HELENA.
+
+    Kom, drillande, ack, med din fina näbb,
+    Och understöd mina tårar;
+    Den stackars Helenas hjertqval,
+    Och Iliadernas ömk-
+    liga ofärd sjungande.                                     1115
+    Under Akhaters spjut,
+    Då när han kom, han kom, som med barbariska årblad
+    Öfver brusande fälten lopp, åt Priamiderna futtig brud
+    Från Lakedaimon bringande,
+    Dig, o Helena, Paris, den svårgifte,                      1120
+    Ledsagad af Aphrodite.
+    Akhaier många, af spjut och af stenkast    _Motstr. 1._
+    Kufvade, bo i ömklige Hades tjell,
+    Och makarna jemmerligt afklippt håret,
+    I ödsliga sofgemak                                        1125
+    Akhaier många, se'n flammande eld han tändt
+    Uppå kringflutna Euboia,
+    Ensam Nauplios ock
+    Mot Kaphareiske klippan vrok,
+    Och Argeiska stranden,                                    1130
+    Genom ett svekfullt bloss.
+    Hemnlös är den Maleska klippestrand, för barbarens tåg,
+    Då från fädernelandet fjerran han kom, vid stormars ras,
+    Jertecken, ej jertecken, bringande,
+    Utan Danaers split, ombord,                               1135
+    Heras heliga molnbild.
+    Hvad som är gud, eller ej gud, eller midtemellan,  Str. 2.
+    Ho bland dödliga har,
+    Forskande aldralängst, upp-
+    täckt, skådande gudars verk,                              1140
+    Huru de hit och dit, och dit,
+    Och åter hit, med motsatt
+    Vexling löpa, och oförmodad?
+    Du, o Helena, är dock dotter af Zeus;
+    Ty vingad fader uti Le-                                   1145
+    das sköte dig lade ned.
+    Och se'n utskreks du i Hellas,
+    Som brottslig, okysk, trolös, gudlös; jag vet ej
+    Något, som säkert är bland menskliga ting;
+    I gudars ord jag funnit sanning.                          1150
+    Dårar J ären alle, som ära i härnaden       Motstr. 2.
+    Finnen, med svärdsegg
+    Sökande obetänkt
+    Dämma de dödliges hjerteqval.
+    Skola de stillas med blodig fejd,                         1155
+    Varder på split ej ände
+    Nånsin i menskors städer,
+    Som lemnade Priamiska landets sofgemak,
+    Änskönt de kunnat slita med ord
+    Din tvist, o Helena.                                      1160
+    Nu bo de der nere i Hades värd,
+    och liksom en blixt från Zeus, har murarna härjat eld,
+    Bringande qval på qval med qval
+    I [svåra] Iliska nederlagen.
+
+THEOKLYMENOS.
+
+    Hell dig, min faders minnesvård! vid borgens dörr         1165
+    Jag dig begrof, o Proteus, att dig här tilltala få,
+    Ty alltid, då han vandrar ut, och kommer hem,
+    Theoklymenos, din son, anropar, fader, dig.
+    Nu derför hundarna och villebrådets nät
+    I försteborgen bringen in, J tjenare!                     1170
+    Jag många gånger redan bannat upp mig sjelf,
+    För det vi ej med dödsstraff näpse nidingar.
+    Och nu jag hört, att en Hellen helt uppenbart
+    Till landet kommit, obemärkt af spejarne,
+    Sjelf en spion kanske ock för att stjäla bort             1175
+    Min Helena; och han skall dödas, om han grips.
+    O ve!
+    Men, som det synes, allting redan undanjordt
+    Jag finner; ty sin plats vid vården lemnande,
+    Har Tyndaridskan seglat hän från detta land.
+    Hollah! frånskjuten riglarna, och hästarna                1180
+    Från krubban lösen, och framdragen vagnarna,
+    Att, för besvärets skull, ej stjälandes bortförs
+    Ur denna bygd den qvinna, som jag håller kär.
+    Men stilla! ty Jag skådar dem jag jaga tänkt,
+    Närvarande i borgen, och ej flyktade.                     1185
+    Säg, qvinna, hvi du klädt svart mantel dig uppå,
+    Utbytande mot hvit? och hvi du lockarna
+    Ifrån det stolta hufvudet med saxen klippt?
+    Och hvi du fuktar kinderna med tårars dagg,
+    Så gråtande? Af nattens dröm kanske bevekt,               1190
+    Du suckar; eller har du hemifrån försport
+    Ett rykte, som ditt sinneslugn har ödelaggt?
+
+HELENA.
+
+    Min herrskare! det namnet redan ger jag dig:
+    Jag är förlorad; allt är slut, jag finns ej mer.
+
+THEOKLYMENOS.
+
+    Hvad är åfärde? hvad olycka hände dig?                    1195
+
+HELENA.
+
+    Hur säga ut det? Menelaos dött! o ve!
+
+THEOKLYMENOS.
+
+    Jag glädes icke åt ditt tal, som gör mig säll.
+    Hur vet du detta? har Theonoe det sagt?
+
+HELENA.
+
+    Hon sjelf, och en, som var tillstädes, då han dog.
+
+THEOKLYMENOS.
+
+    Är någon hitländ, som förvisso säger det?                 1200
+
+HELENA.
+
+    Visst är han kommen; må han fara, som jag vill!
+
+THEOKLYMENOS.
+
+    Hvem är han? och hvar är han? gif mig fullt besked!
+
+HELENA.
+
+    Han är det, som vid minnesvården sitter skrämd.
+
+THEOKLYMENOS.
+
+    Ack, vid Apollon, hvad hans drägt ohygglig är!
+
+HELENA.
+
+    Ve mig! jag menar, att min makes är likdan.               1205
+
+THEOKLYMENOS.
+
+    Hvad landsman är han? hvadan lände han till oss?
+
+HELENA.
+
+    Hellen; ibland Akhaier en, som följt min man.
+
+THEOKLYMENOS.
+
+    På hvad sätt säger han, att Menelaos dog?
+
+HELENA.
+
+    På aldraömkligaste sätt i hafvets svall.
+
+THEOKLYMENOS.
+
+    Hvar seglade han då uppå barbarers våg?                   1210
+
+HELENA.
+
+    Mot Libyens hamnlösa klippor upp han kastades.
+
+THEOKLYMENOS.
+
+    Hur kommer det sig, att ej dog hans reskamrat?
+
+HELENA.
+
+    Mer lycka än den store har en ringa man.
+
+THEOKLYMENOS.
+
+    Hvar lemnade han skeppets vrak, hitkommande?
+
+HELENA.
+
+    Der han bordt ömkligt dö, men ej Meneleos.                1215
+
+THEOKLYMENOS.
+
+    Han dog då, han; uppå hvad båt kom denne hit?
+
+HELENA.
+
+    Af okändt sjöfolk säger han sig tagen upp.
+
+
+THEOKLYMENOS.
+
+    Hvar är, för dig, till Troia skickad olycksbild?
+
+HELENA.
+
+    Du menar molngestalten? hon till ethern for.
+
+THEOKLYMENOS.
+
+    O Priamos, och Troias jord, hvad lumpet slut!             1220
+
+HELENA.
+
+    Jag äfven delar Priamiders olyckslott.
+
+THEOKLYMENOS.
+
+    Din make han med jord betäckte, eller ej?
+
+HELENA.
+
+    O nej! ve mig, olycklige, för mina qval!
+
+THEOKLYMENOS.
+
+    Fördenskull blonde hårets lockar klippte du?
+
+HELENA.
+
+    Min vän, kantänka, är hvaren, som träffas här.            1225
+
+THEOKLYMENOS.
+
+    Är det medrätta detta olycksfall begråts?
+
+HELENA.
+
+    Du toge lätt, ifall din syster skulle dö?
+
+THEOKLYMENOS.
+
+    Visst ej! -- hvad nu? du vill bo qvar på denna vård?
+
+HELENA.
+
+    Hvi skymfa mig, och icke ge den döde ro?
+
+THEOKLYMENOS.
+
+    Du är din make trogen, du, och afskyr mig?                1230
+
+HELENA.
+
+    Visst icke mera; ställ du till med bröllopet!
+
+THEOKLYMENOS.
+
+    Du kommer sent; men jag likväl belåten är.
+
+HELENA.
+
+    Vet du en sak? det gamla må vi glömma bort!
+
+THEOKLYMENOS.
+
+    Uppå hvad vilkor? Ära bör mot ära ges.
+
+HELENA.
+
+    Vi stifte fred, och du med mig försonar dig.              1235
+
+THEOKLYMENOS.
+
+    Allt groll jag lemnar, som må vara fågelfritt.
+
+HELENA.
+
+    Vid dessa dina knän alltså, min vordne vän, -- -- --
+
+THEOKLYMENOS.
+
+    Hvad äflas du, och sträcker händren bedjande?
+
+HELENA.
+
+    Min drunknade gemål jag gerna jorda vill.
+
+THEOKLYMENOS.
+
+    Han ju försvunnit; vill du skuggan jorda ned?             1240
+
+HELENA.
+
+    Det är Helleners sed, när någon dött i sjön.
+
+THEOKLYMENOS.
+
+    Att göra hvad? I sådant vis är Pelops' ätt.
+
+HELENA.
+
+    Att jorda uti toma mantlars väfnader.
+
+THEOKLYMENOS.
+
+    Begraf, och res en vård hvarhelst du nånsin vill!
+
+HELENA.
+
+    Sjömän, som drunknat, icke så begrafve vi.                1245
+
+THEOKLYMENOS.
+
+    Hur i all verlden? Jag ej vet Helleners bruk.
+
+HELENA.
+
+    På sjön vi bringe hvad de döda görs behof.
+
+THEOKLYMENOS.
+
+    Hvad fordrar du, att jag den döde gifva skall?
+
+HELENA.
+
+    Jag, oerfarna, vet det ej, förr lyckelig.
+
+THEOKLYMENOS (till Menelaos.)
+
+    Du, fremling, glada tidender medbragte hit.               1250
+
+MENELAOS.
+
+    Ej för mig sjelf, ej heller för min döde drott.
+
+THEOKLYMENOS.
+
+    Säg, huru J begrafven dem, som dött i sjö?
+
+MENELAOS.
+
+    Allt som en hvar har råd dertill och lägenhet.
+
+THEOKLYMENOS.
+
+    Det koste, hvad det kosta vill, för hennes skull.
+
+MENELAOS.
+
+    Åt de aflidna offras, till en början, blod.               1255
+
+THEOKLYMENOS.
+
+    Hvems blod? låt höra, och jag dig hörsamma vill.
+
+MENELAOS.
+
+    Afgör det sjelf! ty hvad du ger, tillräckligt blir.
+
+THEOKLYMENOS.
+
+    Häst eller tjur, är brukligt hos Barbarerna.
+
+MENELAOS.
+
+    Och när du ger, så ge hvad anstår riddersman!
+
+THEOKLYMENOS.
+
+    I mina rika hjordar finns allsingen brist.                1260
+
+MENELAOS.
+
+    Medtages ock uppbäddad säng, men eljes tom.
+
+THEOKLYMENOS.
+
+    Skall ske! Hvad annat att medtaga brukar man?
+
+MENELAOS.
+
+    En kopparrustning, ty han var ju vapnets vän.
+
+THEOKLYMENOS.
+
+    Allt hvad jag ger skall Pelopider värdigt bli.
+
+MENELAOS.
+
+    Och vidare de sköna alster jorden bär.                    1265
+
+THEOKLYMENOS.
+
+    Hur, och på hvad sätt anförtron J det åt sjön?
+
+MENELAOS.
+
+    Ett skepp bör vara ock tillhands med roddare.
+
+THEOKLYMENOS.
+
+    På hvilket afstånd bör från land farkosten stå?
+
+MENELAOS.
+
+    Så att från land med njuggan nöd man svallet ser,
+
+THEOKLYMENOS.
+
+    Utaf hvad orsak vördar Hellas detta bruk?                 1270
+
+MENELAOS.
+
+    Att vågen ej må bära gåfvorna till land.
+
+THEOKLYMENOS.
+
+    Pheinikisk snabb galeja strax skall vara här.
+
+MENELAOS.
+
+    Det vore skönt, och Menelaos till behag.
+
+THEOKLYMENOS (pekande på Helena)
+
+    Kan du ej ensam, utan henne, göra allt?
+
+MENELAOS.
+
+    Det värfvet är en moders, makas, eller barns.             1275
+
+THEOKLYMENOS.
+
+    Är, -- som du säger -- hennes pligt mot sin gemål.
+
+MENELAOS.
+
+    _På sista äran fromheten ej döden svek._
+
+THEOKLYMENOS.
+
+    Hon må då gå! from maka fostra, mig tillhör.
+    Jag hastar in, och väljer ut begrafningsskänk,
+    Och dig ej heller tomhändt hän affärdar jag,              1280
+    Se'n henne du tillnöjes gjort. Emedan du
+    Mig bringat goda tidender, för trasorna,
+    Du kläder får och mat, så att ditt fosterland
+    Du hinna må, som nu jag så eländig ser.
+    Men, stackars qvinna, ej du bör för ingenting             1285
+    Här qvälja dig; Meneleos sin bane fått:
+    Din döde make aldrig mera lefva tör.
+
+MENELAOS.
+
+    Det är din pligt, du unga toka, att gemåln,
+    Som här står, älska, och förgäta den som dött;
+    Det är i denna stunden för dig aldrabäst.                 1290
+    Men kommer jag till Hellas än, och räddad blir,
+    Från fordna tadlet jag dig friar, om du är
+    En sådan qvinna, som du bör, mot din gemål.
+
+HELENA.
+
+    Rätt så! och aldrig tadla skall gemålen mig,
+    Och du, som vittne är dertill, skall veta det.            1295
+    Men, arme man, gå in, och skaffa dig ett bad,
+    Och andra kläder äfven; uppå uppskof ej
+    Jag tjenar dig; ty så du dock välvilligast
+    Åt Menelaos, kärstan min, den sista tjenst
+    Bevisar, om i mig du träffar den du bör.                  1300
+
+KHOREN.
+
+    Gudars borgboende moder förr            _Stroph. 1._
+    Ströfvade kring på ilande fot,
+    Genom skogrika lunder,
+    Genom flodernas vattenbädd,
+    Och hafvets brusande böljor,                              1305
+    Af saknad efter bortfaren mö,
+    Hvars namn ej nämnas får.
+    Och de Bromiske skramlor ett gällande
+    Ljud ifrån sig gåfvo,
+    Då okade drakars par                                       1310
+    Gudinnan spänndes för ståtvagn,
+    Och for, att söka bortröfvad mö;
+    Ifrån jungfruliga danser ryckt.
+    Derhos stormfotige tärnorne
+    Voro, med bågen Artemis, och                              1315
+    Med spjut försedda Gorgonen,
+    Men ljungande från himmelens höjd
+    Zeus annat öde beskärde.
+    Mångirrande färdens mödor när          _Motstr._ 1.
+    Modren bringat till slut,                                 1320
+    Spanande efter sin dotters
+    Svekliga, gåtlika bortkomst,
+    Hon ödde Idaiska Nymphrens
+    Snöfostrade vårdtorn,
+    Och, af sorg, sig kastade ned                             1325
+    I snöymniga snår på berget.
+    Men åt dödliga jordens vissnade fält
+    Ej plöjdes, ej gåfvo frukt,
+    Och hon ödde menniskors slägt.
+    Åt hjordarna sände hon ej                                 1330
+    Skönbladige klasars friska spis;
+    Lifvet för mången slöts;
+    Ej offer åt gudar räddades,
+    Ej bullar för altaret gräddades,
+    De daggiga källor förbjöd hon,                            1335
+    Utlemna sin silfverskatt,
+    Vid sin dotters eviga saknad.
+    Och när hon gjort slut på festgelag     _Stroph._ 2.
+    För gudar och dödliges slägt,
+    Zeus, för att stilla modrens harm,
+    Den hiskliga, talte så:                                   1340
+    Gån, J vins Khariter,
+    Gån, och vreden hos Deo,
+    Smärtan för dottrens skull,
+    Hejden med jubelljud,
+    Gån, sångmör, med dans och sång!                          1345
+    Nu kopparns skräckliga stämma,
+    Från skinnbespännda pukorna,
+    Väckte den skönsta bland gudar först,
+    Kypris: gudinnan log,
+    Och i händren tog                                         1350
+    Djupljudige flöjten,
+    Af dess toner förtjust.
+    Och Aïdes, hvilket ej rättvist var,      _Motstr._ 2.
+    Du tände med kärlekens glöd,
+    Och ådrog dig stormäktig mors                             1355
+    Harm, o dotter, gudinnans
+    Fester ej vördande.
+    Mycket förmå hjortkalfvars
+    Mångskiftande skinn,
+    Och med murgrön virad blomsterstjelk                      1360
+    Kring heliga thyrser,
+    Och trollhjuls luftige rörelse,
+    Svängde i kretsad fart;
+    Och hårets lockar, som svalla vildt,
+    Vid gudinnans helnattliga fest,                           1365
+    Som, efter dagarnas slut,
+    För sig utvalde Selana.
+    Du var stolt på din fägring blott.
+
+HELENA.
+
+    Väninnor, allting går för oss derinne bra,
+    Ty Proteus' dotter, understödjande vår list,              1370
+    När hon tillspordes, om min make vore här,
+    Ej röjde för sin bror, men sade, mig till tjenst,
+    Att han, i jorden gömd, ej skådar dagens ljus.
+    Också min make klädt sig skönsta vapen på,
+    Ty skölden, som han skulle sänka ned i sjön,              1375
+    Instickande igenom grepet ädel hand,
+    Nu sjelf han bär, och spjutet håller han jemväl,
+    I fullt beråd, att äran åt den döde ge.
+    Och välbetänkt till värn han sig beväpnat har,
+    Till många tusende barbarers nederlag,                    1380
+    Såsnart ombord vi stigit på beårad båt,
+    Emot skeppsbrutna drägten har han kläder bytt,
+    Som jag åt honom stökat till, se'n bad jag redt,
+    Umburet långa tider, utaf flodens dagg.
+    St.! utur kongaborgen tågar han, som tror                 1385
+    Sig uti händren ha mitt bröllop, färdiggjordt:
+    Jag tiga måste, men af dig utkräfve vi
+    Välvilja och tystlåtenhet, ihändelse
+    Vi sjelfve frelste, kunde äfven frelsa dig.
+
+THEOKLYMENOS (framträdande).
+
+    Irad, irad! som eder fremlingen befallt,                  1390
+    J tjenstekarlar, bärande hafsoffrena!
+    Men Helena, om du ej menar, att jag pratar dumt
+    Gör mig tillviljes, och blif qvar! Ty samma tjenst
+    Sker ju din make, om du följer, eller ej
+    Förty jag rädes, att en lystnad kommer på,                1395
+    Som lockar dig, att störta ned i vågens svall,
+    Af kärleken förvillad till din fordne man:
+    Så häftigt honom sörjer du, som mer ej finns.
+
+HELENA.
+
+    Ack, dn min nye make, oundvikligt är,
+    Sitt första gifte, och ungdomliga förbund                 1400
+    Att ära; ja, af kärlek till gemålen, jag
+    Med honom doge; men hvad glädje hade väl
+    Den döde af min död? derför tillåt mig gå,
+    Och bringa honom sjelf begrafnings-skänkerna!
+    Dig gifve gudarne hvad jag dig gernast vill,              1405
+    Samt denna fremling, derför att han hjelper mig!
+    Mig skall du finna sådan, som du hafva bör
+    Husfru i huset, då mot Menelaos du
+    Och mig är godsinnt: denna saken sidor har.
+    Nu, ho som skepp skall gifva, hvarpå gåfvan går,          1410
+    Befall! på det din ynnest jag mottage fullt.
+
+THEOKLYMENOS (till en tjenare).
+
+    Gå du, och lemna dessa ett Sidoniskt skepp
+    Af femti åror, och derjemte roddare!
+
+HELENA.
+
+    Bör han ej skeppsbefälet ha, som ståten styr?
+
+THEOKLYMENOS.
+
+    Ja visst! och mine sjömän lyssne till hans bud.           1415
+
+HELENA.
+
+    Befall en gång ännu, att rätt de dig förstå!
+
+THEOKLYMENOS.
+
+    En gång ännu, en tredje äfven, om du vill.
+
+HELENA.
+
+    Dig önskas lycka; gånge ock mitt anslag väl!
+
+THEOKLYMENOS.
+
+    Öd ej med tårar mellertid din fina hy!
+
+HELENA.
+
+    Dig denna dag min tacksamhet bevisa skall.                1420
+
+THEOKLYMENOS.
+
+    Utaf de döda intet vinnes, möda blott.
+
+HELENA.
+
+    Det som jag menar, vederfars dig här och der.
+
+THEOKLYMENOS.
+
+    Jag blir dig lika buld gemål, som Menelcos.
+
+HELENA.
+
+    Du är visst makalös; mig sakens utgång bryr.
+
+THEOKLYMENOS.
+
+    Af dig beror, om du mig ger välvillighet.                 1425
+
+HELENA.
+
+    Att vänner älska, skall ej nu man lära mig.
+
+THEOKLYMENOS.
+
+    Vill du, att sjelf i edert tåg jag tager del?
+
+HELENA.
+
+    Visst icke; blif ej egne slafvars slaf, min drott!
+
+THEOKLYMENOS.
+
+    Rätt så! ej Pelopiders plägsed aktar jag.
+    Ty mitt palats är rent; ej heller andan här              1430
+    Uppgaf Meneleos; strax någon måste gå,
+    Samt bjuda mina höfvitsmän, att bröllopets
+    Prunksmycken bära till min borg; den vida jord
+    I saliga låfsånger måste skrika ut
+    Ett afundsvärdt biläger mellan mig och Helena.            1435
+    Du, fremling, res åstad, och se'n du anförtrott
+    I hafvets famn, åt hennes fordne man, en gärd,
+    Till borgen åter, med min maka, skynda dig,
+    Att, när du bröllopsmåltiden med mig förtärt,
+    Hemvända, eller, dröjande, välplägas här.                 1440
+
+HELENA.
+
+    O Zeus, du kallas fader vår, och allvis gud,
+    Se till oss neder, och från onde fria oss!
+    Till oss, som dragas med den största olyckslott,
+    Ditt bistånd sänd! om du oss med lillfingret rör,
+    Vi skole nå det målet, som vi önske nå;                   1445
+    Ty vedermödor redan pröfvade vi nog.
+    J gudar, hören, och förlänen hvad mig godt
+    Och nyttigt är! Ej bör jag städs olycklig bli,
+    Men stå på stadig fot. Om denna enda gunst
+    J skänken, gören J mig säll för evig tid.                 1450
+
+KHOREN.
+
+    O du Phoinikiska, Sidonska               _Stroph._ 1.
+    Snabba galeja, plaskvågors mor,
+    Roddens väninna,
+    Khorförarinna, för fagra
+    Delphiner, då hafvets bryn                                1455
+    Af fläktar ej upprördt är,
+    Och sjöns klarblickiga dotter,
+    Vindstilla, sig yttrar så:
+    Hissen segel, åt vindarna
+    Lemnande makt,                                            1460
+    Och fatten i åror af furu,
+    O sjömän, o sjömän,
+    Till den Perseiska stads
+    Skönhamniga strand bringande Helena hän!
+    Träffa du torde vid flodens brädd        _Motstr._ 1.     1465
+    Leukippiska flickorna, eller framför
+    Pallas' tempel kanske,
+    Omsider i danser mängd,
+    Eller Hyakinthos' festgelag,  --
+    De nattliga fröjders, --                                  1470
+    Hans, som i täflingen,
+    Med diskos rullande tallrik
+    Dräptes af Phoibos; thy det Lakainska land
+    Högtidelig offerdag
+    Zeus' son att fira befallte.                              1475
+    Men Helena lemnat derhemma en dotter,
+    * * * * * * * * * *
+    Vid hvars bröllop ännu ej facklor lyst
+    I luftens rymder, ack,                                  _Stroph._ 2.
+    Att vi vore de Libyske
+    Vandringsfåglar ändock,                                   1480
+    Som, lemnande vinterlig regnskur,
+    Resa, den aldraälsta
+    Flöjt hörsammande,
+    Herdens, som, vattenfri,
+    Fruktgifvande ängd på vår jord                            1485
+    Öfverflygande, jublar.
+    J vingade, och långhalsige,
+    Som faren med himlens moln ikapp,
+    Inunder Pleiaderna ilen,
+    Och Orion, den nattlige,                                  1490
+    Ack, förkunnen det budskap,
+    När till Eurotas J ländt,
+    Att Menelaos, som Dardanos'
+    Stad intagit, skall lända hem!
+    O, kommen i ridderlig vagn,          _Motstr._ 2.         1495
+    Genom ethern hastande,
+    J söner af Tyndareus,
+    Vid tindrande stjernors stormkast,
+    J, som i himlen bon,
+    Helenas räddare,                                          1500
+    Till hafvets dunkla vågor,
+    Och böljors mörkhyiga svall
+    Uti grå och brusande sjö,
+    Skeppsmännerne gynnsam flägt
+    Bringande med från Zeus!                                  1505
+    Välfven från egen syster bort
+    Barbariske bäddens skam,
+    Som, för Idaiska tvisters skull
+    Plågad, hon ådrog sig; men likväl
+    Aldrig till Ilios kom,                                    1510
+    Och den Phoibeiske borg.
+
+BUDET.
+
+    Min konung, sent omsider dig jag råkar här,
+    Då utaf mig ny ofärd strax du höra skall.
+
+THEOKLYMENOS.
+
+    Hvad är åfärde?
+
+BUDET.
+
+                    Ställ du till ett frieri
+    Till annan qvinna! Helena ur landet drog.                 1515
+
+THEOKLYMENOS.
+
+    På vingar lyftad? eller gick hon hän till fots?
+
+BUDET.
+
+    Menelaos henne färjat bort ifrån vårt land,
+    Som lände sjelf med tidender om egen död.
+
+THEOKLYMENOS.
+
+    Besynnerligt! hvad vore väl för rederi,
+    Som honom bragte från vårt land? Jag tror dig ej.         1520
+
+BUDET.
+
+    Detsamma, som du gästen gaf: med dina män
+    Han reste, att i korthet allt du veta må.
+
+THEOKLYMENOS.
+
+    Mig lyster höra, hur det gick; ej trodde jag,
+    Att en person sig kunde smyga bort ifrån
+    Så många karlar, som till följesmän du fick.              1525
+
+BUDET.
+
+    Såsnart hon, lemnande din konungsliga borg,
+    Zeus' dotter, var ledsagad ned till hafvets strand,
+    Försigtigt förande sin nätta fot, hon gret
+    Vid sidan gående gemåln, som ej var död.
+    Och när vi hunno till ditt skeppsvarfs hägnader,          1530
+    Vi halade förstseglande Sidonskan ut,
+    Med tofter femtio, och åror likaleds
+    Försedd, och nu besvär besväret löste af:
+    Den ene reste masten, åran fattade
+    Med handen en, och hvita seglen hissades                  1535
+    Och rodret surrades med sina remmar fast
+    Oss skådade, i sådan äflan, mellertid
+    Hellenske männer som med Menelaos följt,
+    Och kusten nalkades, uti skeppsbrutnes drägt
+    Insvepte, stolte nog, men ruskige att se.                 1540
+    När nu dem Atreus' son antågande förnam
+    Han sade, för att röja falsk medlidsamhet:
+    J usle, huru, och på hvad Akhaiskt skepp,
+    Som sönderkrossats, ären J ankomne hit?
+    Visst hjelpen J oss jorda Atreus' döda son,               1545
+    Som Helena frånvarande tomgrafva vill?
+    Nu desse, gjutande en tår, af tillgjordhet,
+    Till skeppet kommo, bärande åt Menelaos
+    Sjögåfvorna; men dock misstanke var bland oss,
+    Och prat inbördes vexlades, då karlarnes                  1550
+    Tal var så stort; men det oaktadt tego vi,
+    Af lydnad för ditt bud; ty när du fremlingen
+    Bjöd skeppet styra, du bortskämde all vår sak.
+    Nu allt det andra togo vi, och buro lätt
+    Ombord på skeppet; endast en halsstarrig tjur             1555
+    Ej ville opp till däcket gå sin raka väg,
+    Men råmade, och välfde ögat rundomkring,
+    och krökte ryggen, och, åt hornet blickande,
+    Oss rådde, sig ej nalkas. Helenas gemål
+    Utropte då: o J, som Ilios förstört,                      1560
+    Välan, uppbrande på de Helleners vis,
+    Med unga skuldror, tjurens kropp, inkasten den
+    På fördäck, (och derjemte svärdet välberedd
+    Han drager ut) till offer åt Meneleos!
+    På denna maning kommo de, och fattade                     1565
+    I tjuren tag, och ledde in på tofterna.
+    Nu bindelprydda nacken Menelaos strök,
+    Och pannan, nödgande vår tjur, att träda fram.
+    Men när galejan ändtligen mottagit allt,
+    Berörande trappstegen med skönknölig fot,                 1570
+    Sjelf Helena kom upp, och uppå toften satte sig,
+    och han, som mer ej nämndes, Menelaos bredvid.
+    De öfrige till höger och till venster ock
+    Sig satte man vid man, fördöljade ett svärd
+    In under klädren, och hafssqvalpet fylldes upp            1575
+    Af jemmerskri, enär vi hörde skeppsherrns bud.
+    Och när vi voro icke mycket långt från land,
+    Men icke nära heller, sporde styrman så:
+    O fremling, är det bra såhär? säg, segle vi
+    Än längre fram? ty skeppsbefälet hör dig till.            1580
+    Han svarte: nog för mig! och, dragande sitt svärd,
+    Till fören rännde, och för tjurens slagtande
+    Tog ställning, - om den döde nämndes intet ord.
+    I det han strupen afskar, bad han: du, som bor
+    I sjön, Poseidon, och J, Nereus' väna mör,                 1585
+    Till Nauplik strand mig rädden jemte min gemål
+    Helbregda hädan! Dem, till lyckligt förebud,
+    Blodströmmen sprutade i sjön ur tjurens hals.
+    Då utbrast mången: ränkefull är denna färd,
+    Jag menar, att vi vände om. Befall det du!                1590
+    Och du, vänd rodret! Efter tjurens slaktande,
+    Framträdde Atreus' son, och manade sitt folk:
+    Hvi dröjen J, kärnkarlar ifrån Hellas land,
+    Att slå och flå Barbarerna, samt ned i sjön
+    Ur skeppet vräka? Deremot till dina män                   1595
+    Utropade skeppshöfdingen ett slikt befäl:
+    Nun, smider gripen dock till vapnen nu!
+    En krosse toften, losse åran ifrån tulln,
+    Och presse blod ur fremlingarnas skallar ut.
+    Upp foro alle; men de våre stock och staf                 1600
+    I händren höllo; fremlingarne höllo svärd.
+    Blod flöt på skeppet, och från akterdäcket gick
+    Helenas maning, hvar är Troisk ära nu?
+    Inför Barbarer visen den! I brådskan stalp
+    En här omkull; en reste sig, och mången död               1605
+    Man ligga såg. Menelaos, beväpnad sjelf,
+    Ehvar han egna bussar uti trångmål såg,
+    Dit förde han i handen ock sitt hjeltesvärd,
+    Så att de våre summo dän, och årorna
+    Sin vård betog; sen drotten steg till rodret fram,        1610
+    Förkunnande, att han till Hellas styrde nu.
+    De reste masten, och så kom en gynnsam vind;
+    Då lade de från land, och jag, som undgått död,
+    Mig hissade vid ankaret i hafvet ned.
+    Sånär jag drunknat; men då stack man mig ett rep,         1615
+    Drog mig ur hafvet, och upplyftade på land,
+    Att bringa bud till dig. Varsamt misstroende,
+    Mer än allt annat, är för menskor helsosamt.
+
+KHOREN.
+
+    Jag aldrig trodde, att dig, konung, eller oss
+    Så Menelaos undgå skulle, som han gjort.                  1620
+
+THEOKLYMENOS.
+
+    Ve, hur genom qvinnoränker, arme man, jag fångad är,
+    Och hur bröllopet besvek mig! Kunde skeppet än jag nå,
+    Fremlingarna jag förföljde, och uppfångade påstund,
+    Nu vi vilje systren straffa, henne, som förrådde oss
+    Som i huset Menelaos skådade, och angaf ej.               1625
+    Visst en annan man med spåkonst aldrig mera hon bedrar.
+
+KHOREN.
+
+    Ack säg, hvart ärnar du dig, drott, till hvilket mord!
+
+THEOKLYMENOS.
+
+    Dit mig rättvisan manar; gå ur vägen strax!
+
+KHOREN.
+
+    Din mantei jag ej släpper: till stort brott du går.
+
+THEOKLYMENOS.
+
+    Du, slaf, vill bjuda öfver herrn?                         1630
+
+KHOREN.
+
+                                      Jag menar väl.
+
+THEOKLYMENOS.
+
+    Med mig ej, om du vägrar mig -- -- --
+
+KHOREN.
+                                          Jag släpper ej.
+
+THEOKLYMENOS.
+
+    Att slemsta syster dräpa.
+
+KHOREN.
+
+                              Aldrafrommaste.
+
+THEOKLYMENOS.
+
+    Som mig förrådde?
+
+KHOREN.
+
+                      Skönt förräderi, att handla rätt
+
+THEOKLYMENOS.
+
+    Som gaf min bädd åt annor man?
+
+KHOREN.
+
+                                   Befogad mer.
+
+THEOKLYMENOS.
+
+    Befogad öfver mitt?                                       1635
+
+KHOREN.
+
+                        Som fått af hennes far.
+
+THEOKLYMENOS.
+
+    Åt mig gaf slumpen.
+
+KHOREN.
+
+                        Det som ödet återtog.
+
+THEOKLYMENOS.
+
+    Du bör ej dömma i min sak.
+
+KHOREN.
+
+                               Om rätt jag har.
+
+THEOKLYMENOS.
+
+    Vi styras; styre ej?
+
+KHOREN.
+
+                         Till orätt ej; men rätt.
+
+THEOKLYMENOS.
+
+    Du syns mig önska döden.
+
+KHOREN.
+
+                             Dräp! Din syster ej
+    Du dräper med mitt bifall. _Dö för husbondfolk,            1640
+    Är största ära för välfrejdad tjenare._
+
+DIOSKURERNE.
+
+    Din vrede hejda, hvaraf du hänföres blindt,
+    Theoklymenos, kong här i landet! Begge dig,
+    Vi Dioskurer, mane, hvilka Leda sjelf
+    Har födt samt Helena, som rymmt utur din borg.            1645
+    Du harmas öfver giftermål, ej ämnadt dig;
+    Också ej gudatärnan, af Nereïs född,
+    Dig kränker, systren Theonoe, som gudarnes
+    Rättvisa bud, och egen fars, hörsammar blott.
+    Ty ändatill den tidpunkt, som nu inne är,                 1650
+    Åt Helena var förelaggdt, att bo hos dig;
+    Men sedan Troias konsborg var ödelaggd,
+    Och hennes namn bland gudarnes -- ej längre mer.
+    Uti sitt laga äktenskap hon stanna bör,
+    Och resa hem, och med sin make sammanbo.                  1655
+    Det blanka svärd, som systren heter, återhåll,
+    Och anse henne häruti ha handlat rätt!
+    Vår syster längesedan re'n vi hade frälst,
+    Emedan Zeus försatte oss bland gudarne;
+    Men ödet underlägsne voro vi ändock,                      1660
+    Samt gudarna, som hade fattat slikt beslut.
+    Dig detta säger jag, och manar syster min,
+    Att maken följa. Tjenlig vind J skolen få;
+    Och dine bröder, båda två, vi räddarne,
+    Som rida invid sjön, till hemmet följe dig.               1665
+    Men när du vänder om, och lyktar lefnaden,
+    Gudinna nämns du, och med Dioskurerna
+    Gjutofer får, och gåfvor utaf jordens folk,
+    Med oss tillhopa. Ty det så behagar Zeus.
+    Den ort, dit Maias son från Sparta förde dig,             1670
+    När han från himlens rymder stal din skuggestalt,
+    Att Paris dig ej nånsin skulle äkta få, --
+    Jag menar den, som vakt, vid Akte sträckta ön --
+    Skall framdels heta Helena bland dödliga,
+    Emedan dig från hemmet stulen, hon tog mot.               1675
+    Åt vandringsmannen Menelaos gudarne
+    Beskärt, att han skall bo uppå de Sällas ö:
+    _Förty odödlige, de hata ej välättad man,
+    Men qvalen äro oftast lumpne karlars lott._
+
+THEOKLYMENOS.
+
+    J söner utaf Leda och af Zeus, den fordna tvist           1680
+    om eder syster vill jag lemna nu derhän.
+    Ej heller egen syster min jag dräpa må,
+    Men hon kan gå i slottet, om det gudar täcks.
+    Ock veten, att J ären ju samättade,
+    Af samma blod med bästa syster, och försyntaste!          1685
+    Nu faren väl, för Helenas skull, den vettigstas!
+    _Hos alla qvinnor vettet icke innebor._
+
+KHOREN.
+
+    Mångfaldig art ha gudars verk;
+    Mångt mot förmodan gudar gjort;
+    Det icke händt, som hända bordt:                          1690
+    Gud hittar väg. Den sak bemärk!
+
+    Slik blef nu vårt Styckes utgång.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Helena, by Euripides
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HELENA ***
+
+***** This file should be named 60381-8.txt or 60381-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/3/8/60381/
+
+Produced by Jari Koivisto
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
