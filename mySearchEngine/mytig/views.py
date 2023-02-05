@@ -6,6 +6,8 @@ from mytig.config import baseUrl
 from mytig.config import randomImageUrl
 from mytig.models import Book
 from mytig.serializers import BookSerializer, BookContentSerializer
+from mytig.kmp import KMP
+import re
 
 class BookViewSet(APIView):
     def get(self, request, format=None):
@@ -20,6 +22,31 @@ class BookDetailViewSet(APIView):
         book = Book.objects.get(pk=pk)
         serializer = BookContentSerializer(book)
         return Response(serializer.data)
+
+class BookSearchKMP(APIView):
+    def get(self, request, txt, format=None):
+        res = []
+        books = Book.objects.all()
+        for book in books:
+            kmp = KMP()
+            kmp.KMPSearch(txt,book.content)
+            if kmp.isKmp is True:
+                serializer = BookSerializer(book)
+                res.append(serializer.data)
+        return Response(res)
+
+class BookSearchRegex(APIView):
+    def get (self, request, txt, format=None):
+        res = []
+        books = Book.objects.all()
+        for book in books:
+            lines=re.split('\n', book.content)
+            for line in lines :
+                if re.compile(txt).search(line):
+                    serializer = BookSerializer(book)
+                    res.append(serializer.data)
+                    break
+        return Response(res)
 
 """
 # Create your views here.
